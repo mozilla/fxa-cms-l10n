@@ -1,0 +1,22 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+# See https://github.com/mozilla-l10n/moz-fluent-linter/blob/main/src/fluent_linter/config.yml
+# for details
+
+---
+ID01:
+    enabled: false
+ID02:
+    enabled: false
+GC:
+    disabled: true
+CO01:
+    enabled: false
+# Variable comments
+VC:
+    disabled: true
+# Placeables style
+PS01:
+    disabled: true
