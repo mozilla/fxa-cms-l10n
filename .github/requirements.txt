@@ -1,0 +1,2 @@
+moz-fluent-linter==0.4.*
+compare-locales==8.2.*
