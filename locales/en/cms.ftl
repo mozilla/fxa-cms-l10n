@@ -9,7 +9,7 @@ l10n-1-EmailFirstPage-headline-f11ac15c = Make Space for What Matters
 # Primary Button Text for Email First Page
 l10n-1-EmailFirstPage-primaryButtonText-29ff216d = Create My List
 # Description for New Device Login Email
-l10n-1-NewDeviceLoginEmail-description-cdc80f7f = Your Mozilla account was used to sign into 123Done
+l10n-1-NewDeviceLoginEmail-description-cdc80f7f = Your Mozilla account was used to sign in to 123Done
 # Headline for New Device Login Email
 l10n-1-NewDeviceLoginEmail-headline-86789eb5 = New sign-in to 123Done
 # Subject for New Device Login Email
@@ -33,7 +33,7 @@ l10n-1-SigninTokenCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Token Code Page
 l10n-1-SigninTokenCodePage-primaryButtonText-a0bfb8e5 = Continue
 # Description for Signin Unblock Code Page
-l10n-1-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please verify email.
+l10n-1-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please check your email.
 # Headline for Signin Unblock Code Page
 l10n-1-SigninUnblockCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Unblock Code Page
@@ -75,11 +75,11 @@ l10n-2-EmailFirstPage-headline-33e9f42d = Continue to your Mozilla account
 # Primary Button Text for Email First Page
 l10n-2-EmailFirstPage-primaryButtonText-a20eb81e = Sign up or sign in
 # Description for New Device Login Email
-l10n-2-NewDeviceLoginEmail-description-0a9e868b = New sign in to Firefox
+l10n-2-NewDeviceLoginEmail-description-0a9e868b = New sign-in to Firefox
 # Headline for New Device Login Email
-l10n-2-NewDeviceLoginEmail-headline-0a9e868b = New sign in to Firefox
+l10n-2-NewDeviceLoginEmail-headline-0a9e868b = New sign-in to Firefox
 # Subject for New Device Login Email
-l10n-2-NewDeviceLoginEmail-subject-0a9e868b = New sign in to Firefox
+l10n-2-NewDeviceLoginEmail-subject-0a9e868b = New sign-in to Firefox
 # Email From Name for Shared
 l10n-2-shared-emailFromName-502f1bd9 = Mozilla
 # Email Logo Alt Text for Shared
@@ -123,7 +123,7 @@ l10n-2-SignupSetPasswordPage-headline-a20eb81e = Sign up or sign in
 # Primary Button Text for Signup Set Password Page
 l10n-2-SignupSetPasswordPage-primaryButtonText-42369faa = Create account
 # Description for Verify Login Code Email
-l10n-2-VerifyLoginCodeEmail-description-f4bd1e41 = Help us keep your account safe by approving your sign-in on.
+l10n-2-VerifyLoginCodeEmail-description-f4bd1e41 = Help us keep your account safe by approving your sign-in on:
 # Headline for Verify Login Code Email
 l10n-2-VerifyLoginCodeEmail-headline-ed889b16 = Did you sign in to Firefox?
 # Subject for Verify Login Code Email
@@ -137,17 +137,17 @@ l10n-2-VerifyShortCodeEmail-subject-f3d09e03 = Confirm your account to use Firef
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 # Description for Email First Page
-l10n-3-EmailFirstPage-description-4766f222 = A Mozilla Account is needed to use Mozilla Monitor.
+l10n-3-EmailFirstPage-description-4766f222 = A Mozilla account is needed to use Mozilla Monitor.
 # Headline for Email First Page
-l10n-3-EmailFirstPage-headline-de41db80 = Sign up or sign in to your Mozilla Account
+l10n-3-EmailFirstPage-headline-de41db80 = Sign up or sign in to your Mozilla account
 # Primary Button Text for Email First Page
 l10n-3-EmailFirstPage-primaryButtonText-a0bfb8e5 = Continue
 # Description for New Device Login Email
 l10n-3-NewDeviceLoginEmail-description-bec340c0 = It appears you’ve logged into Mozilla Monitor from a new device… Not you? Change your password.
 # Headline for New Device Login Email
-l10n-3-NewDeviceLoginEmail-headline-f467977b = New sign in to Mozilla Monitor
+l10n-3-NewDeviceLoginEmail-headline-f467977b = New sign-in to Mozilla Monitor
 # Subject for New Device Login Email
-l10n-3-NewDeviceLoginEmail-subject-f467977b = New sign in to Mozilla Monitor
+l10n-3-NewDeviceLoginEmail-subject-f467977b = New sign-in to Mozilla Monitor
 # Email From Name for Shared
 l10n-3-shared-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -169,7 +169,7 @@ l10n-3-SigninTokenCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Token Code Page
 l10n-3-SigninTokenCodePage-primaryButtonText-a0bfb8e5 = Continue
 # Description for Signin Unblock Code Page
-l10n-3-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please verify email.
+l10n-3-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please check your email.
 # Headline for Signin Unblock Code Page
 l10n-3-SigninUnblockCodePage-headline-68115606 = Enter authorization code
 # Primary Button Text for Signin Unblock Code Page
@@ -209,11 +209,11 @@ l10n-4-EmailFirstPage-headline-33e9f42d = Continue to your Mozilla account
 # Primary Button Text for Email First Page
 l10n-4-EmailFirstPage-primaryButtonText-a20eb81e = Sign up or sign in
 # Description for New Device Login Email
-l10n-4-NewDeviceLoginEmail-description-17c0d690 = There was a new sign in to your Mozilla account. If this is not you please change your password.
+l10n-4-NewDeviceLoginEmail-description-17c0d690 = There was a new sign-in to your Mozilla account. If this is not you please change your password.
 # Headline for New Device Login Email
-l10n-4-NewDeviceLoginEmail-headline-0a9e868b = New sign in to Firefox
+l10n-4-NewDeviceLoginEmail-headline-0a9e868b = New sign-in to Firefox
 # Subject for New Device Login Email
-l10n-4-NewDeviceLoginEmail-subject-0a9e868b = New sign in to Firefox
+l10n-4-NewDeviceLoginEmail-subject-0a9e868b = New sign-in to Firefox
 # Email Logo Alt Text for Shared
 l10n-4-shared-emailLogoAltText-96e4284e = Firefox logo
 # Description for Signin Page
@@ -229,7 +229,7 @@ l10n-4-SigninTokenCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Token Code Page
 l10n-4-SigninTokenCodePage-primaryButtonText-70d9be9b = Confirm
 # Description for Signin Unblock Code Page
-l10n-4-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please verify email.
+l10n-4-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please check your email.
 # Headline for Signin Unblock Code Page
 l10n-4-SigninUnblockCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Unblock Code Page
@@ -267,17 +267,17 @@ l10n-4-VerifyShortCodeEmail-subject-10e5b452 = Confirm your account to sign in t
 
 ## l10n-5 - Monitor-default
 # Description for Email First Page
-l10n-5-EmailFirstPage-description-4766f222 = A Mozilla Account is needed to use Mozilla Monitor.
+l10n-5-EmailFirstPage-description-4766f222 = A Mozilla account is needed to use Mozilla Monitor.
 # Headline for Email First Page
-l10n-5-EmailFirstPage-headline-de41db80 = Sign up or sign in to your Mozilla Account
+l10n-5-EmailFirstPage-headline-de41db80 = Sign up or sign in to your Mozilla account
 # Primary Button Text for Email First Page
 l10n-5-EmailFirstPage-primaryButtonText-a0bfb8e5 = Continue
 # Description for New Device Login Email
 l10n-5-NewDeviceLoginEmail-description-bec340c0 = It appears you’ve logged into Mozilla Monitor from a new device… Not you? Change your password.
 # Headline for New Device Login Email
-l10n-5-NewDeviceLoginEmail-headline-f467977b = New sign in to Mozilla Monitor
+l10n-5-NewDeviceLoginEmail-headline-f467977b = New sign-in to Mozilla Monitor
 # Subject for New Device Login Email
-l10n-5-NewDeviceLoginEmail-subject-f467977b = New sign in to Mozilla Monitor
+l10n-5-NewDeviceLoginEmail-subject-f467977b = New sign-in to Mozilla Monitor
 # Email From Name for Shared
 l10n-5-shared-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -299,7 +299,7 @@ l10n-5-SigninTokenCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Token Code Page
 l10n-5-SigninTokenCodePage-primaryButtonText-a0bfb8e5 = Continue
 # Description for Signin Unblock Code Page
-l10n-5-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please verify email.
+l10n-5-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please check your email.
 # Headline for Signin Unblock Code Page
 l10n-5-SigninUnblockCodePage-headline-68115606 = Enter authorization code
 # Primary Button Text for Signin Unblock Code Page
@@ -343,13 +343,13 @@ l10n-6-EmailFirstPage-primaryButtonText-be11c74c = Get started
 # Headline for New Device Login Email
 l10n-6-NewDeviceLoginEmail-headline-7315250e = Your Mozilla account was used to sign in
 # Subject for New Device Login Email
-l10n-6-NewDeviceLoginEmail-subject-0a9e868b = New sign in to Firefox
+l10n-6-NewDeviceLoginEmail-subject-0a9e868b = New sign-in to Firefox
 # Email From Name for Shared
 l10n-6-shared-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 l10n-6-shared-emailLogoAltText-96e4284e = Firefox logo
 # Page Title for Shared
-l10n-6-shared-pageTitle-5edcf763 = Set up Firefox Sync
+l10n-6-shared-pageTitle-5edcf763 = Set up Firefox sync
 # Description for Signin Page
 l10n-6-SigninPage-description-78fd76ac = Use your Mozilla account to securely sync to another device.
 # Headline for Signin Page
@@ -407,11 +407,11 @@ l10n-7-EmailFirstPage-headline-33e9f42d = Continue to your Mozilla account
 # Primary Button Text for Email First Page
 l10n-7-EmailFirstPage-primaryButtonText-a20eb81e = Sign up or sign in
 # Description for New Device Login Email
-l10n-7-NewDeviceLoginEmail-description-17c0d690 = There was a new sign in to your Mozilla account. If this is not you please change your password.
+l10n-7-NewDeviceLoginEmail-description-17c0d690 = There was a new sign-in to your Mozilla account. If this is not you please change your password.
 # Headline for New Device Login Email
-l10n-7-NewDeviceLoginEmail-headline-0a9e868b = New sign in to Firefox
+l10n-7-NewDeviceLoginEmail-headline-0a9e868b = New sign-in to Firefox
 # Subject for New Device Login Email
-l10n-7-NewDeviceLoginEmail-subject-0a9e868b = New sign in to Firefox
+l10n-7-NewDeviceLoginEmail-subject-0a9e868b = New sign-in to Firefox
 # Email From Name for Shared
 l10n-7-shared-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -431,7 +431,7 @@ l10n-7-SigninTokenCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Token Code Page
 l10n-7-SigninTokenCodePage-primaryButtonText-70d9be9b = Confirm
 # Description for Signin Unblock Code Page
-l10n-7-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please verify email.
+l10n-7-SigninUnblockCodePage-description-6f00a918 = We have detected suspicious activity from this account. Please check your email.
 # Headline for Signin Unblock Code Page
 l10n-7-SigninUnblockCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Unblock Code Page
