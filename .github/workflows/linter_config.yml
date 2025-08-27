@@ -10,6 +10,8 @@ ID01:
     enabled: false
 ID02:
     enabled: false
+RC:
+    disabled: true
 GC:
     disabled: true
 CO01:
