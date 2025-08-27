@@ -5,28 +5,28 @@ on:
       - main
     paths:
       - '.github/linter_config.yml'
-      - 'locales/en/**.ftl'
+      - 'locales/en/**/*.ftl'
   pull_request:
     branches:
       - main
     paths:
       - '.github/linter_config.yml'
-      - 'locales/en/**.ftl'
+      - 'locales/en/**/*.ftl'
   workflow_dispatch:
 jobs:
   linter:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Set up Python 3
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
           cache: 'pip'
       - name: Install Python dependencies
         run: |
           pip install -r .github/requirements.txt
       - name: Lint reference
         run: |
-          moz-fluent-lint ./locale/en --config .github/linter_config.yml
+          moz-fluent-lint ./locales/en --config .github/linter_config.yml
