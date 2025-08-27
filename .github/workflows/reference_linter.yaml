@@ -4,13 +4,13 @@ on:
     branches:
       - main
     paths:
-      - '.github/workflows/linter_config.yml'
+      - '.github/linter_config.yml'
       - 'locales/en/**/*.ftl'
   pull_request:
     branches:
       - main
     paths:
-      - '.github/workflows/linter_config.yml'
+      - '.github/linter_config.yml'
       - 'locales/en/**/*.ftl'
   workflow_dispatch:
 jobs:
@@ -29,4 +29,4 @@ jobs:
           pip install -r .github/requirements.txt
       - name: Lint reference
         run: |
-          moz-fluent-lint ./locales/en --config .github/workflows/linter_config.yml
+          moz-fluent-lint ./locales/en --config .github/linter_config.yml
