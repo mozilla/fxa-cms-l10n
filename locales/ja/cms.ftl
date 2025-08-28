@@ -195,6 +195,8 @@ l10n-4-EmailFirstPage-description-4ac18cac = Firefox を使用しているすべ
 l10n-4-EmailFirstPage-headline-33e9f42d = Mozilla アカウントへ進む
 # Primary Button Text for Email First Page
 l10n-4-EmailFirstPage-primaryButtonText-a20eb81e = ログインまたはアカウント登録
+# Description for New Device Login Email
+l10n-4-NewDeviceLoginEmail-description-17c0d690 = Mozilla アカウントへの新規ログインがありました。覚えがない場合はパスワードを変更してください。
 # Description for Signin Token Code Page
 l10n-4-SigninTokenCodePage-description-8286e168 = Mozilla アカウントの確認コードを入力してください
 
