@@ -127,7 +127,7 @@ l10n-2-VerifyLoginCodeEmail-description-f4bd1e41 = Help us keep your account saf
 # Headline for Verify Login Code Email
 l10n-2-VerifyLoginCodeEmail-headline-ed889b16 = Did you sign in to Firefox?
 # Subject for Verify Login Code Email
-l10n-2-VerifyLoginCodeEmail-subject-970d1658 = Approve sign in to Firefox
+l10n-2-VerifyLoginCodeEmail-subject-970d1658 = Approve sign-in to Firefox
 # Description for Verify Short Code Email
 l10n-2-VerifyShortCodeEmail-description-ef1fb997 = Confirm your account
 # Headline for Verify Short Code Email
@@ -189,7 +189,7 @@ l10n-3-SignupSetPasswordPage-headline-47e5e3c7 = Create a password to start a sc
 # Primary Button Text for Signup Set Password Page
 l10n-3-SignupSetPasswordPage-primaryButtonText-a0bfb8e5 = Continue
 # Description for Verify Login Code Email
-l10n-3-VerifyLoginCodeEmail-description-cdde5397 = Help us keep your account safe by approving your sign in on:
+l10n-3-VerifyLoginCodeEmail-description-cdde5397 = Help us keep your account safe by approving your sign-in on:
 # Headline for Verify Login Code Email
 l10n-3-VerifyLoginCodeEmail-headline-461a0bbf = Confirm your account to use Mozilla Monitor
 # Subject for Verify Login Code Email
