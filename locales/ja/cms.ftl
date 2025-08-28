@@ -95,3 +95,17 @@ l10n-2-SignupConfirmCodePage-description-daaed757 = Mozilla アカウントを�
 l10n-2-SignupConfirmCodePage-headline-d076f12b = 確認コードの入力
 # Primary Button Text for Signup Confirm Code Page
 l10n-2-SignupConfirmCodePage-primaryButtonText-e4029ca4 = 同期を開始
+# Description for Signup Confirmed Sync Page
+l10n-2-SignupConfirmedSyncPage-description-2115ee89 = Firefox を使用しているすべての場所で、パスワード、支払い方法、住所、ブックマーク、履歴などが同期できます。
+# Headline for Signup Confirmed Sync Page
+l10n-2-SignupConfirmedSyncPage-headline-3ed2d228 = 同期がオンです
+# Primary Button Text for Signup Confirmed Sync Page
+l10n-2-SignupConfirmedSyncPage-primaryButtonText-598649e6 = 別の端末を同期する
+# Description for Signup Set Password Page
+l10n-2-SignupSetPasswordPage-description-201c6fe1 = Firefox を使用しているすべての場所で、パスワード、支払い方法、ブックマークなどを同期しましょう。
+# Headline for Signup Set Password Page
+l10n-2-SignupSetPasswordPage-headline-a20eb81e = ログインまたはアカウント登録
+# Primary Button Text for Signup Set Password Page
+l10n-2-SignupSetPasswordPage-primaryButtonText-42369faa = アカウントを作成
+# Description for Verify Login Code Email
+l10n-2-VerifyLoginCodeEmail-description-f4bd1e41 = アカウントを安全に保つために、次の端末からのログインを承認してください:
