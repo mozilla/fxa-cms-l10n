@@ -109,3 +109,11 @@ l10n-2-SignupSetPasswordPage-headline-a20eb81e = ログインまたはアカウ�
 l10n-2-SignupSetPasswordPage-primaryButtonText-42369faa = アカウントを作成
 # Description for Verify Login Code Email
 l10n-2-VerifyLoginCodeEmail-description-f4bd1e41 = アカウントを安全に保つために、次の端末からのログインを承認してください:
+# Headline for Verify Login Code Email
+l10n-2-VerifyLoginCodeEmail-headline-ed889b16 = Firefox にログインしましたか？
+# Subject for Verify Login Code Email
+l10n-2-VerifyLoginCodeEmail-subject-970d1658 = Firefox へのログインを承認
+# Description for Verify Short Code Email
+l10n-2-VerifyShortCodeEmail-description-ef1fb997 = アカウントを確認してください
+# Headline for Verify Short Code Email
+l10n-2-VerifyShortCodeEmail-headline-f8578b7c = コードを使ってMozilla アカウントを確認してください。
