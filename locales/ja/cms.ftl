@@ -117,3 +117,22 @@ l10n-2-VerifyLoginCodeEmail-subject-970d1658 = Firefox へのログインを承�
 l10n-2-VerifyShortCodeEmail-description-ef1fb997 = アカウントを確認してください
 # Headline for Verify Short Code Email
 l10n-2-VerifyShortCodeEmail-headline-f8578b7c = コードを使ってMozilla アカウントを確認してください。
+# Subject for Verify Short Code Email
+l10n-2-VerifyShortCodeEmail-subject-f3d09e03 = Firefox ブラウザーを使えるためにアカウントを確認してください
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+l10n-3-EmailFirstPage-description-4766f222 = Mozilla Monitor を使えるために Mozilla アカウントが必要です。
+# Headline for Email First Page
+l10n-3-EmailFirstPage-headline-de41db80 = Mozilla アカウントを登録またはログインする
+# Primary Button Text for Email First Page
+l10n-3-EmailFirstPage-primaryButtonText-a0bfb8e5 = 続ける
+# Description for New Device Login Email
+l10n-3-NewDeviceLoginEmail-description-bec340c0 = 新しい端末からログインされたようです... 覚えがない場合はパスワードを変更してください。
+# Headline for New Device Login Email
+l10n-3-NewDeviceLoginEmail-headline-f467977b = Mozilla Monitor への新規ログイン
+# Subject for New Device Login Email
+l10n-3-NewDeviceLoginEmail-subject-f467977b = Mozilla Monitor への新規ログイン
+# Email From Name for Shared
+l10n-3-shared-emailFromName-e2b624cb = Mozilla Monitor
