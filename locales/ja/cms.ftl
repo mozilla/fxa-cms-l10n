@@ -22,3 +22,7 @@ l10n-1-SigninUnblockCodePage-description-6f00a918 = あなたの Mozilla アカ�
 l10n-1-SigninUnblockCodePage-headline-d076f12b = 確認コードの入力
 # Primary Button Text for Signin Unblock Code Page
 l10n-1-SigninUnblockCodePage-primaryButtonText-7f83df9c = 承認
+# Headline for Signup Confirm Code Page
+l10n-1-SignupConfirmCodePage-headline-20f65144 = あと少し！
+# Primary Button Text for Signup Confirm Code Page
+l10n-1-SignupConfirmCodePage-primaryButtonText-223d7226 = セットアップを完了
