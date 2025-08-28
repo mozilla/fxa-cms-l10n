@@ -5,7 +5,7 @@
 ## l10n-1 - (DONT EDIT - CI) 123Done
 
 # Description for Signin Page
-l10n-1-SigninPage-description-8286e168 = パスワードを入力して Mozilla アカウントへ進め
+l10n-1-SigninPage-description-8286e168 = パスワードを入力して Mozilla アカウントへ進む
 # Headline for Signin Page
 l10n-1-SigninPage-headline-e8d28194 = パスワードを入力してください
 # Primary Button Text for Signin Page
@@ -72,7 +72,7 @@ l10n-2-shared-emailLogoAltText-96e4284e = Firefox ロゴ
 # Logo Alt Text for Shared
 l10n-2-shared-logoAltText-96e4284e = Firefox ロゴ
 # Description for Signin Page
-l10n-2-SigninPage-description-8286e168 = パスワードを入力して Mozilla アカウントへ進め
+l10n-2-SigninPage-description-8286e168 = パスワードを入力して Mozilla アカウントへ進む
 # Headline for Signin Page
 l10n-2-SigninPage-headline-e8d28194 = パスワードを入力してください
 # Primary Button Text for Signin Page
@@ -136,3 +136,69 @@ l10n-3-NewDeviceLoginEmail-headline-f467977b = Mozilla Monitor への新規ロ�
 l10n-3-NewDeviceLoginEmail-subject-f467977b = Mozilla Monitor への新規ログイン
 # Email From Name for Shared
 l10n-3-shared-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+l10n-3-shared-emailLogoAltText-ccc1a61b = Mozilla Monitor ロゴ
+# Logo Alt Text for Shared
+l10n-3-shared-logoAltText-ccc1a61b = Mozilla Monitor ロゴ
+# Page Title for Shared
+l10n-3-shared-pageTitle-924eac9f = Mozilla Monitor をセットアップ
+# Description for Signin Page
+l10n-3-SigninPage-description-c858b8de = Mozilla アカウントのパスワードを入力して Mozilla Monitor へログインする
+# Headline for Signin Page
+l10n-3-SigninPage-headline-e8d28194 = パスワードを入力してください
+# Primary Button Text for Signin Page
+l10n-3-SigninPage-primaryButtonText-b6d4223e = ログイン
+# Description for Signin Token Code Page
+l10n-3-SigninTokenCodePage-description-8286e168 = Mozilla アカウントの確認コードを入力してください
+# Headline for Signin Token Code Page
+l10n-3-SigninTokenCodePage-headline-d076f12b = 確認コードの入力
+# Primary Button Text for Signin Token Code Page
+l10n-3-SigninTokenCodePage-primaryButtonText-a0bfb8e5 = 続ける
+# Description for Signin Unblock Code Page
+l10n-3-SigninUnblockCodePage-description-6f00a918 = あなたの Mozilla アカウントで不審なアクティビティが検出されました。メールを確認してください。
+# Headline for Signin Unblock Code Page
+l10n-3-SigninUnblockCodePage-headline-68115606 = 認証コードを入力
+# Primary Button Text for Signin Unblock Code Page
+l10n-3-SigninUnblockCodePage-primaryButtonText-7f83df9c = 承認
+# Description for Signup Confirm Code Page
+l10n-3-SignupConfirmCodePage-description-8286e168 = Mozilla アカウントの確認コードを入力してください
+# Headline for Signup Confirm Code Page
+l10n-3-SignupConfirmCodePage-headline-d076f12b = 確認コードの入力
+# Primary Button Text for Signup Confirm Code Page
+l10n-3-SignupConfirmCodePage-primaryButtonText-70d9be9b = 確認
+# Headline for Signup Confirmed Sync Page
+l10n-3-SignupConfirmedSyncPage-headline-74db8403 = 同期が確認されました
+# Primary Button Text for Signup Confirmed Sync Page
+l10n-3-SignupConfirmedSyncPage-primaryButtonText-598649e6 = 別の端末を同期する
+# Headline for Signup Set Password Page
+l10n-3-SignupSetPasswordPage-headline-47e5e3c7 = パスワードを入力してスキャンを開始する
+# Primary Button Text for Signup Set Password Page
+l10n-3-SignupSetPasswordPage-primaryButtonText-a0bfb8e5 = 続ける
+# Description for Verify Login Code Email
+l10n-3-VerifyLoginCodeEmail-description-cdde5397 = アカウントを安全に保つために、次の端末からのログインを承認してください:
+# Headline for Verify Login Code Email
+l10n-3-VerifyLoginCodeEmail-headline-461a0bbf = Mozilla Monitor を使えるためにアカウントを確認してください
+# Subject for Verify Login Code Email
+l10n-3-VerifyLoginCodeEmail-subject-461a0bbf = Mozilla Monitor を使えるためにアカウントを確認してください
+# Description for Verify Short Code Email
+l10n-3-VerifyShortCodeEmail-description-2526309c = 以下のコードを使ってアカウントを確認してください。
+# Headline for Verify Short Code Email
+l10n-3-VerifyShortCodeEmail-headline-461a0bbf = Mozilla Monitor を使えるためにアカウントを確認してください
+# Subject for Verify Short Code Email
+l10n-3-VerifyShortCodeEmail-subject-461a0bbf = Mozilla Monitor を使えるためにアカウントを確認してください
+
+## l10n-4 - Firefox Desktop - Menu bar entrypoint
+
+# Description for Email First Page
+l10n-4-EmailFirstPage-description-4ac18cac = Firefox を使用しているすべての場所で、パスワード、タブ、ブックマークを同期しましょう。
+# Headline for Email First Page
+l10n-4-EmailFirstPage-headline-33e9f42d = Mozilla アカウントへ進む
+# Primary Button Text for Email First Page
+l10n-4-EmailFirstPage-primaryButtonText-a20eb81e = ログインまたはアカウント登録
+# Description for Signin Token Code Page
+l10n-4-SigninTokenCodePage-description-8286e168 = Mozilla アカウントの確認コードを入力してください
+
+## l10n-5 - Monitor-default
+
+# Page Title for Shared
+l10n-5-shared-pageTitle-924eac9f = Mozilla Monitor をセットアップ
