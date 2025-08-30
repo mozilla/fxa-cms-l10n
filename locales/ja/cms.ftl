@@ -11,7 +11,7 @@ l10n-1-EmailFirstPage-headline-f11ac15c = 大切なもののためのスペー�
 # Primary Button Text for Email First Page
 l10n-1-EmailFirstPage-primaryButtonText-29ff216d = マイリストを作成
 # Description for New Device Login Email
-l10n-1-NewDeviceLoginEmail-description-cdc80f7f = あなたのMozilla カウントは 123Doneへのログインに使用されました
+l10n-1-NewDeviceLoginEmail-description-cdc80f7f = あなたの Mozilla アカウントは 123Doneへのログインに使用されました
 # Headline for New Device Login Email
 l10n-1-NewDeviceLoginEmail-headline-86789eb5 = 123Done への新規ログイン
 # Subject for New Device Login Email
@@ -336,3 +336,54 @@ l10n-5-VerifyShortCodeEmail-description-2526309c = 以下のコードを使っ�
 l10n-5-VerifyShortCodeEmail-headline-461a0bbf = Mozilla Monitor を使えるためにアカウントを確認してください
 # Subject for Verify Short Code Email
 l10n-5-VerifyShortCodeEmail-subject-461a0bbf = Mozilla Monitor を使えるためにアカウントを確認してください
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+l10n-6-EmailFirstPage-description-78fd76ac = Mozilla アカウントで他の端末に安全に同期できます。
+# Headline for Email First Page
+l10n-6-EmailFirstPage-headline-0ec7d798 = どこでもパスワードが使える
+# Logo Alt Text for Email First Page
+l10n-6-EmailFirstPage-logoAltText-e9e92d2e = パスワードの同期
+# Primary Button Text for Email First Page
+l10n-6-EmailFirstPage-primaryButtonText-be11c74c = はじめる
+# Headline for New Device Login Email
+l10n-6-NewDeviceLoginEmail-headline-7315250e = あなたの Mozilla アカウントはログインに使用されました
+# Subject for New Device Login Email
+l10n-6-NewDeviceLoginEmail-subject-0a9e868b = Firefox への新規ログイン
+# Email From Name for Shared
+l10n-6-shared-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+l10n-6-shared-emailLogoAltText-96e4284e = Firefox ロゴ
+# Page Title for Shared
+l10n-6-shared-pageTitle-5edcf763 = Firefox の同期設定
+# Description for Signin Page
+l10n-6-SigninPage-description-78fd76ac = Mozilla アカウントで他の端末に安全に同期できます。
+# Headline for Signin Page
+l10n-6-SigninPage-headline-0ec7d798 = どこでもパスワードが使える
+# Primary Button Text for Signin Page
+l10n-6-SigninPage-primaryButtonText-be11c74c = はじめる
+# Description for Signin Token Code Page
+l10n-6-SigninTokenCodePage-description-8286e168 = Mozilla アカウントの確認コードを入力してください
+# Headline for Signin Token Code Page
+l10n-6-SigninTokenCodePage-headline-d076f12b = 確認コードの入力
+# Primary Button Text for Signin Token Code Page
+l10n-6-SigninTokenCodePage-primaryButtonText-70d9be9b = 確認
+# Description for Signin Unblock Code Page
+l10n-6-SigninUnblockCodePage-description-8286e168 = Mozilla アカウントの確認コードを入力してください
+# Headline for Signin Unblock Code Page
+l10n-6-SigninUnblockCodePage-headline-d076f12b = 確認コードの入力
+# Primary Button Text for Signin Unblock Code Page
+l10n-6-SigninUnblockCodePage-primaryButtonText-a0bfb8e5 = 続ける
+# Description for Signup Confirm Code Page
+l10n-6-SignupConfirmCodePage-description-ca4b61b1 = Mozilla アカウントの確認コードを入力してください
+# Headline for Signup Confirm Code Page
+l10n-6-SignupConfirmCodePage-headline-d076f12b = 確認コードの入力
+# Primary Button Text for Signup Confirm Code Page
+l10n-6-SignupConfirmCodePage-primaryButtonText-e4029ca4 = 同期を開始
+# Description for Signup Confirmed Sync Page
+l10n-6-SignupConfirmedSyncPage-description-2115ee89 = Firefox を使用しているすべての場所で、パスワード、支払い方法、住所、ブックマーク、履歴などが同期できます。
+# Headline for Signup Confirmed Sync Page
+l10n-6-SignupConfirmedSyncPage-headline-3ed2d228 = 同期がオンです
+# Primary Button Text for Signup Confirmed Sync Page
+l10n-6-SignupConfirmedSyncPage-primaryButtonText-598649e6 = 別の端末を同期する
