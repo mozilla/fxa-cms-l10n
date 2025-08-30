@@ -340,7 +340,7 @@ l10n-5-VerifyShortCodeEmail-subject-461a0bbf = Mozilla Monitor を使えるた�
 ## l10n-6 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
-l10n-6-EmailFirstPage-description-78fd76ac = Mozilla アカウントで他の端末に安全に同期できます。
+l10n-6-EmailFirstPage-description-78fd76ac = Mozilla アカウントで別の端末と安全に同期しましょう。
 # Headline for Email First Page
 l10n-6-EmailFirstPage-headline-0ec7d798 = どこでもパスワードが使える
 # Logo Alt Text for Email First Page
@@ -358,7 +358,7 @@ l10n-6-shared-emailLogoAltText-96e4284e = Firefox ロゴ
 # Page Title for Shared
 l10n-6-shared-pageTitle-5edcf763 = Firefox の同期設定
 # Description for Signin Page
-l10n-6-SigninPage-description-78fd76ac = Mozilla アカウントで他の端末に安全に同期できます。
+l10n-6-SigninPage-description-78fd76ac = Mozilla アカウントで別の端末と安全に同期しましょう。
 # Headline for Signin Page
 l10n-6-SigninPage-headline-0ec7d798 = どこでもパスワードが使える
 # Primary Button Text for Signin Page
@@ -387,3 +387,88 @@ l10n-6-SignupConfirmedSyncPage-description-2115ee89 = Firefox を使用してい
 l10n-6-SignupConfirmedSyncPage-headline-3ed2d228 = 同期がオンです
 # Primary Button Text for Signup Confirmed Sync Page
 l10n-6-SignupConfirmedSyncPage-primaryButtonText-598649e6 = 別の端末を同期する
+# Description for Signup Set Password Page
+l10n-6-SignupSetPasswordPage-description-32c1f240 = Mozilla アカウントを作成して別の端末と安全に同期しましょう。
+# Headline for Signup Set Password Page
+l10n-6-SignupSetPasswordPage-headline-0ec7d798 = どこでもパスワードが使える
+# Primary Button Text for Signup Set Password Page
+l10n-6-SignupSetPasswordPage-primaryButtonText-be11c74c = はじめる
+# Description for Verify Login Code Email
+l10n-6-VerifyLoginCodeEmail-description-38390134 = アカウントを安全に保つために、次の端末からのログインを承認してください。
+# Headline for Verify Login Code Email
+l10n-6-VerifyLoginCodeEmail-headline-ed889b16 = Firefox にログインしましたか？
+# Subject for Verify Login Code Email
+l10n-6-VerifyLoginCodeEmail-subject-970d1658 = Firefox へのログインを承認
+# Description for Verify Short Code Email
+l10n-6-VerifyShortCodeEmail-description-2bd8878a = アカウントを確認して、Firefox を使用しているすべての場所でパスワードを同期しましょう。まずこちらから:
+# Headline for Verify Short Code Email
+l10n-6-VerifyShortCodeEmail-headline-929376b4 = 同期設定を完了
+# Subject for Verify Short Code Email
+l10n-6-VerifyShortCodeEmail-subject-9235d479 = 同期するにはアカウントを確認してください
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+l10n-7-EmailFirstPage-description-4ac18cac = Firefox を使用しているすべての場所で、パスワード、タブ、ブックマークを同期しましょう。
+# Headline for Email First Page
+l10n-7-EmailFirstPage-headline-33e9f42d = Mozilla アカウントへ進む
+# Primary Button Text for Email First Page
+l10n-7-EmailFirstPage-primaryButtonText-a20eb81e = ログインまたはアカウント登録
+# Description for New Device Login Email
+l10n-7-NewDeviceLoginEmail-description-17c0d690 = Mozilla アカウントへの新規ログインがありました。覚えがない場合はパスワードを変更してください。
+# Headline for New Device Login Email
+l10n-7-NewDeviceLoginEmail-headline-0a9e868b = Firefox への新規ログイン
+# Subject for New Device Login Email
+l10n-7-NewDeviceLoginEmail-subject-0a9e868b = Firefox への新規ログイン
+# Email From Name for Shared
+l10n-7-shared-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+l10n-7-shared-emailLogoAltText-96e4284e = Firefox ロゴ
+# Page Title for Shared
+l10n-7-shared-pageTitle-ffd8275e = Firefox の同期設定
+# Description for Signin Page
+l10n-7-SigninPage-description-8286e168 = パスワードを入力して Mozilla アカウントへ進む
+# Headline for Signin Page
+l10n-7-SigninPage-headline-e8d28194 = パスワードを入力してください
+# Primary Button Text for Signin Page
+l10n-7-SigninPage-primaryButtonText-b6d4223e = ログイン
+# Description for Signin Token Code Page
+l10n-7-SigninTokenCodePage-description-8286e168 = Mozilla アカウントの確認コードを入力してください
+# Headline for Signin Token Code Page
+l10n-7-SigninTokenCodePage-headline-d076f12b = 確認コードの入力
+# Primary Button Text for Signin Token Code Page
+l10n-7-SigninTokenCodePage-primaryButtonText-70d9be9b = 確認
+# Description for Signin Unblock Code Page
+l10n-7-SigninUnblockCodePage-description-6f00a918 = あなたの Mozilla アカウントで不審なアクティビティが検出されました。メールを確認してください。
+# Headline for Signin Unblock Code Page
+l10n-7-SigninUnblockCodePage-headline-d076f12b = 確認コードの入力
+# Primary Button Text for Signin Unblock Code Page
+l10n-7-SigninUnblockCodePage-primaryButtonText-a0bfb8e5 = 続ける
+# Description for Signup Confirm Code Page
+l10n-7-SignupConfirmCodePage-description-9bc21137 = Mozilla アカウントを有効するには、メールに送信されたコードを入力してください。
+# Headline for Signup Confirm Code Page
+l10n-7-SignupConfirmCodePage-headline-d076f12b = 確認コードの入力
+# Primary Button Text for Signup Confirm Code Page
+l10n-7-SignupConfirmCodePage-primaryButtonText-70d9be9b = 確認
+# Description for Signup Confirmed Sync Page
+l10n-7-SignupConfirmedSyncPage-description-0a28360c = 同期が有効になりました。Firefox VPN の準備が整いました。ツールバーからオンにしてください。
+# Headline for Signup Confirmed Sync Page
+l10n-7-SignupConfirmedSyncPage-headline-9628f0ec = 次: Firefox VPNをオンにする
+# Description for Signup Set Password Page
+l10n-7-SignupSetPasswordPage-description-201c6fe1 = Firefox を使用しているすべての場所で、パスワード、支払い方法、ブックマークなどを同期しましょう。
+# Headline for Signup Set Password Page
+l10n-7-SignupSetPasswordPage-headline-72786b8a = パスワードを作成
+# Primary Button Text for Signup Set Password Page
+l10n-7-SignupSetPasswordPage-primaryButtonText-42369faa = アカウントを作成
+# Description for Verify Login Code Email
+l10n-7-VerifyLoginCodeEmail-description-38390134 = アカウントを安全に保つために、次の端末からのログインを承認してください。
+# Headline for Verify Login Code Email
+l10n-7-VerifyLoginCodeEmail-headline-ed889b16 = Firefox にログインしましたか？
+# Subject for Verify Login Code Email
+l10n-7-VerifyLoginCodeEmail-subject-970d1658 = Firefox へのログインを承認
+# Description for Verify Short Code Email
+l10n-7-VerifyShortCodeEmail-description-f8578b7c = コードを使ってMozilla アカウントを確認してください。
+# Headline for Verify Short Code Email
+l10n-7-VerifyShortCodeEmail-headline-ef1fb997 = アカウントを確認してください
+# Subject for Verify Short Code Email
+l10n-7-VerifyShortCodeEmail-subject-10e5b452 = Firefox へログインするためにアカウントを確認してください
