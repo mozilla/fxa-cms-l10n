@@ -4,10 +4,6 @@
 
 ## l10n-1 - (DONT EDIT - CI) 123Done
 
-# Description for Email First Page
-l10n-1-EmailFirstPage-description-54faaa23 = 123Done で、すっきり整理された ToDo リストを作りましょう。メールアドレスで Mozilla アカウントを作成し、今すぐ始めましょう。
-# Headline for Email First Page
-l10n-1-EmailFirstPage-headline-f11ac15c = 大切なもののためのスペースを作る
 # Primary Button Text for Email First Page
 l10n-1-EmailFirstPage-primaryButtonText-29ff216d = マイリストを作成
 # Description for New Device Login Email
