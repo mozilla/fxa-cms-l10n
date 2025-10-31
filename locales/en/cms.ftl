@@ -1,4 +1,4 @@
-### Generated on 2025-10-31T18:24:05.922Z
+### Generated on 2025-10-31T18:25:18.890Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -29,7 +29,7 @@ fxa-SigninTokenCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Token Code Page
 fxa-SigninTokenCodePage-primaryButtonText-70d9be9b = Confirm
 # Description for Signin Unblock Code Page
-fxa-SigninUnblockCodePage-description-7aff76cc = Help us make sure its you signing in.
+fxa-SigninUnblockCodePage-description-8e3fb023 = Help us make sure it’s you signing in.
 # Headline for Signin Unblock Code Page
 fxa-SigninUnblockCodePage-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Unblock Code Page
@@ -70,8 +70,6 @@ fxa-VerifyShortCodeEmail-subject-ef1fb997 = Confirm your account
 fxa-shared-emailLogoAltText-96e4284e = Firefox logo
 # Logo Alt Text for Shared
 fxa-shared-logoAltText-96e4284e = Firefox logo
-# Description for Signin Unblock Code Page
-fxa-SigninUnblockCodePage-description-8e3fb023 = Help us make sure it’s you signing in.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 # Description for Email First Page
