@@ -177,7 +177,7 @@ fxa-description-637f76bf = Registrati oppure accedi se hai già un account
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Prova Firefox VPN con un account Mozilla
 # Description for New Device Login Email
-fxa-description-e59dc09c = È stato effettuato un nuovo accesso al tuo account Mozilla. In caso contrario cambia la password.
+fxa-description-e59dc09c = È stato effettuato un nuovo accesso al tuo account Mozilla. Se non sei stato tu, cambia la password.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nuovo accesso a Firefox
 # Page Title for Shared
@@ -185,7 +185,7 @@ fxa-pageTitle-6a3bf665 = Configura Firefox VPN
 # Description for Signin Page
 fxa-description-427b83de = Accedi al tuo account Mozilla.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = La sincronizzazione è attivo e sei pronto per Firefox VPN. Vai alla barra degli strumenti per attivarla.
+fxa-description-68ca3526 = La sincronizzazione è attiva e sei pronto per Firefox VPN. Vai alla barra degli strumenti per attivarla.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Successivo: attiva Firefox VPN
 # Headline for Signup Set Password Page
@@ -223,7 +223,7 @@ fxa-description-4766f222 = Per utilizzare Mozilla Monitor è necessario un accou
 # Headline for Email First Page
 fxa-headline-de41db80 = Registrati o accedi al tuo account Mozilla
 # Description for New Device Login Email
-fxa-description-4e3d5811 = È stato effettuato un nuovo accesso a Mozilla Monitor. In caso contrario cambia la password.
+fxa-description-4e3d5811 = È stato effettuato un nuovo accesso a Mozilla Monitor. Se non sei stato tu, cambia la password.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nuovo accesso a Mozilla Monitor
 # Subject for New Device Login Email
@@ -265,18 +265,18 @@ fxa-subject-9235d479 = Conferma l’account per sincronizzare
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = Un account sblocca l’accesso alla VPN e sincronizza i dati di Firefox su tutti i dispositivi.
+fxa-description-6591d2a0 = Un account ti permette di accedere alla VPN e sincronizzare i tuoi dati in Firefox su tutti i dispositivi.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Attiva la tua VPN gratuita per Firefox con un account Mozilla
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Un altro passo per ottenere i vantaggi di Firefox VPN. Vai al pannello aperto e attivalo.
+fxa-description-811350a6 = Ancora un passaggio per usufruire dei vantaggi di Firefox VPN. Accedi al pannello aperto e attivala.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
-fxa-description-861f2d28 = Salva password, schede e segnalibri per essere pronto per un nuovo dispositivo.
+fxa-description-861f2d28 = Salva password, schede e segnalibri per prepararti al passaggio a un nuovo dispositivo.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = sincronizzazione fox
+fxa-logoAltText-164ffc49 = sincronizzazione con la volpe
 # Headline for Verify Login Code Email
 fxa-headline-cbcca517 = Hai effettuato l’accesso a Firefox?
 
