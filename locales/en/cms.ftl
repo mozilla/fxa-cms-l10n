@@ -1,4 +1,4 @@
-### Generated on 2025-10-31T16:44:29.716Z
+### Generated on 2025-10-31T18:23:38.615Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -99,7 +99,7 @@ fxa-SignupSetPasswordPage-primaryButtonText-a0bfb8e5 = Continue
 # Description for Verify Login Code Email
 fxa-VerifyLoginCodeEmail-description-8e3fb023 = Help us make sure it’s you signing in.
 # Description for Verify Short Code Email
-fxa-VerifyShortCodeEmail-description-19b7e644 = Confirm your account and sync your passwords everywhere you’re signed-in to Firefox, starting with:
+fxa-VerifyShortCodeEmail-description-bb7998da = Confirm your account and sync your passwords everywhere you’re signed in to Firefox, starting with:
 # Headline for Verify Short Code Email
 fxa-VerifyShortCodeEmail-headline-8e3fb023 = Help us make sure it’s you signing in.
 # Subject for Verify Short Code Email
@@ -112,8 +112,6 @@ fxa-EmailFirstPage-headline-b36f2b05 = Enter email to start syncing
 fxa-SigninPage-headline-c2b34227 = Enter password to start syncing
 # Headline for Signup Set Password Page
 fxa-SignupSetPasswordPage-headline-7a6bf86a = Create a password to start syncing
-# Description for Verify Short Code Email
-fxa-VerifyShortCodeEmail-description-bb7998da = Confirm your account and sync your passwords everywhere you’re signed in to Firefox, starting with:
 # Headline for Verify Short Code Email
 fxa-VerifyShortCodeEmail-headline-929376b4 = Finish sync setup
 
