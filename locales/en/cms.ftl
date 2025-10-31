@@ -1,4 +1,4 @@
-### Generated on 2025-10-31T18:23:38.615Z
+### Generated on 2025-10-31T18:24:05.922Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -258,8 +258,6 @@ fxa-EmailFirstPage-logoAltText-164ffc49 = fox syncing
 fxa-SigninPage-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’re ready for a new device.
 # Description for Signup Set Password Page
 fxa-SignupSetPasswordPage-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’re ready for a new device.
-# Headline for Verify Login Code Email
-fxa-VerifyLoginCodeEmail-headline-cbcca517 = Did you sign-in to Firefox?
 
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 # Logo Alt Text for Email First Page
