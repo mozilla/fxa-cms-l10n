@@ -19,23 +19,23 @@ fxa-subject-a0a749e1 = Nuovo accesso a Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configura sincronizzazione in Firefox
 # Description for Signin Page
-fxa-description-aedac88d = Sincronizza password e altro ancora ovunque tu abbia effettuato l’accesso.
+fxa-description-aedac88d = Sincronizza password e altri dati ovunque hai effettuato l’accesso
 # Headline for Signin Page
 fxa-headline-e8d28194 = Inserisci la password
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Accedi
 # Description for Signin Token Code Page
-fxa-description-8e3fb023 = Aiutaci a verificare la tua identità.
+fxa-description-8e3fb023 = Aiutaci a confermare che sei davvero tu ad accedere.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Inserisci il codice di conferma
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Conferma
 # Description for Signin Unblock Code Page
-fxa-description-7aff76cc = Aiutaci a fare in modo che tu stia effettuando l’accesso.
+fxa-description-7aff76cc = Aiutaci a confermare che sei davvero tu ad accedere.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continua
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Aiutaci a verificare che sei tu a creare un account.
+fxa-description-da2a8a91 = Aiutaci a confermare che sei davvero tu a voler creare un account.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Avvia la sincronizzazione
 # Description for Signup Confirmed Sync Page
@@ -55,11 +55,11 @@ fxa-description-38390134 = Aiutaci a mantenere il tuo account al sicuro approvan
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = Hai effettuato l’accesso a Firefox?
 # Subject for Verify Login Code Email
-fxa-subject-450ba359 = Approva l’accesso a Firefox
+fxa-subject-450ba359 = Confrma l’accesso a Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Conferma il tuo account e ottieni il massimo da Mozilla ovunque accedi a partire da:
+fxa-description-d28733a3 = Conferma il tuo account e ottieni il massimo da Mozilla su tutti i dispositivi da cui accedi, a cominciare da:
 # Headline for Verify Short Code Email
-fxa-headline-f827216f = Apri Internet con Mozilla
+fxa-headline-f827216f = Entra in Internet con Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Conferma il tuo account
 
@@ -73,11 +73,11 @@ fxa-logoAltText-96e4284e = Logo di Firefox
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
-fxa-description-0d2e3341 = Salva password, segnalibri e schede di Firefox quando sei pronto per un nuovo dispositivo.
+fxa-description-0d2e3341 = Salva password, segnalibri e schede di Firefox quando sei pronto a passare a un nuovo dispositivo.
 # Headline for Email First Page
-fxa-headline-cdd2faf6 = Effettua il backup con un account Mozilla
+fxa-headline-cdd2faf6 = Salva i tuoi dati con un account Mozilla
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = backup di fox
+fxa-logoAltText-b9228cb5 = Backup con la volpe
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Inizia
 # Headline for New Device Login Email
@@ -93,9 +93,9 @@ fxa-headline-0dffe504 = Crea una password per proteggere i tuoi dati
 # Description for Verify Short Code Email
 fxa-description-19b7e644 = Conferma il tuo account e sincronizza le tue password ovunque accedi a Firefox, iniziando con:
 # Headline for Verify Short Code Email
-fxa-headline-8e3fb023 = Aiutaci a verificare la tua identità.
+fxa-headline-8e3fb023 = Aiutaci a confermare che sei davvero tu ad accedere.
 # Subject for Verify Short Code Email
-fxa-subject-c9fd4b52 = Conferma il tuo account Mozilla da sincronizzare
+fxa-subject-c9fd4b52 = Conferma il tuo account Mozilla per sincronizzare
 
 ## l10n-122 - (DONT EDIT - CI) 123Done
 
