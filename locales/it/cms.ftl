@@ -57,7 +57,7 @@ fxa-headline-ed889b16 = Hai effettuato l’accesso a Firefox?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Confrma l’accesso a Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Conferma il tuo account e ottieni il massimo da Mozilla su tutti i dispositivi da cui accedi, a cominciare da:
+fxa-description-d28733a3 = Conferma il tuo account e ottieni il massimo da Mozilla su tutti i dispositivi da cui accedi, iniziando con:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Entra in Internet con Mozilla
 # Subject for Verify Short Code Email
@@ -102,7 +102,7 @@ fxa-subject-c9fd4b52 = Conferma il tuo account Mozilla per sincronizzare
 # Description for Email First Page
 fxa-description-54faaa23 = Crea la tua lista di cose da fare senza distrazioni con 123Done. Registrati usando la tua email per aprire un account Mozilla e comincia subito.
 # Headline for Email First Page
-fxa-headline-f11ac15c = Fai spazio a ciò che conta
+fxa-headline-f11ac15c = Fai spazio per ciò che conta
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-29ff216d = Crea la mia lista
 # Description for New Device Login Email
@@ -153,9 +153,9 @@ fxa-subject-020c9b24 = Conferma l’account per 123Done
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Inserire l’email per avviare la sincronizzazione
+fxa-headline-b36f2b05 = Inserisci l’email per avviare la sincronizzazione
 # Headline for Signin Page
-fxa-headline-c2b34227 = Inserire la password per avviare la sincronizzazione
+fxa-headline-c2b34227 = Inserisci la password per avviare la sincronizzazione
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Crea una password per avviare la sincronizzazione
 # Description for Verify Short Code Email
@@ -166,14 +166,14 @@ fxa-headline-929376b4 = Completa la configurazione della sincronizzazione
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = Protegge password, segnalibri e dati sincronizzati di Firefox con la crittografia ovunque accedi.
+fxa-description-c05d9d00 = Protegge password, segnalibri e i dati sincronizzati di Firefox con la crittografia ovunque accedi.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Crea una password per sincronizzare in modo sicuro
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-637f76bf = Crea il tuo account o accedi se ne hai uno.
+fxa-description-637f76bf = Registrati oppure accedi se hai già un account
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Prova Firefox VPN con un account Mozilla
 # Description for New Device Login Email
