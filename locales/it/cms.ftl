@@ -24,14 +24,12 @@ fxa-description-aedac88d = Sincronizza password e altri dati ovunque hai effettu
 fxa-headline-e8d28194 = Inserisci la password
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Accedi
-# Description for Signin Token Code Page
-fxa-description-8e3fb023 = Aiutaci a confermare che sei davvero tu ad accedere.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Inserisci il codice di conferma
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Conferma
 # Description for Signin Unblock Code Page
-fxa-description-7aff76cc = Aiutaci a confermare che sei davvero tu ad accedere.
+fxa-description-8e3fb023 = Aiutaci a confermare che sei davvero tu ad accedere.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continua
 # Description for Signup Confirm Code Page
@@ -91,64 +89,9 @@ fxa-description-3db4ef62 = Salva in modo sicuro i dati di Firefox con una passwo
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Crea una password per proteggere i tuoi dati
 # Description for Verify Short Code Email
-fxa-description-19b7e644 = Conferma il tuo account e sincronizza le tue password ovunque accedi a Firefox, iniziando con:
-# Headline for Verify Short Code Email
-fxa-headline-8e3fb023 = Aiutaci a confermare che sei davvero tu ad accedere.
+fxa-description-bb7998da = Conferma il tuo account e sincronizza le tue password ovunque accedi a Firefox, iniziando con:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Conferma il tuo account Mozilla per sincronizzare
-
-## l10n-122 - (DONT EDIT - CI) 123Done
-
-# Description for Email First Page
-fxa-description-54faaa23 = Crea la tua lista di cose da fare senza distrazioni con 123Done. Registrati usando la tua email per aprire un account Mozilla e comincia subito.
-# Headline for Email First Page
-fxa-headline-f11ac15c = Fai spazio per ciò che conta
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-29ff216d = Crea la mia lista
-# Description for New Device Login Email
-fxa-description-e11f8ec5 = Il tuo account Mozilla è stato utilizzato per accedere a 123Done
-# Headline for New Device Login Email
-fxa-headline-86789eb5 = Nuovo accesso a 123Done
-# Subject for New Device Login Email
-fxa-subject-86789eb5 = Nuovo accesso a 123Done
-# Email From Name for Shared
-fxa-emailFromName-7878b917 = 123Done
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-bd9c68cb = Logo di 123Done
-# Logo Alt Text for Shared
-fxa-logoAltText-bd9c68cb = Logo di 123Done
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Inserisci la password per accedere al tuo account Mozilla
-# Description for Signin Token Code Page
-fxa-description-87881780 = Inserisci il codice di conferma per il tuo account Mozilla
-# Description for Signin Unblock Code Page
-fxa-description-235c149c = Abbiamo rilevato attività sospette da questo account. Controlla la tua email.
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-7f83df9c = Autorizza
-# Description for Signup Confirm Code Page
-fxa-description-09d5ff7f = Un ultimo passaggio velocissimo. Inserisci il codice ricevuto via email per attivare il tuo account Mozilla e accedere a 123Done.
-# Headline for Signup Confirm Code Page
-fxa-headline-20f65144 = Ci siamo quasi
-# Primary Button Text for Signup Confirm Code Page
-fxa-primaryButtonText-223d7226 = Completa la configurazione
-# Headline for Signup Confirmed Sync Page
-fxa-headline-74db8403 = Sincronizzazione confermata
-# Description for Signup Set Password Page
-fxa-description-e9b4f69a = Mantieni il tuo account riservato e al sicuro. Imposta una password per il tuo account Mozilla e inizia a utilizzare 123Done.
-# Headline for Signup Set Password Page
-fxa-headline-45436174 = Crea la tua password
-# Description for Verify Login Code Email
-fxa-description-2739c55b = Hai effettuato l’accesso a 123Done?
-# Headline for Verify Login Code Email
-fxa-headline-e9d74dbb = Approva l’accesso a 123Done
-# Subject for Verify Login Code Email
-fxa-subject-e9d74dbb = Approva l’accesso a 123Done
-# Description for Verify Short Code Email
-fxa-description-d076f12b = Inserisci il codice di conferma
-# Headline for Verify Short Code Email
-fxa-headline-020c9b24 = Conferma l’account per 123Done
-# Subject for Verify Short Code Email
-fxa-subject-020c9b24 = Conferma l’account per 123Done
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -158,8 +101,6 @@ fxa-headline-b36f2b05 = Inserisci l’email per avviare la sincronizzazione
 fxa-headline-c2b34227 = Inserisci la password per avviare la sincronizzazione
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Crea una password per avviare la sincronizzazione
-# Description for Verify Short Code Email
-fxa-description-bb7998da = Conferma il tuo account e sincronizza le tue password ovunque accedi a Firefox, iniziando con:
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Completa la configurazione della sincronizzazione
 
@@ -277,8 +218,6 @@ fxa-description-811350a6 = Ancora un passaggio per usufruire dei vantaggi di Fir
 fxa-description-861f2d28 = Salva password, schede e segnalibri per prepararti al passaggio a un nuovo dispositivo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronizzazione con la volpe
-# Headline for Verify Login Code Email
-fxa-headline-cbcca517 = Hai effettuato l’accesso a Firefox?
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
