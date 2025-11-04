@@ -89,7 +89,7 @@ fxa-description-3db4ef62 = Hacé una copia de seguridad de tus datos de Firefox 
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Creá una contraseña para proteger tus datos
 # Description for Verify Short Code Email
-fxa-description-bb7998da = Confirmá tu cuenta y sincronizá tus contraseñas en todos los lugares donde iniciaste la sesión en Firefox, comenzando por:
+fxa-description-bb7998da = Confirmá tu cuenta y sincronizá tus contraseñas en todos los lugares donde iniciaste sesión en Firefox, empezando por:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirmá tu cuenta de Mozilla para sincronizar
 
@@ -107,7 +107,7 @@ fxa-headline-929376b4 = Finalizar configuración de Sync
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = Protege tus contraseñas, marcadores y datos sincronizados de Firefox con cifrado en todos los lugares donde iniciaste la sesión.
+fxa-description-c05d9d00 = Proteg tus contraseñas, marcadores y datos sincronizados de Firefox con cifrado en todos los lugares donde iniciaste sesión.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Creá una contraseña para sincronizar de forma segura
 
@@ -118,7 +118,7 @@ fxa-description-637f76bf = Creá tu cuenta o iniciá sesión si tenés una.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Probá Firefox VPN con una cuenta de Mozilla
 # Description for New Device Login Email
-fxa-description-e59dc09c = Hubo un nuevo inicio de sesión en tu cuenta de Mozilla. Si no es usted, por favor cambie su contraseña.
+fxa-description-e59dc09c = Hubo un nuevo inicio de sesión en tu cuenta de Mozilla. Si no fuiste vos, por favor cambiá tu contraseña.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nuevo inicio de sesión en Firefox
 # Page Title for Shared
@@ -126,7 +126,7 @@ fxa-pageTitle-6a3bf665 = Configurar Firefox VPN
 # Description for Signin Page
 fxa-description-427b83de = Iniciá sesión en tu cuenta de Mozilla.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = La sincronización está habilitada y listo para Firefox VPN. Ir a la barra de herramientas para activarla.
+fxa-description-68ca3526 = La sincronización está habilitada y todo está listo para Firefox VPN. Andá a la barra de herramientas para activarla.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Siguiente: Habilitar Firefox VPN
 # Headline for Signup Set Password Page
@@ -162,7 +162,7 @@ fxa-subject-f3d09e03 = Confirmá tu cuenta para usar el navegador Firefox
 # Description for Email First Page
 fxa-description-4766f222 = Se necesita una cuenta de Mozilla para usar Mozilla Monitor.
 # Headline for Email First Page
-fxa-headline-de41db80 = Registrate o iniciá la sesión en tu cuenta de Mozilla
+fxa-headline-de41db80 = Registrate o iniciá sesión en tu cuenta de Mozilla
 # Description for New Device Login Email
 fxa-description-4e3d5811 = Hubo un inicio de sesión nuevo en Mozilla Monitor. Si no es usted, por favor cambie su contraseña.
 # Headline for New Device Login Email

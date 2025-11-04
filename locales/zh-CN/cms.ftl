@@ -15,7 +15,7 @@ fxa-description-a0671d4a = 您的 Mozilla 账户有新的登录活动：
 # Headline for New Device Login Email
 fxa-headline-7315250e = 已使用您的 Mozilla 账户登录
 # Subject for New Device Login Email
-fxa-subject-a0a749e1 = 新一次登录 Firefox
+fxa-subject-a0a749e1 = Firefox 有新的登录活动
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = 设置 Firefox 同步
 # Description for Signin Page
