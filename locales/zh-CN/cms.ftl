@@ -5,7 +5,7 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-4ac18cac = 在您使用 Firefox 的任何地方同步您的密码、页面和书签。
+fxa-description-4ac18cac = 在您使用 Firefox 的各设备间，同步密码、标签页、书签。
 # Headline for Email First Page
 fxa-headline-33e9f42d = 继续登录 Mozilla 账户
 # Primary Button Text for Email First Page
@@ -191,7 +191,7 @@ fxa-headline-74461a97 = 确认您的账户以使用 Mozilla Monitor。
 ## l10n-6 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
-fxa-description-78fd76ac = 使用您的 Mozilla 账户安全地同步到其他设备。
+fxa-description-78fd76ac = 使用您的 Mozilla 账户，与其他设备安全同步。
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 随时随地获取已保存的密码
 # Logo Alt Text for Email First Page
@@ -199,9 +199,9 @@ fxa-logoAltText-e9e92d2e = 密码同步
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
-fxa-description-32c1f240 = 创建 Mozilla 账户以安全地同步至其他设备。
+fxa-description-32c1f240 = 创建 Mozilla 账户，与其他设备安全同步。
 # Subject for Verify Short Code Email
-fxa-subject-9235d479 = 确认您的要同步的账户
+fxa-subject-9235d479 = 确认您的账户以同步
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
@@ -217,9 +217,9 @@ fxa-description-811350a6 = 再进一步享受 Firefox VPN 的好处。前往打�
 # Description for Email First Page
 fxa-description-861f2d28 = 备份密码、标签页、书签，从容换用新设备。
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox 同步
+fxa-logoAltText-164ffc49 = 狐狸同步
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = 狐狸跳
+fxa-logoAltText-c4b14a5b = 狐狸跳跃
