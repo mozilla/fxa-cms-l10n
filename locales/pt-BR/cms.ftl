@@ -17,11 +17,11 @@ fxa-headline-7315250e = Sua conta Mozilla foi usada para entrar
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nova entrada no Firefox
 # Page Title for Shared
-fxa-pageTitle-ffd8275e = Configure a sincronização do Firefox
+fxa-pageTitle-ffd8275e = Configurar sincronização do Firefox
 # Description for Signin Page
-fxa-description-aedac88d = Sincronize senhas e muito mais em todos os lugares em que estiver conectado.
+fxa-description-aedac88d = Sincronize senhas e muito mais onde quer que tenha entrado na sua conta.
 # Headline for Signin Page
-fxa-headline-e8d28194 = Forneça sua senha
+fxa-headline-e8d28194 = Digite sua senha
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Entrar
 # Headline for Signin Token Code Page
@@ -29,7 +29,7 @@ fxa-headline-d076f12b = Digite o código de confirmação
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirmar
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Ajude-nos a garantir que é você que está entrando na sua conta.
+fxa-description-8e3fb023 = Ajude-nos a ter certeza que é você que está entrando na sua conta.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continuar
 # Description for Signup Confirm Code Page
@@ -43,7 +43,7 @@ fxa-headline-3ed2d228 = A sincronização está ativada
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Adicionar outro dispositivo
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincronize suas senhas, métodos de pagamento, favoritos e muito mais em todos os lugares onde usa o Firefox.
+fxa-description-201c6fe1 = Sincronize suas senhas, métodos de pagamento, favoritos e muito mais onde quer que use o Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Crie uma senha
 # Primary Button Text for Signup Set Password Page

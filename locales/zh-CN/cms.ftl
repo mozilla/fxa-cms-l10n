@@ -19,7 +19,7 @@ fxa-subject-a0a749e1 = Firefox 有新的登录活动
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = 设置 Firefox 同步
 # Description for Signin Page
-fxa-description-aedac88d = 随时随地同步密码等数据。
+fxa-description-aedac88d = 在您已登录的各设备间同步密码等数据。
 # Headline for Signin Page
 fxa-headline-e8d28194 = 请输入密码
 # Primary Button Text for Signin Page
