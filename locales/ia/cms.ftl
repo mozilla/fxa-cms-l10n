@@ -92,3 +92,15 @@ fxa-headline-a20eb81e = Inscribe te o accede
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirma tu conto
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Configura Mozilla Monitor
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirma tu conto pro synchronisar
