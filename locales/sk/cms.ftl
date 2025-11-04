@@ -42,3 +42,142 @@ fxa-description-2115ee89 = Vaše heslá, platobné metódy, adresy, záložky, h
 fxa-headline-3ed2d228 = Synchronizácia je zapnutá
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Pridať ďalšie zariadenie
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronizujte svoje heslá, spôsoby platby, záložky a ďalšie údaje všade, kde používate Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = Vytvoriť heslo
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = Vytvoriť účet
+# Description for Verify Login Code Email
+fxa-description-38390134 = Pomôžte nám udržať váš účet v bezpečí schválením vášho prihlásenia.
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = Prihlásili ste sa do Firefoxu?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Schválenie prihlásenia do Firefoxu
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Potvrďte svoj účet a využite Mozillu naplno všade, kde sa prihlásite, počnúc:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Otvorte internet pomocou Mozilly
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Potvrďte svoj účet
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefoxu
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefoxu
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = Zálohujte si heslá, záložky a karty Firefoxu, keď budete pripravení prejsť na nové zariadenie.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Zálohujte pomocou účtu Mozilla
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = záloha líšky
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Poďme na to
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Na prihlásenie bol použitý váš účet Mozilla.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Prihláste sa a zálohujte toto zariadenie.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Bezpečne si zálohujte dáta z Firefoxu pomocou hesla.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Vytvorte si heslo na ochranu svojich údajov
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Potvrďte svoj účet a synchronizujte heslá všade, kde ste prihlásení do Firefoxu, počnúc:
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Potvrďte svoj účet Mozilla pre synchronizáciu
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Zadajte e‑mail pre spustenie synchronizácie
+# Headline for Signin Page
+fxa-headline-c2b34227 = Zadajte heslo pre spustenie synchronizácie
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Vytvorte heslo na spustenie synchronizácie
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Dokončiť nastavenie synchronizácie
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Chráni vaše heslá, záložky a synchronizované dáta Firefoxu šifrovaním všade, kde ste prihlásení.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Vytvorte si heslo pre bezpečnú synchronizáciu
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = Vytvorte si účet alebo sa prihláste, ak ho máte.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Vyskúšajte Firefox VPN s účtom Mozilla
+# Description for New Device Login Email
+fxa-description-e59dc09c = Do vášho účtu Mozilla bolo vykonané nové prihlásenie. Ak to nie ste vy, zmeňte si heslo.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Nové prihlásenie k Firefoxu
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Nastavenie VPN vo Firefoxe
+# Description for Signin Page
+fxa-description-427b83de = Prihláste sa do svojho účtu Mozilla.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Synchronizácia je povolená a ste pripravení na používanie Firefox VPN. Prejdite na panel s nástrojmi a zapnite ju.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Ďalej: Zapnite Firefox VPN
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Nastavte si heslo
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Použite priložený kód na potvrdenie vášho účtu Mozilla.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Potvrďte svoj účet
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Potvrďte svoj účet pre prihlásenie do Firefoxu
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nové prihlásenie k Firefoxu
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Len jeden rýchly krok. Zadajte kód z vášho e‑mailu a aktivujte si účet Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Zaregistrujte sa alebo sa prihláste
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Pomôžte nám zabezpečiť bezpečnosť vášho účtu schválením prihlásenia na zariadení:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Potvrďte svoj účet
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Použite priložený kód na potvrdenie vášho účtu Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Potvrďte svoj účet, aby ste mohli používať prehliadač Firefox
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Na používanie Mozilla Monitor je potrebný účet Mozilla.
+# Headline for Email First Page
+fxa-headline-de41db80 = Zaregistrujte sa alebo prihláste do svojho účtu Mozilla
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Došlo k novému prihláseniu do Mozilla Monitor. Ak to nie ste vy, zmeňte si heslo.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Nové prihlásenie do Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Nové prihlásenie do Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Nastavenie služby Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Prihláste sa do svojho účtu Mozilla a použite službu Mozilla Monitor.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Vytvorte heslo na spustenie skenovania
