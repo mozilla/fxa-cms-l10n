@@ -35,7 +35,7 @@ fxa-primaryButtonText-a0bfb8e5 = ادامه
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = به ما کمک کنید که مطمئن شویم، شما در حال  ایجاد حساب کاربری هستید.
 # Primary Button Text for Signup Confirm Code Page
-fxa-primaryButtonText-e4029ca4 = شروع همگام‌سازی
+fxa-primaryButtonText-e4029ca4 = آغاز همگام‌سازی
 # Description for Signup Confirmed Sync Page
 fxa-description-2115ee89 = گذرواژه‌ها، روش‌های پرداخت، نشانی‌ها، نشانک‌ها، تاریخچه و موارد بیشتر شما می‌توانند در همه‌جا که از Firefox استفاده می‌کنید همگام‌سازی شوند.
 # Headline for Signup Confirmed Sync Page
@@ -55,7 +55,7 @@ fxa-headline-ed889b16 = آیا شما به حساب کاربری Firefox خود 
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = تأیید ورود به Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = حساب کاربری خود را تأیید کنید و بیشترین بهره را از Mozilla در همه‌جا که وارد می‌شوید ببرید، شروع با:
+fxa-description-d28733a3 = حساب کاربری خود را تأیید کنید و بیشترین بهره را از Mozilla در همه‌جا که وارد می‌شوید ببرید، آغاز با:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = اینترنت را با Mozilla باز کنید
 # Subject for Verify Short Code Email
@@ -88,6 +88,8 @@ fxa-description-5649263e = برای پشتیبان‌گیری از این دست
 fxa-description-3db4ef62 = اطلاعات Firefox خود را با یک گذرواژه به‌صورت ایمن پشتیبان‌گیری کنید.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = برای محافظت از اطلاعات خود گذرواژه‌ای ایجاد کنید
+# Description for Verify Short Code Email
+fxa-description-bb7998da = حساب کاربری خود را تأیید کنید و گذرواژه‌های خود را در همه‌جا که به Firefox وارد می‌شوید همگام‌سازی کنید، آغاز با:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = برای همگام‌سازی حساب کاربری Mozilla خود را تأیید کنید
 
@@ -95,3 +97,7 @@ fxa-subject-c9fd4b52 = برای همگام‌سازی حساب کاربری Mozi
 
 # Headline for Email First Page
 fxa-headline-b36f2b05 = برای آغاز همگام‌سازی رایانامه خود را وارد کنید
+# Headline for Signin Page
+fxa-headline-c2b34227 = برای آغاز همگام‌سازی گذرواژه را وارد کنید
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = برای آغاز همگام‌سازی گذرواژه‌ای ایجاد کنید
