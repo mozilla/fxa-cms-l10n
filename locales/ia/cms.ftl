@@ -70,6 +70,8 @@ fxa-logoAltText-96e4284e = Logo Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Description for Email First Page
+fxa-description-0d2e3341 = Salveguarda tu contrasignos, marcapaginas, e schedas de Firefox quando tu es preste pro un nove apparato.
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Sarvegiarda con un conto Mozilla
 # Logo Alt Text for Email First Page
@@ -86,6 +88,8 @@ fxa-description-5649263e = Disconnecter pro salveguardar iste apparato
 fxa-description-3db4ef62 = Salveguarda securmente tu datos de Firefox con un  contrasigno.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Crea un contrasigno pro proteger tu datos
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Confirma tu conto e synchronisa tu contrasignos ubique tu ha accedite a Firefox, comenciante con:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirma tu conto Mozilla pro synchronisar
 
@@ -102,28 +106,46 @@ fxa-headline-929376b4 = Completa le configuration de synchronisation
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Protege tu contrasignos, marcapaginas, e datos synchronisate de Firefox con cryptation ubique tu ha accedite.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Crea un contrasigno pro securmente synchronisar
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = Crea tu conto o accede si tu ha un.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Essaya Firefox VPN con un conto Mozilla
+# Description for New Device Login Email
+fxa-description-e59dc09c = Il habeva un nove accesso a tu conto Mozilla. Si iste non es tu, cambia tu contrasigno.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nove accesso a Firefox
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = Configurar le VPN in Firefox
 # Description for Signin Page
 fxa-description-427b83de = Accede a tu conto Mozilla.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Le synchronisation es activate e tu es preste pro Firefox VPN. Va al barra del instrumentos pro accender lo.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Pois: activa Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Configura tu contrasigno
 # Description for Verify Short Code Email
 fxa-description-f8578b7c = Usa le codice includite pro confirmar tu conto Mozilla.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Confirma tu conto
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Confirma tu conto pro acceder a Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nove accesso a Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Solo un rapide passo. Insere le codice ab tu email pro activar tu conto Mozilla.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Inscribe te o accede
 # Description for Verify Login Code Email
@@ -132,11 +154,17 @@ fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu ac
 fxa-description-ef1fb997 = Confirma tu conto
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Usa le codice includite pro confirmar tu conto Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Confirma tu conto pro usar le navigator Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Un Conto Mozilla es necessari pro usar Mozilla Monitor.
 # Headline for Email First Page
 fxa-headline-de41db80 = Registrate o accede a tu conto Mozilla
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Il habeva un nove accesso a Mozilla Monitor. Si iste non es tu, cambia tu contrasigno.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nove accesso a Mozilla Monitor
 # Subject for New Device Login Email
@@ -151,12 +179,47 @@ fxa-logoAltText-ccc1a61b = Logo de Mozilla Monitor
 fxa-pageTitle-924eac9f = Configura Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Accede a tu conto Mozilla pro usar Mozilla Monitor.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Crea un contrasigno pro initiar un scansion
 # Headline for Verify Login Code Email
 fxa-headline-461a0bbf = Confirma tu conto pro usar Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Confirma tu conto pro usar Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Confirma tu conto pro usar Mozilla Monitor.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Usa tu conto Mozilla a con securitate synchronisa a un altere apparato.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Obtener contrasignos reservate ubique
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = synchronisation del contrasignos
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Crea un conto Mozilla pro con securitate synchronisar a un altere apparato.
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = Confirma tu conto pro synchronisar
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = Un conto disbloca le accesso a VPN e synchronisa tu datos de Firefox trans apparatos.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Activa tu VPN Firefox gratuite con un conto Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Un altere passo pro obtener le beneficios de Firefox VPN. Va al pannello aperte e activa lo.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Salveguarda tu contrasignos, schedas, e marcapaginas assi tu es preste pro un nove apparato.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = synchronisation vulpe
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = vulpe que salta
