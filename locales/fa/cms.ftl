@@ -144,11 +144,25 @@ fxa-subject-10e5b452 = برای ورود به Firefox حساب کاربری خو
 fxa-description-0a9e868b = ورود جدید به Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = فقط یک مرحله سریع. کد ارسال‌شده به رایانامه خودتان را وارد کنید تا حساب کاربری Mozilla شما فعال شود.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = نام‌نویسی یا ورود
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = با تأیید ورود خود در اینجا، به ما کمک کنید حساب کاربری شما را ایمن نگه داریم:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = تأیید حساب کاربری خود
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = برای تأیید حساب کاربری Mozilla خود، از این کد استفاده کنید.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = برای استفاده از مرورگر Firefox حساب کاربری خود را تأیید کنید
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = برای استفاده از Mozilla Monitor به یک حساب کاربری Mozilla نیاز دارید.
+# Headline for Email First Page
+fxa-headline-de41db80 = نام‌نویسی کنید یا وارد حساب کاربری Mozilla خود شوید
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
