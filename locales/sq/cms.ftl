@@ -125,12 +125,16 @@ fxa-pageTitle-6a3bf665 = Ujdisni Firefox VPN-në
 fxa-description-427b83de = Bëni hyrjen në llogarinë tuaj Mozilla.
 # Description for Signup Confirmed Sync Page
 fxa-description-68ca3526 = Njëkohësimi është aktivizuar dhe jeni gati për Firefox VPN. Që ta aktivizoni , kaloni te paneli.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Hapi Pasues: Aktivizoni Firefox VPN-në
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Caktoni fjalëkalimin tuaj
 # Description for Verify Short Code Email
 fxa-description-f8578b7c = Përdorni kodin e përfshirë, që të ripohoni  llogarinë tuaj Mozilla.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Ripohoni llogarinë tuaj
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tuaj
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -138,6 +142,8 @@ fxa-headline-ef1fb997 = Ripohoni llogarinë tuaj
 fxa-description-0a9e868b = Hyrje e re te Firefox-i
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Thjesht një hap i shpejtë. Që të aktivizohet llogaria juaj Mozilla, jepni kodin që nga email-i juaj.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Hyni ose regjistrohuni
 # Description for Verify Login Code Email
@@ -146,20 +152,61 @@ fxa-description-6bc52850 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, d
 fxa-description-ef1fb997 = Ripohoni llogarinë tuaj
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Përdorni kodin e përfshirë, që të ripohoni  llogarinë tuaj Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Që të përdorni Shfletuesin Firefox, ripohoni llogarinë tuaj
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Që të përdorni Mozilla Monitor duhet një Llogari Mozilla.
 # Headline for Email First Page
 fxa-headline-de41db80 = Regjistrohuni, ose bëni hyrjen te Llogaria juaj Mozilla
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Pati një hyrje të re te Mozilla Monitor. Nëse ky s’jeni ju, ju lutemi, ndryshoni fjalëkalimin tuaj.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Hyrje e re te Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Hyrje e re te Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Stemë Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Stemë Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Ujdisni Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Që të përdorni Mozilla Monitor, bëni hyrjen te llogaria juaj Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Që të fillojë një kontroll, krijoni një fjalëkalim
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Që të përdorni Mozilla Monitor, ripohoni llogarinë tuaj
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Që të përdorni Mozilla Monitor, ripohoni llogarinë tuaj
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Që të përdorni Mozilla Monitor, ripohoni llogarinë tuaj.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Përdoreni llogarinë tuaj Mozilla për të njëkohësuar në mënyrë të siguruar gjërat në një pajisje tjetër.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Merrini kudo fjalëkalimet e ruajtur
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = njëkohësim fjalëkalimesh
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Për të njëkohësuar në mënyrë të siguruar gjërat në një pajisje tjetër, krijoni një llogari Mozilla .
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Që të bëhet njëkohësimi, ripohoni llogarinë tuaj
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = Një llogari shkyç hyrjen për te VPN dhe njëkohëson të dhënat tuaja Firefox nëpër pajisje.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Aktivizoni Firefox VPN-në tuaj me një llogari Mozilla
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 

@@ -14,3 +14,7 @@ fxa-primaryButtonText-a20eb81e = Inscribe te o accede
 fxa-subject-a0a749e1 = Nove apertura de session in Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configurar le synchronisation in Firefox
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = Crear un contrasigno
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = Crear conto
