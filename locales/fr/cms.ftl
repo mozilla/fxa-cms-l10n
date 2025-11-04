@@ -126,7 +126,7 @@ fxa-pageTitle-6a3bf665 = Configurer Firefox VPN
 # Description for Signin Page
 fxa-description-427b83de = Connectez-vous à votre compte Mozilla.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = La synchronisation est activée et vous pouvez utiliser Firefox VPN. Aller à la barre d’outils pour l’activer.
+fxa-description-68ca3526 = La synchronisation est activée et vous pouvez utiliser Firefox VPN. Activez-le depuis la barre d’outils.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Suivant : Activer le VPN Firefox
 # Headline for Signup Set Password Page

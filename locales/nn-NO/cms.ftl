@@ -10,6 +10,8 @@ fxa-description-4ac18cac = Synkroniser passord, faner og bokmerke alle stadar du
 fxa-headline-33e9f42d = Hald fram til Mozilla-kontoen din
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrer deg eller logg inn
+# Headline for New Device Login Email
+fxa-headline-7315250e = Mozilla-kontoen din vart brukt til å logge inn
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Ny innlogging på Firefox
 # Page Title for Shared
@@ -34,3 +36,22 @@ fxa-primaryButtonText-598649e6 = Legg til ei anna eining
 fxa-headline-72786b8a = Opprett eit passord
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Opprett konto
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrer deg eller logg inn
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Hjelp oss med å halde kontoen din trygg ved å godkjenne innlogginga di på:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Stadfest kontoen din
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
