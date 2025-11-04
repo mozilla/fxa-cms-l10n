@@ -52,12 +52,17 @@ fxa-emailLogoAltText-96e4284e = Firefox-logo
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox-logo
 
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Stadfest Mozilla-kontoen din for å synkronisere
+
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Skriv inn e-postadresse for å starte synkronisering
 # Headline for Signin Page
-fxa-headline-c2b34227 = Skriv inn passord for å bstarte synkronisering
+fxa-headline-c2b34227 = Skriv inn passord for å starte synkronisering
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

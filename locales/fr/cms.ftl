@@ -210,7 +210,7 @@ fxa-description-6591d2a0 = Un compte permet d’accéder au VPN et de synchronis
 # Headline for Email First Page
 fxa-headline-6aca2436 = Activez votre VPN gratuit pour Firefox avec un compte Mozilla
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Un pas de plus pour profiter des avantages de Firefox VPN. Ouvrez un panneau et activez-le.
+fxa-description-811350a6 = Plus qu’une étape avant de bénéficier des avantages de Firefox VPN. Accédez au panneau ouvert et activez-le.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
