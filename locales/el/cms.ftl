@@ -73,7 +73,7 @@ fxa-logoAltText-96e4284e = Λογότυπο Firefox
 # Description for Email First Page
 fxa-description-0d2e3341 = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασης, των σελιδοδεικτών και των καρτελών σας στο Firefox όταν είστε έτοιμοι να χρησιμοποιήσετε μια νέα συσκευή.
 # Headline for Email First Page
-fxa-headline-cdd2faf6 = Δημιουργία αντιγράφων ασφαλείας με λογαριασμό Mozilla
+fxa-headline-cdd2faf6 = Δημιουργία αντιγράφων ασφαλείας με έναν λογαριασμό Mozilla
 # Logo Alt Text for Email First Page
 fxa-logoAltText-b9228cb5 = αντίγραφο ασφαλείας του fox
 # Primary Button Text for Email First Page
@@ -83,7 +83,7 @@ fxa-headline-d0511570 = Ο λογαριασμός Mozilla σας χρησιμο�
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
-fxa-description-5649263e = Συνδεθείτε για να δημιουργήσετε αντίγραφα ασφαλείας της συσκευής.
+fxa-description-5649263e = Συνδεθείτε για να δημιουργήσετε αντίγραφα ασφαλείας για αυτήν τη συσκευή.
 # Description for Signup Set Password Page
 fxa-description-3db4ef62 = Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας στο Firefox με έναν κωδικό πρόσβασης.
 # Headline for Signup Set Password Page
@@ -215,7 +215,7 @@ fxa-description-811350a6 = Ένα ακόμα βήμα για τα οφέλη τ�
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
-fxa-description-861f2d28 = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασης, των καρτελών και των σελιδοδεικτών σας, ώστε να φτιάξετε μια νέα συσκευή.
+fxa-description-861f2d28 = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασης, των καρτελών και των σελιδοδεικτών σας, ώστε να προετοιμαστείτε για τη μετάβαση σε νέα συσκευή.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = συγχρονισμός αλεπούς
 
