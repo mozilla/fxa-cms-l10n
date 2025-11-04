@@ -1,0 +1,1 @@
+locales/pt-PT/cms.ftl

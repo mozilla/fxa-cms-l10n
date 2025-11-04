@@ -1,0 +1,1 @@
+locales/fy-NL/cms.ftl
