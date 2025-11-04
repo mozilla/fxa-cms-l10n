@@ -122,23 +122,37 @@ fxa-headline-ef1fb997 = Confirma tu conto
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Inscribe te o accede
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirma tu conto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Usa le codice includite pro confirmar tu conto Mozilla.
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Headline for Email First Page
+fxa-headline-de41db80 = Registrate o accede a tu conto Mozilla
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nove accesso a Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Nove accesso a Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-ccc1a61b = Logo de Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Logo de Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Configura Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Accede a tu conto Mozilla pro usar Mozilla Monitor.
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Confirma tu conto pro usar Mozilla Monitor
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
