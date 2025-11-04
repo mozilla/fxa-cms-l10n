@@ -29,11 +29,11 @@ fxa-headline-d076f12b = Vnesite potrditveno kodo
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potrdi
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Pomagajte nam zagotoviti, da se prijavljate vi.
+fxa-description-8e3fb023 = Pomagajte se nam prepričati, da se prijavljate vi.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Nadaljuj
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Pomagajte nam preveriti, ali ste račun vi ustvarili.
+fxa-description-da2a8a91 = Pomagajte se nam prepričati, da račun ustvarjate vi.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Začni s sinhronizacijo
 # Description for Signup Confirmed Sync Page
