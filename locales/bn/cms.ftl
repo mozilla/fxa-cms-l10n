@@ -67,3 +67,37 @@ fxa-subject-ef1fb997 = আপনার অ্যাকাউন্ট নিশ�
 fxa-emailLogoAltText-96e4284e = Firefox লোগো
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox লোগো
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = নতুন ডিভাইস ব্যবহারের জন্য প্রস্তুত হলে আপনার Firefox-এর পাসওয়ার্ড, বুকমার্ক এবং ট্যাবগুলি ব্যাকআপ করুন।
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Mozilla অ্যাকাউন্ট দিয়ে ব্যাকআপ করুন
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = ফক্স ব্যাকআপ
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = শুরু করুন
+# Headline for New Device Login Email
+fxa-headline-d0511570 = আপনার Mozilla অ্যাকাউন্ট দিয়ে সাইন ইন করা হয়েছে।
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = এই ডিভাইসটি ব্যাকআপ করার জন্য সাইন ইন করুন।
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = পাসওয়ার্ড ব্যবহার করে আপনার Firefox-এর ডেটা নিরাপদে ব্যাকআপ করুন।
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = আপনার ডেটা সুরক্ষিত রাখার জন্য একটি পাসওয়ার্ড তৈরি করুন
+# Description for Verify Short Code Email
+fxa-description-bb7998da = আপনার অ্যাকাউন্ট নিশ্চিত করুন এবং Firefox-এ যে সমস্ত জায়গায় সাইন ইন করেছেন সেখানকার পাসওয়ার্ডগুলো সিঙ্ক করুন, শুরু করে:
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = সিঙ্ক করার জন্য আপনার Mozilla অ্যাকাউন্ট নিশ্চিত করুন।
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = সিঙ্ক শুরু করতে ইমেইল লিখুন
+# Headline for Signin Page
+fxa-headline-c2b34227 = সিঙ্ক শুরু করতে পাসওয়ার্ড লিখুন
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = সিঙ্ক শুরু করতে একটি পাসওয়ার্ড তৈরি করুন
