@@ -100,14 +100,14 @@ fxa-headline-b36f2b05 = Voer e-mailadres in om te beginnen met synchroniseren
 # Headline for Signin Page
 fxa-headline-c2b34227 = Voer wachtwoord in om te beginnen met synchroniseren
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Maak een wachtwoord aan om met synchroniseren te beginnen
+fxa-headline-7a6bf86a = Maak een wachtwoord aan om te beginnen met synchroniseren
 # Headline for Verify Short Code Email
-fxa-headline-929376b4 = Synchronisatieconfiguratie voltooien
+fxa-headline-929376b4 = Instellen synchronisatie voltooien
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = Beschermt uw wachtwoorden, bladwijzers en gesynchroniseerde Firefox-gegevens met versleuteling overal waar u bent aangemeld.
+fxa-description-c05d9d00 = Beschermt uw wachtwoorden, bladwijzers en gesynchroniseerde Firefox-gegevens met versleuteling, overal waar u bent aangemeld.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Een wachtwoord aanmaken om veilig te synchroniseren
 
@@ -117,8 +117,6 @@ fxa-headline-48cc8c34 = Een wachtwoord aanmaken om veilig te synchroniseren
 fxa-description-637f76bf = Maak uw account aan of meld u aan als u er een hebt.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Probeer Firefox VPN met een Mozilla-account
-# Description for New Device Login Email
-fxa-description-e59dc09c = Er was een nieuwe aanmelding op uw Mozilla-account. Als dit niet het geval is, wijzig dan uw wachtwoord.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nieuwe aanmelding bij Firefox
 # Page Title for Shared
@@ -218,8 +216,3 @@ fxa-description-811350a6 = Nog een stap in het verkrijgen van de voordelen van F
 fxa-description-861f2d28 = Maak een back-up van uw wachtwoorden, tabbladen en bladwijzers, zodat u klaar bent voor een nieuw apparaat.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox-synchronisatie
-
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = vossenspringen

@@ -102,7 +102,7 @@ fxa-headline-c2b34227 = برای آغاز همگام‌سازی گذرواژه �
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = برای آغاز همگام‌سازی گذرواژه‌ای ایجاد کنید
 # Headline for Verify Short Code Email
-fxa-headline-929376b4 = پایان تنظیمات همگام‌سازی
+fxa-headline-929376b4 = پایان راه‌اندازی همگام‌سازی
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
@@ -115,3 +115,19 @@ fxa-headline-48cc8c34 = برای همگام‌سازی ایمن گذرواژه�
 
 # Description for Email First Page
 fxa-description-637f76bf = حساب کاربری خود را ایجاد کنید یا اگر از قبل دارید، وارد شوید.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = ‏Firefox VPN را با حساب کاربری Mozilla امتحان کنید
+# Description for New Device Login Email
+fxa-description-e59dc09c = یک ورود جدیدی به حساب کاربری Mozilla شما انجام شده است. اگر این شما نیستید، لطفا گذرواژه خود را تغییر دهید.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = ورود جدید به Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = راه‌اندازی Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = ورود به حساب کاربری Mozilla خود
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = همگام‌سازی فعال است و شما آماده استفاده از Firefox VPN هستید. برای فعال‌سازی به نوار ابزار بروید.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = مرحله بعدی: فعال‌سازی Firefox VPN
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = گذرواژه خود را تنظیم کنید
