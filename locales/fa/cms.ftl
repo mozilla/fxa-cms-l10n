@@ -190,5 +190,22 @@ fxa-headline-74461a97 = برای استفاده از Mozilla Monitor حساب ک
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = برای همگام‌سازی ایمن با یک دستگاه دیگر از حساب کاربری Mozilla خود استفاده کنید.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = گذرواژه‌های ذخیره‌شده را در همه‌جا دریافت کنید
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = همگام‌سازی گذرواژه‌ها
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = برای همگام‌سازی ایمن با دستگاه دیگر یک حساب کاربری Mozilla ایجاد کنید.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = برای همگام‌سازی حساب کاربری خود را تأیید کنید
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = یک حساب کاربری دسترسی به VPN و اطلاعات Firefox شما را در دستگاه‌های مختلف همگام‌سازی می‌کند.
+# Headline for Email First Page
+fxa-headline-6aca2436 = VPN رایگان Firefox خود را با حساب کاربری Mozilla فعال کنید
