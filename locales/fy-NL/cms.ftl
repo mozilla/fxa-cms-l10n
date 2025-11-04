@@ -144,6 +144,80 @@ fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 fxa-description-0a9e868b = Nije oanmelding by Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Noch ien flugge stap. Fier de koade út jo e-mailberjocht yn om jo Mozilla-account te aktivearjen.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrearje of oanmelde
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Help ús jo account feilich te hâlden troch jo oanmelding goed te karren op:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Befêstigje jo account
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Brûk de opnommen koade om jo Mozilla-account te befêstigjen.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Befêstigje jo account om Firefox-browser te brûken
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Om Mozilla Monitor te brûken is in Mozilla-account nedich.
+# Headline for Email First Page
+fxa-headline-de41db80 = Registrearje of oanmelde by jo Mozilla-account
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Der wie in nije oanmelding by Mozilla Monitor. As jo dit net wiene, wizigje dan jo wachtwurd.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Nije oanmelding by Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Nije oanmelding by Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor-logo
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Mozilla Monitor-logo
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Mozilla Monitor ynstelle
+# Description for Signin Page
+fxa-description-ab270ce7 = Meld jo oan by jo Mozilla-account om Mozilla Monitor te brûken.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Meitsje in wachtwurd oan om in scan te starten
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Befêstigje jo account om Mozilla Monitor te brûken
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Befêstigje jo account om Mozilla Monitor te brûken
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Befêstigje jo account om Mozilla Monitor te brûken.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Brûk jo Mozilla-account om feilich te syngronisearjen mei in oar apparaat.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Haw oeral jo bewarre wachtwurden beskikber
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = wachtwurdsyngronisaasje
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Meitsje in Mozilla-account oan om feilich te syngronisearjen mei in oar apparaat.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Befêstigje jo account om te syngronisearjen
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = In account ûntskoattelet tagong ta VPN en syngronisearret jo Firefox-gegevens oer ferskate apparaten.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Aktivearje jo fergese Firefox VPN mei in Mozilla-account
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Noch ien stap om de foardielen fan Firefox VPN te ûntfangen. Gean nei it iepen paniel en skeakelje it yn.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Meitsje in reservekopy fan jo wachtwurden, ljepblêden en blêdwizers, sadat jo klear binne foar in nij apparaat.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = foks-syngronisaasje
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 

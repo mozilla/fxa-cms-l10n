@@ -96,13 +96,13 @@ fxa-subject-c9fd4b52 = Confirme sua conta Mozilla a sincronizar
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Digite seu e-mail para iniciar a sincronização
+fxa-headline-b36f2b05 = Digite seu email para iniciar a sincronização
 # Headline for Signin Page
 fxa-headline-c2b34227 = Digite a senha para iniciar a sincronização
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Crie uma senha para iniciar a sincronização
 # Headline for Verify Short Code Email
-fxa-headline-929376b4 = Concluir a configuração da sincronização
+fxa-headline-929376b4 = Concluir a configuração de sincronização
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 

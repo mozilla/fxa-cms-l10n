@@ -13,7 +13,7 @@ fxa-primaryButtonText-a20eb81e = Kaydol veya giriş yap
 # Description for New Device Login Email
 fxa-description-a0671d4a = Mozilla hesabınıza yeni bir giriş yapıldı:
 # Headline for New Device Login Email
-fxa-headline-7315250e = Mozilla hesabınız kullanıldı
+fxa-headline-7315250e = Mozilla hesabınızla giriş yapıldı
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Firefox’a yeni giriş
 # Page Title for Shared
@@ -29,23 +29,23 @@ fxa-headline-d076f12b = Onay kodunu girin
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Onayla
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Giriş yapanın siz olduğunuzdan emin olmamıza yardımcı olun.
+fxa-description-8e3fb023 = Giriş yapanın siz olduğunuzdan emin olalım.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Devam et
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Hesabı sizin oluşturduğunuzdan emin olmamıza yardımcı olun.
+fxa-description-da2a8a91 = Hesabı sizin oluşturduğunuzdan emin olalım.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Eşitlemeyi başlat
 # Description for Signup Confirmed Sync Page
 fxa-description-2115ee89 = Firefox’u kullandığınız her yerde parolalarınız, ödeme yöntemleriniz, adresleriniz, yer imleriniz, geçmişiniz ve diğer bilgileriniz eşitlenebilir.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-3ed2d228 = Eşitleme açıldı
+fxa-headline-3ed2d228 = Eşitleme etkin
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Başka bir cihaz ekle
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = Parolalarınızı, ödeme yöntemlerinizi, yer imlerinizi ve daha fazlasını Firefox'u kullandığınız her yerde eşitleyin.
+fxa-description-201c6fe1 = Firefox’u kullandığınız her yerde parolalarınızı, ödeme yöntemlerinizi, yer imlerinizi ve daha fazlasını eşitleyin.
 # Headline for Signup Set Password Page
-fxa-headline-72786b8a = Parola oluşturun
+fxa-headline-72786b8a = Parola oluştur
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Hesap oluştur
 # Description for Verify Login Code Email

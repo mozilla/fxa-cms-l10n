@@ -40,3 +40,30 @@ fxa-primaryButtonText-e4029ca4 = সিঙ্ক শুরু করুন
 fxa-description-2115ee89 = আপনার পাসওয়ার্ড, পেমেন্ট পদ্ধতি, ঠিকানা, বুকমার্ক, ইতিহাস এবং আরও কিছু যেকোনো জায়গায় সিঙ্ক করতে পারে যেখানে আপনি Firefox ব্যবহার করেন।
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = সিঙ্ক চালু আছে
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = আরেকটি ডিভাইস যোগ করুন
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = আপনার পাসওয়ার্ড, পেমেন্ট পদ্ধতি, বুকমার্ক এবং আরও কিছু যেকোনো জায়গায় সিঙ্ক করুন যেখানে আপনি Firefox ব্যবহার করেন।
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = পাসওয়ার্ড তৈরি করুন
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = অ্যাকাউন্ট তৈরি করুন
+# Description for Verify Login Code Email
+fxa-description-38390134 = আপনার সাইন-ইন অনুমোদন করে আমাদের সাহায্য করুন যাতে আপনার অ্যাকাউন্ট সুরক্ষিত থাকে।
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = আপনি কি Firefox-এ সাইন ইন করেছেন?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Firefox-এ সাইন-ইন অনুমোদন করুন
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = আপনার অ্যাকাউন্ট নিশ্চিত করুন এবং যেখানেই আপনি সাইন ইন করেন, সেখানে Mozilla-র সর্বোত্তম সুবিধা ব্যবহার করুন, শুরু করুন:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = মজিলা দিয়ে ইন্টারনেট খুলুন
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = আপনার অ্যাকাউন্ট নিশ্চিত করুন
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox লোগো
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox লোগো
