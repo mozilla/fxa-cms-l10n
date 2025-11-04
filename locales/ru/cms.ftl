@@ -153,16 +153,16 @@ fxa-description-6bc52850 = Помогите нам обеспечить безо
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Подтвердите ваш аккаунт
 # Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Используйте включенный код для подтверждения вашего аккаунта Mozilla.
+fxa-headline-f8578b7c = Используйте включённый код для подтверждения вашего аккаунта Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Подтвердите свой аккаунт для использования браузера Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
-fxa-description-4766f222 = Для использования Mozilla Monitor необходим Аккаунт Mozilla.
+fxa-description-4766f222 = Для использования Mozilla Monitor необходим аккаунт Mozilla.
 # Headline for Email First Page
-fxa-headline-de41db80 = Зарегистрируйтесь или войдите в свой Аккаунт Mozilla
+fxa-headline-de41db80 = Зарегистрируйтесь или войдите в свой аккаунт Mozilla
 # Description for New Device Login Email
 fxa-description-4e3d5811 = В Mozilla Monitor произведён новый вход. Если это не вы, пожалуйста, смените свой пароль.
 # Headline for New Device Login Email
@@ -210,7 +210,7 @@ fxa-description-6591d2a0 = Аккаунт разблокирует доступ 
 # Headline for Email First Page
 fxa-headline-6aca2436 = Активируйте бесплатный Firefox VPN с помощью аккаунта Mozilla
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Ещё один шаг до получения преимущества Firefox VPN. Перейдите на открытую панель и включите её.
+fxa-description-811350a6 = Ещё один шаг до получения преимущества Firefox VPN. Перейдите на открытую панель и включите его.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
@@ -222,4 +222,4 @@ fxa-logoAltText-164ffc49 = синхронизация fox
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = лиса
+fxa-logoAltText-c4b14a5b = прыгающая лиса
