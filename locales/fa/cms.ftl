@@ -163,12 +163,30 @@ fxa-subject-f3d09e03 = برای استفاده از مرورگر Firefox حسا�
 fxa-description-4766f222 = برای استفاده از Mozilla Monitor به یک حساب کاربری Mozilla نیاز دارید.
 # Headline for Email First Page
 fxa-headline-de41db80 = نام‌نویسی کنید یا وارد حساب کاربری Mozilla خود شوید
+# Description for New Device Login Email
+fxa-description-4e3d5811 = یک ورود جدیدی به Mozilla Monitor شما انجام شده است. اگر این شما نیستید، لطفا گذرواژه خود را تغییر دهید.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = ورود جدید به Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = ورود جدید به Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-ccc1a61b = نشان‌واره Mozilla Monitor
 # Logo Alt Text for Shared
 fxa-logoAltText-ccc1a61b = نشان‌واره Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = راه‌اندازی Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = برای استفاده از Mozilla Monitor وارد حساب کاربری Mozilla خود شوید.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = برای آغاز اسکن، یک گذرواژه ایجاد کنید
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = برای استفاده از Mozilla Monitor حساب کاربری خود را تأیید کنید
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = برای استفاده از Mozilla Monitor حساب کاربری خود را تأیید کنید
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = برای استفاده از Mozilla Monitor حساب کاربری خود را تأیید کنید.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
