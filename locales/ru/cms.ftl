@@ -49,7 +49,7 @@ fxa-headline-72786b8a = Создать пароль
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Создать аккаунт
 # Description for Verify Login Code Email
-fxa-description-38390134 = Помогите нам обеспечить безопасность вашей учётной записи, подтвердив вход.
+fxa-description-38390134 = Помогите нам обеспечить безопасность вашего аккаунта, подтвердив вход.
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = Вы вошли в Firefox?
 # Subject for Verify Login Code Email
