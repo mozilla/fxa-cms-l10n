@@ -5,7 +5,7 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-4ac18cac = Synchronisez onglets, mots de passe et marque-pages partout où vous utilisez Firefox.
+fxa-description-4ac18cac = Synchronisez vos onglets, mots de passe et marque-pages partout où vous utilisez Firefox.
 # Headline for Email First Page
 fxa-headline-33e9f42d = Continuer vers votre compte Mozilla
 # Primary Button Text for Email First Page
@@ -17,7 +17,7 @@ fxa-headline-7315250e = Votre compte Mozilla a été utilisé pour se connecter
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nouvelle connexion à Firefox
 # Page Title for Shared
-fxa-pageTitle-ffd8275e = Configurer Firefox Sync
+fxa-pageTitle-ffd8275e = Configurer la synchronisation dans Firefox
 # Description for Signin Page
 fxa-description-aedac88d = Synchronisez vos mots de passe et d’autres données partout où vous êtes connecté·e.
 # Headline for Signin Page
@@ -33,7 +33,7 @@ fxa-description-8e3fb023 = Aidez-nous à nous assurer que c’est bien vous qui 
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continuer
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Aidez-nous à nous assurer que c’est bien vous qui créez le compte.
+fxa-description-da2a8a91 = Aidez-nous à nous assurer que c’est bien vous qui créez un compte.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Démarrer la synchronisation
 # Description for Signup Confirmed Sync Page

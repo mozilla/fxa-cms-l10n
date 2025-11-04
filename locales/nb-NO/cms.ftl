@@ -13,7 +13,7 @@ fxa-primaryButtonText-a20eb81e = Registrer deg eller logg inn
 # Description for New Device Login Email
 fxa-description-a0671d4a = Det var en ny pålogging til Mozilla-kontoen din:
 # Headline for New Device Login Email
-fxa-headline-7315250e = Mozilla-kontoen din ble brukt til å logge på
+fxa-headline-7315250e = Mozilla-kontoen din ble brukt til å logge inn
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Ny innlogging på Firefox
 # Description for Signin Page
@@ -48,3 +48,59 @@ fxa-headline-72786b8a = Opprett et passord
 fxa-primaryButtonText-42369faa = Opprett konto
 # Description for Verify Login Code Email
 fxa-description-38390134 = Hjelp oss med å holde kontoen din trygg ved å godkjenne innloggingen din.
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = Logget du inn på Firefox?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Godkjenn innlogging til Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Bekreftede kontoen din og få mest mulig ut av Mozilla overalt hvor du logger inn, startende med:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Åpne internett med Mozilla
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Bekreft kontoen
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox-logo
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox-logo
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = Sikkerhetskopier Firefox-passordene, bokmerkene og fanene dine når du er klar for en ny enhet.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Sikkerhetskopier med en Mozilla-konto
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Kom i gang
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Mozilla-kontoen din ble brukt til å logge inn.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Logg inn for å sikkerhetskopiere denne enheten.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Sikkerhetskopier Firefox-dataene dine trygt med et passord.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Opprett et passord for å beskytte dine data
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Bekreft kontoen din og synkroniser passordene dine overalt du er logget inn i Firefox, og start med:
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Bekreft Mozilla-kontoen din for å synkronisere
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Skriv inn e-post for å begynne å synkronisere
+# Headline for Signin Page
+fxa-headline-c2b34227 = Skriv inn passord for å begynne å synkronisere
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Opprett et passord for å begynne å synkronisere
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Fullfør synkroniseringsoppsettet
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Beskytter passordene dine, bokmerkene dine og synkroniserte Firefox-data med kryptering overalt du er logget inn.
