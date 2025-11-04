@@ -18,3 +18,25 @@ fxa-headline-7315250e = আপনার Mozilla অ্যাকাউন্ট �
 fxa-subject-a0a749e1 = Firefox এ নতুন সাইন-ইন
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox Sync সেট আপ করুন
+# Description for Signin Page
+fxa-description-aedac88d = যেখানে যেখানে আপনি সাইন ইন করেছেন, সেখানে আপনার পাসওয়ার্ড এবং আরও কিছু সিঙ্ক করুন।
+# Headline for Signin Page
+fxa-headline-e8d28194 = আপনার পাসওয়ার্ড লিখুন
+# Primary Button Text for Signin Page
+fxa-primaryButtonText-b6d4223e = সাইন ইন
+# Headline for Signin Token Code Page
+fxa-headline-d076f12b = কনফার্মেশন কোড লিখুন
+# Primary Button Text for Signin Token Code Page
+fxa-primaryButtonText-70d9be9b = নিশ্চিত করুন
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = আপনি যে সাইন ইন করছেন তা নিশ্চিত করতে আমাদের সাহায্য করুন।
+# Primary Button Text for Signin Unblock Code Page
+fxa-primaryButtonText-a0bfb8e5 = চালিয়ে যান
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = আপনি যে একটি অ্যাকাউন্ট তৈরি করছেন তা নিশ্চিত করতে আমাদের সাহায্য করুন।
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-e4029ca4 = সিঙ্ক শুরু করুন
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = আপনার পাসওয়ার্ড, পেমেন্ট পদ্ধতি, ঠিকানা, বুকমার্ক, ইতিহাস এবং আরও কিছু যেকোনো জায়গায় সিঙ্ক করতে পারে যেখানে আপনি Firefox ব্যবহার করেন।
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = সিঙ্ক চালু আছে

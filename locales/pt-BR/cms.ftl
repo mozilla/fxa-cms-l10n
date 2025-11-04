@@ -51,13 +51,13 @@ fxa-primaryButtonText-42369faa = Criar conta
 # Description for Verify Login Code Email
 fxa-description-38390134 = Ajude-nos a manter sua conta segura aprovando seu acesso.
 # Headline for Verify Login Code Email
-fxa-headline-ed889b16 = Você entrou no Firefox?
+fxa-headline-ed889b16 = Você entrou na sua conta no Firefox?
 # Subject for Verify Login Code Email
-fxa-subject-450ba359 = Aprovar acesso ao Firefox
+fxa-subject-450ba359 = Aprovar acesso à conta ao Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Confirme sua conta e tire o máximo proveito da Mozilla onde quer que você acesse, começando com:
+fxa-description-d28733a3 = Confirme sua conta e aproveite a Mozilla ao máximo onde quer que entre na sua conta, começando com:
 # Headline for Verify Short Code Email
-fxa-headline-f827216f = Abra a internet com a Mozilla
+fxa-headline-f827216f = Acesse a internet com a Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirme sua conta
 
@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Faça backup de suas senhas, favoritos e abas do Fire
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Faça backup com uma conta Mozilla
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = backup do Fox
+fxa-logoAltText-b9228cb5 = backup da raposa
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Introdução
 # Headline for New Device Login Email
@@ -83,7 +83,7 @@ fxa-headline-d0511570 = Sua conta Mozilla foi usada para entrar.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
-fxa-description-5649263e = Entrar para fazer backup deste dispositivo.
+fxa-description-5649263e = Entre para fazer backup deste dispositivo.
 # Description for Signup Set Password Page
 fxa-description-3db4ef62 = Faça backup com segurança dos seus dados do Firefox com uma senha.
 # Headline for Signup Set Password Page
