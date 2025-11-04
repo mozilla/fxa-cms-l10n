@@ -115,3 +115,32 @@ fxa-headline-48cc8c34 = নিরাপদে সিঙ্ক করার জ�
 
 # Description for Email First Page
 fxa-description-637f76bf = আপনার অ্যাকাউন্ট তৈরি করুন অথবা যদি ইতিমধ্যে থাকে সাইন ইন করুন।
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Mozilla অ্যাকাউন্ট দিয়ে Firefox VPN ব্যবহার করে দেখুন
+# Description for New Device Login Email
+fxa-description-e59dc09c = আপনার Mozilla অ্যাকাউন্টে নতুন সাইন-ইন হয়েছে। যদি এটি আপনি না হয়ে থাকেন, দয়া করে আপনার পাসওয়ার্ড পরিবর্তন করুন।
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Firefox এ নতুন সাইন-ইন
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Firefox VPN সেটআপ করুন
+# Description for Signin Page
+fxa-description-427b83de = আপনার Mozilla অ্যাকাউন্টে সাইন ইন করুন
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = সিঙ্ক সক্রিয় আছে এবং আপনি Firefox VPN-এর জন্য প্রস্তুত। চালু করতে টুলবারে যান।
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = পরবর্তী: Firefox VPN চালু করুন
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = আপনার পাসওয়ার্ড সেট করুন
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = আপনার Mozilla অ্যাকাউন্ট নিশ্চিত করতে অন্তর্ভুক্ত কোডটি ব্যবহার করুন।
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = আপনার অ্যাকাউন্ট নিশ্চিত করুন
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Firefox এ সাইন ইন করতে আপনার অ্যাকাউন্ট নিশ্চিত করুন।
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Firefox এ নতুন সাইন ইন
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla

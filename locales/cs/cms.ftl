@@ -29,11 +29,11 @@ fxa-headline-d076f12b = Zadejte potvrzovací kód
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potvrdit
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Pomozte nám ověřit, zda se přihlašujeme vy.
+fxa-description-8e3fb023 = Pomozte nám ujistit se, že se přihlašujete právě vy.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Pokračovat
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Pomozte nám u vytvoření účtu.
+fxa-description-da2a8a91 = Pomozte nám ujistit se, že jste to vy, kdo si vytváří účet.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Spustit synchronizaci
 # Description for Signup Confirmed Sync Page
