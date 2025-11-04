@@ -1,0 +1,46 @@
+name: Copy Locales
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'locales/es-ES/**'
+      - 'locales/fy-NL/**'
+      - 'locales/hi-IN/**'
+      - 'locales/pt-PT/**'
+      - 'locales/sv-SE/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  copy_locale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Mirror region → base
+        run: |
+          set -euo pipefail
+          pairs="es:es-ES fy:fy-NL hi:hi-IN pt:pt-PT sv:sv-SE"
+          changed=0
+          for pair in $pairs; do
+            base="${pair%%:*}"; src="${pair##*:}"
+            srcp="locales/$src/cms.ftl"; dstp="locales/$base/cms.ftl"
+            [ -f "$srcp" ] || continue
+            mkdir -p "locales/$base"
+            if ! cmp -s "$srcp" "$dstp"; then
+              cp "$srcp" "$dstp"
+              git add "$dstp"
+              changed=1
+            fi
+          done
+
+          if [ "$changed" -eq 1 ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore(l10n): mirror region locales → base"
+            git push
+          else
+            echo "No changes found."
+          fi
