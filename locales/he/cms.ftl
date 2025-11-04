@@ -29,9 +29,11 @@ fxa-headline-d076f12b = נא להכניס את קוד האימות
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = אישור
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = נא לעזור לנו לוודא שמי שמתחבר הוא בעל החשבון.
+fxa-description-8e3fb023 = נא לעזור לנו לוודא שההתחברות לחשבון מתבצעת על ידך.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = המשך
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = נא לעזור לנו לוודא שיצירת החשבון מתבצעת על ידך.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = התחלה בסנכרון
 # Description for Signup Confirmed Sync Page
