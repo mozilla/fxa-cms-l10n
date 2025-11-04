@@ -213,7 +213,7 @@ fxa-description-811350a6 = 再进一步享受 Firefox VPN 的好处。前往打�
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
-fxa-description-861f2d28 = 备份您的密码、标签页和书签迎接新设备。
+fxa-description-861f2d28 = 备份密码、标签页、书签，从容换用新设备。
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox 同步
 

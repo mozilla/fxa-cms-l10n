@@ -5,7 +5,7 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-4ac18cac = Sincronizá tus contraseñas, pestañas y marcadores en cualquier lado que uses Firefox.
+fxa-description-4ac18cac = Sincronizá tus contraseñas, pestañas y marcadores en cualquier lado que usés Firefox.
 # Headline for Email First Page
 fxa-headline-33e9f42d = Continuar a tu cuenta de Mozilla
 # Primary Button Text for Email First Page
@@ -19,9 +19,9 @@ fxa-subject-a0a749e1 = Nuevo inicio de sesión en Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configurar la sincronización de Firefox
 # Description for Signin Page
-fxa-description-aedac88d = Sincronizá contraseñas y más en cualquier lugar donde hayas iniciado sesión.
+fxa-description-aedac88d = Sincronizá contraseñas y más en cualquier lugar donde hayás iniciado sesión.
 # Headline for Signin Page
-fxa-headline-e8d28194 = Ingrese su contraseña
+fxa-headline-e8d28194 = Ingresá tu contraseña
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Iniciar sesión
 # Headline for Signin Token Code Page
@@ -29,11 +29,11 @@ fxa-headline-d076f12b = Ingresá el código de confirmación
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirmar
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Ayúdanos a asegurarnos de que eres vos iniciando la sesión.
+fxa-description-8e3fb023 = Ayudanos a asegurarnos de que sos vos el que inició sesión.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continuar
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Ayúdanos a asegurarnos de que fuiste vos quien creó la cuenta.
+fxa-description-da2a8a91 = Ayudanos a asegurarnos de que fuiste vos el que creó la cuenta.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Iniciar sincronización
 # Description for Signup Confirmed Sync Page
