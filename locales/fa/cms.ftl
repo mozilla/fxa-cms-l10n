@@ -135,9 +135,13 @@ fxa-headline-7e0aff4a = گذرواژه خود را تنظیم کنید
 fxa-description-f8578b7c = برای تأیید حساب کاربری Mozilla خود، از این کد استفاده کنید.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = تأیید حساب کاربری خود
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = برای ورود به Firefox حساب کاربری خود را تأیید کنید
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for New Device Login Email
+fxa-description-0a9e868b = ورود جدید به Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
