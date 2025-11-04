@@ -118,7 +118,7 @@ fxa-description-637f76bf = 請註冊帳號，或已有帳號的話，請登入�
 # Headline for Email First Page
 fxa-headline-6d656fc9 = 使用 Mozilla 帳號試用 Firefox VPN
 # Description for New Device Login Email
-fxa-description-e59dc09c = 您的 Mozilla 帳號有一筆新登入。若這不是您登入的，請立刻更改密碼。
+fxa-description-e59dc09c = 您的 Mozilla 帳號有一筆新登入。若這不是您操作的，請立即更改密碼。
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = 新登入至 Firefox
 # Page Title for Shared
@@ -164,7 +164,7 @@ fxa-description-4766f222 = 需要有 Mozilla 帳號才能使用 Mozilla Monitor�
 # Headline for Email First Page
 fxa-headline-de41db80 = 註冊或登入 Mozilla 帳號
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Mozilla Monitor 有一筆新登入。若這不是您所操作的，請立即更改密碼。
+fxa-description-4e3d5811 = 您的 Mozilla Monitor 有一筆新登入。若這不是您操作的，請立即更改密碼。
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = 新登入至 Mozilla Monitor
 # Subject for New Device Login Email
@@ -191,7 +191,7 @@ fxa-headline-74461a97 = 確認您的帳號即可使用 Mozilla Monitor。
 ## l10n-6 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
-fxa-description-78fd76ac = 使用您的 Mozilla 帳號安全地與另一台裝置同步。
+fxa-description-78fd76ac = 使用您的 Mozilla 帳號即可安全地同步到另一台裝置。
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 隨時隨地使用儲存的密碼
 # Logo Alt Text for Email First Page
@@ -206,16 +206,16 @@ fxa-subject-9235d479 = 確認您的帳號後即可同步
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = 註冊帳號即可解鎖 VPN並在不同裝置間同步您的 Firefox 資料。
+fxa-description-6591d2a0 = 註冊帳號即可解鎖 VPN 功能，並在不同裝置間同步您的 Firefox 資料。
 # Headline for Email First Page
 fxa-headline-6aca2436 = 使用 Mozilla 帳號啟用免費的 Firefox VPN
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = 再一步獲得 Firefox VPN 的好處。前往開啟的面板開啟。
+fxa-description-811350a6 = 只要再一步即可獲得 Firefox VPN 功能。請到開啟的面板進行連線。
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
-fxa-description-861f2d28 = 備份您的密碼、開啟分頁與書籤這樣就可使用新裝置。
+fxa-description-861f2d28 = 備份您的密碼、開啟分頁與書籤，這樣就可馬上在新裝置使用。
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox syncing
 
