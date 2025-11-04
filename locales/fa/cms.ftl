@@ -131,3 +131,28 @@ fxa-description-68ca3526 = همگام‌سازی فعال است و شما آم�
 fxa-headline-9628f0ec = مرحله بعدی: فعال‌سازی Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = گذرواژه خود را تنظیم کنید
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = برای تأیید حساب کاربری Mozilla خود، از این کد استفاده کنید.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = تأیید حساب کاربری خود
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = نام‌نویسی یا ورود
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = نشان‌واره Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = نشان‌واره Mozilla Monitor
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox

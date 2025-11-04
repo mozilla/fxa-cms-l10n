@@ -11,7 +11,7 @@ fxa-headline-33e9f42d = Weiter zu Ihrem Mozilla-Konto
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Anmelden oder registrieren
 # Description for New Device Login Email
-fxa-description-a0671d4a = In Ihrem Mozilla-Konto hat eine neue Anmeldung bestanden:
+fxa-description-a0671d4a = Mit Ihrem Mozilla-Konto wurde eine neue Anmeldung durchgeführt:
 # Headline for New Device Login Email
 fxa-headline-7315250e = Ihr Mozilla-Konto wurde zur Anmeldung verwendet
 # Subject for New Device Login Email
@@ -126,9 +126,9 @@ fxa-pageTitle-6a3bf665 = Firefox VPN einrichten
 # Description for Signin Page
 fxa-description-427b83de = Melden Sie sich mit Ihrem Mozilla-Konto an.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = Sync ist aktiviert und Sie sind bereit für Firefox VPN. Gehen Sie zur Symbolleiste, um sie zu aktivieren.
+fxa-description-68ca3526 = Sync ist aktiviert und Sie sind bereit für Firefox VPN. Gehen Sie zur Symbolleiste, um es zu aktivieren.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-9628f0ec = Nächstes: Firefox VPN aktivieren
+fxa-headline-9628f0ec = Nächster Schritt: Firefox VPN aktivieren
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Legen Sie Ihr Passwort fest
 # Description for Verify Short Code Email
@@ -145,7 +145,7 @@ fxa-description-0a9e868b = Neue Anmeldung bei Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Nur ein schneller Schritt. Geben Sie den Code aus Ihrer E-Mail ein, um Ihr Mozilla-Konto zu aktivieren.
+fxa-description-daaed757 = Nur ein kurzer Schritt. Geben Sie den Code aus Ihrer E-Mail ein, um Ihr Mozilla-Konto zu aktivieren.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Anmelden oder registrieren
 # Description for Verify Login Code Email
