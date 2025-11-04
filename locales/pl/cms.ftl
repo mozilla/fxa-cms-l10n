@@ -81,7 +81,7 @@ fxa-description-0a9e868b = Nowe logowanie do Firefoksa
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
+fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
 # Description for Verify Login Code Email
@@ -91,9 +91,37 @@ fxa-description-ef1fb997 = Potwierdź konto
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Użyj dołączonego kodu, aby potwierdzić konto Mozilli.
 # Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki Firefox
+fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
 fxa-description-4766f222 = Do korzystania z Mozilla Monitor wymagane jest konto Mozilli.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Nowe logowanie do Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Nowe logowanie do Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Potwierdź swoje konto, aby korzystać z Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Potwierdź swoje konto, aby korzystać z Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Potwierdź swoje konto, aby korzystać z Mozilla Monitor.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = synchronizacja haseł
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Headline for Email First Page
+fxa-headline-6aca2436 = Aktywuj darmowy Firefox VPN za pomocą konta Mozilli
