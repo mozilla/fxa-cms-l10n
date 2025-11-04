@@ -116,8 +116,87 @@ fxa-description-637f76bf = ניתן ליצור חשבון חדש או להתחב
 # Headline for Email First Page
 fxa-headline-6d656fc9 = לנסות את Firefox VPN עם חשבון Mozilla
 # Description for New Device Login Email
-fxa-description-e59dc09c = בוצע כניסה חדשה לחשבון ה־Mozilla שלך. אם לא ביצעת את הכניסה הזו, נא לשנות את הססמה שלך.
+fxa-description-e59dc09c = בוצעה כניסה חדשה לחשבון ה־Mozilla שלך. אם לא ביצעת את הכניסה הזו, נא לשנות את הססמה שלך.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = כניסה חדשה ל־Firefox
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = הגדרת Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = כניסה לחשבון ה־Mozilla שלך.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = הסנכרון מופעל והמכשיר מוכן ל־Firefox VPN. יש לעבור לסרגל הכלים כדי להפעיל אותו.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = הבא: הפעלת Firefox VPN
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = הגדרת הססמה שלך
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = יש להשתמש בקוד הכלול כדי לאמת את חשבון ה־Mozilla שלך.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = אימות החשבון שלך
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = כניסה חדשה ל־Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = צעד אחד קצר בלבד. נא להכניס את הקוד מהדוא״ל שלך כדי להפעיל את חשבון ה־Mozilla שלך.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = הרשמה או התחברות
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = אימות החשבון שלך
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = יש להשתמש בקוד הכלול כדי לאמת את חשבון ה־Mozilla שלך.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = אימות החשבון שלך לשימוש בדפדפן Firefox
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = נדרש חשבון Mozilla כדי להשתמש ב־Mozilla Monitor.
+# Headline for Email First Page
+fxa-headline-de41db80 = הרשמה או התחברות לחשבון ה־Mozilla שלך
+# Description for New Device Login Email
+fxa-description-4e3d5811 = בוצעה כניסה חדשה ל־Mozilla Monitor. אם לא ביצעת את הכניסה הזו, נא לשנות את הססמה שלך.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = כניסה חדשה ל־Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = כניסה חדשה ל־Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = הסמל של Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = הסמל של Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = הגדרת Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = יש להיכנס לחשבון ה־Mozilla שלך כדי להשתמש ב־Mozilla Monitor.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = יצירת ססמה חדשה להתחלה בסריקה
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = אימות החשבון שלך לשימוש ב־Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = אימות החשבון שלך לשימוש ב־Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = אימות החשבון שלך לשימוש ב־Mozilla Monitor.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = יש להשתמש בחשבון ה־Mozilla שלך כדי לסנכרן באופן מאובטח עם מכשיר אחר.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = קבלת הססמאות השמורות בכל מקום
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = סנכרון ססמאות
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = יש ליצור חשבון Mozilla כדי לסנכרן באופן מאובטח עם מכשיר אחר.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = אימות החשבון שלך כדי לסנכרן
