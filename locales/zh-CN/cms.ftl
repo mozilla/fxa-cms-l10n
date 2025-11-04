@@ -90,13 +90,11 @@ fxa-description-3db4ef62 = 安全地备份您的 Firefox 数据并设置密码�
 fxa-headline-0dffe504 = 创建密码以保护您的数据
 # Description for Verify Short Code Email
 fxa-description-bb7998da = 确认您的账户并同步您的密码在您所有登录了 Firefox 的设备中
-# Subject for Verify Short Code Email
-fxa-subject-c9fd4b52 = 确认您要同步的 Mozilla 账户
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Headline for Email First Page
-fxa-headline-b36f2b05 = 输入电子邮件地址以开始同步
+fxa-headline-b36f2b05 = 输入邮箱地址以开始同步
 # Headline for Signin Page
 fxa-headline-c2b34227 = 输入密码以开始同步
 # Headline for Signup Set Password Page
@@ -114,11 +112,11 @@ fxa-headline-48cc8c34 = 创建密码以安全地同步
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-637f76bf = 创建您的账户或者登录如果您有已有账户。
+fxa-description-637f76bf = 创建账户或登录已有账户。
 # Headline for Email First Page
-fxa-headline-6d656fc9 = 使用 Mozilla 账户试用 Firefox VPN
+fxa-headline-6d656fc9 = 通过 Mozilla 账户试用 Firefox VPN
 # Description for New Device Login Email
-fxa-description-e59dc09c = 您的 Mozilla 账户有新的登录活动。如果这不是您的操作请更改您的密码。
+fxa-description-e59dc09c = 您的 Mozilla 账户有新的登录活动。如非本人操作，请更改密码。
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = 新一次登录 Firefox
 # Page Title for Shared
@@ -172,15 +170,15 @@ fxa-subject-207efcd9 = 有新的登录活动到 Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
-fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor 标志
+fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor 徽标
 # Logo Alt Text for Shared
-fxa-logoAltText-ccc1a61b = Mozilla Monitor 标志
+fxa-logoAltText-ccc1a61b = Mozilla Monitor 徽标
 # Page Title for Shared
 fxa-pageTitle-924eac9f = 设置 Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = 登录您的 Mozilla 账户以使用 Mozilla Monitor。
 # Headline for Signup Set Password Page
-fxa-headline-47e5e3c7 = 输入密码即可进行扫描
+fxa-headline-47e5e3c7 = 创建密码即可进行扫描
 # Headline for Verify Login Code Email
 fxa-headline-461a0bbf = 确认您的账户以使用 Mozilla Monitor
 # Subject for Verify Login Code Email
