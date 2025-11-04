@@ -5,17 +5,17 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan bookmark di mana pun Anda menggunakan Firefox.
+fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan markah Anda di mana pun Anda menggunakan Firefox.
 # Headline for Email First Page
 fxa-headline-33e9f42d = Lanjutkan ke akun Mozilla Anda
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Daftar atau masuk
 # Description for New Device Login Email
-fxa-description-a0671d4a = Ada info masuk baru ke akun Mozilla Anda:
+fxa-description-a0671d4a = Ada kejadian masuk baru ke akun Mozilla Anda:
 # Headline for New Device Login Email
 fxa-headline-7315250e = Akun Mozilla Anda digunakan untuk masuk
 # Subject for New Device Login Email
-fxa-subject-a0a749e1 = Baru masuk ke Firefox
+fxa-subject-a0a749e1 = Masuk yang baru ke Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Siapkan sinkronisasi Firefox
 # Description for Signin Page
