@@ -200,3 +200,24 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-description-32c1f240 = יש ליצור חשבון Mozilla כדי לסנכרן באופן מאובטח עם מכשיר אחר.
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = אימות החשבון שלך כדי לסנכרן
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = חשבון פותח גישה ל־VPN ומסנכרן את נתוני ה־Firefox שלך בין מכשירים.
+# Headline for Email First Page
+fxa-headline-6aca2436 = הפעלת Firefox VPN בחינם באמצעות חשבון Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = רק צעד אחד נוסף להשגת היתרונות של Firefox VPN. יש לעבור לחלונית הפתוחה ולהפעיל אותו.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = ניתן לגבות את הססמאות, הלשוניות והסימניות שלך כדי שהכל יהיה מוכן לקראת המעבר למכשיר חדש.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = שועל מסנכרן
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = שועל קופץ

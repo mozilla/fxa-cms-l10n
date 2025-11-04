@@ -86,3 +86,12 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 fxa-description-5649263e = برای پشتیبان‌گیری از این دستگاه وارد شوید.
 # Description for Signup Set Password Page
 fxa-description-3db4ef62 = اطلاعات Firefox خود را با یک گذرواژه به‌صورت ایمن پشتیبان‌گیری کنید.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = برای محافظت از اطلاعات خود گذرواژه‌ای ایجاد کنید
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = برای همگام‌سازی حساب کاربری Mozilla خود را تأیید کنید
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = برای آغاز همگام‌سازی رایانامه خود را وارد کنید
