@@ -103,6 +103,10 @@ fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki F
 
 # Description for Email First Page
 fxa-description-4766f222 = Do korzystania z Mozilla Monitor wymagane jest konto Mozilli.
+# Headline for Email First Page
+fxa-headline-de41db80 = Zaloguj się lub utwórz konto Mozilli
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Nastąpiło nowe logowanie do Mozilla Monitor. Jeśli to nie Ty, zmień hasło.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nowe logowanie do Mozilla Monitor
 # Subject for New Device Login Email
@@ -126,6 +130,8 @@ fxa-headline-74461a97 = Potwierdź swoje konto, aby korzystać z Mozilla Monito
 fxa-logoAltText-e9e92d2e = synchronizacja haseł
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Utwórz konto Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

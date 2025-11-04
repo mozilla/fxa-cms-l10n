@@ -206,20 +206,20 @@ fxa-subject-9235d479 = Pro synchronizaci potvrďte svůj účet
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = Účet odemyká přístup k VPN a synchronizuje data Firefoxu mezi zařízeními.
+fxa-description-6591d2a0 = Účet odemkne přístup k síti VPN a synchronizuje data Firefoxu napříč zařízeními.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Aktivujte si bezplatnou Firefox VPN s účtem Mozilla
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Další krok k získání výhod Firefox VPN. Přejděte do otevřeného panelu a zapněte jej.
+fxa-description-811350a6 = Další krok k získání výhod Firefox VPN. Přejděte do otevřeného panelu a zapněte ji.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
 fxa-description-861f2d28 = Zálohujte svá hesla, panely a záložky, abyste byli připraveni na nové zařízení.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox Syncing
+fxa-logoAltText-164ffc49 = synchronizace lišky
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = liška skákající
+fxa-logoAltText-c4b14a5b = skákající liška
