@@ -33,9 +33,9 @@ fxa-description-8e3fb023 = Help ons te controleren dat u het bent die zich aanme
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Doorgaan
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Help ons ervoor te zorgen dat u het bent die een account aanmaakt.
+fxa-description-da2a8a91 = Help ons te controleren dat u het bent die een account aanmaakt.
 # Primary Button Text for Signup Confirm Code Page
-fxa-primaryButtonText-e4029ca4 = Begin met synchroniseren
+fxa-primaryButtonText-e4029ca4 = Beginnen met synchroniseren
 # Description for Signup Confirmed Sync Page
 fxa-description-2115ee89 = Uw wachtwoorden, betalingsmethoden, adressen, bladwijzers, geschiedenis en meer kunnen overal waar u Firefox gebruikt synchroniseren.
 # Headline for Signup Confirmed Sync Page
@@ -85,7 +85,7 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = Meld u aan om een reservekopie van dit apparaat te maken.
 # Description for Signup Set Password Page
-fxa-description-3db4ef62 = Maak veilig een back-up van uw Firefox-gegevens met een wachtwoord.
+fxa-description-3db4ef62 = Maak veilig een reservekopie van uw Firefox-gegevens met een wachtwoord.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Een wachtwoord aanmaken om uw gegevens te beschermen
 # Description for Verify Short Code Email

@@ -101,3 +101,17 @@ fxa-headline-b36f2b05 = برای آغاز همگام‌سازی رایانامه
 fxa-headline-c2b34227 = برای آغاز همگام‌سازی گذرواژه را وارد کنید
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = برای آغاز همگام‌سازی گذرواژه‌ای ایجاد کنید
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = پایان تنظیمات همگام‌سازی
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = از گذرواژه‌ها، نشانک‌ها و اطلاعات همگام‌‌سازی‌شده Firefox شما با رمزگذاری در همه‌جا که وارد می‌شوید، محافظت می‌کند.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = برای همگام‌سازی ایمن گذرواژه‌ای ایجاد کنید
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = حساب کاربری خود را ایجاد کنید یا اگر از قبل دارید، وارد شوید.
