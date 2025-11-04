@@ -15,7 +15,7 @@ fxa-description-a0671d4a = בוצעה כניסה חדשה לחשבון ה־Mozil
 # Headline for New Device Login Email
 fxa-headline-7315250e = נעשה שימוש בחשבון ה־Mozilla שלך להתחברות
 # Subject for New Device Login Email
-fxa-subject-a0a749e1 = התחברות חדשה ל־Firefox
+fxa-subject-a0a749e1 = כניסה חדשה ל־Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = הגדרת סנכרון ב־Firefox
 # Description for Signin Page
@@ -65,3 +65,59 @@ fxa-subject-ef1fb997 = אימות החשבון שלך
 fxa-emailLogoAltText-96e4284e = הסמל של Firefox
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = הסמל של Firefox
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = ניתן לגבות את הססמאות, הסימניות והלשוניות של ה־Firefox שלך לפני מעבר למכשיר חדש.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = גיבוי באמצעות חשבון Mozilla
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = גיבוי שועל
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = תחילת עבודה
+# Headline for New Device Login Email
+fxa-headline-d0511570 = נעשה שימוש בחשבון ה־Mozilla שלך להתחברות.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = יש להתחבר כדי לגבות את המכשיר הזה.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = ניתן לגבות את נתוני ה־Firefox שלך באמצעות ססמה.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = יצירת ססמה להגנה על הנתונים שלך
+# Description for Verify Short Code Email
+fxa-description-bb7998da = נא לאמת את החשבון שלך כדי לסנכרן את הססמאות שלך בכל מקום בו יש לך את Firefox, החל מ:
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = אימות חשבון ה־Mozilla שלך כדי לסנכרן
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = נא להכניס את הדוא״ל כדי להתחיל בסנכרון
+# Headline for Signin Page
+fxa-headline-c2b34227 = נא להכניס את הססמה כדי להתחיל בסנכרון
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = יצירת ססמה להתחלה בסנכרון
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = סיום הגדרת הסנכרון
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = מגן על הססמאות, הסימניות ונתוני ה־Firefox המסונכרנים שלך באמצעות הצפנה בכל מקום בו החשבון שלך מחובר.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = יצירת ססמה כדי לסנכרן באופן מאובטח
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = ניתן ליצור חשבון חדש או להתחבר לאחד קיים.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = לנסות את Firefox VPN עם חשבון Mozilla
+# Description for New Device Login Email
+fxa-description-e59dc09c = בוצע כניסה חדשה לחשבון ה־Mozilla שלך. אם לא ביצעת את הכניסה הזו, נא לשנות את הססמה שלך.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = כניסה חדשה ל־Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = הגדרת Firefox VPN

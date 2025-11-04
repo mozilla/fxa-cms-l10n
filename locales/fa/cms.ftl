@@ -56,3 +56,14 @@ fxa-headline-ed889b16 = آیا شما به حساب کاربری Firefox خود 
 fxa-subject-450ba359 = تأیید ورود به Firefox
 # Description for Verify Short Code Email
 fxa-description-d28733a3 = حساب کاربری خود را تأیید کنید و بیشترین بهره را از Mozilla در همه‌جا که وارد می‌شوید ببرید، شروع با:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = اینترنت را با Mozilla باز کنید
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = حساب کاربری خود را تأیید کنید
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = نشان‌واره Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = نشان‌واره Firefox
