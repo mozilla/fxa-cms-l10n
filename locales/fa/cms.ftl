@@ -34,3 +34,17 @@ fxa-description-8e3fb023 = به ما کمک کنید که مطمئن شویم، 
 fxa-primaryButtonText-a0bfb8e5 = ادامه
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = به ما کمک کنید که مطمئن شویم، شما در حال  ایجاد حساب کاربری هستید.
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-e4029ca4 = شروع همگام‌سازی
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = گذرواژه‌ها، روش‌های پرداخت، نشانی‌ها، نشانک‌ها، تاریخچه و موارد بیشتر شما می‌توانند در همه‌جا که از Firefox استفاده می‌کنید همگام‌سازی شوند.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = همگام‌سازی روشن است
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = افزودن دستگاه دیگر
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = همگام‌سازی گذرواژه‌ها، روش‌های پرداخت، نشانک‌ها و موارد بیشتر در همه‌جا که از Firefox استفاده می‌کنید.
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = ایجاد گذرواژه
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = ایجاد حساب کاربری
