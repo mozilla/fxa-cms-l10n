@@ -1,0 +1,225 @@
+### Generated on 2025-10-30T18:00:17.990Z
+### FTL file for CMS localization
+
+
+## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-4ac18cac = 在使用 Firefox 的所有地方同步您的密碼、分頁、書籤。
+# Headline for Email First Page
+fxa-headline-33e9f42d = 繼續前往 Mozilla 帳號
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = 註冊或登入
+# Description for New Device Login Email
+fxa-description-a0671d4a = 曾經有筆新的登入項目登入您的 Mozilla 帳號:
+# Headline for New Device Login Email
+fxa-headline-7315250e = 您的 Mozilla 帳號已用於登入
+# Subject for New Device Login Email
+fxa-subject-a0a749e1 = 新登入至 Firefox
+# Page Title for Shared
+fxa-pageTitle-ffd8275e = 設定 Firefox Sync
+# Description for Signin Page
+fxa-description-aedac88d = 隨處登入同步密碼及更多資訊。
+# Headline for Signin Page
+fxa-headline-e8d28194 = 請輸入您的密碼
+# Primary Button Text for Signin Page
+fxa-primaryButtonText-b6d4223e = 登入
+# Headline for Signin Token Code Page
+fxa-headline-d076f12b = 請輸入確認碼
+# Primary Button Text for Signin Token Code Page
+fxa-primaryButtonText-70d9be9b = 確認
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = 請幫助我們確認是您自己登入的。
+# Primary Button Text for Signin Unblock Code Page
+fxa-primaryButtonText-a0bfb8e5 = 繼續
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = 請幫助我們確定是您自己註冊帳號。
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-e4029ca4 = 開始同步
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = 您可以在使用 Firefox 的所有地方同步您的密碼、付款方式、地址、書籤、瀏覽紀錄等等。
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = 已開啟同步
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = 新增另一台裝置
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = 在使用 Firefox 的所有地方同步您的密碼、付款方式、書籤等資料。
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = 設定密碼
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = 註冊帳號
+# Description for Verify Login Code Email
+fxa-description-38390134 = 請確認您的登入資訊以幫助我們確保帳號安全。
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = 您登入到 Firefox 了嗎
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = 確認登入至 Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = 確認您的帳號就可以在任何登入的裝置中發揮 Mozilla 的最大功能
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = 使用 Mozilla 打開網際網路
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = 確認您的帳號
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox 圖示
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox 圖示
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = 啟用新裝置時備份您的 Firefox 密碼、書籤與分頁。
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = 使用 Mozilla 帳號備份
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = foxbackup
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = 開始使用
+# Headline for New Device Login Email
+fxa-headline-d0511570 = 已使用您的 Mozilla 帳號登入。
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = 登入後即可備份此裝置。
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = 設定密碼安全地備份您的 Firefox 資料。
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = 設定密碼保護您的資料
+# Description for Verify Short Code Email
+fxa-description-bb7998da = 確認您的帳號並在所有登入到 Firefox 的地方同步您的密碼。
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = 確認您的 Mozilla 帳號進行同步
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = 輸入電子郵件地址進行同步
+# Headline for Signin Page
+fxa-headline-c2b34227 = 請輸入密碼開始同步
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = 設定密碼以開始同步
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = 完成同步設定
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = 在您每次登入的地方加密您的密碼、書籤與同步的 Firefox 資料。
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = 設定密碼以安全地同步
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = 註冊帳號若有的話請登入。
+# Headline for Email First Page
+fxa-headline-6d656fc9 = 使用 Mozilla 帳號試用 Firefox VPN
+# Description for New Device Login Email
+fxa-description-e59dc09c = 曾經有一次登入您的 Mozilla 帳號。若這不是您所使用的請立刻更改密碼。
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = 新登入至 Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = 設定 Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = 登入您的 Mozilla 帳號。
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Sync 已啟用您可以使用 Firefox VPN 準備好使用。到工具列開啟此功能。
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = 下一頁: 開啟 Firefox VPN
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = 請設定密碼
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = 使用內含的驗證碼來確認您的 Mozilla 帳號。
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = 確認您的帳號
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = 新登入至 Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = 只需快速一步。輸入您郵件中的驗證碼來啟用您的 Mozilla 帳號。
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = 註冊或登入
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = 確認您的帳號
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = 使用內含的驗證碼來確認您的 Mozilla 帳號。
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = 確認您的帳號以使用 Firefox 瀏覽器
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = 需要有 Mozilla 帳號才能使用 Mozilla Monitor。
+# Headline for Email First Page
+fxa-headline-de41db80 = 註冊或登入 Mozilla 帳號
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Mozilla Monitor 推出了新的登入方式。若這不是您所使用的請立刻更改密碼。
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = 新登入至 Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = 新登入至 Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor 圖示
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Mozilla Monitor 圖示
+# Page Title for Shared
+fxa-pageTitle-924eac9f = 設定 Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = 請登入您的 Mozilla 帳號以使用 Mozilla Monitor。
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = 設定密碼進行掃描
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = 確認您的帳號以使用 Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = 確認您的帳號以使用 Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = 確認您的帳號以使用 Mozilla Monitor。
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = 使用您的 Mozilla 帳號安全地與另一台裝置同步。
+# Headline for Email First Page
+fxa-headline-0ec7d798 = 隨時隨地使用儲存的密碼
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = 密碼同步
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = 註冊 Mozilla 帳號即可安全地同步到另一台裝置。
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = 確認您的帳號以進行同步
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = 註冊帳號即可解鎖 VPN並在不同裝置間同步您的 Firefox 資料。
+# Headline for Email First Page
+fxa-headline-6aca2436 = 使用 Mozilla 帳號啟用免費的 Firefox VPN
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = 再一步獲得 Firefox VPN 的好處。前往開啟的面板開啟。
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = 備份您的密碼、開啟分頁與書籤這樣就可使用新裝置。
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = fox syncing
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = 跳狐狸
