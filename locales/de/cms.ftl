@@ -107,7 +107,7 @@ fxa-headline-929376b4 = Sync-Einrichtung abschließen
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = Schützt deine Passwörter, Lesezeichen und synchronisierten Firefox-Daten durch Verschlüsselung überall dort, wo du angemeldet bist.
+fxa-description-c05d9d00 = Schützt Ihre Passwörter, Lesezeichen und synchronisierten Firefox-Daten durch Verschlüsselung überall dort, wo Sie angemeldet sind.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Erstellen Sie ein Passwort für die sichere Synchronisation
 
@@ -118,7 +118,7 @@ fxa-description-637f76bf = Erstellen Sie Ihr Konto oder melden Sie sich an, wenn
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Probieren Sie Firefox VPN mit einem Mozilla-Konto aus
 # Description for New Device Login Email
-fxa-description-e59dc09c = Bei Ihrem Mozilla-Konto hat eine neue Anmeldung bestanden. Wenn Sie dies nicht sind, ändern Sie bitte Ihr Passwort.
+fxa-description-e59dc09c = Es gab eine neue Anmeldung mit Ihrem Mozilla-Konto. Wenn Sie dies nicht sind, ändern Sie bitte Ihr Passwort.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Neue Anmeldung bei Firefox
 # Page Title for Shared
@@ -210,14 +210,14 @@ fxa-description-6591d2a0 = Ein Konto entsperrt den Zugriff auf VPN und synchroni
 # Headline for Email First Page
 fxa-headline-6aca2436 = Aktivieren Sie Ihr kostenloses Firefox VPN mit einem Mozilla-Konto
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Ein weiterer Schritt zu den Vorteilen von Firefox VPN. Öffnen Sie das offene Panel und schalten Sie es ein.
+fxa-description-811350a6 = Ein weiterer Schritt zu den Vorteilen von Firefox VPN. Öffnen Sie das offene Panel und schalten Sie es ein. Aktivieren Sie es im geöffneten Bereich.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
 fxa-description-861f2d28 = Sichern Sie Ihre Passwörter, Tabs und Lesezeichen, damit Sie für ein neues Gerät bereit sind.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = Fuchs-Synchronisierung
+fxa-logoAltText-164ffc49 = Fuchs synchronisiert
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
