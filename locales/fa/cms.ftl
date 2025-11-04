@@ -209,3 +209,17 @@ fxa-subject-9235d479 = برای همگام‌سازی حساب کاربری خو
 fxa-description-6591d2a0 = یک حساب کاربری دسترسی به VPN و اطلاعات Firefox شما را در دستگاه‌های مختلف همگام‌سازی می‌کند.
 # Headline for Email First Page
 fxa-headline-6aca2436 = VPN رایگان Firefox خود را با حساب کاربری Mozilla فعال کنید
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = یک مرحله دیگر تا بهره‌مندی از مزایای Firefox VPN. به پنل باز شده بروید و آن را فعال کنید.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = از گذرواژه‌ها، زبانه‌ها و نشانک‌های خود پشتیبان‌گیری کنید تا برای دستگاه جدید آماده باشید.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = همگام‌سازی fox
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = fox در حال جستن
