@@ -131,6 +131,10 @@ fxa-description-ef1fb997 = Confirma tu conto
 
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nove accesso a Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Logo de Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Configura Mozilla Monitor
 

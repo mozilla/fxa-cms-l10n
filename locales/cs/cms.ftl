@@ -102,7 +102,7 @@ fxa-headline-c2b34227 = Pro zahájení synchronizace zadejte heslo
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Před zahájením synchronizace si vytvořte heslo
 # Headline for Verify Short Code Email
-fxa-headline-929376b4 = Dokončete nastavení synchronizace
+fxa-headline-929376b4 = Dokončit nastavení synchronizace
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
@@ -134,9 +134,9 @@ fxa-headline-7e0aff4a = Nastavte si heslo
 # Description for Verify Short Code Email
 fxa-description-f8578b7c = Pomocí přiloženého kódu potvrďte svůj účet Mozilla.
 # Headline for Verify Short Code Email
-fxa-headline-ef1fb997 = Potvrzení účtu
+fxa-headline-ef1fb997 = Potvrďte svůj účet
 # Subject for Verify Short Code Email
-fxa-subject-10e5b452 = Před přihlášením k Firefoxu prosím potvrďte svůj účet
+fxa-subject-10e5b452 = Potvrďte svůj účet pro přihlášení do Firefoxu
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -147,11 +147,11 @@ fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jen jeden rychlý krok. Pro aktivaci účtu Mozilla vložte kód z vašeho e-mailu.
 # Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Přihlásit nebo registrovat
+fxa-headline-a20eb81e = Zaregistrujte se nebo se přihlaste
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomozte nám udržet váš účet v bezpečí tím, že schválíte své přihlášení na zařízení:
 # Description for Verify Short Code Email
-fxa-description-ef1fb997 = Potvrzení účtu
+fxa-description-ef1fb997 = Potvrďte svůj účet
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Pomocí přiloženého kódu potvrďte svůj účet Mozilla.
 # Subject for Verify Short Code Email
