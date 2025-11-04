@@ -40,3 +40,60 @@ fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i�
 fxa-headline-72786b8a = Utwórz hasło
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Utwórz konto
+# Description for Verify Login Code Email
+fxa-description-38390134 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie.
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Zatwierdź logowanie do Firefoksa
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefoksa
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefoksa
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Twoje konto Mozilli zostało użyte do zalogowania.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Nowe logowanie do Firefoksa
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Skonfiguruj Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = Zaloguj się na konto Mozilli
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Ustaw hasło
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Użyj dołączonego kodu, aby potwierdzić konto Mozilli.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Potwierdź konto
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nowe logowanie do Firefoksa
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Potwierdź konto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Użyj dołączonego kodu, aby potwierdzić konto Mozilli.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki Firefox
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Do korzystania z Mozilla Monitor wymagane jest konto Mozilli.
