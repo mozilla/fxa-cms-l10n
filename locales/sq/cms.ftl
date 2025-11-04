@@ -86,17 +86,45 @@ fxa-description-5649263e = Që të kopjeruani në këtë pajisje, hyni në lloga
 fxa-description-3db4ef62 = Kopjeruani në mënyrë të siguruar të dhënat tuaja Firefox, me një fjalëkalim.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Krijoni një fjalëkalim, që të mbroni të dhënat tuaja
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Ripohoni llogarinë tuaj dhe njëkohësoni fjalëkalimet tuaj kudo që bëni hyrje në llogarinë Firefox, duke filluar me:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Që të bëhet njëkohësim, ripohoni llogarinë tuaj Mozilla
 
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Që të fillojë njëkohësimi, jepni email
+# Headline for Signin Page
+fxa-headline-c2b34227 = Që të fillojë njëkohësimi, jepni fjalëkalim
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Që të fillojë njëkohësimi, krijoni një fjalëkalim
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Përfundoni ujdisjen e njëkohësimeve
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Mbron fjalëkalimet, faqerojtësit dhe të dhëna Firefox të njëkohësuara me fshehtëzim, kudo ku keni bërë hyrjen në llogari.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Për njëkohësim të siguruar, krijoni një fjalëkalim
+
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = Krijoni një llogari, ose bëni hyrjen në të, nëse keni një të tillë.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Provojeni Firefox VPN-në me një llogari Mozilla
+# Description for New Device Login Email
+fxa-description-e59dc09c = Pati një hyrje të re në llogarinë tuaj Mozilla. Nëse ky s’jeni ju, ju lutemi, ndryshoni fjalëkalimin tuaj.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Hyrje e re te Firefox-i
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = Ujdisni Firefox VPN-në
 # Description for Signin Page
 fxa-description-427b83de = Bëni hyrjen në llogarinë tuaj Mozilla.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Njëkohësimi është aktivizuar dhe jeni gati për Firefox VPN. Që ta aktivizoni , kaloni te paneli.
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Caktoni fjalëkalimin tuaj
 # Description for Verify Short Code Email
