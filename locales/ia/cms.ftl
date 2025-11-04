@@ -129,6 +129,8 @@ fxa-description-ef1fb997 = Confirma tu conto
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Nove accesso a Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Configura Mozilla Monitor
 
