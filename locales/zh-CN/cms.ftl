@@ -11,7 +11,7 @@ fxa-headline-33e9f42d = 登录到 Mozilla 账户
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = 注册或登录
 # Description for New Device Login Email
-fxa-description-a0671d4a = 您的 Mozilla 账户有新的登录活动
+fxa-description-a0671d4a = 您的 Mozilla 账户有新的登录活动：
 # Headline for New Device Login Email
 fxa-headline-7315250e = 已使用您的 Mozilla 账户登录
 # Subject for New Device Login Email
@@ -21,7 +21,7 @@ fxa-pageTitle-ffd8275e = 设置 Firefox 同步
 # Description for Signin Page
 fxa-description-aedac88d = 随时随地同步密码等数据。
 # Headline for Signin Page
-fxa-headline-e8d28194 = 输入你的密码
+fxa-headline-e8d28194 = 请输入密码
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = 登录
 # Headline for Signin Token Code Page
@@ -29,11 +29,11 @@ fxa-headline-d076f12b = 输入确认码
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = 确认
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = 帮助我们确认是您在登录。
+fxa-description-8e3fb023 = 请协助确认是您本人在登录。
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = 继续
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = 帮助我们确认是您在创建账户。
+fxa-description-da2a8a91 = 请协助确认是您本人在创建账户。
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = 开始同步
 # Description for Signup Confirmed Sync Page
@@ -51,7 +51,7 @@ fxa-primaryButtonText-42369faa = 创建账户
 # Description for Verify Login Code Email
 fxa-description-38390134 = 同意您的登录活动有助于我们确保您的账户安全。
 # Headline for Verify Login Code Email
-fxa-headline-ed889b16 = 您是否登录了 Firefox
+fxa-headline-ed889b16 = 您是否登录了 Firefox？
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = 批准登录 Firefox
 # Description for Verify Short Code Email
