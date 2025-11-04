@@ -97,6 +97,13 @@ fxa-headline-b36f2b05 = Insere email pro initiar a synchronisar
 fxa-headline-c2b34227 = Insere contrasigno pro initiar a synchronisar
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Crea un contrasigno pro initiar a synchronisar
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Completa le configuration de synchronisation
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Crea un contrasigno pro securmente synchronisar
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
