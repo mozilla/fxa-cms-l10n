@@ -7,9 +7,9 @@
 # Description for Email First Page
 fxa-description-4ac18cac = Синхронизирайте своите пароли, раздели и отметки навсякъде, където използвате Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Продължете към профила в Mozilla
+fxa-headline-33e9f42d = Продължaване към Mozilla профила ви
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Регистрирайте се или се впишете
+fxa-primaryButtonText-a20eb81e = Вписване или регистриране
 # Description for New Device Login Email
 fxa-description-a0671d4a = Имаше ново влизане във вашия профил в Mozilla:
 # Headline for New Device Login Email
@@ -33,7 +33,7 @@ fxa-description-8e3fb023 = Помогнете ни да се уверим, че 
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Продължаване
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Помогнете ни да се уверим, че вие създавате профил.
+fxa-description-da2a8a91 = Помогнете ни да се уверим, че вие сте този, който създава профил.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Започване на синхронизацията на данни
 # Description for Signup Confirmed Sync Page
