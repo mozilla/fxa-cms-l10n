@@ -128,7 +128,7 @@ fxa-description-427b83de = Connectez-vous à votre compte Mozilla.
 # Description for Signup Confirmed Sync Page
 fxa-description-68ca3526 = La synchronisation est activée et vous pouvez utiliser Firefox VPN. Activez-le depuis la barre d’outils.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-9628f0ec = Suivant : Activer le VPN Firefox
+fxa-headline-9628f0ec = Prochaine étape : activer Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Définissez votre mot de passe
 # Description for Verify Short Code Email
@@ -145,7 +145,7 @@ fxa-description-0a9e868b = Nouvelle connexion via Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Une simple étape. Saisissez le code reçu dans votre boîte e-mail pour activer votre compte Mozilla.
+fxa-description-daaed757 = Une seule petite étape : entrez le code reçu par e-mail pour activer votre compte Mozilla.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Créer un compte ou se connecter
 # Description for Verify Login Code Email
