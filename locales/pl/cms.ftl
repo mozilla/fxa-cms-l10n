@@ -10,6 +10,8 @@ fxa-description-4ac18cac = Synchronizuj hasła, karty i zakładki wszędzie tam
 fxa-headline-33e9f42d = Przejdź do konta Mozilli
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Zarejestruj się lub zaloguj
+# Description for New Device Login Email
+fxa-description-a0671d4a = Nastąpiło nowe logowanie na Twoje konto Mozilli:
 # Headline for New Device Login Email
 fxa-headline-7315250e = Twoje konto Mozilli zostało użyte do zalogowania
 # Subject for New Device Login Email
@@ -22,6 +24,8 @@ fxa-primaryButtonText-b6d4223e = Zaloguj się
 fxa-headline-d076f12b = Wpisz kod potwierdzenia
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potwierdź
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = Pomóż nam upewnić się, że to Ty się logujesz.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Kontynuuj
 # Description for Signup Confirm Code Page
@@ -44,6 +48,8 @@ fxa-primaryButtonText-42369faa = Utwórz konto
 fxa-description-38390134 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie.
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Zatwierdź logowanie do Firefoksa
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Potwierdź konto
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
