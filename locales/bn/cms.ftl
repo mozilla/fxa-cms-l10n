@@ -144,3 +144,44 @@ fxa-subject-10e5b452 = Firefox এ সাইন ইন করতে আপনা
 fxa-description-0a9e868b = Firefox এ নতুন সাইন ইন
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = মাত্র এক ধাপ বাকি। আপনার ইমেইল থেকে কোডটি লিখুন এবং আপনার Mozilla অ্যাকাউন্ট সক্রিয় করুন।
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = আপনার সাইন ইন অনুমোদন করে আমাদের সাহায্য করুন যাতে আপনার অ্যাকাউন্ট নিরাপদ থাকে:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = আপনার অ্যাকাউন্ট নিশ্চিত করুন
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = আপনার Mozilla অ্যাকাউন্ট নিশ্চিত করতে অন্তর্ভুক্ত কোডটি ব্যবহার করুন।
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Firefox ব্রাউজার ব্যবহার করার জন্য আপনার অ্যাকাউন্ট নিশ্চিত করুন
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Mozilla Monitor ব্যবহার করতে একটি Mozilla অ্যাকাউন্ট প্রয়োজন।
+# Headline for Email First Page
+fxa-headline-de41db80 = আপনার Mozilla অ্যাকাউন্টে সাইন আপ বা সাইন ইন করুন
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Mozilla Monitor-এ নতুন সাইন ইন হয়েছে। যদি এটি আপনি না হয়ে থাকেন, দয়া করে আপনার পাসওয়ার্ড পরিবর্তন করুন।
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Mozilla Monitor এ নতুন সাইন-ইন
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Mozilla Monitor এ নতুন সাইন-ইন
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor লোগো
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Mozilla Monitor লোগো
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Mozilla Monitor সেটআপ করুন
+# Description for Signin Page
+fxa-description-ab270ce7 = Mozilla Monitor ব্যবহার করতে আপনার Mozilla অ্যাকাউন্টে সাইন ইন করুন।
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = স্ক্যান শুরু করার জন্য একটি পাসওয়ার্ড তৈরি করুন
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Mozilla Monitor ব্যবহার করার জন্য আপনার অ্যাকাউন্ট নিশ্চিত করুন
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Mozilla Monitor ব্যবহার করার জন্য আপনার অ্যাকাউন্ট নিশ্চিত করুন
