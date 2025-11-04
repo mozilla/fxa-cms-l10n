@@ -162,9 +162,9 @@ fxa-subject-f3d09e03 = Confirmez votre compte pour utiliser le navigateur Firefo
 # Description for Email First Page
 fxa-description-4766f222 = Un compte Mozilla est nécessaire pour utiliser Mozilla Monitor.
 # Headline for Email First Page
-fxa-headline-de41db80 = Inscrivez-vous ou connectez-vous à votre compte Mozilla
+fxa-headline-de41db80 = Créez un compte ou connectez-vous à votre compte Mozilla
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Une nouvelle connexion à Mozilla Monitor a été effectuée. Si ce n’est pas vous, veuillez changer votre mot de passe.
+fxa-description-4e3d5811 = Une nouvelle connexion à Mozilla Monitor a été effectuée. Si vous n’êtes pas à l’origine de cette connexion, veuillez changer votre mot de passe.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nouvelle connexion à Mozilla Monitor
 # Subject for New Device Login Email
@@ -176,7 +176,7 @@ fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
 # Logo Alt Text for Shared
 fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 # Page Title for Shared
-fxa-pageTitle-924eac9f = Installer Mozilla Monitor
+fxa-pageTitle-924eac9f = Configurer Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Connectez-vous à votre compte Mozilla pour utiliser Mozilla Monitor.
 # Headline for Signup Set Password Page
@@ -191,7 +191,7 @@ fxa-headline-74461a97 = Confirmez votre compte pour utiliser Mozilla Monitor.
 ## l10n-6 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
-fxa-description-78fd76ac = Utilisez votre compte Mozilla pour synchroniser en toute sécurité avec un autre appareil.
+fxa-description-78fd76ac = Utilisez votre compte Mozilla pour synchroniser vos données en toute sécurité avec un autre appareil.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Accédez partout aux mots de passe enregistrés
 # Logo Alt Text for Email First Page
@@ -199,16 +199,16 @@ fxa-logoAltText-e9e92d2e = synchronisation des mots de passe
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
-fxa-description-32c1f240 = Créez un compte Mozilla pour synchroniser en toute sécurité avec un autre appareil.
+fxa-description-32c1f240 = Créez un compte Mozilla pour synchroniser vos données en toute sécurité avec un autre appareil.
 # Subject for Verify Short Code Email
-fxa-subject-9235d479 = Confirmez votre compte à synchroniser
+fxa-subject-9235d479 = Confirmez votre compte pour synchroniser
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = Un compte déverrouille l’accès au VPN et synchronise vos données Firefox sur tous vos appareils.
+fxa-description-6591d2a0 = Un compte permet d’accéder au VPN et de synchroniser vos données Firefox sur l’ensemble de vos appareils.
 # Headline for Email First Page
-fxa-headline-6aca2436 = Activez votre VPN Firefox gratuit avec un compte Mozilla
+fxa-headline-6aca2436 = Activez votre VPN gratuit pour Firefox avec un compte Mozilla
 # Description for Signup Confirmed Sync Page
 fxa-description-811350a6 = Un pas de plus pour profiter des avantages de Firefox VPN. Ouvrez un panneau et activez-le.
 
