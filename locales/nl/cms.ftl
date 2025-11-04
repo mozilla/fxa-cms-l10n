@@ -17,7 +17,7 @@ fxa-headline-7315250e = Uw Mozilla-account is gebruikt om u aan te melden
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nieuwe aanmelding bij Firefox
 # Page Title for Shared
-fxa-pageTitle-ffd8275e = Firefox-synchronisatie instellen
+fxa-pageTitle-ffd8275e = Firefox Synchronisatie instellen
 # Description for Signin Page
 fxa-description-aedac88d = Synchroniseer wachtwoorden en meer overal waar u bent aangemeld.
 # Headline for Signin Page
@@ -29,7 +29,7 @@ fxa-headline-d076f12b = Voer bevestigingscode in
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Bevestigen
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Help ons ervoor te zorgen dat u het bent die zich aanmeldt.
+fxa-description-8e3fb023 = Help ons te controleren dat u het bent die zich aanmeldt.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Doorgaan
 # Description for Signup Confirm Code Page

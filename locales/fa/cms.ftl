@@ -48,3 +48,11 @@ fxa-description-201c6fe1 = همگام‌سازی گذرواژه‌ها، روش�
 fxa-headline-72786b8a = ایجاد گذرواژه
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = ایجاد حساب کاربری
+# Description for Verify Login Code Email
+fxa-description-38390134 = با تأیید ورود خود به ما کمک کنید حساب کاربری شما را ایمن نگه داریم.
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = آیا شما به حساب کاربری Firefox خود وارد شده‌اید؟
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = تأیید ورود به Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = حساب کاربری خود را تأیید کنید و بیشترین بهره را از Mozilla در همه‌جا که وارد می‌شوید ببرید، شروع با:
