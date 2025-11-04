@@ -155,16 +155,16 @@ fxa-description-ef1fb997 = Confirme sua conta
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Use o código incluído para confirmar sua conta Mozilla.
 # Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Confirme sua conta para usar o Navegador Firefox
+fxa-subject-f3d09e03 = Confirme sua conta para usar o navegador Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
-fxa-description-4766f222 = Uma Conta Mozilla é necessária para usar o Mozilla Monitor.
+fxa-description-4766f222 = Precisa de uma conta Mozilla para usar o Mozilla Monitor.
 # Headline for Email First Page
-fxa-headline-de41db80 = Crie uma conta ou entre na sua Conta Mozilla
+fxa-headline-de41db80 = Entre na sua conta Mozilla ou crie uma
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Houve um novo acesso ao Mozilla Monitor. Se não é você, altere sua senha.
+fxa-description-4e3d5811 = Houve um novo acesso à sua conta no Mozilla Monitor. Se não foi você, mude sua senha.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nova entrada no Mozilla Monitor
 # Subject for New Device Login Email
@@ -199,7 +199,7 @@ fxa-logoAltText-e9e92d2e = sincronização de senhas
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
-fxa-description-32c1f240 = Crie uma conta Mozilla para sincronizar com outro dispositivo com segurança.
+fxa-description-32c1f240 = Crie uma conta Mozilla para sincronizar com segurança com outro dispositivo.
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = Confirme sua conta para sincronizar
 

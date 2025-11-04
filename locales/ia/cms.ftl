@@ -71,6 +71,13 @@ fxa-primaryButtonText-be11c74c = Comenciar
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Insere email pro initiar a synchronisar
+# Headline for Signin Page
+fxa-headline-c2b34227 = Insere contrasigno pro initiar a synchronisar
+
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Page Title for Shared
