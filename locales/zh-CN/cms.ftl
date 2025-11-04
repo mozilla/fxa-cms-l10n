@@ -13,7 +13,7 @@ fxa-primaryButtonText-a20eb81e = 注册或登录
 # Description for New Device Login Email
 fxa-description-a0671d4a = 您的 Mozilla 账户有新的登录活动：
 # Headline for New Device Login Email
-fxa-headline-7315250e = 已使用您的 Mozilla 账户登录
+fxa-headline-7315250e = 您的 Mozilla 账户有登录活动
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Firefox 有新的登录活动
 # Page Title for Shared
@@ -43,7 +43,7 @@ fxa-headline-3ed2d228 = 同步已开启
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = 添加其他设备
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = 在您使用 Firefox 的任何地方同步您的密码、付款方式、书签等信息。
+fxa-description-201c6fe1 = 在您使用 Firefox 的各设备间，同步密码、付款方式、书签等数据。
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = 创建密码
 # Primary Button Text for Signup Set Password Page
@@ -55,7 +55,7 @@ fxa-headline-ed889b16 = 您是否登录了 Firefox？
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = 确认登录 Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = 确认您的账户即可在任何登录的地方畅享 Mozilla 的智能技术
+fxa-description-d28733a3 = 确认您的账户后，即可在所有已登录设备上解锁 Mozilla 完整体验。体验第一站：
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = 携手 Mozilla 打开互联网世界
 # Subject for Verify Short Code Email
@@ -75,11 +75,11 @@ fxa-description-0d2e3341 = 备份您的 Firefox 密码、书签和标签页随�
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = 使用 Mozilla 账户备份
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = fox 备份
+fxa-logoAltText-b9228cb5 = 狐狸备份
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = 开始
 # Headline for New Device Login Email
-fxa-headline-d0511570 = 有人使用了您的 Mozilla 账户登录。
+fxa-headline-d0511570 = 您的 Mozilla 账户有登录活动。
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page

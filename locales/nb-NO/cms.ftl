@@ -16,6 +16,8 @@ fxa-description-a0671d4a = Det var en ny pålogging til Mozilla-kontoen din:
 fxa-headline-7315250e = Mozilla-kontoen din ble brukt til å logge inn
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Ny innlogging på Firefox
+# Page Title for Shared
+fxa-pageTitle-ffd8275e = Konfigurer Firefox-synkronisering
 # Description for Signin Page
 fxa-description-aedac88d = Synkroniser passord og mer overalt hvor du er logget på.
 # Headline for Signin Page
@@ -130,3 +132,17 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-description-32c1f240 = Opprett en Mozilla-konto for å synkronisere sikkert til en annen enhet.
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = Bekreft din konto for å synkronisere
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = En konto låser opp tilgang til VPN og synkroniserer Firefox-dataene dine på tvers av enheter.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Aktiver din gratis Firefox VPN med en Mozilla-konto
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Ett steg igjen før du får fordelene med Firefox VPN. Gå til det åpne panelet og slå det på.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Sikkerhetskopier passordene, fanene og bokmerkene dine, slik at du er klar for en ny enhet.
