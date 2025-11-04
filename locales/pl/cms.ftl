@@ -64,9 +64,22 @@ fxa-logoAltText-96e4284e = Logo Firefoksa
 fxa-headline-d0511570 = Twoje konto Mozilli zostało użyte do zalogowania.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Potwierdź swoje konto i zsynchronizuj hasła wszędzie tam, gdzie jesteś zalogowany w przeglądarce Firefox, zaczynając od:
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Wprowadź adres e-mail, aby rozpocząć synchronizację
+# Headline for Signin Page
+fxa-headline-c2b34227 = Wpisz hasło, aby rozpocząć synchronizację
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Utwórz hasło, aby rozpocząć synchronizację
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Wypróbuj Firefox VPN z kontem Mozilli
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nowe logowanie do Firefoksa
 # Page Title for Shared

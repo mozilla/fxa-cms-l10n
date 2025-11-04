@@ -210,14 +210,14 @@ fxa-description-6591d2a0 = Uma conta libera o acesso à VPN e sincroniza seus da
 # Headline for Email First Page
 fxa-headline-6aca2436 = Ative seu Firefox VPN gratuito com uma conta Mozilla
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Mais um passo para obter os benefícios do Firefox VPN. Vá para o painel aberto e ative-o.
+fxa-description-811350a6 = Mais uma etapa para obter os benefícios do Firefox VPN. Acesse o painel aberto e ative.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
 fxa-description-861f2d28 = Faça backup de suas senhas, abas e favoritos para estar pronto para um novo dispositivo.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox syncing
+fxa-logoAltText-164ffc49 = sincronização da raposa
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
