@@ -7,7 +7,7 @@
 # Description for Email First Page
 fxa-description-4ac18cac = 在您使用 Firefox 的任何地方同步您的密码、页面和书签。
 # Headline for Email First Page
-fxa-headline-33e9f42d = 登录到 Mozilla 账户
+fxa-headline-33e9f42d = 继续登录 Mozilla 账户
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = 注册或登录
 # Description for New Device Login Email
@@ -39,7 +39,7 @@ fxa-primaryButtonText-e4029ca4 = 开始同步
 # Description for Signup Confirmed Sync Page
 fxa-description-2115ee89 = 在您使用 Firefox 的任何地方您的密码、付款方式、网址、书签、历史记录等数据都会被同步。
 # Headline for Signup Confirmed Sync Page
-fxa-headline-3ed2d228 = 同步服务已开启
+fxa-headline-3ed2d228 = 同步已开启
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = 添加其他设备
 # Description for Signup Set Password Page
@@ -49,15 +49,15 @@ fxa-headline-72786b8a = 创建密码
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = 创建账户
 # Description for Verify Login Code Email
-fxa-description-38390134 = 同意您的登录活动有助于我们确保您的账户安全。
+fxa-description-38390134 = 请确认您的登录活动，以确保账户安全。
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = 您是否登录了 Firefox？
 # Subject for Verify Login Code Email
-fxa-subject-450ba359 = 批准登录 Firefox
+fxa-subject-450ba359 = 确认登录 Firefox
 # Description for Verify Short Code Email
 fxa-description-d28733a3 = 确认您的账户即可在任何登录的地方畅享 Mozilla 的智能技术
 # Headline for Verify Short Code Email
-fxa-headline-f827216f = 用 Mozilla 打开互联网
+fxa-headline-f827216f = 携手 Mozilla 打开互联网世界
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = 确认您的账户
 
@@ -77,7 +77,7 @@ fxa-headline-cdd2faf6 = 使用 Mozilla 账户备份
 # Logo Alt Text for Email First Page
 fxa-logoAltText-b9228cb5 = fox 备份
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-be11c74c = 开始使用
+fxa-primaryButtonText-be11c74c = 开始
 # Headline for New Device Login Email
 fxa-headline-d0511570 = 有人使用了您的 Mozilla 账户登录。
 # Email From Name for Shared
@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = 安全地备份您的 Firefox 数据并设置密码�
 fxa-headline-0dffe504 = 创建密码以保护您的数据
 # Description for Verify Short Code Email
 fxa-description-bb7998da = 确认您的账户并同步您的密码在您所有登录了 Firefox 的设备中
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = 确认您的 Mozilla 账户以同步
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -107,7 +109,7 @@ fxa-headline-929376b4 = 完成同步设置
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = 通过加密保护您在任何地方登录的密码、书签及同步的 Firefox 数据。
 # Headline for Signup Set Password Page
-fxa-headline-48cc8c34 = 创建密码以安全地同步
+fxa-headline-48cc8c34 = 创建密码以安全同步
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 

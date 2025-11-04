@@ -164,7 +164,7 @@ fxa-description-4766f222 = Se necesita una cuenta de Mozilla para usar Mozilla M
 # Headline for Email First Page
 fxa-headline-de41db80 = Registrate o iniciá sesión en tu cuenta de Mozilla
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Hubo un inicio de sesión nuevo en Mozilla Monitor. Si no es usted, por favor cambie su contraseña.
+fxa-description-4e3d5811 = Hubo un inicio de sesión nuevo en Mozilla Monitor. Si no fuiste vos, por favor cambiá tu contraseña.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nuevo inicio de sesión en Mozilla Monitor
 # Subject for New Device Login Email
@@ -208,9 +208,9 @@ fxa-subject-9235d479 = Confirmá tu cuenta para sincronizar
 # Description for Email First Page
 fxa-description-6591d2a0 = Una cuenta desbloquea el acceso a la VPN y sincroniza tus datos de Firefox en todos los dispositivos.
 # Headline for Email First Page
-fxa-headline-6aca2436 = Activa tu Firefox VPN gratuita con una cuenta de Mozilla
+fxa-headline-6aca2436 = Activá tu Firefox VPN gratis con una cuenta de Mozilla
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Un paso más para obtener los beneficios de Firefox VPN. Ir al panel abierto y activarlo.
+fxa-description-811350a6 = Un paso más para obtener los beneficios de Firefox VPN. Andá al panel abierto y activala.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
