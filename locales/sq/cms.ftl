@@ -10,8 +10,16 @@ fxa-description-4ac18cac = Njëkohësoni fjalëkalimet, skedat dhe faqerojtësit
 fxa-headline-33e9f42d = Vazhdoni te llogaria juaj Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Hyni ose regjistrohuni
+# Description for New Device Login Email
+fxa-description-a0671d4a = Pati një hyrje të re në llogarinë tuaj Mozilla:
+# Headline for New Device Login Email
+fxa-headline-7315250e = Llogaria juaj Mozilla u përdor për të bërë hyrje
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Hyrje e re te Firefox-i
+# Page Title for Shared
+fxa-pageTitle-ffd8275e = Ujdisni njëkohësim Firefox-i
+# Description for Signin Page
+fxa-description-aedac88d = Njëkohësoni fjalëkalime, etj, kurdo që bëni hyrjen në llogari.
 # Headline for Signin Page
 fxa-headline-e8d28194 = Jepni fjalëkalimin tuaj
 # Primary Button Text for Signin Page
@@ -20,8 +28,12 @@ fxa-primaryButtonText-b6d4223e = Hyni
 fxa-headline-d076f12b = Jepni kodin e ripohimit
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Ripohojeni
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = Ndihmonani të sigurohemi se jeni ju ai që po bën hyrjen.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Vazhdo
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = Ndihmonani të sigurohemi se jeni ju ai që po krijon një llogari.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Fillo njëkohësim
 # Description for Signup Confirmed Sync Page
@@ -40,6 +52,12 @@ fxa-primaryButtonText-42369faa = Krijoje llogarinë
 fxa-description-38390134 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, duke miratuar hyrjen tuaj.
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = Mos hytë në llogarinë tuaj Firefox?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Miratoni hyrje në Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Ripohoni llogarinë tuaj dhe përfitoni maksimumin nga Mozilla, nga kudo që bëni hyrjen në llogarinë tuaj duke filluar me:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Hapni internetin me Mozilla-n
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Ripohoni llogarinë tuaj
 
@@ -52,10 +70,24 @@ fxa-logoAltText-96e4284e = Stemë Firefox-i
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Description for Email First Page
+fxa-description-0d2e3341 = Kopjeruani fjalëkalimet, skedat dhe faqerojtësit tuaj Firefox, që të jeni gati për në një pajisje të re.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Kopjeruajini me një llogari Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Fillojani
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Llogaria juaj Mozilla u përdor për të bërë hyrje.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Që të kopjeruani në këtë pajisje, hyni në llogari.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Kopjeruani në mënyrë të siguruar të dhënat tuaja Firefox, me një fjalëkalim.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Krijoni një fjalëkalim, që të mbroni të dhënat tuaja
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Që të bëhet njëkohësim, ripohoni llogarinë tuaj Mozilla
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
