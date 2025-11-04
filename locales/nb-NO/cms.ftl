@@ -104,3 +104,29 @@ fxa-headline-929376b4 = Fullfør synkroniseringsoppsettet
 
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Beskytter passordene dine, bokmerkene dine og synkroniserte Firefox-data med kryptering overalt du er logget inn.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Opprett et passord for sikker synkronisering
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = Opprett en konto, eller logg inn hvis du allerede har en.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Prøv Firefox VPN med en Mozilla-konto
+# Description for New Device Login Email
+fxa-description-e59dc09c = Det var et nytt innloggingforsøk på Mozilla-kontoen din. Hvis dette ikke var deg, bør du endre passordet ditt.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Bruk Mozilla-kontoen din for å synkronisere sikkert til en annen enhet.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Få tilgang til lagrede passord overalt
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = passordsynkronisering
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Opprett en Mozilla-konto for å synkronisere sikkert til en annen enhet.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Bekreft din konto for å synkronisere

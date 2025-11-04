@@ -71,7 +71,7 @@ fxa-logoAltText-96e4284e = Logo Firefox
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
-fxa-description-0d2e3341 = Sauvegardez vos mots de passe, marque-pages et onglets Firefox lorsque vous êtes prêt pour un nouvel appareil.
+fxa-description-0d2e3341 = Sauvegardez vos mots de passe, marque-pages et onglets Firefox lorsque vous comptez passer à un nouvel appareil.
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Sauvegardez avec un compte Mozilla
 # Logo Alt Text for Email First Page
@@ -91,18 +91,18 @@ fxa-headline-0dffe504 = Créez un mot de passe pour protéger vos données
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Confirmez votre compte et synchronisez vos mots de passe partout où vous êtes connecté·e avec Firefox, en commençant par :
 # Subject for Verify Short Code Email
-fxa-subject-c9fd4b52 = Confirmez votre compte Mozilla à synchroniser
+fxa-subject-c9fd4b52 = Confirmez votre compte Mozilla pour synchroniser
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Saisissez une adresse e-mail pour lancer la synchronisation
 # Headline for Signin Page
-fxa-headline-c2b34227 = Saisissez le mot de passe pour lancer la synchronisation
+fxa-headline-c2b34227 = Saisissez un mot de passe pour lancer la synchronisation
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Créez un mot de passe pour lancer la synchronisation
 # Headline for Verify Short Code Email
-fxa-headline-929376b4 = Terminer la configuration de la synchronisation
+fxa-headline-929376b4 = Terminez la configuration de la synchronisation
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
