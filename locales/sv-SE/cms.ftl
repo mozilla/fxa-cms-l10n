@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Säkerhetskopiera dina lösenord, bokmärken och flik
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Säkerhetskopiera med ett Mozilla-konto
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = backup av fox
+fxa-logoAltText-b9228cb5 = Säkerhetskopiera med räven
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Kom igång
 # Headline for New Device Login Email
@@ -100,7 +100,7 @@ fxa-headline-b36f2b05 = Ange e-post för att starta synkronisering
 # Headline for Signin Page
 fxa-headline-c2b34227 = Ange lösenord för att starta synkronisering
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Skapa ett lösenord för att starta synkroniseringen
+fxa-headline-7a6bf86a = Skapa ett lösenord för att starta synkronisering
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Slutför konfigurationen av synkronisering
 
@@ -217,9 +217,9 @@ fxa-description-811350a6 = Ytterligare ett steg för att få tillgång till för
 # Description for Email First Page
 fxa-description-861f2d28 = Säkerhetskopiera dina lösenord, flikar och bokmärken så att du är redo för en ny enhet.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox synkronisering
+fxa-logoAltText-164ffc49 = Synkronisera med räven
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = rävhoppning
+fxa-logoAltText-c4b14a5b = Hoppande räv
