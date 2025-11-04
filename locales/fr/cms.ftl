@@ -109,16 +109,16 @@ fxa-headline-929376b4 = Terminez la configuration de la synchronisation
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Protégez vos mots de passe, marque-pages, données Firefox synchronisées avec un chiffrement partout où vous êtes connecté·e.
 # Headline for Signup Set Password Page
-fxa-headline-48cc8c34 = Créez un mot de passe pour synchroniser en toute sécurité
+fxa-headline-48cc8c34 = Définissez un mot de passe afin de synchroniser vos données en toute sécurité
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-637f76bf = Créez votre compte ou connectez-vous si vous en avez un.
+fxa-description-637f76bf = Créez un compte ou connectez-vous si vous en possédez déjà un.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Essayez Firefox VPN avec un compte Mozilla
 # Description for New Device Login Email
-fxa-description-e59dc09c = Une nouvelle connexion à votre compte Mozilla a été effectuée. Si ce n’est pas vous, veuillez changer votre mot de passe.
+fxa-description-e59dc09c = Une nouvelle connexion à votre compte Mozilla a été effectuée. Si vous n’êtes pas à l’origine de cette connexion, veuillez changer votre mot de passe.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nouvelle connexion à Firefox
 # Page Title for Shared
