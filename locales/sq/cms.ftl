@@ -74,6 +74,8 @@ fxa-logoAltText-96e4284e = Stemë Firefox-i
 fxa-description-0d2e3341 = Kopjeruani fjalëkalimet, skedat dhe faqerojtësit tuaj Firefox, që të jeni gati për në një pajisje të re.
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Kopjeruajini me një llogari Mozilla
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = kopjeruajtje firefox
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Fillojani
 # Headline for New Device Login Email
@@ -207,8 +209,17 @@ fxa-subject-9235d479 = Që të bëhet njëkohësimi, ripohoni llogarinë tuaj
 fxa-description-6591d2a0 = Një llogari shkyç hyrjen për te VPN dhe njëkohëson të dhënat tuaja Firefox nëpër pajisje.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Aktivizoni Firefox VPN-në tuaj me një llogari Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Edhe një që të merrni përfitimet nga Firefox VPN. Kaloni te paneli hapur dhe aktivizojeni.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
 fxa-description-861f2d28 = Kopjeruani fjalëkalimet, skedat dhe faqerojtësit tuaj, që të jeni gati për në një pajisje të re.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = njëkohësim firefox
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = fox jumping

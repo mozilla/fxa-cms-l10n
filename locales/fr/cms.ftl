@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Sauvegardez vos mots de passe, marque-pages et onglet
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Sauvegardez avec un compte Mozilla
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = sauvegarde Fox
+fxa-logoAltText-b9228cb5 = renard sauvegarde
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Commencer
 # Headline for New Device Login Email
@@ -107,7 +107,7 @@ fxa-headline-929376b4 = Terminez la configuration de la synchronisation
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = Protégez vos mots de passe, marque-pages, données Firefox synchronisées avec un chiffrement partout où vous êtes connecté·e.
+fxa-description-c05d9d00 = Protégez de façon chiffrée vos mots de passe, marque-pages et données Firefox synchronisées partout où vous êtes connecté·e.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Définissez un mot de passe afin de synchroniser vos données en toute sécurité
 
@@ -215,11 +215,11 @@ fxa-description-811350a6 = Plus qu’une étape avant de bénéficier des avanta
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
-fxa-description-861f2d28 = Sauvegardez vos mots de passe, onglets et marque-pages pour vous servir de votre nouvel appareil.
+fxa-description-861f2d28 = Sauvegardez vos mots de passe, onglets et marque-pages pour vous préparer à passer à un nouvel appareil.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = renard synchronisant
+fxa-logoAltText-164ffc49 = renard qui synchronise
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = renardeau
+fxa-logoAltText-c4b14a5b = renard en train de sauter
