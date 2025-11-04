@@ -107,6 +107,8 @@ fxa-headline-48cc8c34 = Crea un contrasigno pro securmente synchronisar
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Nove accesso a Firefox
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = Configurar le VPN in Firefox
 # Description for Signin Page
