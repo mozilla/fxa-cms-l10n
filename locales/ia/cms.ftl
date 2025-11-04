@@ -28,8 +28,12 @@ fxa-primaryButtonText-b6d4223e = Aperir session
 fxa-headline-d076f12b = Insere le codice de confirmation
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirmar
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = Adjuta nos a nos assecurar que es tu qui te connecte.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continuar
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = Adjuta nos a nos assecurar que es tu qui crea un conto.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Comencia a synchronisar
 # Description for Signup Confirmed Sync Page
@@ -66,10 +70,24 @@ fxa-logoAltText-96e4284e = Logo Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Sarvegiarda con un conto Mozilla
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = salveguarda vulpe
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Comenciar
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Tu conto Mozilla era usate pro acceder
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Disconnecter pro salveguardar iste apparato
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Salveguarda securmente tu datos de Firefox con un  contrasigno.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Crea un contrasigno pro proteger tu datos
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Confirma tu conto Mozilla pro synchronisar
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -77,6 +95,8 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 fxa-headline-b36f2b05 = Insere email pro initiar a synchronisar
 # Headline for Signin Page
 fxa-headline-c2b34227 = Insere contrasigno pro initiar a synchronisar
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crea un contrasigno pro initiar a synchronisar
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
