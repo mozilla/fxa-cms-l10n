@@ -166,9 +166,9 @@ fxa-headline-de41db80 = Zaregistrujte se nebo se přihlaste ke svému účtu Moz
 # Description for New Device Login Email
 fxa-description-4e3d5811 = Došlo k novému přihlášení k Mozilla Monitoru. Pokud to nejste vy, změňte si prosím své heslo.
 # Headline for New Device Login Email
-fxa-headline-207efcd9 = Nové přihlášení k Mozilla Monitoru
+fxa-headline-207efcd9 = Nové přihlášení ke službě Mozilla Monitor
 # Subject for New Device Login Email
-fxa-subject-207efcd9 = Nové přihlášení k Mozilla Monitoru
+fxa-subject-207efcd9 = Nové přihlášení ke službě Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -176,17 +176,17 @@ fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
 # Logo Alt Text for Shared
 fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 # Page Title for Shared
-fxa-pageTitle-924eac9f = Instalace Mozilla Monitoru
+fxa-pageTitle-924eac9f = Nastavení služby Mozilla Monitor
 # Description for Signin Page
-fxa-description-ab270ce7 = Pro používání Mozilla Monitoru se přihlaste ke svému účtu Mozilla.
+fxa-description-ab270ce7 = Přihlaste se ke svému účtu Mozilla a používejte Mozilla Monitor.
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Nastavte si heslo pro zahájení skenování
 # Headline for Verify Login Code Email
-fxa-headline-461a0bbf = Pro používání Mozilla Monitoru prosím potvrďte svůj účet
+fxa-headline-461a0bbf = Pro používání služby Mozilla Monitor prosím potvrďte svůj účet
 # Subject for Verify Login Code Email
-fxa-subject-461a0bbf = Pro používání Mozilla Monitoru prosím potvrďte svůj účet
+fxa-subject-461a0bbf = Pro používání služby Mozilla Monitor prosím potvrďte svůj účet
 # Headline for Verify Short Code Email
-fxa-headline-74461a97 = Pro používání Mozilla Monitoru prosím potvrďte svůj účet.
+fxa-headline-74461a97 = Pro používání služby Mozilla Monitor prosím potvrďte svůj účet.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
@@ -195,11 +195,11 @@ fxa-description-78fd76ac = Použijte svůj účet Mozilla pro bezpečnou synchro
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Uložená hesla budete mít všude s sebou
 # Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = hesla
+fxa-logoAltText-e9e92d2e = synchronizace hesel
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
-fxa-description-32c1f240 = Vytvořte si účet Mozilla a synchronizujte své zařízení bezpečně.
+fxa-description-32c1f240 = Vytvořte si účet Mozilla pro bezpečnou synchronizaci s jiným zařízením.
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = Pro synchronizaci potvrďte svůj účet
 
