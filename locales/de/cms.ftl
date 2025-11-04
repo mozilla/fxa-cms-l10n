@@ -29,11 +29,11 @@ fxa-headline-d076f12b = Bestätigungscode eingeben
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Bestätigen
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Helfen Sie uns, sicherzustellen, dass Sie sich anmelden.
+fxa-description-8e3fb023 = Helfen Sie uns, sicherzustellen, dass die Anmeldung tatsächlich von Ihnen kommt.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Weiter
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Helfen Sie uns, sicherzustellen, dass Sie es sind, die ein Konto erstellen.
+fxa-description-da2a8a91 = Helfen Sie uns, sicherzustellen, dass das Konto tatsächlich von Ihnen erstellt wird.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Mit Synchronisierung beginnen
 # Description for Signup Confirmed Sync Page
@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Sichern Sie Ihre Passwörter, Lesezeichen und Tabs in
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Mit einem Mozilla-Konto sichern
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = Fuchs-Backup
+fxa-logoAltText-b9228cb5 = Datensicherung mit Fuchs
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Erste Schritte
 # Headline for New Device Login Email
@@ -85,7 +85,7 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = Melden Sie sich an, um dieses Gerät zu sichern.
 # Description for Signup Set Password Page
-fxa-description-3db4ef62 = Sichere deine Firefox-Daten sicher mit einem Passwort.
+fxa-description-3db4ef62 = Sichern Sie Ihre Firefox-Daten – geschützt durch ein Passwort.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Erstellen Sie ein Passwort, um Ihre Daten zu schützen
 # Description for Verify Short Code Email
