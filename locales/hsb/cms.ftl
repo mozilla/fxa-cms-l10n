@@ -56,3 +56,46 @@ fxa-headline-ed889b16 = Sće so pola Firefox přizjewił?
 fxa-subject-450ba359 = Přizjewjenje pola Firefox schwalić
 # Description for Verify Short Code Email
 fxa-description-d28733a3 = Wobkrućće swoje konto a wućehńće najlěpše z Mozilla, wšudźe, hdźež so přizjewjeće, započinajo so:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Wočińće internet z Mozilla
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Wobkrućće swoje konto
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefox
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = Zawěsćće swoje hesła, zapołožki a rajtarki Firefox, hdyž sće hotowy za nowy grat.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Z kontom Mozilla zawěsćić
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = zawěsćenje z lišku
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Prěnje kroki
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Waše konto Mozilla je so za přizjewjenje wužiło
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Přizjewće so, zo byšće tutón grat zawěsćił.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Zawěsćće swoje daty Firefox z hesłom.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Wutworće hesło, zo byšće swoje daty škitał
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Wobkrućće swoje konto Mozilla za synchronizaciju
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Zapodajće e-mejlowu adresu, zo byšće synchronizaciju započał
+# Headline for Signin Page
+fxa-headline-c2b34227 = Zapodajće hesło, zo byšće synchronizaciju započał
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Wutworće hesło, zo byšće synchronizaciju započał
