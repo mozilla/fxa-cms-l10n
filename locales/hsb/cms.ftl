@@ -99,6 +99,8 @@ fxa-headline-b36f2b05 = Zapodajće e-mejlowu adresu, zo byšće synchronizaciju 
 fxa-headline-c2b34227 = Zapodajće hesło, zo byšće synchronizaciju započał
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Wutworće hesło, zo byšće synchronizaciju započał
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Konfiguraciju synchronizacije dokónčić
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
@@ -175,3 +177,26 @@ fxa-headline-461a0bbf = Wobkrućće swoje konto, zo byšće Mozilla Monitor wuž
 fxa-subject-461a0bbf = Wobkrućće swoje konto, zo byšće Mozilla Monitor wužiwał
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Wobkrućće swoje konto, zo byšće Mozilla Monitor wužiwał.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Wzmiće swoje składowane hesła wšudźe sobu
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = hesła synchronizować
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Załožće konto Mozilla, zo byšće z druhim gratom wěsće synchronizował.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Wobkrućće swoje konto, zo byšće synchronizował
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = synchronizacija z lišku
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = skakaca liška
