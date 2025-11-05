@@ -10,6 +10,10 @@ fxa-description-4ac18cac = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰ
 fxa-headline-33e9f42d = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
+# Description for New Device Login Email
+fxa-description-a0671d4a = ਤੁਹਾਡੇ Mozilla ਖਾਤੇ ਲਈ ਨਵਾਂ ਲਾਗ ਇਨ ਕੀਤਾ ਗਿਆ ਸੀ:
+# Headline for New Device Login Email
+fxa-headline-7315250e = ਤੁਹਾਡੇ Mozilla ਖਾਤੇ ਨੂੰ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Firefox ਲਈ ਨਵਾਂ ਸਾਈਨ-ਇਨ
 # Page Title for Shared
@@ -66,6 +70,12 @@ fxa-headline-d0511570 = ਤੁਹਾਡਾ Mozilla ਖਾਤੇ ਨੂੰ ਸਾ
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਬੈਕਅੱਪ ਲੈਣ ਲਈ ਸਾਈਨ-ਇਨ ਕਰੋ।
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = ਆਪਣੇ Firefox ਡਾਟੇ ਦਾ ਪਾਸਵਰਡ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਬੈਕਅੱਪ ਲਵੋ।
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = ਸਿੰਕ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ Mozilla ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -85,8 +95,24 @@ fxa-headline-48cc8c34 = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰ�
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = ਆਪਣਾ ਖਾਤਾ ਬਣਾਓ ਜਾਂ ਜੇ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੇ ਕੋਲ ਹੈ ਤਾਂ ਸਾਈਨ ਇਨ ਕਰੋ।
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Firefox ਵਿੱਚ ਨਵਾਂ ਸਾਈਨ-ਇਨ
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Firefox VPN ਸੈਟ ਅੱਪ ਕਰੋ
+# Description for Signin Page
+fxa-description-427b83de = ਆਪਣੇ Mozilla ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = ਅੱਗੇ: Firefox VPN ਨੂੰ ਚਾਲੂ ਕਰੋ
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = ਆਪਣਾ ਪਾਸਵਰਡ ਲਾਓ
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = ਆਪਣੇ Mozilla ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਲਈ ਦਿੱਤੇ ਕੋਡ ਨੂੰ ਵਰਤੋਂ।
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = ਖਾਤੇ ਦੀ ਤਸਦੀਕ
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Firefox ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਨ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -100,9 +126,21 @@ fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕ
 fxa-description-6bc52850 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਵਾਸਤੇ ਆਪਣੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਇਸ ਤੋਂ ਮਨਜ਼ੂਰ ਕਰੋ:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਤਸਦੀਕ
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = ਆਪਣੇ Mozilla ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਲਈ ਦਿੱਤੇ ਕੋਡ ਨੂੰ ਵਰਤੋਂ।
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Firefox ਬਰਾਊਜ਼ਰ ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Mozilla Monitor ਨੂੰ ਵਰਤਣ ਲਈ Mozilla ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ।
+# Headline for Email First Page
+fxa-headline-de41db80 = ਆਪਣੇ Mozilla ਖਾਤੇ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Mozilla Monitor ਵਿੱਚ ਨਵਾਂ ਸਾਈਨ-ਇਨ
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Mozilla Monitor ਵਿੱਚ ਨਵਾਂ ਸਾਈਨ-ਇਨ
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -111,8 +149,16 @@ fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor ਲੋਗੋ
 fxa-logoAltText-ccc1a61b = Mozilla Monitor ਲੋਗੋ
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Mozilla Monitor ਸੈਟਅੱਪ
+# Description for Signin Page
+fxa-description-ab270ce7 = Mozilla Monitor ਵਰਤਣ ਲਈ ਆਪਣੇ Mozilla ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = ਸਕੈਨ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Mozilla Monitor ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Mozilla Monitor ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Mozilla Monitor ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ।
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
