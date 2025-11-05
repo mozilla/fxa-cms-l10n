@@ -181,6 +181,43 @@ fxa-pageTitle-924eac9f = Mozilla Monitor konfigurěrowaś
 fxa-description-ab270ce7 = Pśizjawśo se pla konta Mozilla, aby Mozilla Monitor wužywał.
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Napórajśo gronidło, aby scan zachopił
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Wobkšuśćo swójo konto, aby Mozilla Monitor wužywał
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Wobkšuśćo swójo konto, aby Mozilla Monitor wužywał
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Wobkšuśćo swójo konto, aby Mozilla Monitor wužywał.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Wužywajśo swójo konto Mozilla, aby z drugim rědom wěsće synchronizěrował.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Wzejśo swóje skłaźone gronidła wšuźi sobu
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = gronidła synchronizěrowaś
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Napórajśo konto Mozilla, aby z drugim rědom wěsće synchronizěrował.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Wobkšuśćo swójo konto, aby synchronizěrował
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = Konto pśistup k VPN wótwórja a synchronizěrujo waše daty Firefox pśez rědy.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Aktiwěrujśo swój dermotny Firefox VPN z kontom Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Dalšny kšac za dostawanje lěpšynow Firefox VPN. Pśejźćo k wócynjonemu woknoju a zmóžniśo jen.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Zawěsććo swóje gronidła, rejtariki a cytańske znamjenja, aby za nowy rěd gótowy był.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = synchronizacija z lišku
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
