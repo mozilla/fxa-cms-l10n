@@ -117,3 +117,72 @@ fxa-headline-48cc8c34 = Napórajśo gronidło, aby wěsće synchronizěrował
 fxa-description-637f76bf = Załožćo swójo konto abo pśizjawśo se, jolic maśo take.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Wopytajśo Firefox VPN z kontom Mozilla
+# Description for New Device Login Email
+fxa-description-e59dc09c = Dajo nowe pśizjawjenje pla wašogo konta Mozilla. Jolic to wy njejsćo, změńśo pšosym swójo gronidło.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Nowe pśizjawjenje pla Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Firefox VPN konfigurěrowaś
+# Description for Signin Page
+fxa-description-427b83de = Pśizjawśo se pla swójogo konta Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Sync jo zmóžnjony a sćo gótowy za Firefox VPN. Źiśo k symbolowej rědce, aby jen zmóžnił.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Dalej: Firefox VPN zmóžniś
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Zapódajśo swójo gronidło
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Wužywajśo pśipołožony kod, aby swójo konto Mozilla wobkšuśił.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Wobkšuśćo swójo konto
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Wobkšuśćo swójo konto, aby se pla Firefox pśizjawił
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nowe pśizjawjenje pla Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Jano jaden malsny kšac. Zapódajśo kod ze swójeje mejlki, aby swójo konto Mozilla aktiwěrował.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Wobkšuśćo swójo konto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Wužywajśo pśipołožony kod, aby swójo konto Mozilla wobkšuśił.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Wobkšuśćo swójo konto, aby wobglědowak Firefox wužywał
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Trjebaśo konto Mozilla, aby Mozilla Monitor wužywał.
+# Headline for Email First Page
+fxa-headline-de41db80 = Registrěrujśo se abo pśizjawśo se pla swójogo konta Mozilla
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Dajo nowe pśizjawjenje pla Mozilla Monitor. Jolic to wy njejsćo, změńśo pšosym swójo gronidło.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Nowe pśizjawjenje pla Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Nowe pśizjawjenje pla Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Mozilla Monitor konfigurěrowaś
+# Description for Signin Page
+fxa-description-ab270ce7 = Pśizjawśo se pla konta Mozilla, aby Mozilla Monitor wužywał.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Napórajśo gronidło, aby scan zachopił
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = skokajuca liška

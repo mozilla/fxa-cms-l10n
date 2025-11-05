@@ -178,7 +178,7 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Mozilla Monitor konfigurować
 # Description for Signin Page
-fxa-description-ab270ce7 = Přizjewće so pola konta MOzilla, zo byšće Mozilla Monitor wužiwał.
+fxa-description-ab270ce7 = Přizjewće so pola konta Mozilla, zo byšće Mozilla Monitor wužiwał.
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Wutworće hesło, zo byšće sken započał
 # Headline for Verify Login Code Email
