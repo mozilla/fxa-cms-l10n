@@ -1,0 +1,60 @@
+### Generated on 2025-10-30T18:00:17.990Z
+### FTL file for CMS localization
+
+
+## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-4ac18cac = Synchronizěrujśo swóje gronidła, rejtariki a cytańske znamjenja wšuźi, źož Firefox wužywaśo.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Dalej ku kontoju Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Registrěrowaś abo pśizjawiś
+# Description for New Device Login Email
+fxa-description-a0671d4a = Dajo nowe pśizjawjenje pla wašogo konta Mozilla:
+# Headline for New Device Login Email
+fxa-headline-7315250e = Wašo konto Mozilla jo se wužyło za pśizjawjenje
+# Subject for New Device Login Email
+fxa-subject-a0a749e1 = Nowe pśizjawjenje pla Firefox
+# Page Title for Shared
+fxa-pageTitle-ffd8275e = Synchronizaciju Firefox konfigurěrowaś
+# Description for Signin Page
+fxa-description-aedac88d = Synchronizěrujśo gronidła a wěcej wšuźi, źož sćo pśizjawjony.
+# Headline for Signin Page
+fxa-headline-e8d28194 = Zapódajśo swójo gronidło
+# Primary Button Text for Signin Page
+fxa-primaryButtonText-b6d4223e = Pśizjawiś
+# Headline for Signin Token Code Page
+fxa-headline-d076f12b = Wobkšuśeński kod zapódaś
+# Primary Button Text for Signin Token Code Page
+fxa-primaryButtonText-70d9be9b = Wobkšuśiś
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = Pomagajśo nam zawěsćiś, až se wy pśizjawjaśo.
+# Primary Button Text for Signin Unblock Code Page
+fxa-primaryButtonText-a0bfb8e5 = Dalej
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = Pomagajśo nam zawěsćiś, až wy konto załožujośo.
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-e4029ca4 = Synchronizaciju zachopiś
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = Waše gronidła, płaśeńske metody, adrese, cytańske znamjenja, historija a wěcej daju se wšuźi synchronizěrowaś, źož Firefox wužywaśo.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = Synchronizacija jo zmóžnjona
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = Drugi rěd pśidaś
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronizěrujśo swóje gronidła, płaśeńske metody, cytańske znamjenja a wěcej wšuźi, źož Firefox wužywaśo.
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = Gronidło napóraś
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = Konto załožyś
+# Description for Verify Login Code Email
+fxa-description-38390134 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = Sćo se pśizjawił pla Firefox?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Pśizjawjenje pla Firefox pśizwóliś
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Wobkšuśćo swójo konto a wuwónoźćo nejlěpše z Mozilla, wšuźi, źož se pśizjawjaśo, zachopinajucy z:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Wócyńśo internet z Mozilla
