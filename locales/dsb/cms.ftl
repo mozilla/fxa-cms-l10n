@@ -58,3 +58,62 @@ fxa-subject-450ba359 = Pśizjawjenje pla Firefox pśizwóliś
 fxa-description-d28733a3 = Wobkšuśćo swójo konto a wuwónoźćo nejlěpše z Mozilla, wšuźi, źož se pśizjawjaśo, zachopinajucy z:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Wócyńśo internet z Mozilla
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Wobkšuśćo swójo konto
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefox
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = Zawěsććo swóje gronidła, cytańske znamjenja a rejtariki Firefox, gaž sćo gótowy za nowy rěd.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Z kontom Mozilla zawěsćiś
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = zawěsćenje z lišku
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Prědne kšace
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Wašo konto Mozilla jo se wužyło za pśizjawjenje.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Pśizjawśo se, aby toś ten rědzawěsćił.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Zawěsććo swóje daty Firefox z gronidłom.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Napórajśo gronidło, aby swóje daty šćitał
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Wobkšuśćo swójo konto a synchronizěrujśo swóje gronidła wšuźi, źož sćo w Firefox pśizjawjony, zachopinajucy z:
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Wobkšuśćo swójo konto Mozilla za synchronizaciju
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Zapódajśo e-mailowu adresu, aby synchronizaciju zachopił
+# Headline for Signin Page
+fxa-headline-c2b34227 = Zapódajśo gronidło, aby synchronizaciju zachopił
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Napórajśo gronidło, aby synchronizaciju zachopił
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Konfiguraciju synchronizacije dokóńcyś
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Šćita waše gronidła, cytańske znamjenja a synchronizěrowane daty Firefox z koděrowanim, wšuźi, źož sćo pśizjawjony.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Napórajśo gronidło, aby wěsće synchronizěrował
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = Załožćo swójo konto abo pśizjawśo se, jolic maśo take.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Wopytajśo Firefox VPN z kontom Mozilla
