@@ -88,6 +88,8 @@ fxa-description-5649263e = Přizjewće so, zo byšće tutón grat zawěsćił.
 fxa-description-3db4ef62 = Zawěsćće swoje daty Firefox z hesłom.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Wutworće hesło, zo byšće swoje daty škitał
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Wobkrućće swoje konto a synchronizujće swoje hesła wšudźe, hdźež sće w Firefox přizjewjeny, započinajo z:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Wobkrućće swoje konto Mozilla za synchronizaciju
 
@@ -104,6 +106,8 @@ fxa-headline-929376b4 = Konfiguraciju synchronizacije dokónčić
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Škita waše hesła, zapołožki a synchronizowane daty Firefox ze zaklučowanjom, wšudźe, hdźež sće přizjewjeny.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Wutworće hesło, zo byšće wěsće synchronizował
 
@@ -113,6 +117,8 @@ fxa-headline-48cc8c34 = Wutworće hesło, zo byšće wěsće synchronizował
 fxa-description-637f76bf = Załožće swoje konto abo přizjewće so, jeli maće tajke.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Wupruwujće Firefox VPN z kontom Mozilla
+# Description for New Device Login Email
+fxa-description-e59dc09c = Běše nowe přizjewjenje pola wašeho konta Mozilla. Jeli to wy njejsće, změńće prošu swoje hesło.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nowe přizjewjenje pola Firefox
 # Page Title for Shared
@@ -180,6 +186,8 @@ fxa-headline-74461a97 = Wobkrućće swoje konto, zo byšće Mozilla Monitor wuž
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Wužiwajće swoje konto Mozilla, zo byšće z druhim gratom wěsće synchronizował.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Wzmiće swoje składowane hesła wšudźe sobu
 # Logo Alt Text for Email First Page
@@ -191,8 +199,15 @@ fxa-description-32c1f240 = Załožće konto Mozilla, zo byšće z druhim gratom 
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = Wobkrućće swoje konto, zo byšće synchronizował
 
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Headline for Email First Page
+fxa-headline-6aca2436 = Aktiwizujće swój darmotny Firefox VPN z kontom Mozilla
+
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
+# Description for Email First Page
+fxa-description-861f2d28 = Zawěsćće swoje hesła, rajtarki a zapołožki, zo byšće za nowy grat hotowy był.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizacija z lišku
 
