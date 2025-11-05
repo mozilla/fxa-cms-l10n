@@ -190,10 +190,6 @@ fxa-headline-74461a97 = Bevestig uw account om Mozilla Monitor te gebruiken.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
-# Description for Email First Page
-fxa-description-78fd76ac = Uw Mozilla-account gebruiken om veilig met een ander apparaat te synchroniseren.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Opgeslagen wachtwoorden overal ophalen
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = wachtwoorden synchroniseren
 # Email From Name for Shared
