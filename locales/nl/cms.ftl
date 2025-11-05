@@ -124,7 +124,7 @@ fxa-pageTitle-6a3bf665 = Firefox VPN instellen
 # Description for Signin Page
 fxa-description-427b83de = Meld u aan bij uw Mozilla-account.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = Sync is ingeschakeld en u bent klaar voor Firefox VPN. Naar de werkbalk om deze in te schakelen.
+fxa-description-68ca3526 = Synchronisatie is ingeschakeld en u bent klaar voor Firefox VPN. Ga naar de werkbalk om deze in te schakelen.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Volgende: Firefox VPN inschakelen
 # Headline for Signup Set Password Page
@@ -143,7 +143,7 @@ fxa-description-0a9e868b = Nieuwe aanmelding bij Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Slechts één snelle stap. Voer de code uit uw e-mailadres in om uw Mozilla-account te activeren.
+fxa-description-daaed757 = Slechts één snelle stap. Voer de code uit het e-mailbericht in om uw Mozilla-account te activeren.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Registreren of aanmelden
 # Description for Verify Login Code Email
@@ -161,8 +161,6 @@ fxa-subject-f3d09e03 = Bevestig uw account om Firefox Browser te gebruiken
 fxa-description-4766f222 = Er is een Mozilla-account nodig om Mozilla Monitor te gebruiken.
 # Headline for Email First Page
 fxa-headline-de41db80 = Registreer of meld u aan bij uw Mozilla-account
-# Description for New Device Login Email
-fxa-description-4e3d5811 = Er was een nieuwe aanmelding bij Mozilla Monitor. Als dit niet het geval is, wijzig dan uw wachtwoord.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nieuwe aanmelding bij Mozilla Monitor
 # Subject for New Device Login Email
