@@ -37,7 +37,7 @@ fxa-description-da2a8a91 = 请协助确认是您本人在创建账户。
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = 开始同步
 # Description for Signup Confirmed Sync Page
-fxa-description-2115ee89 = 在您使用 Firefox 的任何地方您的密码、付款方式、网址、书签、历史记录等数据都会被同步。
+fxa-description-2115ee89 = 您可以在使用 Firefox 的各设备间，同步密码、付款方式、地址、书签、历史记录等数据。
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = 同步已开启
 # Primary Button Text for Signup Confirmed Sync Page
@@ -89,7 +89,7 @@ fxa-description-3db4ef62 = 安全地备份您的 Firefox 数据并设置密码�
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = 创建密码以保护您的数据
 # Description for Verify Short Code Email
-fxa-description-bb7998da = 确认您的账户并同步您的密码在您所有登录了 Firefox 的设备中
+fxa-description-bb7998da = 确认您的账户后，即可在所有已登录设备间同步密码。体验第一站：
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = 确认您的 Mozilla 账户以同步
 
@@ -120,7 +120,7 @@ fxa-headline-6d656fc9 = 通过 Mozilla 账户试用 Firefox VPN
 # Description for New Device Login Email
 fxa-description-e59dc09c = 您的 Mozilla 账户有新的登录活动。如非本人操作，请更改密码。
 # Headline for New Device Login Email
-fxa-headline-a0a749e1 = 新一次登录 Firefox
+fxa-headline-a0a749e1 = Firefox 有新的登录活动
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = 设置 Firefox VPN
 # Description for Signin Page
