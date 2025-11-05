@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Säkerhetskopiera dina lösenord, bokmärken och flik
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Säkerhetskopiera med ett Mozilla-konto
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = backup av fox
+fxa-logoAltText-b9228cb5 = Säkerhetskopiera med räven
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Kom igång
 # Headline for New Device Login Email
@@ -100,7 +100,7 @@ fxa-headline-b36f2b05 = Ange e-post för att starta synkronisering
 # Headline for Signin Page
 fxa-headline-c2b34227 = Ange lösenord för att starta synkronisering
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Skapa ett lösenord för att starta synkroniseringen
+fxa-headline-7a6bf86a = Skapa ett lösenord för att starta synkronisering
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Slutför konfigurationen av synkronisering
 
@@ -126,7 +126,7 @@ fxa-pageTitle-6a3bf665 = Konfigurera Firefox VPN
 # Description for Signin Page
 fxa-description-427b83de = Logga in på ditt Mozilla-konto.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = Sync är aktiverad och du är redo för Firefox VPN. Gå till verktygsfältet för att aktivera den.
+fxa-description-68ca3526 = Synkronisering är aktiverad och du är redo för Firefox VPN. Gå till verktygsfältet för att aktivera den.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Nästa: Slå på Firefox VPN
 # Headline for Signup Set Password Page
@@ -145,7 +145,7 @@ fxa-description-0a9e868b = Ny inloggning till Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Ett snabbt steg. Ange koden från ditt mejl för att aktivera ditt Mozilla-konto.
+fxa-description-daaed757 = Bara ett steg kvar. Ange koden från ditt mejl för att aktivera ditt Mozilla-konto.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Registrera dig eller logga in
 # Description for Verify Login Code Email
@@ -176,7 +176,7 @@ fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor logotyp
 # Logo Alt Text for Shared
 fxa-logoAltText-ccc1a61b = Mozilla Monitor logotyp
 # Page Title for Shared
-fxa-pageTitle-924eac9f = Ställ in Mozilla Monitor
+fxa-pageTitle-924eac9f = Konfigurera Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Logga in på ditt Mozilla-konto för att använda Mozilla Monitor.
 # Headline for Signup Set Password Page
@@ -195,7 +195,7 @@ fxa-description-78fd76ac = Använd ditt Mozilla-konto för att säkert synkronis
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Få sparade lösenord överallt
 # Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = lösenordssynkronisering
+fxa-logoAltText-e9e92d2e = Synkronisering av lösenord
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
@@ -217,9 +217,9 @@ fxa-description-811350a6 = Ytterligare ett steg för att få tillgång till för
 # Description for Email First Page
 fxa-description-861f2d28 = Säkerhetskopiera dina lösenord, flikar och bokmärken så att du är redo för en ny enhet.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox synkronisering
+fxa-logoAltText-164ffc49 = Synkronisera med räven
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = rävhoppning
+fxa-logoAltText-c4b14a5b = Hoppande räv
