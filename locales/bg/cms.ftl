@@ -19,7 +19,7 @@ fxa-subject-a0a749e1 = Ново вписване във Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Настройване на Firefox Sync
 # Description for Signin Page
-fxa-description-aedac88d = Синхронизирайте пароли и други навсякъде, където сте вписани.
+fxa-description-aedac88d = Синхронизирайте пароли и още елементи навсякъде, където сте вписани.
 # Headline for Signin Page
 fxa-headline-e8d28194 = Въвеждане на парола
 # Primary Button Text for Signin Page
