@@ -71,7 +71,7 @@ fxa-logoAltText-96e4284e = Firefox 徽标
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
-fxa-description-0d2e3341 = 备份您的 Firefox 密码、书签和标签页随身携带。
+fxa-description-0d2e3341 = 备份 Firefox 密码、书签、标签页，从容换用新设备。
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = 使用 Mozilla 账户备份
 # Logo Alt Text for Email First Page
@@ -85,7 +85,7 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = 登录以备份此设备。
 # Description for Signup Set Password Page
-fxa-description-3db4ef62 = 安全地备份您的 Firefox 数据并设置密码。
+fxa-description-3db4ef62 = 备份您的 Firefox 数据，并以密码确保安全。
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = 创建密码以保护您的数据
 # Description for Verify Short Code Email
@@ -107,7 +107,7 @@ fxa-headline-929376b4 = 完成同步设置
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = 通过加密保护您在任何地方登录的密码、书签及同步的 Firefox 数据。
+fxa-description-c05d9d00 = 在您已登录的各设备上，加密保护密码、书签，以及同步的 Firefox 数据。
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = 创建密码以安全同步
 
@@ -128,9 +128,9 @@ fxa-description-427b83de = 登录您的 Mozilla 账户。
 # Description for Signup Confirmed Sync Page
 fxa-description-68ca3526 = 同步已启用准备好您可以使用 Firefox VPN 了。前往工具栏将其打开。
 # Headline for Signup Confirmed Sync Page
-fxa-headline-9628f0ec = 下一步: 启用 Firefox VPN
+fxa-headline-9628f0ec = 下一步：开启 Firefox VPN
 # Headline for Signup Set Password Page
-fxa-headline-7e0aff4a = 创建您的密码
+fxa-headline-7e0aff4a = 设置密码
 # Description for Verify Short Code Email
 fxa-description-f8578b7c = 使用附带的代码来验证您的 Mozilla 账户。
 # Headline for Verify Short Code Email
@@ -141,7 +141,7 @@ fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
-fxa-description-0a9e868b = 新登录 Firefox
+fxa-description-0a9e868b = Firefox 有新的登录活动
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
@@ -164,11 +164,11 @@ fxa-description-4766f222 = 要使用 Mozilla Monitor 需要一个 Mozilla 账户
 # Headline for Email First Page
 fxa-headline-de41db80 = 注册或登录您的 Mozilla 账户
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Mozilla Monitor 有新的登录活动。如果这不是您的操作请更改您的密码。
+fxa-description-4e3d5811 = Mozilla Monitor 有新的登录活动。如非本人操作，请更改密码。
 # Headline for New Device Login Email
-fxa-headline-207efcd9 = 有新的登录活动到 Mozilla Monitor
+fxa-headline-207efcd9 = Mozilla Monitor 有新的登录活动
 # Subject for New Device Login Email
-fxa-subject-207efcd9 = 有新的登录活动到 Mozilla Monitor
+fxa-subject-207efcd9 = Mozilla Monitor 有新的登录活动
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
