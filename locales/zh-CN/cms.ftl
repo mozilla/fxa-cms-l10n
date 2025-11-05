@@ -132,7 +132,7 @@ fxa-headline-9628f0ec = 下一步：开启 Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = 设置密码
 # Description for Verify Short Code Email
-fxa-description-f8578b7c = 使用附带的代码来验证您的 Mozilla 账户。
+fxa-description-f8578b7c = 通过随附的验证码来确认 Mozilla 账户。
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = 确认您的账户
 # Subject for Verify Short Code Email
@@ -145,7 +145,7 @@ fxa-description-0a9e868b = Firefox 有新的登录活动
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = 只需很少的一步。输入您在电子邮件中收到的代码以激活您的 Mozilla 账户。
+fxa-description-daaed757 = 只差一小步了。请输入邮件中的验证码，激活您的 Mozilla 账户。
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = 注册或登录
 # Description for Verify Login Code Email
@@ -153,14 +153,14 @@ fxa-description-6bc52850 = 请确认您的登录活动，以确保账户安全�
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = 确认您的账户
 # Headline for Verify Short Code Email
-fxa-headline-f8578b7c = 使用附带的代码来验证您的 Mozilla 账户。
+fxa-headline-f8578b7c = 通过随附的验证码来确认 Mozilla 账户。
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = 确认您的账户以使用 Firefox 浏览器
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
-fxa-description-4766f222 = 要使用 Mozilla Monitor 需要一个 Mozilla 账户。
+fxa-description-4766f222 = Mozilla Monitor 需通过 Mozilla 账户使用。
 # Headline for Email First Page
 fxa-headline-de41db80 = 注册或登录您的 Mozilla 账户
 # Description for New Device Login Email
