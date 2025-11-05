@@ -100,14 +100,25 @@ fxa-headline-c2b34227 = Zapodajće hesło, zo byšće synchronizaciju započał
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Wutworće hesło, zo byšće synchronizaciju započał
 
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Wutworće hesło, zo byšće wěsće synchronizował
+
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = Załožće swoje konto abo přizjewće so, jeli maće tajke.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Wupruwujće Firefox VPN z kontom Mozilla
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nowe přizjewjenje pola Firefox
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = Firefox VPN konfigurować
 # Description for Signin Page
 fxa-description-427b83de = Přizjewće so pola swojeho konta Mozilla
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Dale: Firefox VPN zmóžnić
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Zapodajće swoje hesło
 # Description for Verify Short Code Email
@@ -123,6 +134,8 @@ fxa-subject-10e5b452 = Wobkrućće swoje konto, zo byšće so pola Firefox přiz
 fxa-description-0a9e868b = Nowe přizjewjenje pola Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Jenož jedyn spěšny krok. Zapodajće kod ze swojeje mejlki, zo byšće swoje konto Mozilla aktiwizował.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Registrować abo přizjewić
 # Description for Verify Login Code Email
@@ -140,3 +153,25 @@ fxa-subject-f3d09e03 = Wobkrućće swoje konto, zo byšće wobhladowak Firefox w
 fxa-description-4766f222 = Trjebaće konto Mozilla, zo byšće Mozilla Monitor wužiwał.
 # Headline for Email First Page
 fxa-headline-de41db80 = Registrujće so abo přizjewće so pola swojeho konta Mozilla
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Nowe přizjewjenje pola Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Nowe přizjewjenje pola Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Mozilla Monitor konfigurować
+# Description for Signin Page
+fxa-description-ab270ce7 = Přizjewće so pola konta MOzilla, zo byšće Mozilla Monitor wužiwał.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Wutworće hesło, zo byšće sken započał
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Wobkrućće swoje konto, zo byšće Mozilla Monitor wužiwał
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Wobkrućće swoje konto, zo byšće Mozilla Monitor wužiwał
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Wobkrućće swoje konto, zo byšće Mozilla Monitor wužiwał.
