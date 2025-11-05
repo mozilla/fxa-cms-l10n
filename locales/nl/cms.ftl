@@ -117,6 +117,8 @@ fxa-headline-48cc8c34 = Een wachtwoord aanmaken om veilig te synchroniseren
 fxa-description-637f76bf = Maak uw account aan of meld u aan als u er een hebt.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Probeer Firefox VPN met een Mozilla-account
+# Description for New Device Login Email
+fxa-description-e59dc09c = Er is een nieuwe aanmelding bij uw Mozilla-account. Als u dit niet was, wijzig dan uw wachtwoord.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nieuwe aanmelding bij Firefox
 # Page Title for Shared
@@ -124,7 +126,7 @@ fxa-pageTitle-6a3bf665 = Firefox VPN instellen
 # Description for Signin Page
 fxa-description-427b83de = Meld u aan bij uw Mozilla-account.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = Synchronisatie is ingeschakeld en u bent klaar voor Firefox VPN. Ga naar de werkbalk om deze in te schakelen.
+fxa-description-68ca3526 = Sync is ingeschakeld en u bent klaar voor Firefox VPN. Naar de werkbalk om deze in te schakelen.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Volgende: Firefox VPN inschakelen
 # Headline for Signup Set Password Page
@@ -161,6 +163,8 @@ fxa-subject-f3d09e03 = Bevestig uw account om Firefox Browser te gebruiken
 fxa-description-4766f222 = Er is een Mozilla-account nodig om Mozilla Monitor te gebruiken.
 # Headline for Email First Page
 fxa-headline-de41db80 = Registreer of meld u aan bij uw Mozilla-account
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Er was een nieuwe aanmelding bij Mozilla Monitor. Als u dit niet was, wijzig dan uw wachtwoord.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nieuwe aanmelding bij Mozilla Monitor
 # Subject for New Device Login Email
@@ -214,3 +218,8 @@ fxa-description-811350a6 = Nog een stap in het verkrijgen van de voordelen van F
 fxa-description-861f2d28 = Maak een back-up van uw wachtwoorden, tabbladen en bladwijzers, zodat u klaar bent voor een nieuw apparaat.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox-synchronisatie
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = springende vos
