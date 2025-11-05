@@ -211,9 +211,9 @@ fxa-description-811350a6 = Nog een stap in het verkrijgen van de voordelen van F
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
-fxa-description-861f2d28 = Maak een back-up van uw wachtwoorden, tabbladen en bladwijzers, zodat u klaar bent voor een nieuw apparaat.
+fxa-description-861f2d28 = Maak een reservekopie van uw wachtwoorden, tabbladen en bladwijzers, zodat u klaar bent voor een nieuw apparaat.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox-synchronisatie
+fxa-logoAltText-164ffc49 = synchoniserende vos
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
