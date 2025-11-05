@@ -53,7 +53,7 @@ fxa-description-38390134 = Aiutaci a mantenere il tuo account al sicuro approvan
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = Hai effettuato l’accesso a Firefox?
 # Subject for Verify Login Code Email
-fxa-subject-450ba359 = Confrma l’accesso a Firefox
+fxa-subject-450ba359 = Conferma l’accesso a Firefox
 # Description for Verify Short Code Email
 fxa-description-d28733a3 = Conferma il tuo account e ottieni il massimo da Mozilla su tutti i dispositivi da cui accedi, iniziando con:
 # Headline for Verify Short Code Email
