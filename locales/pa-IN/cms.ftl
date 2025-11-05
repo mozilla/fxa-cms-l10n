@@ -162,13 +162,28 @@ fxa-headline-74461a97 = Mozilla Monitor ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾ�
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ ਆਪਣੇ Mozilla ਖਾਤੇ ਨੂੰ ਵਰਤੋਂ।
+# Headline for Email First Page
+fxa-headline-0ec7d798 = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਹਰ ਥਾਂ ਲਵੋ
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = ਪਾਸਵਰਡ ਸਿੰਕ ਕਰੋ
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ ਇੱਕ Mozilla ਖਾਤਾ ਬਣਾਓ।
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = ਸਿੰਕ ਕਰਨ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Headline for Email First Page
+fxa-headline-6aca2436 = Mozilla ਖਾਤੇ ਨਾਲ ਆਪਣੇ ਮੁਫ਼ਤ Firefox VPN ਨੂੰ ਸਰਗਰਮ ਕਰੋ
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
+# Description for Email First Page
+fxa-description-861f2d28 = ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਜਾਣ ਲਈ ਤਿਆਰੀ ਵਾਸਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਟੈਬਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਬੈਕਅੱਪ ਲੈ ਲਵੋ।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ਸਿੰਕ ਕਰਨਾ ਲੂੰਬੜ
 
