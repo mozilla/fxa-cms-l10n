@@ -99,3 +99,44 @@ fxa-headline-b36f2b05 = Zapodajće e-mejlowu adresu, zo byšće synchronizaciju 
 fxa-headline-c2b34227 = Zapodajće hesło, zo byšće synchronizaciju započał
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Wutworće hesło, zo byšće synchronizaciju započał
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Nowe přizjewjenje pola Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Firefox VPN konfigurować
+# Description for Signin Page
+fxa-description-427b83de = Přizjewće so pola swojeho konta Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Zapodajće swoje hesło
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Wužiwajće připołoženy kod, zo byšće swoje konto Mozilla wobkrućił.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Wobkrućće swoje konto
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Wobkrućće swoje konto, zo byšće so pola Firefox přizjewił
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nowe přizjewjenje pola Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrować abo přizjewić
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Schwalće swoje přizjewjenje, zo byšće nam pomhał, waše konto škitać.
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Wobkrućće swoje konto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Wužiwajće připołoženy kod, zo byšće swoje konto Mozilla wobkrućił.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Wobkrućće swoje konto, zo byšće wobhladowak Firefox wužiwał
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Trjebaće konto Mozilla, zo byšće Mozilla Monitor wužiwał.
+# Headline for Email First Page
+fxa-headline-de41db80 = Registrujće so abo přizjewće so pola swojeho konta Mozilla
