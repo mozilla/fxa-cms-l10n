@@ -42,6 +42,10 @@ fxa-primaryButtonText-598649e6 = Legg til ei anna eining
 fxa-headline-72786b8a = Opprett eit passord
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Opprett konto
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = Logga du inn på Firefox?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Godkjenn innlogging til Firefox
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Stadfest kontoen din
 
@@ -54,6 +58,14 @@ fxa-logoAltText-96e4284e = Firefox-logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Kom i gang
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Mozilla-kontoen din vart brukt til å logge inn.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Logg inn for å sikkerheitskopiere denne eininga.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Stadfest Mozilla-kontoen din for å synkronisere
 
@@ -63,6 +75,8 @@ fxa-subject-c9fd4b52 = Stadfest Mozilla-kontoen din for å synkronisere
 fxa-headline-b36f2b05 = Skriv inn e-postadresse for å starte synkronisering
 # Headline for Signin Page
 fxa-headline-c2b34227 = Skriv inn passord for å starte synkronisering
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Fullfør synkroniseringsoppsettet
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
