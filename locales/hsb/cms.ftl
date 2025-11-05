@@ -125,6 +125,8 @@ fxa-headline-a0a749e1 = Nowe přizjewjenje pola Firefox
 fxa-pageTitle-6a3bf665 = Firefox VPN konfigurować
 # Description for Signin Page
 fxa-description-427b83de = Přizjewće so pola swojeho konta Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Sync je zmóžnjeny a sće hotowy za Firefox VPN. Dźiće k symbolowej lajsće, zo byšće jón zmóžnił.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Dale: Firefox VPN zmóžnić
 # Headline for Signup Set Password Page
@@ -161,6 +163,8 @@ fxa-subject-f3d09e03 = Wobkrućće swoje konto, zo byšće wobhladowak Firefox w
 fxa-description-4766f222 = Trjebaće konto Mozilla, zo byšće Mozilla Monitor wužiwał.
 # Headline for Email First Page
 fxa-headline-de41db80 = Registrujće so abo přizjewće so pola swojeho konta Mozilla
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Běše nowe přizjewjenje pola Mozilla Monitor. Jeli to wy njejsće, změńće prošu swoje hesło.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nowe přizjewjenje pola Mozilla Monitor
 # Subject for New Device Login Email
@@ -201,8 +205,12 @@ fxa-subject-9235d479 = Wobkrućće swoje konto, zo byšće synchronizował
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-6591d2a0 = Konto přistup k VPN wotewěra a synchronizuje waše daty Firefox přez graty.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Aktiwizujće swój darmotny Firefox VPN z kontom Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Dalši krok za dóstawanje lěpšinow Firefox VPN. Přeńdźće k wočinjenemu woknu a zmóžńće jón.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
