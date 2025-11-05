@@ -208,7 +208,7 @@ fxa-subject-9235d479 = 确认您的账户以同步
 # Description for Email First Page
 fxa-description-6591d2a0 = 账户将解锁 VPN 访问权限并跨设备同步您的 Firefox 数据。
 # Headline for Email First Page
-fxa-headline-6aca2436 = 使用 Mozilla 账户免费激活 Firefox VPN
+fxa-headline-6aca2436 = 使用 Mozilla 账户免费启用 Firefox VPN
 # Description for Signup Confirmed Sync Page
 fxa-description-811350a6 = 再进一步享受 Firefox VPN 的好处。前往打开的面板将其开启。
 
