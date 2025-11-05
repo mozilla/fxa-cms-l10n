@@ -33,7 +33,7 @@ fxa-description-8e3fb023 = به ما کمک کنید که مطمئن شویم، 
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = ادامه
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = به ما کمک کنید که مطمئن شویم، شما در حال  ایجاد حساب کاربری هستید.
+fxa-description-da2a8a91 = برای اطمینان از اینکه خود شما در حال ایجاد حساب کاربری هستید، لطفا رایانامه خود را تأیید کنید.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = آغاز همگام‌سازی
 # Description for Signup Confirmed Sync Page
