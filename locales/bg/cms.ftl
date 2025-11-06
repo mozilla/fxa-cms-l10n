@@ -47,7 +47,7 @@ fxa-description-201c6fe1 = Синхронизирайте своите паро�
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Създаване на парола
 # Primary Button Text for Signup Set Password Page
-fxa-primaryButtonText-42369faa = Създаване на сметка
+fxa-primaryButtonText-42369faa = Създаване на профил
 # Description for Verify Login Code Email
 fxa-description-38390134 = Помогнете ни да защитим профила ви, като одобрите вписването ви.
 # Headline for Verify Login Code Email
@@ -122,9 +122,9 @@ fxa-description-e59dc09c = Имаше ново влизане във вашия 
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Ново вписване във Firefox
 # Page Title for Shared
-fxa-pageTitle-6a3bf665 = Настройте Firefox VPN
+fxa-pageTitle-6a3bf665 = Настройване на Firefox VPN
 # Description for Signin Page
-fxa-description-427b83de = Влезте в профила си в Mozilla.
+fxa-description-427b83de = Вписване в Mozilla профила ви
 # Description for Signup Confirmed Sync Page
 fxa-description-68ca3526 = Sync е активиран и сте готови за Firefox VPN. Отворете лентата с инструменти, за да я включите.
 # Headline for Signup Confirmed Sync Page
