@@ -28,3 +28,23 @@ fxa-primaryButtonText-70d9be9b = Ñemoneĩ
 fxa-primaryButtonText-a0bfb8e5 = Eku’ejey
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Embojuehe ñepyrũ
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = Ñembojuehe hendýma
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = Embojuaju ambue mba’e’oka
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = Emoheñói ñe’ẽñemi
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = Emoheñói mba’ete
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = ¿Eikéma Firefox-pe?
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = Aguara ñembojuehe
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = Aguara jepo
