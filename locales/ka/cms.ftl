@@ -73,13 +73,13 @@ fxa-logoAltText-96e4284e = Firefox-ლოგო
 # Description for Email First Page
 fxa-description-0d2e3341 = დაამარქაფეთ Firefox-ის პაროლები, სანიშნები და ჩანართები, როცა მზად იქნებით ახალი მოწყობილობისთვის.
 # Headline for Email First Page
-fxa-headline-cdd2faf6 = დამარქაფება Mozilla-ს ანგარიშით
+fxa-headline-cdd2faf6 = დამარქაფება Mozilla-ანგარიშით
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = fox-ის სამარქაფო ასლი
+fxa-logoAltText-b9228cb5 = მელა ამარქაფებს
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = დაიწყეთ
 # Headline for New Device Login Email
-fxa-headline-d0511570 = თქვენი Mozilla ანგარიში გამოყენებულია შესვლისთვის.
+fxa-headline-d0511570 = თქვენი Mozilla-ანგარიში გამოყენებულია შესვლისთვის.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
@@ -100,7 +100,7 @@ fxa-headline-b36f2b05 = შეიყვანეთ ელფოსტა სი
 # Headline for Signin Page
 fxa-headline-c2b34227 = მიუთითეთ პაროლი სინქრონიზაციის დასაწყებად
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = პაროლის შექმნა სინქრონიზაციის დასაწყებად
+fxa-headline-7a6bf86a = შექმენით პაროლი სინქრონიზაციის დასაწყებად
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = დაასრულეთ სინქრონიზაციის გამართვა
 
@@ -116,7 +116,7 @@ fxa-headline-48cc8c34 = შექმენით პაროლი უსაფ
 # Description for Email First Page
 fxa-description-637f76bf = შექმენით თქვენი ანგარიში ან შედით, თუ გაქვთ.
 # Headline for Email First Page
-fxa-headline-6d656fc9 = გამოცადეთ Firefox VPN Mozilla-ს ანგარიშით
+fxa-headline-6d656fc9 = გამოცადეთ Firefox VPN თქვენი Mozilla-ანგარიშით
 # Description for New Device Login Email
 fxa-description-e59dc09c = თქვენს Mozilla-ს ანგარიშზე ახალი შესვლა მოხდა. თუ ეს არაა, გთხოვთ შეცვალოთ პაროლი.
 # Headline for New Device Login Email
@@ -217,9 +217,9 @@ fxa-description-811350a6 = კიდევ ერთი ნაბიჯი Firef
 # Description for Email First Page
 fxa-description-861f2d28 = დაამარქაფეთ პაროლები, ჩანართები და სანიშნები, ასე რომ მზად იყოთ ახალი მოწყობილობისთვის.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox სინქრონიზაცია
+fxa-logoAltText-164ffc49 = მელა ასინქრონებს
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = მელას ხტუნვა
+fxa-logoAltText-c4b14a5b = მელა დახტის
