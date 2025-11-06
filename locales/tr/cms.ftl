@@ -71,7 +71,7 @@ fxa-logoAltText-96e4284e = Firefox logosu
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
-fxa-description-0d2e3341 = Firefox parolalarınızı, yer imlerinizi ve sekmelerinizi yeni bir cihazda yedekleyin.
+fxa-description-0d2e3341 = Yeni bir cihaza geçmeye hazırlanırken Firefox parolalarınızı, yer imlerinizi ve sekmelerinizi yedekleyin.
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Mozilla hesabıyla yedekleme
 # Logo Alt Text for Email First Page
@@ -88,8 +88,6 @@ fxa-description-5649263e = Bu cihazı yedeklemek için giriş yapın.
 fxa-description-3db4ef62 = Firefox verilerinizi bir parolayla güvenli bir şekilde yedekleyin.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Verilerinizi korumak için bir parola oluşturun
-# Description for Verify Short Code Email
-fxa-description-bb7998da = Firefox’a giriş yaptığınız her yerde hesabınızı doğrulayın ve parolalarınızı eşitleyin:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Eşitleme için Mozilla hesabınızı onaylayın
 
@@ -191,7 +189,7 @@ fxa-headline-74461a97 = Mozilla Monitor’ü kullanmak için hesabınızı onayl
 ## l10n-6 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
-fxa-description-78fd76ac = Başka bir cihazla güvenli bir şekilde eşitlemek için Mozilla hesabınızı kullanın.
+fxa-description-78fd76ac = Başka bir cihazla güvenli bir şekilde eşitleme yapmak için Mozilla hesabınızı kullanın.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Kayıtlı parolalarınızı yanınızda taşıyın
 # Logo Alt Text for Email First Page
@@ -199,25 +197,23 @@ fxa-logoAltText-e9e92d2e = parola eşitleme
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
-fxa-description-32c1f240 = Başka bir cihazla güvenli bir şekilde eşitlemek için Mozilla hesabı açın.
+fxa-description-32c1f240 = Başka bir cihazla güvenli bir şekilde eşitleme yapmak için Mozilla hesabı açın.
 # Subject for Verify Short Code Email
-fxa-subject-9235d479 = Eşitlenecek hesabınızı onaylayın
+fxa-subject-9235d479 = Eşitleme için hesabınızı onaylayın
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = Açtığınız hesap, VPN erişimini ve Firefox verilerinizi cihazlarınız arasında eşitlemesini sağlar.
+fxa-description-6591d2a0 = Hesabınız hem VPN’e erişmenizi hem de Firefox verilerinizi cihazlarınız arasında eşitlenmesini sağlar.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Ücretsiz Firefox VPN’inizi Mozilla hesabıyla etkinleştirin
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Firefox VPN avantajlarından yararlanmaya bir adım daha. Açık panele gidip paneli açın.
+fxa-description-811350a6 = Firefox VPN avantajlarından yararlanmaya bir adım kaldı. Açık panele gidip VPN’i etkinleştirin.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
 fxa-description-861f2d28 = Yeni cihazını kullanmaya hazır olmak için parolalarınızı, sekmelerinizi ve yer imlerinizi yedekleyin.
-# Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox syncing
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
