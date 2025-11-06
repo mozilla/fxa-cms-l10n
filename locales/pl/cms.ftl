@@ -48,6 +48,8 @@ fxa-primaryButtonText-42369faa = Utwórz konto
 fxa-description-38390134 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie.
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Zatwierdź logowanie do Firefoksa
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Potwierdź konto i w pełni wykorzystaj Mozillę wszędzie, gdzie się zalogujesz, zaczynając od:
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Potwierdź konto
 
@@ -77,6 +79,8 @@ fxa-headline-b36f2b05 = Wprowadź adres e-mail, aby rozpocząć synchronizację
 fxa-headline-c2b34227 = Wpisz hasło, aby rozpocząć synchronizację
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Utwórz hasło, aby rozpocząć synchronizację
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Dokończ konfigurację synchronizacji
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -134,6 +138,10 @@ fxa-emailFromName-e2b624cb = Mozilla Monitor
 fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
 # Logo Alt Text for Shared
 fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Konfiguracja Mozilla Monitor
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Utwórz hasło, aby rozpocząć skanowanie
 # Headline for Verify Login Code Email
 fxa-headline-461a0bbf = Potwierdź swoje konto, aby korzystać z Mozilla Monitor
 # Subject for Verify Login Code Email
@@ -143,6 +151,8 @@ fxa-headline-74461a97 = Potwierdź swoje konto, aby korzystać z Mozilla Monito
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Użyj konta Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = synchronizacja haseł
 # Email From Name for Shared
