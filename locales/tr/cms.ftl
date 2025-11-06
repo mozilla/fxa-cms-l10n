@@ -79,7 +79,7 @@ fxa-logoAltText-b9228cb5 = fox yedeği
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Başlayın
 # Headline for New Device Login Email
-fxa-headline-d0511570 = Mozilla hesabınız kullanıldı. Giriş
+fxa-headline-d0511570 = Mozilla hesabınız giriş yapmak için kullanıldı.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
@@ -91,7 +91,7 @@ fxa-headline-0dffe504 = Verilerinizi korumak için bir parola oluşturun
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Firefox’a giriş yaptığınız her yerde hesabınızı doğrulayın ve parolalarınızı eşitleyin:
 # Subject for Verify Short Code Email
-fxa-subject-c9fd4b52 = Eşitlenecek Mozilla hesabınızı onaylayın
+fxa-subject-c9fd4b52 = Eşitleme için Mozilla hesabınızı onaylayın
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -102,23 +102,23 @@ fxa-headline-c2b34227 = Eşitlemeyi başlatmak için parolanızı yazın
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Eşitlemeyi başlatmak için parola oluşturun
 # Headline for Verify Short Code Email
-fxa-headline-929376b4 = Eşitleme kurulumunu tamamla
+fxa-headline-929376b4 = Eşitleme kurulumunu tamamlayın
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Giriş yaptığınız her yerde parolalarınızı, yer imlerinizi ve eşitlenmiş Firefox verilerinizi şifreleyerek korur.
 # Headline for Signup Set Password Page
-fxa-headline-48cc8c34 = Güvenli bir şekilde eşitlemek için bir parola oluşturun
+fxa-headline-48cc8c34 = Güvenli bir şekilde eşitlemek için parola oluşturun
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-637f76bf = Hesabınızı oluşturun veya varsa giriş yapın.
+fxa-description-637f76bf = Hesap açın veya hesabınız varsa giriş yapın.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Firefox VPN’i Mozilla hesabıyla deneyin
 # Description for New Device Login Email
-fxa-description-e59dc09c = Mozilla hesabınıza yeni bir giriş yapıldı. Bu siz değilseniz lütfen parolanızı değiştirin.
+fxa-description-e59dc09c = Mozilla hesabınıza yeni bir giriş yapıldı. Siz yapmadıysanız lütfen parolanızı değiştirin.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Firefox’a yeni giriş
 # Page Title for Shared
@@ -132,7 +132,7 @@ fxa-headline-9628f0ec = Sonraki: Firefox VPN’i açın
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Parolanızı ayarlayın
 # Description for Verify Short Code Email
-fxa-description-f8578b7c = Mozilla hesabınızı onaylamak için ürünle birlikte gelen kodu kullanın.
+fxa-description-f8578b7c = Mozilla hesabınızı onaylamak için bu kodu kullanın.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Hesabınızı onaylayın
 # Subject for Verify Short Code Email
@@ -153,18 +153,18 @@ fxa-description-6bc52850 = Girişinizi onaylayarak hesabınızı güvende tutmam
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Hesabınızı onaylayın
 # Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Mozilla hesabınızı onaylamak için ürünle birlikte gelen kodu kullanın.
+fxa-headline-f8578b7c = Mozilla hesabınızı onaylamak için bu kodu kullanın.
 # Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Firefox Browser’ı kullanmak için hesabınızı onaylayın
+fxa-subject-f3d09e03 = Firefox tarayıcısını kullanmak için hesabınızı onaylayın
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
-fxa-description-4766f222 = Mozilla Monitor’ü kullanmak için Mozilla Hesabı gereklidir.
+fxa-description-4766f222 = Mozilla Monitor’ü kullanmak için Mozilla hesabı gereklidir.
 # Headline for Email First Page
 fxa-headline-de41db80 = Kaydolun veya Mozilla Hesabınıza giriş yapın
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Mozilla Monitor’e yeni bir giriş yapıldı. Bu siz değilseniz lütfen parolanızı değiştirin.
+fxa-description-4e3d5811 = Mozilla Monitor’e yeni bir giriş yapıldı. Siz yapmadıysanız lütfen parolanızı değiştirin.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Mozilla Monitor’e yeni giriş
 # Subject for New Device Login Email
@@ -193,7 +193,7 @@ fxa-headline-74461a97 = Mozilla Monitor’ü kullanmak için hesabınızı onayl
 # Description for Email First Page
 fxa-description-78fd76ac = Başka bir cihazla güvenli bir şekilde eşitlemek için Mozilla hesabınızı kullanın.
 # Headline for Email First Page
-fxa-headline-0ec7d798 = Kayıtlı parolalarınızı her yere götürün
+fxa-headline-0ec7d798 = Kayıtlı parolalarınızı yanınızda taşıyın
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = parola eşitleme
 # Email From Name for Shared
