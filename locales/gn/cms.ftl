@@ -38,6 +38,53 @@ fxa-headline-72786b8a = Emoheñói ñe’ẽñemi
 fxa-primaryButtonText-42369faa = Emoheñói mba’ete
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = ¿Eikéma Firefox-pe?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Emboaje jeike Firefox-pe
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Eike ñandutípe Mozilla ndive
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Emoneĩjey ne mba’ete
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox ra’ãnga’i
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox ra’ãnga’i
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Eñongatu jey tekorosãra Mozilla mba’ete ndive
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = aguara jeykeko
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Eñepyrũ
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor ra’ãnga’i
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Mozilla Monitor ra’ãnga’i
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Mozilla Monitor ñemboheko
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = ñe’ẽñemi ñemboheko
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
