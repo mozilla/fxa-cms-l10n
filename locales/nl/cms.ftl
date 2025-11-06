@@ -126,7 +126,7 @@ fxa-pageTitle-6a3bf665 = Firefox VPN instellen
 # Description for Signin Page
 fxa-description-427b83de = Meld u aan bij uw Mozilla-account.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = Sync is ingeschakeld en u bent klaar voor Firefox VPN. Naar de werkbalk om deze in te schakelen.
+fxa-description-68ca3526 = Synchronisatie is ingeschakeld en u bent klaar voor Firefox VPN. Ga naar de werkbalk om deze in te schakelen.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Volgende: Firefox VPN inschakelen
 # Headline for Signup Set Password Page
