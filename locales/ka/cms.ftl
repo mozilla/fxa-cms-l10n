@@ -45,7 +45,7 @@ fxa-primaryButtonText-598649e6 = სხვა მოწყობილობი�
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = დაასინქრონეთ თქვენი პაროლები, გადახდის საშუალებები, სანიშნები და სხვა ყველგან, სადაც იყენებთ Firefox-ს.
 # Headline for Signup Set Password Page
-fxa-headline-72786b8a = შექმენით პაროლი
+fxa-headline-72786b8a = პაროლის შექმნა
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = ანგარიშის შექმნა
 # Description for Verify Login Code Email
