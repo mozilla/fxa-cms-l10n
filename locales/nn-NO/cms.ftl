@@ -32,12 +32,18 @@ fxa-primaryButtonText-70d9be9b = Stadfest
 fxa-description-8e3fb023 = Hjelp oss å forsikre oss om at det er du som loggar inn.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Hald fram
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = Hjelp oss å forsikre oss om at det er du som opprettar ein konto.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Start synkronisering
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = Passorda dine, betalingsmåtane, adressene, bokmerka, historikken din, og meir, kan synkroniserast overalt der du brukar Firefox.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = Synkronisering er slått på
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Legg til ei anna eining
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synkroniser passorda, betalingsmåtar, bokmerka, og meir, overalt der du brukar Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Opprett eit passord
 # Primary Button Text for Signup Set Password Page
