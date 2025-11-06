@@ -43,7 +43,7 @@ fxa-headline-3ed2d228 = Synkronisering er slått på
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Legg til en annen enhet
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synkroniser passordene, betalingsmetoder, bokmerkene og mer overalt hvor du bruker Firefox.
+fxa-description-201c6fe1 = Synkroniser passordene, betalingsmåte, bokmerkene og mer overalt hvor du bruker Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Opprett et passord
 # Primary Button Text for Signup Set Password Page
