@@ -206,7 +206,7 @@ fxa-subject-9235d479 = 确认您的账户以同步
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = 账户将解锁 VPN 访问权限并跨设备同步您的 Firefox 数据。
+fxa-description-6591d2a0 = 登录账户即可体验 VPN，并跨设备同步 Firefox 数据。
 # Headline for Email First Page
 fxa-headline-6aca2436 = 使用 Mozilla 账户免费启用 Firefox VPN
 # Description for Signup Confirmed Sync Page
