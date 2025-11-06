@@ -64,6 +64,8 @@ fxa-logoAltText-96e4284e = Logo Firefoksa
 fxa-headline-d0511570 = Twoje konto Mozilli zostało użyte do zalogowania.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Utwórz hasło, aby chronić swoje dane
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Potwierdź swoje konto i zsynchronizuj hasła wszędzie tam, gdzie jesteś zalogowany w przeglądarce Firefox, zaczynając od:
 
