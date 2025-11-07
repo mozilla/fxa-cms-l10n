@@ -48,8 +48,6 @@ fxa-primaryButtonText-42369faa = Utwórz konto
 fxa-description-38390134 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie.
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Zatwierdź logowanie do Firefoksa
-# Description for Verify Short Code Email
-fxa-description-d28733a3 = Potwierdź konto i w pełni wykorzystaj Mozillę wszędzie, gdzie się zalogujesz, zaczynając od:
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Potwierdź konto
 
@@ -68,8 +66,6 @@ fxa-headline-d0511570 = Twoje konto Mozilli zostało użyte do zalogowania.
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Utwórz hasło, aby chronić swoje dane
-# Description for Verify Short Code Email
-fxa-description-bb7998da = Potwierdź swoje konto i zsynchronizuj hasła wszędzie tam, gdzie jesteś zalogowany w przeglądarce Firefox, zaczynając od:
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
