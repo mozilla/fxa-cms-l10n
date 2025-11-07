@@ -15,11 +15,11 @@ fxa-description-a0671d4a = Roedd mewngofnodi newydd i'ch cyfrif Mozilla:
 # Headline for New Device Login Email
 fxa-headline-7315250e = Defnyddiwyd eich cyfrif Mozilla i fewngofnodi
 # Subject for New Device Login Email
-fxa-subject-a0a749e1 = Mewngofnodiad newydd i Firefox
+fxa-subject-a0a749e1 = Mewngofnodi newydd i Firefox
 # Page Title for Shared
-fxa-pageTitle-ffd8275e = Sefydlu cysoni Firefox
+fxa-pageTitle-ffd8275e = Gosod cydweddu Firefox
 # Description for Signin Page
-fxa-description-aedac88d = Cysoni cyfrineiriau a mwy ym mhob man rydych chi wedi mewngofnodi.
+fxa-description-aedac88d = Cydweddu cyfrineiriau a mwy ym mhob man rydych chi wedi mewngofnodi.
 # Headline for Signin Page
 fxa-headline-e8d28194 = Rhowch eich cyfrinair
 # Primary Button Text for Signin Page
@@ -37,13 +37,13 @@ fxa-description-da2a8a91 = Helpwch ni i sicrhau mai chi sy'n creu cyfrif.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Cychwyn cydweddu
 # Description for Signup Confirmed Sync Page
-fxa-description-2115ee89 = Gall eich cyfrineiriau, dulliau talu, cyfeiriadau, nodau tudalen, hanes, a mwy gysoni ym mhob man y byddwch yn defnyddio Firefox.
+fxa-description-2115ee89 = Gall eich cyfrineiriau, dulliau talu, cyfeiriadau, nodau tudalen, hanes, a mwy gydweddu ym mhob man y byddwch yn defnyddio Firefox.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = Mae cydweddu wedi'i droi ymlaen
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Ychwanegu dyfais arall
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = Cysonwch eich cyfrineiriau, dulliau talu, nodau tudalen, a mwy ym mhob man rydych chi'n defnyddio Firefox.
+fxa-description-201c6fe1 = Cydweddwch eich cyfrineiriau, dulliau talu, nodau tudalen, a mwy ym mhob man rydych chi'n defnyddio Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Crëwch gyfrinair
 # Primary Button Text for Signup Set Password Page
@@ -59,7 +59,7 @@ fxa-description-d28733a3 = Cadarnhewch eich cyfrif a chael y gorau o Mozilla ym 
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Agorwch y rhyngrwyd gyda Mozilla
 # Subject for Verify Short Code Email
-fxa-subject-ef1fb997 = Cadarnhewch eich cyfrif
+fxa-subject-ef1fb997 = Cadarnhau eich cyfrif
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Gwnewch gopi wrth gefn o'ch cyfrineiriau Firefox, nod
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Gwneud copi wrth gefn gyda chyfrif Mozilla
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = wrth gefn llwynog
+fxa-logoAltText-b9228cb5 = llwynog wrth gefn
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Cychwyn arni
 # Headline for New Device Login Email
@@ -91,16 +91,16 @@ fxa-headline-0dffe504 = Creu cyfrinair i ddiogelu eich data
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Cadarnhewch eich cyfrif a chysonwch eich cyfrineiriau ym mhobman rydych wedi mewngofnodi i Firefox, gan ddechrau gyda:
 # Subject for Verify Short Code Email
-fxa-subject-c9fd4b52 = Cadarnhewch eich cyfrif Mozilla i gysoni
+fxa-subject-c9fd4b52 = Cadarnhewch eich cyfrif Mozilla i gydweddu
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Rhowch e-bost i ddechrau cysoni
+fxa-headline-b36f2b05 = Rhoi e-bost i ddechrau cydweddu
 # Headline for Signin Page
-fxa-headline-c2b34227 = Rhowch gyfrinair i ddechrau cysoni
+fxa-headline-c2b34227 = Rhoi cyfrinair i ddechrau cydweddu
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Creu cyfrinair i ddechrau cysoni
+fxa-headline-7a6bf86a = Creu cyfrinair i ddechrau cydweddu
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Gorffen gosod cysoni
 
@@ -191,24 +191,24 @@ fxa-headline-74461a97 = Cadarnhewch eich cyfrif i ddefnyddio Mozilla Monitor.
 ## l10n-6 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
-fxa-description-78fd76ac = Defnyddiwch eich cyfrif Mozilla i gysoni'n ddiogel â dyfais arall.
+fxa-description-78fd76ac = Defnyddiwch eich cyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
 # Headline for Email First Page
-fxa-headline-0ec7d798 = Sicrhewch gyfrineiriau sydd wedi'u cadw ym mhobman
+fxa-headline-0ec7d798 = Cael cyfrineiriau sydd wedi'u cadw ym mhobman
 # Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = cyfrineiriau cysoni
+fxa-logoAltText-e9e92d2e = cydweddu cyfrineiriau
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
-fxa-description-32c1f240 = Creu cyfrif Mozilla i gysoni'n ddiogel â dyfais arall.
+fxa-description-32c1f240 = Crëwch gyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
 # Subject for Verify Short Code Email
-fxa-subject-9235d479 = Cadarnhewch eich cyfrif i gysoni
+fxa-subject-9235d479 = Cadarnhewch eich cyfrif i gydweddu
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = Mae cyfrif yn datgloi mynediad i VPN ac yn cysoni eich data Firefox ar draws dyfeisiau.
+fxa-description-6591d2a0 = Mae cyfrif yn datgloi mynediad i VPN ac yn cydweddu eich data Firefox ar draws dyfeisiau.
 # Headline for Email First Page
-fxa-headline-6aca2436 = Gweithredwch eich Firefox VPN rhad ac am ddim gyda chyfrif Mozilla
+fxa-headline-6aca2436 = Agorwch eich Firefox VPN rhad ac am ddim gyda chyfrif Mozilla
 # Description for Signup Confirmed Sync Page
 fxa-description-811350a6 = Un cam arall i gael buddion Firefox VPN. Ewch i'r panel agored a'i droi ymlaen.
 
@@ -217,7 +217,7 @@ fxa-description-811350a6 = Un cam arall i gael buddion Firefox VPN. Ewch i'r pan
 # Description for Email First Page
 fxa-description-861f2d28 = Gwnewch gopi wrth gefn o'ch cyfrineiriau, tabiau a nodau tudalen fel eich bod chi'n barod am ddyfais newydd.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = syncing llwynog
+fxa-logoAltText-164ffc49 = cydweddu llwynog
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
