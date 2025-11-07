@@ -89,7 +89,7 @@ fxa-description-3db4ef62 = اطلاعات Firefox خود را با یک گذرو
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = برای محافظت از اطلاعات خود گذرواژه‌ای ایجاد کنید
 # Description for Verify Short Code Email
-fxa-description-bb7998da = حساب کاربری خود را تأیید کنید و گذرواژه‌هایت را در همه مرورگرهای Firefox که وارد آن شده‌ای همگام‌سازی کن؛ از این مرورگر آغاز می‌شود:
+fxa-description-bb7998da = حساب کاربریت را تأیید کن و گذرواژه‌هایت را در همه مرورگرهای Firefox که وارد آن شده‌ای همگام‌سازی کن؛ ابتدا با این مرورگر:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = برای همگام‌سازی حساب کاربری Mozilla خود را تأیید کنید
 
