@@ -1,0 +1,36 @@
+### Generated on 2025-10-30T18:00:17.990Z
+### FTL file for CMS localization
+
+
+## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-4ac18cac = Сінхранізуйце свае паролі, карткі і закладкі ўсюды, дзе вы карыстаецеся Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвайсці
+# Subject for New Device Login Email
+fxa-subject-a0a749e1 = Новы ўваход у Firefox
+# Primary Button Text for Signin Page
+fxa-primaryButtonText-b6d4223e = Увайсці
+# Primary Button Text for Signin Token Code Page
+fxa-primaryButtonText-70d9be9b = Пацвердзіць
+# Primary Button Text for Signin Unblock Code Page
+fxa-primaryButtonText-a0bfb8e5 = Працягнуць
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = Сінхранізацыя ўключана
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = Стварыць пароль
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = Стварыць уліковы запіс
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Пачаць
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
