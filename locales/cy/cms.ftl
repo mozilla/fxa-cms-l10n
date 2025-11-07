@@ -9,7 +9,7 @@ fxa-description-4ac18cac = Cydweddwch eich cyfrineiriau, tabiau, a nodau tudalen
 # Headline for Email First Page
 fxa-headline-33e9f42d = Ewch ymlaen i'ch cyfrif Mozilla
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Cofrestrwch neu mewngofnodwch
+fxa-primaryButtonText-a20eb81e = Cofrestrwch neu mewngofnodi
 # Description for New Device Login Email
 fxa-description-a0671d4a = Roedd mewngofnodi newydd i'ch cyfrif Mozilla:
 # Headline for New Device Login Email
@@ -107,9 +107,9 @@ fxa-headline-929376b4 = Gorffen gosod cysoni
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = Yn amddiffyn eich cyfrineiriau, nodau tudalen, a data Firefox wedi'i gysoni ag amgryptio ym mhob man rydych chi wedi mewngofnodi.
+fxa-description-c05d9d00 = Yn diogelu'ch cyfrineiriau, nodau tudalen, a data Firefox wedi'i gydweddu ag amgryptio ym mhob man rydych chi wedi mewngofnodi.
 # Headline for Signup Set Password Page
-fxa-headline-48cc8c34 = Creu cyfrinair i gysoni'n ddiogel
+fxa-headline-48cc8c34 = Creu cyfrinair i gydweddu'n ddiogel
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -120,21 +120,21 @@ fxa-headline-6d656fc9 = Rhowch gynnig ar Firefox VPN gyda chyfrif Mozilla
 # Description for New Device Login Email
 fxa-description-e59dc09c = Roedd mewngofnodi newydd i'ch cyfrif Mozilla. Os nad chi yw hwn, newidiwch eich cyfrinair.
 # Headline for New Device Login Email
-fxa-headline-a0a749e1 = Mewngofnodiad newydd i Firefox
+fxa-headline-a0a749e1 = Mewngofnodi newydd i Firefox
 # Page Title for Shared
-fxa-pageTitle-6a3bf665 = Sefydlu Firefox VPN
+fxa-pageTitle-6a3bf665 = Gosod Firefox VPN
 # Description for Signin Page
-fxa-description-427b83de = Mewngofnodwch i'ch cyfrif Mozilla.
+fxa-description-427b83de = Mewngofnodi i'ch cyfrif Mozilla.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = Mae cysoni wedi'i alluogi ac rydych chi'n barod ar gyfer Firefox VPN. Ewch i'r bar offer i'w droi ymlaen.
+fxa-description-68ca3526 = Mae cydweddu wedi'i alluogi ac rydych chi'n barod ar gyfer Firefox VPN. Ewch i'r bar offer i'w droi ymlaen.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-9628f0ec = Nesaf: Trowch ar Firefox VPN
+fxa-headline-9628f0ec = Nesaf: Trowch Firefox VPN ymlaen
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Gosod eich cyfrinair
 # Description for Verify Short Code Email
 fxa-description-f8578b7c = Defnyddiwch y cod sydd wedi'i gynnwys i gadarnhau eich cyfrif Mozilla.
 # Headline for Verify Short Code Email
-fxa-headline-ef1fb997 = Cadarnhewch eich cyfrif
+fxa-headline-ef1fb997 = Cadarnhau eich cyfrif
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 
@@ -145,13 +145,13 @@ fxa-description-0a9e868b = Mewngofnodi newydd i Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Dim ond un cam cyflym. Rhowch y cod o'ch e-bost i actifadu eich cyfrif Mozilla.
+fxa-description-daaed757 = Dim ond un cam cyflym. Rhowch y cod o'ch e-bost i weithredu eich cyfrif Mozilla.
 # Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Cofrestrwch neu mewngofnodwch
+fxa-headline-a20eb81e = Cofrestrwch neu fewngofnodi
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Helpwch ni i gadw'ch cyfrif yn ddiogel trwy gymeradwyo eich mewngofnodi:
 # Description for Verify Short Code Email
-fxa-description-ef1fb997 = Cadarnhewch eich cyfrif
+fxa-description-ef1fb997 = Cadarnhau eich cyfrif
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Defnyddiwch y cod sydd wedi'i gynnwys i gadarnhau eich cyfrif Mozilla.
 # Subject for Verify Short Code Email
@@ -162,7 +162,7 @@ fxa-subject-f3d09e03 = Cadarnhewch eich cyfrif i ddefnyddio Porwr Firefox
 # Description for Email First Page
 fxa-description-4766f222 = Mae angen Cyfrif Mozilla i ddefnyddio Mozilla Monitor.
 # Headline for Email First Page
-fxa-headline-de41db80 = Cofrestrwch neu mewngofnodwch i'ch Cyfrif Mozilla
+fxa-headline-de41db80 = Cofrestrwch neu fewngofnodi i'ch Cyfrif Mozilla
 # Description for New Device Login Email
 fxa-description-4e3d5811 = Roedd mewngofnodi newydd i Mozilla Monitor. Os nad chi yw hwn, newidiwch eich cyfrinair.
 # Headline for New Device Login Email
@@ -172,9 +172,9 @@ fxa-subject-207efcd9 = Mewngofnodi newydd i Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
-fxa-emailLogoAltText-ccc1a61b = Logo Monitor Mozilla
+fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
 # Logo Alt Text for Shared
-fxa-logoAltText-ccc1a61b = Logo Monitor Mozilla
+fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Gosod Mozilla Monitor
 # Description for Signin Page
