@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Yeni bir cihaza geçmeye hazırlanırken Firefox paro
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Mozilla hesabıyla yedekleme
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = fox yedeği
+fxa-logoAltText-b9228cb5 = yedekleme yapan tilki
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Başlayın
 # Headline for New Device Login Email
@@ -85,7 +85,7 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = Bu cihazı yedeklemek için giriş yapın.
 # Description for Signup Set Password Page
-fxa-description-3db4ef62 = Firefox verilerinizi bir parolayla güvenli bir şekilde yedekleyin.
+fxa-description-3db4ef62 = Firefox verilerinizi bir parolayla güvenli şekilde yedekleyin.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Verilerinizi korumak için bir parola oluşturun
 # Subject for Verify Short Code Email
