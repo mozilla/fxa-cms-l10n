@@ -73,11 +73,11 @@ fxa-logoAltText-96e4284e = Firefox logosu
 # Description for Email First Page
 fxa-description-0d2e3341 = Yeni bir cihaza geçmeye hazırlanırken Firefox parolalarınızı, yer imlerinizi ve sekmelerinizi yedekleyin.
 # Headline for Email First Page
-fxa-headline-cdd2faf6 = Mozilla hesabıyla yedekleme
+fxa-headline-cdd2faf6 = Mozilla hesabıyla yedekleme yapın
 # Logo Alt Text for Email First Page
 fxa-logoAltText-b9228cb5 = yedekleme yapan tilki
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-be11c74c = Başlayın
+fxa-primaryButtonText-be11c74c = Başla
 # Headline for New Device Login Email
 fxa-headline-d0511570 = Mozilla hesabınız giriş yapmak için kullanıldı.
 # Email From Name for Shared
@@ -114,13 +114,13 @@ fxa-headline-48cc8c34 = Güvenli bir şekilde eşitlemek için parola oluşturun
 # Description for Email First Page
 fxa-description-637f76bf = Hesap açın veya hesabınız varsa giriş yapın.
 # Headline for Email First Page
-fxa-headline-6d656fc9 = Firefox VPN’i Mozilla hesabıyla deneyin
+fxa-headline-6d656fc9 = Mozilla hesabıyla Firefox VPN’i deneyin
 # Description for New Device Login Email
 fxa-description-e59dc09c = Mozilla hesabınıza yeni bir giriş yapıldı. Siz yapmadıysanız lütfen parolanızı değiştirin.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Firefox’a yeni giriş
 # Page Title for Shared
-fxa-pageTitle-6a3bf665 = Firefox VPN’i kur
+fxa-pageTitle-6a3bf665 = Firefox VPN’i kurun
 # Description for Signin Page
 fxa-description-427b83de = Mozilla hesabınıza giriş yapın.
 # Description for Signup Confirmed Sync Page
@@ -174,7 +174,7 @@ fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor logosu
 # Logo Alt Text for Shared
 fxa-logoAltText-ccc1a61b = Mozilla Monitor logosu
 # Page Title for Shared
-fxa-pageTitle-924eac9f = Mozilla Monitor’ü kur
+fxa-pageTitle-924eac9f = Mozilla Monitor’ü kurun
 # Description for Signin Page
 fxa-description-ab270ce7 = Mozilla Monitor’ü kullanmak için Mozilla hesabınıza giriş yapın.
 # Headline for Signup Set Password Page
@@ -213,9 +213,11 @@ fxa-description-811350a6 = Firefox VPN avantajlarından yararlanmaya bir adım k
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
-fxa-description-861f2d28 = Yeni cihazını kullanmaya hazır olmak için parolalarınızı, sekmelerinizi ve yer imlerinizi yedekleyin.
+fxa-description-861f2d28 = Yeni cihazınıza geçerken hazırlıksız yakalanmamak için parolalarınızı, sekmelerinizi ve yer imlerinizi yedekleyin.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = eşitleme yapan tilki
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = tilki zıplaması
+fxa-logoAltText-c4b14a5b = zıplayan tilki
