@@ -55,7 +55,7 @@ fxa-headline-ed889b16 = Συνδεθήκατε στο Firefox;
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Έγκριση σύνδεσης στο Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Επιβεβαιώστε τον λογαριασμό σας και αξιοποιήστε στο έπακρο τα προϊόντα της Mozilla, όπου κι αν συνδεθείτε, ξεκινώντας με:
+fxa-description-d28733a3 = Επιβεβαιώστε τον λογαριασμό σας και αξιοποιήστε στο έπακρο τα προϊόντα της Mozilla, όπου κι αν συνδεθείτε, ξεκινώντας με το:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Απολαύστε ένα ανοικτό διαδίκτυο με τα προϊόντα της Mozilla
 # Subject for Verify Short Code Email
@@ -89,7 +89,7 @@ fxa-description-3db4ef62 = Δημιουργήστε αντίγραφα ασφα�
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Δημιουργήστε έναν κωδικό πρόσβασης για την προστασία των δεδομένων σας
 # Description for Verify Short Code Email
-fxa-description-bb7998da = Επιβεβαιώστε τον λογαριασμό σας και συγχρονίστε τους κωδικούς πρόσβασής σας οπουδήποτε έχετε συνδεθεί στο Firefox, ξεκινώντας με:
+fxa-description-bb7998da = Επιβεβαιώστε τον λογαριασμό σας και συγχρονίστε τους κωδικούς πρόσβασής σας οπουδήποτε έχετε συνδεθεί στο Firefox, ξεκινώντας με το:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Επιβεβαιώστε τον λογαριασμό Mozilla σας για συγχρονισμό
 
