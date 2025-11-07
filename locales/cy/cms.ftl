@@ -89,7 +89,7 @@ fxa-description-3db4ef62 = Gwnewch gopi wrth gefn o'ch data Firefox yn ddiogel g
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Creu cyfrinair i ddiogelu eich data
 # Description for Verify Short Code Email
-fxa-description-bb7998da = Cadarnhewch eich cyfrif a chysonwch eich cyfrineiriau ym mhobman rydych wedi mewngofnodi i Firefox, gan ddechrau gyda:
+fxa-description-bb7998da = Cadarnhewch eich cyfrif a chydweddwch eich cyfrineiriau ym mhobman rydych wedi mewngofnodi i Firefox, gan ddechrau gyda:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Cadarnhewch eich cyfrif Mozilla i gydweddu
 
@@ -102,7 +102,7 @@ fxa-headline-c2b34227 = Rhoi cyfrinair i ddechrau cydweddu
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Creu cyfrinair i ddechrau cydweddu
 # Headline for Verify Short Code Email
-fxa-headline-929376b4 = Gorffen gosod cysoni
+fxa-headline-929376b4 = Gorffen gosod cydweddu
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
