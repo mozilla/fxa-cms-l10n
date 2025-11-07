@@ -16,6 +16,8 @@ fxa-description-a0671d4a = Nastąpiło nowe logowanie na Twoje konto Mozilli:
 fxa-headline-7315250e = Twoje konto Mozilli zostało użyte do zalogowania
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nowe logowanie do Firefoksa
+# Page Title for Shared
+fxa-pageTitle-ffd8275e = Skonfiguruj synchronizację Firefoksa
 # Headline for Signin Page
 fxa-headline-e8d28194 = Wpisz hasło
 # Primary Button Text for Signin Page
@@ -60,10 +62,18 @@ fxa-logoAltText-96e4284e = Logo Firefoksa
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = Lisowa kopia zapasowa
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Zacznij teraz
 # Headline for New Device Login Email
 fxa-headline-d0511570 = Twoje konto Mozilli zostało użyte do zalogowania.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Zaloguj się, aby wykonać kopię zapasową tego urządzenia.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Bezpiecznie utwórz kopie zapasowe danych Firefoksa, zabezpieczając je hasłem.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Utwórz hasło, aby chronić swoje dane
 
