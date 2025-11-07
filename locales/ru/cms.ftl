@@ -89,7 +89,7 @@ fxa-description-3db4ef62 = Сделайте резервную копию сво
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Создайте пароль для защиты ваших данных
 # Description for Verify Short Code Email
-fxa-description-bb7998da = Подтвердите свой аккаунт и синхронизируйте свои пароли везде, где вы вошли в Firefox, начиная с:
+fxa-description-bb7998da = Подтвердите свой аккаунт и синхронизируйте свои пароли везде, где вы вошли в Firefox, начав с:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Подтвердите свой аккаунт Mozilla для синхронизации
 
