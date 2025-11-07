@@ -89,7 +89,7 @@ fxa-description-3db4ef62 = 設定密碼，安全地備份您的 Firefox 資料�
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = 設定密碼保護您的資料
 # Description for Verify Short Code Email
-fxa-description-bb7998da = 確認您的帳號，並在所有登入 Firefox 的裝置同步您的密碼。
+fxa-description-bb7998da = 確認您的帳號，並在所有登入 Firefox 的裝置同步您的密碼。將從下列裝置開始同步：
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = 確認您的 Mozilla 帳號後即可同步
 
