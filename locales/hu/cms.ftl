@@ -193,7 +193,7 @@ fxa-headline-74461a97 = Erősítse meg fiókját a Mozilla Monitor használatáh
 # Description for Email First Page
 fxa-description-78fd76ac = Használja Mozilla-fiókját, hogy biztonságosan szinkronizáljon egy másik eszközre.
 # Headline for Email First Page
-fxa-headline-0ec7d798 = Szerezzen mentett jelszavakat mindenhol
+fxa-headline-0ec7d798 = Mentett jelszavak mindenhol
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = jelszavak szinkronizálását
 # Email From Name for Shared
