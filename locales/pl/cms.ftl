@@ -18,6 +18,8 @@ fxa-headline-7315250e = Twoje konto Mozilli zostało użyte do zalogowania
 fxa-subject-a0a749e1 = Nowe logowanie do Firefoksa
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Skonfiguruj synchronizację Firefoksa
+# Description for Signin Page
+fxa-description-aedac88d = Synchronizuj hasła i inne dane wszędzie tam, gdzie jesteś zalogowany.
 # Headline for Signin Page
 fxa-headline-e8d28194 = Wpisz hasło
 # Primary Button Text for Signin Page

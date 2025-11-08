@@ -222,4 +222,4 @@ fxa-logoAltText-164ffc49 = Fuchs synchronisiert
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = Fuchsspringen
+fxa-logoAltText-c4b14a5b = Springender Fuchs
