@@ -84,6 +84,8 @@ fxa-description-5649263e = Zaloguj się, aby wykonać kopię zapasową tego urz�
 fxa-description-3db4ef62 = Bezpiecznie utwórz kopie zapasowe danych Firefoksa, zabezpieczając je hasłem.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Utwórz hasło, aby chronić swoje dane
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Potwierdź swoje konto Mozilli, aby zsynchronizować dane
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -100,6 +102,8 @@ fxa-headline-929376b4 = Dokończ konfigurację synchronizacji
 
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Chroni Twoje hasła, zakładki i zsynchronizowane dane przeglądarki Firefox za pomocą szyfrowania wszędzie tam, gdzie jesteś zalogowany.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Utwórz hasło, aby bezpiecznie synchronizować dane
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -115,6 +119,8 @@ fxa-headline-a0a749e1 = Nowe logowanie do Firefoksa
 fxa-pageTitle-6a3bf665 = Skonfiguruj Firefox VPN
 # Description for Signin Page
 fxa-description-427b83de = Zaloguj się na konto Mozilli
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Synchronizacja jest włączona i możesz korzystać z Firefox VPN. Przejdź do paska narzędzi, aby go włączyć.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Następnie: Włącz Firefox VPN
 # Headline for Signup Set Password Page
