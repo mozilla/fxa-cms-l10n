@@ -52,6 +52,8 @@ fxa-primaryButtonText-42369faa = Utwórz konto
 fxa-description-38390134 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie.
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Zatwierdź logowanie do Firefoksa
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Otwórz internet z Mozillą
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Potwierdź konto
 
@@ -90,8 +92,15 @@ fxa-headline-7a6bf86a = Utwórz hasło, aby rozpocząć synchronizację
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Dokończ konfigurację synchronizacji
 
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Chroni Twoje hasła, zakładki i zsynchronizowane dane przeglądarki Firefox za pomocą szyfrowania wszędzie tam, gdzie jesteś zalogowany.
+
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = Załóż konto lub zaloguj się, jeśli je posiadasz.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Wypróbuj Firefox VPN z kontem Mozilli
 # Description for New Device Login Email
