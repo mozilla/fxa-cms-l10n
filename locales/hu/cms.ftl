@@ -206,7 +206,7 @@ fxa-subject-9235d479 = Erősítse meg a fiókját a szinkronizáláshoz
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = Egy fiók feloldja a VPN hozzáférést, és szinkronizálja a Firefox adatait az eszközök között.
+fxa-description-6591d2a0 = Egy fiók elérhetővé teszi a VPN-hozzáférést, és a Firefox-adatok szinkronizálását az eszközök között.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Aktiválja az ingyenes Firefox VPN-t Mozilla-fiókjával
 # Description for Signup Confirmed Sync Page
