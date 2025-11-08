@@ -52,3 +52,5 @@ fxa-description-38390134 = Ajută-ne să îți protejăm contul aprobând autent
 fxa-headline-ed889b16 = Tu ai intrat în contul Firefox?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Aprobă autentificarea în contul Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Confirmă-ți contul și folosește la maxim Mozilla oriunde te conectezi, începând cu:
