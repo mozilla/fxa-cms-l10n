@@ -13,13 +13,13 @@ fxa-primaryButtonText-a20eb81e = Regisztráljon vagy jelentkezzen be
 # Description for New Device Login Email
 fxa-description-a0671d4a = Új bejelentkezés történt a Mozilla-fiókjába:
 # Headline for New Device Login Email
-fxa-headline-7315250e = Mozilla-fiókját a bejelentkezéshez használták
+fxa-headline-7315250e = Bejelentkezéshez használták a Mozilla-fiókját
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Új bejelentkezés a Firefoxba
 # Page Title for Shared
-fxa-pageTitle-ffd8275e = Állítsa be a Firefox szinkronizálást
+fxa-pageTitle-ffd8275e = Állítsa be a Firefox szinkronizálását
 # Description for Signin Page
-fxa-description-aedac88d = Szinkronizálja a jelszavait és egyebeket mindenhol, ahol be van jelentkezve.
+fxa-description-aedac88d = Szinkronizálja a jelszavait és egyebeit mindenhol, ahol be van jelentkezve.
 # Headline for Signin Page
 fxa-headline-e8d28194 = Írja be a jelszavát
 # Primary Button Text for Signin Page
@@ -33,23 +33,23 @@ fxa-description-8e3fb023 = Segítsen meggyőződni arról, hogy Ön jelentkezik 
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Folytatás
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Segítsen nekünk megbizonyosodni, hogy Ön vagyok-e a fiók létrehozásakor.
+fxa-description-da2a8a91 = Segítsen meggyőződni arról, hogy Ön hoz létre fiókot.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Szinkronizálás indítása
 # Description for Signup Confirmed Sync Page
-fxa-description-2115ee89 = Jelszavai, fizetési módjai, címei, könyvjelzői, előzményei és egyebek mindenhová szinkronizálhatók, ahol Firefoxot használ.
+fxa-description-2115ee89 = Jelszavai, fizetési módjai, címei, könyvjelzői, előzményei és egyebei mindenhol szinkronizálhatóak, ahol a Firefoxot használja.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = A szinkronizálás be van kapcsolva
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = További eszköz hozzáadása
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = Szinkronizálja jelszavait, fizetési módjait, könyvjelzőit és egyebeket mindenütt, ahol Firefoxot használ.
+fxa-description-201c6fe1 = Szinkronizálja jelszavait, fizetési módjait, könyvjelzőit és egyebeket mindenhol, ahol a Firefoxot használja.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Jelszó létrehozása
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Fiók létrehozása
 # Description for Verify Login Code Email
-fxa-description-38390134 = Segítsen nekünk megőrizni fiókja biztonságát a bejelentkezés jóváhagyásával.
+fxa-description-38390134 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését.
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = Bejelentkezett a Firefoxba?
 # Subject for Verify Login Code Email
@@ -57,7 +57,7 @@ fxa-subject-450ba359 = Bejelentkezés jóváhagyása a Firefoxba
 # Description for Verify Short Code Email
 fxa-description-d28733a3 = Erősítse meg fiókját, és hozza ki a lehető legtöbbet a Mozillából mindenhol, ahol bejelentkezik, kezdve ezzel:
 # Headline for Verify Short Code Email
-fxa-headline-f827216f = Nyissa meg az internetet a Mozillával
+fxa-headline-f827216f = Nyissa ki az internetet a Mozillával
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Fiók jóváhagyása
 
