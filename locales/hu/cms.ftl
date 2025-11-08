@@ -145,26 +145,26 @@ fxa-description-0a9e868b = Új bejelentkezés a Firefoxba
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Csak egy gyors lépés. Adja meg az e-mailjében kapott kódot, hogy aktiválja a Mozilla-fiókját.
+fxa-description-daaed757 = Csak egy gyors lépés. Adja meg az e-mailben kapott kódot, hogy aktiválja a Mozilla-fiókját.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Regisztráljon vagy jelentkezzen be
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
 # Description for Verify Short Code Email
-fxa-description-ef1fb997 = Fiók jóváhagyása
+fxa-description-ef1fb997 = Erősítse meg a fiókját
 # Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Használja a mellékelt kódot a Mozilla fiók megerősítéséhez.
+fxa-headline-f8578b7c = Használja a mellékelt kódot a Mozilla-fiókja megerősítéséhez.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Erősítse meg fiókját a Firefox böngésző használatához
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
-fxa-description-4766f222 = A Mozilla Monitor használatához Mozilla fiók szükséges.
+fxa-description-4766f222 = A Mozilla Monitor használatához Mozilla-fiók szükséges.
 # Headline for Email First Page
-fxa-headline-de41db80 = Regisztráljon vagy jelentkezzen be Mozilla fiókjába
+fxa-headline-de41db80 = Regisztráljon vagy jelentkezzen be Mozilla-fiókjába
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Új bejelentkezés történt a Mozilla Monitorba. Ha nem ez az, akkor változtassa meg a jelszavát.
+fxa-description-4e3d5811 = Új bejelentkezés történt a Mozilla Monitorba. Ha nem Ön volt az, akkor változtassa meg a jelszavát.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Új bejelentkezés a Mozilla Monitorba
 # Subject for New Device Login Email
@@ -178,7 +178,7 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor logó
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Telepítse a Mozilla Monitort
 # Description for Signin Page
-fxa-description-ab270ce7 = Jelentkezzen be a Mozilla fiókjába a Mozilla Monitor használatához.
+fxa-description-ab270ce7 = A Mozilla Monitor használatához jelentkezzen be a Mozilla-fiókjába.
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Hozzon létre egy jelszót a vizsgálat megkezdéséhez
 # Headline for Verify Login Code Email
