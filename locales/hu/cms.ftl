@@ -73,13 +73,13 @@ fxa-logoAltText-96e4284e = Firefox logó
 # Description for Email First Page
 fxa-description-0d2e3341 = Készítsen biztonsági mentést a Firefox jelszavairól, könyvjelzőiről és lapjairól, ha kész az új eszköz használatára.
 # Headline for Email First Page
-fxa-headline-cdd2faf6 = Mentés Mozilla fiókkal
+fxa-headline-cdd2faf6 = Biztonsági mentés egy Mozilla-fiókkal
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = fox mentés
+fxa-logoAltText-b9228cb5 = fox biztonsági mentés
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Kezdő lépések
 # Headline for New Device Login Email
-fxa-headline-d0511570 = Mozilla-fiókját a bejelentkezéshez használták.
+fxa-headline-d0511570 = Bejelentkezéshez használták a Mozilla-fiókját.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
@@ -96,47 +96,47 @@ fxa-subject-c9fd4b52 = Erősítse meg a Mozilla-fiókját a szinkronizáláshoz
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Headline for Email First Page
-fxa-headline-b36f2b05 = A szinkronizálás megkezdéséhez adja meg az e-mail címét
+fxa-headline-b36f2b05 = A szinkronizálás megkezdéséhez adja meg az e-mail-címét
 # Headline for Signin Page
 fxa-headline-c2b34227 = Adjon meg egy jelszót a szinkronizálás megkezdéséhez
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Hozzon létre egy jelszót a szinkronizálás megkezdéséhez
 # Headline for Verify Short Code Email
-fxa-headline-929376b4 = A szinkronizálás beállításának befejezése
+fxa-headline-929376b4 = Szinkronizálás beállításának befejezése
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = Titkosítással védi jelszavait, könyvjelzőit és szinkronizált Firefox adatait mindenhol, ahol be van jelentkezve.
+fxa-description-c05d9d00 = Titkosítással védi jelszavait, könyvjelzőit és szinkronizált Firefox-adatait mindenhol, ahol be van jelentkezve.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Hozzon létre egy jelszót a biztonságos szinkronizáláshoz
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-637f76bf = Hozza létre a fiókját, vagy jelentkezzen be, ha van.
+fxa-description-637f76bf = Hozza létre a fiókját, vagy jelentkezzen be, ha már van.
 # Headline for Email First Page
-fxa-headline-6d656fc9 = Próbálja ki a Firefox VPN-t Mozilla-fiókkal
+fxa-headline-6d656fc9 = Próbálja ki a Firefox VPN-t egy Mozilla-fiókkal
 # Description for New Device Login Email
-fxa-description-e59dc09c = Új bejelentkezés történt a Mozilla-fiókjába. Ha nem ez az, akkor változtassa meg a jelszavát.
+fxa-description-e59dc09c = Új bejelentkezés történt a Mozilla-fiókjába. Ha nem Ön volt az, akkor változtassa meg a jelszavát.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Új bejelentkezés a Firefoxba
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = A Firefox VPN beállítása
 # Description for Signin Page
-fxa-description-427b83de = Jelentkezzen be Mozilla fiókjába.
+fxa-description-427b83de = Jelentkezzen be Mozilla-fiókjába.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = A Sync engedélyezve van, és készen áll a Firefox VPN használatára. Ugorjon az eszköztárra a bekapcsoláshoz.
+fxa-description-68ca3526 = A Sync engedélyezve van, és készen áll a Firefox VPN használatára. Ugorjon az eszköztárhoz a bekapcsoláshoz.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Következő: A Firefox VPN bekapcsolása
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Állítsa be a jelszavát
 # Description for Verify Short Code Email
-fxa-description-f8578b7c = Használja a mellékelt kódot a Mozilla fiók megerősítéséhez.
+fxa-description-f8578b7c = Használja a mellékelt kódot a Mozilla-fiókja megerősítéséhez.
 # Headline for Verify Short Code Email
-fxa-headline-ef1fb997 = Fiók jóváhagyása
+fxa-headline-ef1fb997 = Erősítse meg a fiókját
 # Subject for Verify Short Code Email
-fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba bejelentkezéshez
+fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezéshez
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
