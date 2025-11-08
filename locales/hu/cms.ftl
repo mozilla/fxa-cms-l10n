@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Készítsen biztonsági mentést a Firefox jelszavair
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Biztonsági mentés egy Mozilla-fiókkal
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = fox biztonsági mentés
+fxa-logoAltText-b9228cb5 = biztonsági mentés egy rókával
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Kezdő lépések
 # Headline for New Device Login Email
@@ -210,16 +210,16 @@ fxa-description-6591d2a0 = Egy fiók elérhetővé teszi a VPN-hozzáférést, �
 # Headline for Email First Page
 fxa-headline-6aca2436 = Aktiválja az ingyenes Firefox VPN-t Mozilla-fiókjával
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = Még egy lépés a Firefox VPN előnyeinek megszerzéséhez. Ugorjon a nyitott panelre és kapcsolja be.
+fxa-description-811350a6 = Még egy lépés a Firefox VPN előnyeinek megszerzéséhez. Ugorjon a nyitott panelre, és kapcsolja be.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
 fxa-description-861f2d28 = Készítsen biztonsági mentést a jelszavairól, lapjairól és könyvjelzőiről, hogy készen álljon az új eszköz használatára.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = róka szinkronizálása
+fxa-logoAltText-164ffc49 = szinkronizáló róka
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = rókaugrás
+fxa-logoAltText-c4b14a5b = ugró róka
