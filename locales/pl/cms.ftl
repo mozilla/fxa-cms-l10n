@@ -66,6 +66,10 @@ fxa-logoAltText-96e4284e = Logo Firefoksa
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Description for Email First Page
+fxa-description-0d2e3341 = Utwórz kopię zapasową swoich haseł, zakładek i kart Firefoksa, gdy będziesz czekać na nowe urządzenie.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Utwórz kopię zapasową z pomocą konta Mozilli
 # Logo Alt Text for Email First Page
 fxa-logoAltText-b9228cb5 = Lisowa kopia zapasowa
 # Primary Button Text for Email First Page
@@ -111,12 +115,16 @@ fxa-headline-a0a749e1 = Nowe logowanie do Firefoksa
 fxa-pageTitle-6a3bf665 = Skonfiguruj Firefox VPN
 # Description for Signin Page
 fxa-description-427b83de = Zaloguj się na konto Mozilli
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Następnie: Włącz Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Ustaw hasło
 # Description for Verify Short Code Email
 fxa-description-f8578b7c = Użyj dołączonego kodu, aby potwierdzić konto Mozilli.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Potwierdź konto
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Potwierdź swoje konto, aby zalogować się do przeglądarki Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -157,6 +165,8 @@ fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Konfiguracja Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Zaloguj się na konto Mozilli, aby korzystać z Mozilla Monitor.
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Utwórz hasło, aby rozpocząć skanowanie
 # Headline for Verify Login Code Email
@@ -170,14 +180,27 @@ fxa-headline-74461a97 = Potwierdź swoje konto, aby korzystać z Mozilla Monito
 
 # Description for Email First Page
 fxa-description-78fd76ac = Użyj konta Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Zabierz swoje hasła wszędzie
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = synchronizacja haseł
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Utwórz konto Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Potwierdź swoje konto, aby je zsynchronizować
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-6591d2a0 = Konto odblokowuje dostęp do VPN i synchronizuje dane przeglądarki Firefox na wszystkich urządzeniach.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Aktywuj darmowy Firefox VPN za pomocą konta Mozilli
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Jeszcze tylko krok do korzystania z zalet Firefox VPN. Przejdź do otwartego panelu i włącz go.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Zrób kopię zapasową swoich haseł, kart i zakładek, aby być gotowym na nowe urządzenie.
