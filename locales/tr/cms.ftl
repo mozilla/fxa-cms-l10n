@@ -204,7 +204,7 @@ fxa-subject-9235d479 = Eşitleme için hesabınızı onaylayın
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = Hesabınız hem VPN’e erişmenizi hem de Firefox verilerinizi cihazlarınız arasında eşitlenmesini sağlar.
+fxa-description-6591d2a0 = Hesabınız hem VPN’e erişmenizi hem de Firefox verilerinizin cihazlarınız arasında eşitlenmesini sağlar.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Ücretsiz Firefox VPN’inizi Mozilla hesabıyla etkinleştirin
 # Description for Signup Confirmed Sync Page
