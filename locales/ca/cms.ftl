@@ -75,12 +75,47 @@ fxa-logoAltText-b9228cb5 = guineu que fa còpia de seguretat
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Confirmeu el compte
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Confirmeu el vostre compte per iniciar la sessió al Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Inici de sessió nou al Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Inici de sessió o registre
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Ajudeu-nos a protegir el vostre compte aprovant l'inici de sessió a:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Confirmeu el compte
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Inici de sessió nou al Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Inici de sessió nou al Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Logotip de Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Logotip de Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Configureu el Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Inicieu la sessió al compte de Mozilla per utilitzar el Mozilla Monitor.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
