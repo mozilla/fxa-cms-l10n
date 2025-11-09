@@ -50,6 +50,8 @@ fxa-headline-72786b8a = Utwórz hasło
 fxa-primaryButtonText-42369faa = Utwórz konto
 # Description for Verify Login Code Email
 fxa-description-38390134 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie.
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = Ktoś zalogował się do Firefoksa. To Ty?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Zatwierdź logowanie do Firefoksa
 # Headline for Verify Short Code Email
