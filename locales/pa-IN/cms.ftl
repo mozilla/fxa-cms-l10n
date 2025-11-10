@@ -28,6 +28,8 @@ fxa-primaryButtonText-b6d4223e = ਸਾਈਨ ਇਨ
 fxa-headline-d076f12b = ਤਸਦੀਕੀ ਕੋਡ ਭਰੋ
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = ਤਸਦੀਕ
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = ਸਾਨੂੰ ਤਸਦੀਕ ਕਰਨ ਲਈ ਮਦਦ ਕਰੋ ਕਿ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰ ਰਹੇ ਹੋ।
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = ਜਾਰੀ ਰੱਖੋ
 # Description for Signup Confirm Code Page
@@ -103,6 +105,8 @@ fxa-headline-48cc8c34 = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰ�
 
 # Description for Email First Page
 fxa-description-637f76bf = ਆਪਣਾ ਖਾਤਾ ਬਣਾਓ ਜਾਂ ਜੇ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੇ ਕੋਲ ਹੈ ਤਾਂ ਸਾਈਨ ਇਨ ਕਰੋ।
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Mozilla ਖਾਤੇ ਨਾਲ Firefox VPN ਨੂੰ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Firefox ਵਿੱਚ ਨਵਾਂ ਸਾਈਨ-ਇਨ
 # Page Title for Shared
