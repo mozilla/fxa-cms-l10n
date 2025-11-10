@@ -55,7 +55,7 @@ fxa-headline-ed889b16 = Firefox’a giriş yaptınız mı?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Firefox’a girişi onaylayın
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Hesabınız doğrulayın, giriş yaptığınız her yerde Mozilla’dan daha iyi şekilde yararlanın. İlk olarak…
+fxa-description-d28733a3 = Hesabınızı doğrulayın, giriş yaptığınız her yerde Mozilla’dan daha iyi şekilde yararlanın. Kullandığınız cihaz:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = İnterneti Mozilla ile açın
 # Subject for Verify Short Code Email
