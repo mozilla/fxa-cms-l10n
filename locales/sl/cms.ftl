@@ -51,9 +51,9 @@ fxa-primaryButtonText-42369faa = Ustvari račun
 # Description for Verify Login Code Email
 fxa-description-38390134 = Pomagajte nam zaščititi vaš račun in odobrite prijavo.
 # Headline for Verify Login Code Email
-fxa-headline-ed889b16 = Ste se prijavili v Firefox?
+fxa-headline-ed889b16 = Ste se vi prijavili v Firefox?
 # Subject for Verify Login Code Email
-fxa-subject-450ba359 = Odobri prijavo v Firefox
+fxa-subject-450ba359 = Odobrite prijavo v Firefox
 # Description for Verify Short Code Email
 fxa-description-d28733a3 = Potrdite svoj račun in kar najbolje izkoristite Mozillo na vseh napravah, začenši z:
 # Headline for Verify Short Code Email
