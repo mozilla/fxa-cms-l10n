@@ -55,7 +55,7 @@ fxa-headline-ed889b16 = Loggade du in på Firefox?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Godkänn inloggning till Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Bekräfta ditt konto och få ut det mesta av Mozilla överallt du loggar in med:
+fxa-description-d28733a3 = Bekräfta ditt konto och få ut det mesta av Mozilla överallt där du loggar in, med början med:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Öppna internet med Mozilla
 # Subject for Verify Short Code Email
