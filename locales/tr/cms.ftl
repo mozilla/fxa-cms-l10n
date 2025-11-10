@@ -88,6 +88,8 @@ fxa-description-5649263e = Bu cihazı yedeklemek için giriş yapın.
 fxa-description-3db4ef62 = Firefox verilerinizi bir parolayla güvenli şekilde yedekleyin.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Verilerinizi korumak için bir parola oluşturun
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Hesabınızı doğrulayın, Firefox’a giriş yaptığınız her yerde parolalarınızı eşitleyin. İlk cihazınız:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Eşitleme için Mozilla hesabınızı onaylayın
 
@@ -124,7 +126,7 @@ fxa-pageTitle-6a3bf665 = Firefox VPN’i kurun
 # Description for Signin Page
 fxa-description-427b83de = Mozilla hesabınıza giriş yapın.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = Sync etkinleştirildi ve Firefox VPN kullanmaya hazırsınız. Açmak için araç çubuğuna gidin.
+fxa-description-68ca3526 = Eşitleme etkinleştirildi ve Firefox VPN’i kullanmaya hazırsınız. Etkinleştirmek için araç çubuğuna gidin.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Sonraki: Firefox VPN’i açın
 # Headline for Signup Set Password Page
@@ -143,7 +145,7 @@ fxa-description-0a9e868b = Firefox’a yeni giriş
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Sadece bir adım. Mozilla hesabınızı etkinleştirmek için e-postanızdaki kodu yazın.
+fxa-description-daaed757 = Tek bir adım kaldı. Mozilla hesabınızı etkinleştirmek için e-postanıza gelen kodu yazın.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Kaydol veya giriş yap
 # Description for Verify Login Code Email
