@@ -141,7 +141,7 @@ fxa-subject-10e5b452 = დაადასტურეთ თქვენი ა�
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
-fxa-description-0a9e868b = Firefox-ში ახალი შესვლა
+fxa-description-0a9e868b = ახალი შემოსვლა Firefox-ზე
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
