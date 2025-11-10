@@ -29,7 +29,7 @@ fxa-headline-d076f12b = 인증 코드를 입력하세요
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = 확인
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = 본인이 로그인하고 있는지 확인할 수 있도록 도와주세요.
+fxa-description-8e3fb023 = 본인이 로그인하는 것인지 확인할 수 있도록 도와주세요.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = 계속
 # Description for Signup Confirm Code Page
@@ -75,11 +75,11 @@ fxa-description-0d2e3341 = Firefox 비밀번호, 북마크, 탭을 새 기기로
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Mozilla 계정으로 백업
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = 여우 백업
+fxa-logoAltText-b9228cb5 = 폭스 백업
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = 시작하기
 # Headline for New Device Login Email
-fxa-headline-d0511570 = 당신의 Mozilla 계정이 로그인 되었습니다.
+fxa-headline-d0511570 = 로그인에 Mozilla 계정이 사용되었습니다.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
