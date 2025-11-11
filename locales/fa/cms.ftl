@@ -55,7 +55,7 @@ fxa-headline-ed889b16 = آیا شما به حساب کاربری Firefox خود 
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = تأیید ورود به Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = حساب کاربری خود را تأیید کنید و بیشترین بهره را از Mozilla در همه‌جا که وارد می‌شوید ببرید، آغاز با:
+fxa-description-d28733a3 = حساب کاربریت را تأیید کن و از امکانات Mozilla در همه‌جا که وارد حساب می‌شوی بیشترین بهره را ببرید؛ ابتدا با این مرورگر:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = اینترنت را با Mozilla باز کنید
 # Subject for Verify Short Code Email
