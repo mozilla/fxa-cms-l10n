@@ -55,7 +55,7 @@ fxa-headline-ed889b16 = 您剛登入 Firefox 嗎？
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = 確認 Firefox 登入
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = 確認您的帳號，就可以在任何登入的裝置中，發揮 Mozilla 的最大功能：
+fxa-description-d28733a3 = 確認您的帳號後，就可以從下列裝置開始，在您所有登入的裝置發揮 Mozilla 的最大功能：
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = 使用 Mozilla 打開網際網路
 # Subject for Verify Short Code Email
