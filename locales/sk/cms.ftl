@@ -55,7 +55,7 @@ fxa-headline-ed889b16 = Prihlásili ste sa do Firefoxu?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Schválenie prihlásenia do Firefoxu
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Potvrďte svoj účet a využite Mozillu naplno všade, kde sa prihlásite, počnúc:
+fxa-description-d28733a3 = Potvrďte svoj účet a využite Mozillu naplno všade, kde sa prihlásite, a začnite s:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Otvorte internet pomocou Mozilly
 # Subject for Verify Short Code Email
