@@ -48,10 +48,14 @@ fxa-description-201c6fe1 = Embojuehe ñe’ẽñemi, jepagarã, techaukaha ha he
 fxa-headline-72786b8a = Emoheñói ñe’ẽñemi
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Emoheñói mba’ete
+# Description for Verify Login Code Email
+fxa-description-38390134 = Orepytyvõ rorekóvo ne mba’ete tekorosãme romoneĩvo nde jeike.
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = ¿Eikéma Firefox-pe?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Emboaje jeike Firefox-pe
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Emoneĩ ne mba’ete ha eipuruporã Mozilla ikatuháicha eñepyrũvo ne rembiapo amo:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Eike ñandutípe Mozilla ndive
 # Subject for Verify Short Code Email
@@ -66,6 +70,8 @@ fxa-logoAltText-96e4284e = Firefox ra’ãnga’i
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Description for Email First Page
+fxa-description-0d2e3341 = Eñongatu jey tekorosãrã ne ñe’ẽñemi, techaukaha ha Firefox rendayke oĩmbávo mba’e’oka pyahúpe g̃uarã.
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Eñongatu jey tekorosãra Mozilla mba’ete ndive
 # Logo Alt Text for Email First Page
@@ -91,6 +97,8 @@ fxa-subject-c9fd4b52 = Emoneĩ ne mba’ete Mozilla-pegua embojuehe hag̃ua
 fxa-headline-b36f2b05 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
 # Headline for Signin Page
 fxa-headline-c2b34227 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Ejapo ñanduti veve embojuehe ñepyrũ hag̃ua
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Emohu’ã ñembojuehe ñemboheko
 
