@@ -151,6 +151,12 @@ fxa-subject-f3d09e03 = Emoneĩ ne mba’ete eiporu hag̃ua Firefox kundahára
 
 # Description for Email First Page
 fxa-description-4766f222 = Eikotevẽ Mozilla mba’ete eiporu hag̃ua Mozilla Monitor.
+# Headline for Email First Page
+fxa-headline-de41db80 = Eñemboheraguapy térã eike ne Mozilla Account-pe
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Aike ramoite Mozilla Monitor-pe
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Aike ramoite Mozilla Monitor-pe
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -159,6 +165,16 @@ fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor ra’ãnga’i
 fxa-logoAltText-ccc1a61b = Mozilla Monitor ra’ãnga’i
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Mozilla Monitor ñemboheko
+# Description for Signin Page
+fxa-description-ab270ce7 = Eike Mozilla mba’etépe eiporu hag̃ua Mozilla Monitor.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Ejapo ñe’ẽñemi emoha’ãnga hag̃ua
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Emoneĩ ne mba’ete eiporu hag̃ua Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Emoneĩ ne mba’ete eiporu hag̃ua Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Emoneĩ ne mba’ete eiporu hag̃ua Mozilla Monitor.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
