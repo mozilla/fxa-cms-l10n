@@ -123,11 +123,25 @@ fxa-description-427b83de = Eñepyrũ tembiapo Mozilla mba’etépe.
 fxa-headline-9628f0ec = Upeigua: Emyandy VPN Firefox-gua
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Emboaje ñe’ẽñemi
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Eiporu ayvu reheve emoneĩ hag̃ua ne mba’ete Mozilla-pegua.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Emoneĩ ne mba’ete
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for New Device Login Email
+fxa-description-0a9e868b = Eike pyahu Firefox-pe
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Eñemboheraguapy térã eike
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Emoneĩ ne mba’ete
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
