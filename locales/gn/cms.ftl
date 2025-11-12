@@ -142,9 +142,15 @@ fxa-headline-a20eb81e = Eñemboheraguapy térã eike
 fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Emoneĩ ne mba’ete
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Eiporu ayvu reheve emoneĩ hag̃ua ne mba’ete Mozilla-pegua.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Emoneĩ ne mba’ete eiporu hag̃ua Firefox kundahára
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Eikotevẽ Mozilla mba’ete eiporu hag̃ua Mozilla Monitor.
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
