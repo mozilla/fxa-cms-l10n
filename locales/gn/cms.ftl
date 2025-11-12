@@ -98,9 +98,23 @@ fxa-headline-b36f2b05 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
 # Headline for Signin Page
 fxa-headline-c2b34227 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Ejapo ñanduti veve embojuehe ñepyrũ hag̃ua
+fxa-headline-7a6bf86a = Ejapo ñe’ẽñemi embojuehe ñepyrũ hag̃ua
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Emohu’ã ñembojuehe ñemboheko
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Ejapo ñe’ẽñemi embojuehe hag̃ua tekorosãme
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = Ejapo ne mba’ete térã eñemboheraguapy Facebook-pe ko árape.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Eiporu Firefox VPN Mozilla mba’ete ndive
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Eñepyrũ tembiapo Firefox-pe
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
