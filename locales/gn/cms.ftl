@@ -18,12 +18,18 @@ fxa-headline-7315250e = Ne mba’ete Mozilla-gua ojeporu ojeike hag̃ua
 fxa-subject-a0a749e1 = Eike pyahu Firefox-pe
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Emboheko Firefox ñembojuehe
+# Description for Signin Page
+fxa-description-aedac88d = Embojuehe ñe’ẽñemi ha hetave mba’e opaite tenda reikehápe.
 # Headline for Signin Page
 fxa-headline-e8d28194 = Ehai ne ñe’ẽñemi
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Eñepyrũ tembiapo
+# Headline for Signin Token Code Page
+fxa-headline-d076f12b = Emoinge ayvu jehechajeyrã
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Ñemoneĩ
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = Eikuaauka oréve ndeteha upe oikéva.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Eku’ejey
 # Primary Button Text for Signup Confirm Code Page
