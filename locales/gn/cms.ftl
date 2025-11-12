@@ -32,6 +32,8 @@ fxa-primaryButtonText-70d9be9b = Ñemoneĩ
 fxa-description-8e3fb023 = Eikuaauka oréve ndeteha upe oikéva.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Eku’ejey
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = Eikuaauka oréve ndeteha upe emoheñóiva mba’ete.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Embojuehe ñepyrũ
 # Headline for Signup Confirmed Sync Page
@@ -66,8 +68,18 @@ fxa-headline-cdd2faf6 = Eñongatu jey tekorosãra Mozilla mba’ete ndive
 fxa-logoAltText-b9228cb5 = aguara jeykeko
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Eñepyrũ
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Ne mba’ete Mozilla-gua ojeporu ojeike hag̃ua.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Eike eñongatu jey hag̃ua ko mba’e’okápe.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Eñongatu jey tekorosãrã ne mba’ekuaarã Firefox-pegua ñe’ẽñemi ndive.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Ejapo ñe’ẽñemi emo’ã hag̃ua ne mba’ekuaarãita
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Emoneĩ ne mba’ete Mozilla-pegua embojuehe hag̃ua
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
