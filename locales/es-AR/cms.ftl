@@ -193,7 +193,7 @@ fxa-headline-74461a97 = Confirmá tu cuenta para usar Mozilla Monitor.
 # Description for Email First Page
 fxa-description-78fd76ac = Usá tu cuenta de Mozilla para sincronizar de forma segura con otro dispositivo.
 # Headline for Email First Page
-fxa-headline-0ec7d798 = Obtené contraseñas guardadas en todas partes
+fxa-headline-0ec7d798 = Llevate tus contraseñas guardadas a todas partes
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = sincronización de contraseñas
 # Email From Name for Shared
