@@ -115,6 +115,14 @@ fxa-description-637f76bf = Ejapo ne mba’ete térã eñemboheraguapy Facebook-p
 fxa-headline-6d656fc9 = Eiporu Firefox VPN Mozilla mba’ete ndive
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Eñepyrũ tembiapo Firefox-pe
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Emboheko VPN Firefox-pe g̃uarã
+# Description for Signin Page
+fxa-description-427b83de = Eñepyrũ tembiapo Mozilla mba’etépe.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Upeigua: Emyandy VPN Firefox-gua
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Emboaje ñe’ẽñemi
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
