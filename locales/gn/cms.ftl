@@ -36,10 +36,14 @@ fxa-primaryButtonText-a0bfb8e5 = Eku’ejey
 fxa-description-da2a8a91 = Eikuaauka oréve ndeteha upe emoheñóiva mba’ete.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Embojuehe ñepyrũ
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = Ñe ñe’ẽñemi, jepagarã, kundaharape, techaukaha, tembiasakue ha hetave embojuehekuaa oimeraẽ tenda eiporuhápe Firefox.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = Ñembojuehe hendýma
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Embojuaju ambue mba’e’oka
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Embojuehe ñe’ẽñemi, jepagarã, techaukaha ha hetave oimeraẽva tenda eiporuhápe Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Emoheñói ñe’ẽñemi
 # Primary Button Text for Signup Set Password Page
