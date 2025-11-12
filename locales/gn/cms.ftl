@@ -81,6 +81,15 @@ fxa-headline-0dffe504 = Ejapo ñe’ẽñemi emo’ã hag̃ua ne mba’ekuaarãi
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Emoneĩ ne mba’ete Mozilla-pegua embojuehe hag̃ua
 
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
+# Headline for Signin Page
+fxa-headline-c2b34227 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Emohu’ã ñembojuehe ñemboheko
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Email From Name for Shared
