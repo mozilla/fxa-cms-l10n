@@ -10,10 +10,12 @@ fxa-description-4ac18cac = Synkroniser dine adgangskoder, faneblade og bogmærke
 fxa-headline-33e9f42d = Fortsæt til din Mozilla-konto
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Tilmeld dig eller log ind
+# Description for New Device Login Email
+fxa-description-a0671d4a = Der var et nyt login på din Mozilla-konto:
 # Headline for New Device Login Email
 fxa-headline-7315250e = Din Mozilla-konto blev brugt til at logge ind
 # Subject for New Device Login Email
-fxa-subject-a0a749e1 = Nyt login til Firefox
+fxa-subject-a0a749e1 = Nyt login på Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Opsæt Firefox-synkronisering
 # Description for Signin Page
@@ -116,9 +118,9 @@ fxa-description-637f76bf = Opret din konto, eller log ind, hvis du har en.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Prøv Firefox VPN med en Mozilla-konto
 # Description for New Device Login Email
-fxa-description-e59dc09c = Der blev foretaget et nyt login til din Mozilla-konto. Hvis det ikke er dig, så skift din adgangskode.
+fxa-description-e59dc09c = Der blev foretaget et nyt login på din Mozilla-konto. Hvis det ikke er dig, så skift din adgangskode.
 # Headline for New Device Login Email
-fxa-headline-a0a749e1 = Nyt login til Firefox
+fxa-headline-a0a749e1 = Nyt login på Firefox
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = Opsæt Firefox VPN
 # Description for Signin Page
@@ -161,6 +163,12 @@ fxa-subject-f3d09e03 = Bekræft din konto for at bruge Firefox-browseren
 fxa-description-4766f222 = Du skal have en Mozilla-konto for at bruge Mozilla Monitor.
 # Headline for Email First Page
 fxa-headline-de41db80 = Tilmeld dig eller log ind på din Mozilla-konto
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Der blev foretaget et nyt login på din Mozilla Monitor. Hvis det ikke er dig, så skift din adgangskode.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Ny login på Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Ny login på Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -201,6 +209,8 @@ fxa-subject-9235d479 = Bekræft din konto for at synkronisere
 fxa-description-6591d2a0 = En konto giver adgang til VPN og synkroniserer dine Firefox-data på tværs af enheder.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Aktivér din gratis Firefox VPN med en Mozilla-konto
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Et trin mere for at få fordelene af Firefox VPN. Gå til det åbne panel og aktiver den.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
