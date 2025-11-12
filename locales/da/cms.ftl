@@ -117,6 +117,97 @@ fxa-description-637f76bf = Opret din konto, eller log ind, hvis du har en.
 fxa-headline-6d656fc9 = Prøv Firefox VPN med en Mozilla-konto
 # Description for New Device Login Email
 fxa-description-e59dc09c = Der blev foretaget et nyt login til din Mozilla-konto. Hvis det ikke er dig, så skift din adgangskode.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Nyt login til Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Opsæt Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = Log in på din Mozilla-konto.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Synkronisering er aktiveret, og du er klar til Firefox VPN. Gå til værktøjslinjen for at aktivere det.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Næste: Slå Firefox VPN til
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Angiv din adgangskode
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Brug den medfølgende kode til at bekræfte din Mozilla-konto.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Bekræft din konto
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Bekræft din konto for at logge ind på Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nyt login til Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Bare et hurtigt trin. Indtast koden fra din mail for at aktivere din Mozilla-konto
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Tilmeld dig eller log ind
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Hold din konto sikker ved at bekræfte dit login på:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Bekræft din konto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Brug den medfølgende kode til at bekræfte din Mozilla-konto.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Bekræft din konto for at bruge Firefox-browseren
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Du skal have en Mozilla-konto for at bruge Mozilla Monitor.
+# Headline for Email First Page
+fxa-headline-de41db80 = Tilmeld dig eller log ind på din Mozilla-konto
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor-logo
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Mozilla Monitor-logo
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Opsæt Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Log ind på din Mozilla-konto for at bruge Mozilla Monitor.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Opret en adgangskode for at starte en scanning
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Bekræft din konto for at bruge Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Bekræft din konto for at bruge Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Bekræft din konto for at bruge Mozilla Monitor.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Brug din Mozilla-konto til sikkert at synkronisere med en anden enhed.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Tag dine gemte adgangskoder med overalt
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = synkronisering af adgangskoder
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Opret en Mozilla-konto for at synkronisere sikkert med en anden enhed.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Bekræft din konto for at synkronisere
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = En konto giver adgang til VPN og synkroniserer dine Firefox-data på tværs af enheder.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Aktivér din gratis Firefox VPN med en Mozilla-konto
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Sikkerhedskopier dine adgangskoder, faneblade og bogmærker, så du er klar til en ny enhed.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = ræv synkroniserer
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
