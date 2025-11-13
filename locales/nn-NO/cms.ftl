@@ -48,6 +48,8 @@ fxa-description-201c6fe1 = Synkroniser passorda, betalingsmåtar, bokmerka, og m
 fxa-headline-72786b8a = Opprett eit passord
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Opprett konto
+# Description for Verify Login Code Email
+fxa-description-38390134 = Hjelp oss med å halde kontoen din trygg ved å godkjenne innlogginga di.
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = Logga du inn på Firefox?
 # Subject for Verify Login Code Email
@@ -84,8 +86,25 @@ fxa-headline-c2b34227 = Skriv inn passord for å starte synkronisering
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Fullfør synkroniseringsoppsettet
 
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Neste: Slå på Firefox VPN
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Angje passord
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Bruk den medfølgjande koden for å stadfeste Mozilla-kontoen din.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Stadfest kontoen din
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Stadfest kontoen din for å logge på Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for New Device Login Email
+fxa-description-0a9e868b = Ny innlogging på Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Registrer deg eller logg inn
 # Description for Verify Login Code Email
@@ -95,8 +114,28 @@ fxa-description-ef1fb997 = Stadfest kontoen din
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Ny innlogging på Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Ny innlogging på Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor-logo
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Mozilla Monitor-logo
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Konfigurer Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Logg inn på Mozilla-kontoen din for å bruke Mozilla Monitor.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Opprett eit passord for å starte ei skanning
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Stadfest kontoen din for å bruke Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Stadfest kontoen din for å bruke Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Stadfest kontoen din for å bruke Mozilla Monitor.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
