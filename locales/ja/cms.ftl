@@ -40,6 +40,8 @@ fxa-logoAltText-96e4284e = Firefox ロゴ
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = はじめる
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 
