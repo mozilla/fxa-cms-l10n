@@ -56,6 +56,8 @@ fxa-headline-ef1fb997 = アカウントを確認してください
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for New Device Login Email
+fxa-description-0a9e868b = Firefox への新規ログイン
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
