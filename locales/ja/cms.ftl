@@ -24,6 +24,8 @@ fxa-primaryButtonText-70d9be9b = 確認
 fxa-primaryButtonText-a0bfb8e5 = 続ける
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = 同期を開始
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = パスワードを作成
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = アカウントを作成
 # Subject for Verify Short Code Email
