@@ -16,10 +16,14 @@ fxa-subject-a0a749e1 = Firefox への新規ログイン
 fxa-headline-e8d28194 = パスワードを入力してください
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = ログイン
+# Headline for Signin Token Code Page
+fxa-headline-d076f12b = 確認コードを入力してください
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = 確認
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = 続ける
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-e4029ca4 = 同期を開始
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = アカウントを作成
 # Subject for Verify Short Code Email
