@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = 準備好要使用新裝置時，備份您的 Firefox
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = 使用 Mozilla 帳號備份
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = fox backup
+fxa-logoAltText-b9228cb5 = 狐狸在備份
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = 開始使用
 # Headline for New Device Login Email
@@ -195,7 +195,7 @@ fxa-description-78fd76ac = 使用您的 Mozilla 帳號即可安全地同步到�
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 隨時隨地使用儲存的密碼
 # Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = passwords sync
+fxa-logoAltText-e9e92d2e = 密碼同步
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
@@ -217,9 +217,9 @@ fxa-description-811350a6 = 只要再一步即可獲得 Firefox VPN 功能。請�
 # Description for Email First Page
 fxa-description-861f2d28 = 備份您的密碼、開啟分頁與書籤，這樣就可馬上在新裝置使用。
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox syncing
+fxa-logoAltText-164ffc49 = 狐狸在同步
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = fox jumping
+fxa-logoAltText-c4b14a5b = 狐狸在跳躍
