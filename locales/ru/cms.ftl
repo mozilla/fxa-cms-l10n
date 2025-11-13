@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Сделайте резервную копию пар
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Создайте резервную копию с помощью аккаунта Mozilla
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = резервная копия fox
+fxa-logoAltText-b9228cb5 = резервная копия лисы
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Начать
 # Headline for New Device Login Email
