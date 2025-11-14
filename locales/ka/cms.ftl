@@ -208,14 +208,14 @@ fxa-subject-9235d479 = დაადასტურეთ თქვენი ა�
 # Description for Email First Page
 fxa-description-6591d2a0 = ანგარიშით გზას გაგიხსნით, გამოიყენოთ VPN და დაასინქრონოთ Firefox-მონაცემები სხვადასხვა მოწყობილობებზე.
 # Headline for Email First Page
-fxa-headline-6aca2436 = ჩართეთ თქვენი უფასო Firefox VPN Mozilla-ს ანგარიშით
+fxa-headline-6aca2436 = აამოქმედეთ უფასო Firefox VPN თქვენი Mozilla-ანგარიშით
 # Description for Signup Confirmed Sync Page
-fxa-description-811350a6 = კიდევ ერთი ნაბიჯი Firefox VPN-ით სარგებლობისკენ. გადადით გახსნილ არეში და ჩართეთ.
+fxa-description-811350a6 = ერთი ნაბიჯიღა რჩება იმ უპირატესობებამდე, რომელთაც გთავაზობთ Firefox VPN. მხოლოდ გადადით გახსნილ არეში და ჩართეთ.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
 # Description for Email First Page
-fxa-description-861f2d28 = დაამარქაფეთ პაროლები, ჩანართები და სანიშნები, ასე რომ მზად იყოთ ახალი მოწყობილობისთვის.
+fxa-description-861f2d28 = დაამარქაფეთ პაროლები, ჩანართები და სანიშნები, რომ მზად იყოთ ახალი მოწყობილობისთვის.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = მელა ასინქრონებს
 
