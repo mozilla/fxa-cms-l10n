@@ -207,6 +207,10 @@ fxa-subject-9235d479 = Emoneĩ ne mba’ete embojuehe hag̃ua
 
 # Description for Email First Page
 fxa-description-6591d2a0 = Peteĩ mba’ete ombojuruja VPN-pe jeike ha ombojuehe nde Firefox mba’ekuaarã opaite mba’e’okápe.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Emyandy nde Firefox VPN reiete ne mba’ete Mozilla-guándi
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Peteĩ jeku’eve eiporu porãve hag̃ua Firefox VPN. Eike pe panel ijurujávape ha emyandy.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
