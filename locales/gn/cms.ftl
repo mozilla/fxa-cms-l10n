@@ -163,6 +163,8 @@ fxa-subject-f3d09e03 = Emoneĩ ne mba’ete eiporu hag̃ua Firefox kundahára
 fxa-description-4766f222 = Eikotevẽ Mozilla mba’ete eiporu hag̃ua Mozilla Monitor.
 # Headline for Email First Page
 fxa-headline-de41db80 = Eñemboheraguapy térã eike ne Mozilla Account-pe
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Oĩ jeike pyahu ne mba’ete Mozilla Monitor-peguápe. Ndaha’éiramo nde, emoambue ne ñe’ẽñemi.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Aike ramoite Mozilla Monitor-pe
 # Subject for New Device Login Email
@@ -200,6 +202,11 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-description-32c1f240 = Ejapo Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’okáre.
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = Emoneĩ ne mba’ete embojuehe hag̃ua
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = Peteĩ mba’ete ombojuruja VPN-pe jeike ha ombojuehe nde Firefox mba’ekuaarã opaite mba’e’okápe.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
