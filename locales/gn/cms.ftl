@@ -88,6 +88,8 @@ fxa-description-5649263e = Eike eñongatu jey hag̃ua ko mba’e’okápe.
 fxa-description-3db4ef62 = Eñongatu jey tekorosãrã ne mba’ekuaarã Firefox-pegua ñe’ẽñemi ndive.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Ejapo ñe’ẽñemi emo’ã hag̃ua ne mba’ekuaarãita
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Emoañete ne mba’ete ha embojuehe ne ñe’ẽñemi opaite tenda eikehague Firefox-pe, eñepyrũvo pe:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Emoneĩ ne mba’ete Mozilla-pegua embojuehe hag̃ua
 
@@ -193,6 +195,8 @@ fxa-subject-9235d479 = Emoneĩ ne mba’ete embojuehe hag̃ua
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
+# Description for Email First Page
+fxa-description-861f2d28 = Eñongatu jey ne ñe’ẽñemi, tendayke ha techaukaha ehasa hag̃ua mba’e’oka pyahúpe.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Aguara ñembojuehe
 
