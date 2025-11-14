@@ -125,6 +125,8 @@ fxa-headline-a0a749e1 = Eñepyrũ tembiapo Firefox-pe
 fxa-pageTitle-6a3bf665 = Emboheko VPN Firefox-pe g̃uarã
 # Description for Signin Page
 fxa-description-427b83de = Eñepyrũ tembiapo Mozilla mba’etépe.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Ñembojuehe ijurujáma ha oĩma Firefox VPN-pe g̃uarã. Eike tembipuru rupápe emyandy hag̃ua.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Upeigua: Emyandy VPN Firefox-gua
 # Headline for Signup Set Password Page
@@ -142,6 +144,8 @@ fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 fxa-description-0a9e868b = Eike pyahu Firefox-pe
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Jeku’e pya’e. Emoinge ayvu ne ñanduti vevegua emyandy hag̃ua ne mba’ete Mozilla-pegua.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Eñemboheraguapy térã eike
 # Description for Verify Login Code Email
