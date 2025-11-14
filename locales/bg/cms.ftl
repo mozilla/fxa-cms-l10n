@@ -91,7 +91,7 @@ fxa-headline-0dffe504 = Създаване на парола за защита �
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Потвърдете своя профил и синхронизирайте паролите си във Firefox навсякъде където сте вписани, започвайки с:
 # Subject for Verify Short Code Email
-fxa-subject-c9fd4b52 = Потвърдете профила си в Mozilla за синхронизиране
+fxa-subject-c9fd4b52 = Потвърдете профила си в Mozilla
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -145,24 +145,24 @@ fxa-description-0a9e868b = Ново вписване във Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Само една бърза стъпка. Въведете кода от имейла си, за да активирате профила си в Mozilla.
+fxa-description-daaed757 = Само още едно нещо: въведете кода от имейла си, за да активирате профила си в Mozilla.
 # Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Регистрирайте се или се впишете
+fxa-headline-a20eb81e = Регистриране или вписване
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
 # Description for Verify Short Code Email
-fxa-description-ef1fb997 = Потвърдете своята сметка
+fxa-description-ef1fb997 = Потвърдете своя профил
 # Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Използвайте приложения код, за да потвърдите сметката си в Mozilla.
+fxa-headline-f8578b7c = Използвайте приложения код, за да потвърдите профила си в Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Потвърдете профила си, за да използвате Firefox Browser
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
-fxa-description-4766f222 = За да използвате Mozilla Monitor е необходима сметка в Mozilla.
+fxa-description-4766f222 = За да използвате Mozilla Monitor е необходим профил в Mozilla.
 # Headline for Email First Page
-fxa-headline-de41db80 = Регистрирайте се или влезте в профила си в Mozilla
+fxa-headline-de41db80 = Регистриране или вписване в Mozilla профил
 # Description for New Device Login Email
 fxa-description-4e3d5811 = Имаше ново вписване в Mozilla Monitor. Ако това не сте вие, моля, сменете паролата си.
 # Headline for New Device Login Email
@@ -180,7 +180,7 @@ fxa-pageTitle-924eac9f = Инсталиране на Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Влезте в профила си в Mozilla, за да използвате Mozilla Monitor.
 # Headline for Signup Set Password Page
-fxa-headline-47e5e3c7 = Създайте парола, за да започнете сканиране
+fxa-headline-47e5e3c7 = Създаване на парола за започване на сканирането
 # Headline for Verify Login Code Email
 fxa-headline-461a0bbf = Потвърдете сметката си, за да използвате Mozilla Monitor
 # Subject for Verify Login Code Email
@@ -193,20 +193,20 @@ fxa-headline-74461a97 = Потвърдете сметката си, за да и
 # Description for Email First Page
 fxa-description-78fd76ac = Използвайте профила си в Mozilla за сигурно синхронизиране с друго устройство.
 # Headline for Email First Page
-fxa-headline-0ec7d798 = Получавайте запазени пароли навсякъде
+fxa-headline-0ec7d798 = Получавайте запазените си пароли навсякъде
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = синхронизиране на пароли
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
-fxa-description-32c1f240 = Създайте профил в Mozilla, за да синхронизирате сигурно с друго устройство.
+fxa-description-32c1f240 = Създайте профил в Mozilla, за да синхронизирате данните си сигурно с друго устройство.
 # Subject for Verify Short Code Email
-fxa-subject-9235d479 = Потвърдете профила си за синхронизиране
+fxa-subject-9235d479 = Потвърждаване на профила за синхронизиране
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-6591d2a0 = Профил отключва достъпа до VPN и синхронизира вашите данни от Firefox между устройства.
+fxa-description-6591d2a0 = Създаването на профил отключва достъпа до VPN и синхронизира вашите данни от Firefox между устройства.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Активирайте безплатния си Firefox VPN с профил в Mozilla
 # Description for Signup Confirmed Sync Page
@@ -217,9 +217,9 @@ fxa-description-811350a6 = Още една стъпка към получава�
 # Description for Email First Page
 fxa-description-861f2d28 = Архивирайте паролите, разделите и отметките си, за да сте готови за ново устройство.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox sync
+fxa-logoAltText-164ffc49 = синхронизация
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = лисица скача
+fxa-logoAltText-c4b14a5b = скачаща лисица
