@@ -126,7 +126,7 @@ fxa-pageTitle-6a3bf665 = 设置 Firefox VPN
 # Description for Signin Page
 fxa-description-427b83de = 登录您的 Mozilla 账户。
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = 同步已启用准备好您可以使用 Firefox VPN 了。前往工具栏将其打开。
+fxa-description-68ca3526 = 同步已启用。您还可前往工具栏开启 Firefox VPN。
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = 下一步：开启 Firefox VPN
 # Headline for Signup Set Password Page
