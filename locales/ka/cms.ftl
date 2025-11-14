@@ -17,7 +17,7 @@ fxa-headline-7315250e = თქვენი Mozilla-ანგარიში გ�
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = ახალი შემოსვლა Firefox-ზე
 # Page Title for Shared
-fxa-pageTitle-ffd8275e = Firefox-სინქრონიზაციის გამართვა
+fxa-pageTitle-ffd8275e = გამართეთ Firefox-სინქრონიზაცია
 # Description for Signin Page
 fxa-description-aedac88d = დაასინქრონეთ პაროლები და სხვა დანარჩენი ყველგან, სადაც კი ანგარიშს იყენებთ.
 # Headline for Signin Page
@@ -118,21 +118,21 @@ fxa-description-637f76bf = შექმენით თქვენი ანგ
 # Headline for Email First Page
 fxa-headline-6d656fc9 = გამოცადეთ Firefox VPN თქვენი Mozilla-ანგარიშით
 # Description for New Device Login Email
-fxa-description-e59dc09c = თქვენს Mozilla-ს ანგარიშზე ახალი შესვლა მოხდა. თუ ეს არაა, გთხოვთ შეცვალოთ პაროლი.
+fxa-description-e59dc09c = ახალი შესვლა თქვენს Mozilla-ანგარიშზე. თუ თქვენ არ ყოფილხართ, გთხოვთ შეცვალოთ პაროლი.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = ახალი შემოსვლა Firefox-ზე
 # Page Title for Shared
-fxa-pageTitle-6a3bf665 = Firefox VPN-ის გამართვა
+fxa-pageTitle-6a3bf665 = გამართეთ Firefox VPN
 # Description for Signin Page
-fxa-description-427b83de = შედით თქვენს Mozilla ანგარიშზე.
+fxa-description-427b83de = შედით თქვენს Mozilla-ანგარიშზე.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = სინქრონიზაცია ჩართულია და მზად ხართ Firefox VPN-ისთვის. გადადით ხელსაწყოთა ზოლზე, მის ჩასართავად.
+fxa-description-68ca3526 = სინქრონიზაცია ჩართულია და გამოსაყენებლად მზადაა Firefox VPN. გადადით ხელსაწყოთა ზოლზე მის ჩასართავად.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-9628f0ec = შემდეგი: ჩართეთ Firefox VPN
+fxa-headline-9628f0ec = შემდეგ: ჩართეთ Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = მიუთითეთ თქვენი პაროლი
 # Description for Verify Short Code Email
-fxa-description-f8578b7c = გამოიყენეთ თანდართული კოდი თქვენი Mozilla-ს ანგარიშის დასადასტურებლად.
+fxa-description-f8578b7c = გამოიყენეთ თანდართული კოდი თქვენი Mozilla-ანგარიშის დასადასტურებლად.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = დაადასტურეთ თქვენი ანგარიში
 # Subject for Verify Short Code Email
