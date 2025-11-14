@@ -85,7 +85,7 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = Masuk untuk mencadangkan perangkat ini.
 # Description for Signup Set Password Page
-fxa-description-3db4ef62 = Cadangkan data Firefox Anda dengan aman dengan kata sandi.
+fxa-description-3db4ef62 = Cadangkan data Firefox Anda secara aman dengan kata sandi.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Buat kata sandi untuk melindungi data Anda
 # Description for Verify Short Code Email

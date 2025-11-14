@@ -106,6 +106,8 @@ fxa-headline-929376b4 = Emohu’ã ñembojuehe ñemboheko
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Emo’ã ne ñe’ẽñemi, techaukaha ha mba’ekuaarã mbojuehepyre Firefox rehegua ipapapýva opaite reikehaguépe.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Ejapo ñe’ẽñemi embojuehe hag̃ua tekorosãme
 
@@ -115,6 +117,8 @@ fxa-headline-48cc8c34 = Ejapo ñe’ẽñemi embojuehe hag̃ua tekorosãme
 fxa-description-637f76bf = Ejapo ne mba’ete térã eñemboheraguapy Facebook-pe ko árape.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Eiporu Firefox VPN Mozilla mba’ete ndive
+# Description for New Device Login Email
+fxa-description-e59dc09c = Oĩkuri peteĩ jeike pyahu nde mba’ete Mozilla-peguápe. Ndaha’éiramo nde, emoambuéke ne ñe’ẽñemi.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Eñepyrũ tembiapo Firefox-pe
 # Page Title for Shared
