@@ -19,7 +19,7 @@ fxa-subject-a0a749e1 = ახალი შემოსვლა Firefox-ზე
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox-სინქრონიზაციის გამართვა
 # Description for Signin Page
-fxa-description-aedac88d = დაასინქრონეთ პაროლები და სხვ. ყველგან, სადაც ანგარიშზე ხართ.
+fxa-description-aedac88d = დაასინქრონეთ პაროლები და სხვა დანარჩენი ყველგან, სადაც კი ანგარიშს იყენებთ.
 # Headline for Signin Page
 fxa-headline-e8d28194 = მიუთითეთ თქვენი პაროლი
 # Primary Button Text for Signin Page
@@ -29,21 +29,21 @@ fxa-headline-d076f12b = შეიყვანეთ დადასტურე�
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = თანხმობა
 # Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = დაგვეხმარეთ ვინაობის დადგენაში შესვლისას.
+fxa-description-8e3fb023 = დაგვეხმარეთ დავადასტუროთ, რომ ნამვილად თქვენ შეხვედით.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = გაგრძელება
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = დაგვეხმარეთ, ანგარიშის შექმნაში თქვენი ვინაობა.
+fxa-description-da2a8a91 = დაგვეხმარეთ დავადასტუროთ, რომ ნამვილად თქვენ ქმნით ანგარიშს.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = დასინქ. დაწყება
 # Description for Signup Confirmed Sync Page
-fxa-description-2115ee89 = თქვენი პაროლების, გადახდის საშუალების, მისამართების, სანიშნეების, ისტორია და ა. შ. დაასინქრონება შესაძლებელია ყველგან, სადაც Firefox იყენებთ.
+fxa-description-2115ee89 = თქვენი პაროლების, გადახდის საშუალებების, მისამართების, სანიშნების, ისტორიისა და სხვა დანარჩენის დასინქრონება შესაძლებელია ყველგან, სადაც კი გიყენიათ Firefox.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = სინქრონიზაცია ჩართულია
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = სხვა მოწყობილობის დამატება
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = დაასინქრონეთ თქვენი პაროლები, გადახდის საშუალებები, სანიშნები და სხვა ყველგან, სადაც იყენებთ Firefox-ს.
+fxa-description-201c6fe1 = დაასინქრონეთ თქვენი პაროლები, გადახდის საშუალებები, სანიშნები და სხვა დანარჩენი ყველგან, სადაც კი გიყენიათ Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = პაროლის შექმნა
 # Primary Button Text for Signup Set Password Page
@@ -51,13 +51,13 @@ fxa-primaryButtonText-42369faa = ანგარიშის შექმნა
 # Description for Verify Login Code Email
 fxa-description-38390134 = დაგვეხმარეთ თქვენი ანგარიშის უსაფრთხოებაში შესვლის დამოწმებით.
 # Headline for Verify Login Code Email
-fxa-headline-ed889b16 = შეხვედით Firefox-ში?
+fxa-headline-ed889b16 = თქვენ შეხვედით Firefox-ანგარიშზე?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Firefox-ში შესვლის დამოწმება
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = დაადასტურეთ თქვენი ანგარიში და ისარგებლეთ Mozilla-ს შესაძლებლობებით სრულად ყველგან, სადაც შეხვალთ:
+fxa-description-d28733a3 = დაადასტურეთ თქვენი ანგარიში და სრულყოფილად ისარგებლეთ Mozilla-ს შესაძლებლობებით ყველგან, სადაც შეხვალთ:
 # Headline for Verify Short Code Email
-fxa-headline-f827216f = გახსენით ინტერნეტი Mozilla-თ
+fxa-headline-f827216f = ღია ინტერნეტში შესაბიჯებლად დაიხმარეთ Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = დაადასტურეთ თქვენი ანგარიში
 
@@ -85,13 +85,13 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = შედით ამ მოწყობილობის დამარქაფებლად.
 # Description for Signup Set Password Page
-fxa-description-3db4ef62 = Firefox-ის მონაცემების უსაფრთხოდ დამარქაფება პაროლით.
+fxa-description-3db4ef62 = უსაფრთხოდ დაამარქაფეთ Firefox-მონაცემები პაროლით.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = შექმენით პაროლი თქვენი მონაცემების დასაცავად
 # Description for Verify Short Code Email
-fxa-description-bb7998da = დაადასტურეთ თქვენი ანგარიში და დაასინქრონეთ თქვენი პაროლები ყველგან, სადაც შესული ხართ Firefox-ში, დაწყებული:
+fxa-description-bb7998da = დაადასტურეთ თქვენი ანგარიში და დაასინქრონეთ თქვენი პაროლები ყველგან, სადაც კი გიყენიათ Firefox შესული ანგარიშით, დასაწყისისთვის თუნდაც:
 # Subject for Verify Short Code Email
-fxa-subject-c9fd4b52 = დაასინქრონეთ თქვენი Mozilla ანგარიში
+fxa-subject-c9fd4b52 = დაადასტურეთ თქვენი Mozilla-ანგარიში დასინქრონებისთვის
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -107,7 +107,7 @@ fxa-headline-929376b4 = დაასრულეთ სინქრონიზ�
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = იცავს თქვენს პაროლებს, სანიშნეებს და Firefox-ის დასინქრონებულ მონაცემებს, დაშიფვრით ყველგან, სადაც ანგარიშს ახერხებთ.
+fxa-description-c05d9d00 = იცავს თქვენს პაროლებს, სანიშნებს და ასინქრონებს Firefox-მონაცემებს დაშიფვრით ყველგან, სადაც კი ანგარიშით ხართ შესული.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = შექმენით პაროლი უსაფრთხოდ სინქრონიზაციისთვის
 
