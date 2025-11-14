@@ -49,17 +49,17 @@ fxa-headline-72786b8a = Създаване на парола
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Създаване на профил
 # Description for Verify Login Code Email
-fxa-description-38390134 = Помогнете ни да защитим профила ви, като одобрите вписването ви.
+fxa-description-38390134 = Помогнете ни да защитим профила ви, като одобрите вписването си.
 # Headline for Verify Login Code Email
-fxa-headline-ed889b16 = Влязохте ли във Firefox?
+fxa-headline-ed889b16 = Вие ли се вписахте във Firefox профила си?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Одобряване на вписването във Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Потвърдете своята сметка и се възползвайте максимално от Mozilla навсякъде, където влезете, започвайки с:
+fxa-description-d28733a3 = Потвърдете своя профил и се възползвайте максимално от Mozilla навсякъде. Започнете с:
 # Headline for Verify Short Code Email
-fxa-headline-f827216f = Отворете интернет с Mozilla
+fxa-headline-f827216f = Отворете интернета с Mozilla
 # Subject for Verify Short Code Email
-fxa-subject-ef1fb997 = Потвърдете своята сметка
+fxa-subject-ef1fb997 = Потвърдете своя профил
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
