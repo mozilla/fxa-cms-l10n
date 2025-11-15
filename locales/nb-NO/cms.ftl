@@ -74,6 +74,8 @@ fxa-logoAltText-96e4284e = Firefox-logo
 fxa-description-0d2e3341 = Sikkerhetskopier Firefox-passordene, bokmerkene og fanene dine når du er klar for en ny enhet.
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Sikkerhetskopier med en Mozilla-konto
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = rev sikkerhetskopierer
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Kom i gang
 # Headline for New Device Login Email
@@ -214,3 +216,10 @@ fxa-description-811350a6 = Ett steg igjen før du får fordelene med Firefox VPN
 
 # Description for Email First Page
 fxa-description-861f2d28 = Sikkerhetskopier passordene, fanene og bokmerkene dine, slik at du er klar for en ny enhet.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = rev synkroniserer
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = rev hopper
