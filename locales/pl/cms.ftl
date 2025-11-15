@@ -54,6 +54,8 @@ fxa-description-38390134 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, 
 fxa-headline-ed889b16 = Ktoś zalogował się do Firefoksa. To Ty?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Zatwierdź logowanie do Firefoksa
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Potwierdź konto i w pełni wykorzystaj Mozillę wszędzie, gdzie się zalogujesz, zaczynając od przeglądarki i urządzenia:
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Otwórz internet z Mozillą
 # Subject for Verify Short Code Email
@@ -86,6 +88,8 @@ fxa-description-5649263e = Zaloguj się, aby wykonać kopię zapasową tego urz�
 fxa-description-3db4ef62 = Bezpiecznie utwórz kopie zapasowe danych Firefoksa, zabezpieczając je hasłem.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Utwórz hasło, aby chronić swoje dane
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Potwierdź swoje konto i synchronizuj hasła wszędzie tam, gdzie jesteś zalogowany w Firefoksie, zaczynając od przeglądarki i urządzenia:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Potwierdź swoje konto Mozilli, aby zsynchronizować dane
 
