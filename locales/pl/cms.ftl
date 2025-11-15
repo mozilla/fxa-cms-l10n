@@ -212,3 +212,10 @@ fxa-description-811350a6 = Jeszcze tylko krok do korzystania z zalet Firefox VP
 
 # Description for Email First Page
 fxa-description-861f2d28 = Zrób kopię zapasową swoich haseł, kart i zakładek, aby być gotowym na nowe urządzenie.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = Lisowa synchronizacja
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = skaczący lis
