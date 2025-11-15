@@ -185,8 +185,41 @@ fxa-headline-47e5e3c7 = スキャンを開始するためのパスワードを�
 fxa-headline-461a0bbf = Mozilla Monitor を利用するにはアカウントを確認してください
 # Subject for Verify Login Code Email
 fxa-subject-461a0bbf = Mozilla Monitor を利用するにはアカウントを確認してください
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Mozilla Monitor を利用するにはアカウントを確認してください:
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Mozilla アカウントを使用して、別の端末と安全に同期しましょう。
+# Headline for Email First Page
+fxa-headline-0ec7d798 = 保存したパスワードがどこでも使えます
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = パスワードの同期
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = 別の端末と安全に同期するために Mozilla アカウントを作成しましょう。
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = 同期するにはアカウントを確認してください
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = アカウントによって VPN へのアクセスが解除され、端末間で Firefox データの同期できます。
+# Headline for Email First Page
+fxa-headline-6aca2436 = Mozilla アカウントで無料の Firefox VPN を有効にしましょう。
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Firefox VPN を利用するためのステップはあと １ つ。開いたパネルからオンにしてください。
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = パスワード、ブックマーク、タブなどをバックアップしておけば、いつでも新しい端末に移行できます。
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = 狐と同期
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = 跳ねる狐
