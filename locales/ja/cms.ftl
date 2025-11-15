@@ -86,33 +86,105 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 fxa-description-5649263e = ログインして、この端末のデータをバックアップしましょう。
 # Description for Signup Set Password Page
 fxa-description-3db4ef62 = Firefox のデータをパスワードで安全にバックアップしましょう。
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = データを保護するためのパスワードを作成
+# Description for Verify Short Code Email
+fxa-description-bb7998da = アカウントを確認して、Firefox にログインしたどの端末からでもパスワードを同期できます。まずこちらから:
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = 同期するには Mozilla アカウントを確認してください
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = 同期を開始するためのメールアドレスを入力
+# Headline for Signin Page
+fxa-headline-c2b34227 = 同期を開始するためのパスワードを入力
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = 同期を開始するためのパスワードを作成
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = 同期のセットアップを完了しましょう
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = ログインしているすべての端末で、パスワードとブックマーク、同期された Firefox のデータが暗号で保護されます。
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = 安全に同期するためのパスワードを作成
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = アカウントを作成またはログインしてください。
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Mozilla アカウントで Firefox VPN を試してみましょう
+# Description for New Device Login Email
+fxa-description-e59dc09c = Mozilla アカウントへの新しいログインがありました。心当たりがない場合は、パスワードを変更してください。
 # Headline for New Device Login Email
-fxa-headline-a0a749e1 = Firefox への新規ログイン
+fxa-headline-a0a749e1 = Firefox への新しいログイン
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Firefox VPN のセットアップ
+# Description for Signin Page
+fxa-description-427b83de = Mozilla アカウントにログインしてください。
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = 同期が有効になり、Firefox VPN の準備が整いました。 ツールバーからオンにできます。
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = 次の手順: Firefox VPN をオンにする
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = パスワードを設定
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = 含まれているコードを使用して Mozilla アカウントを確認してください
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = アカウントを確認してください
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Firefox にログインするには Mozilla アカウントを確認してください
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
-fxa-description-0a9e868b = Firefox への新規ログイン
+fxa-description-0a9e868b = Firefox への新しいログイン
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = たった １ つの簡単なステップ。メールに転送されたコードを入力して、Mozilla アカウントを有効にしてください。
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = ログインまたはアカウント登録
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = アカウントを安全に保つために、次の端末からのログインを承認してください:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = アカウントを確認してください
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = 含まれているコードを使用して Mozilla アカウントを確認してください
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Firefox ブラウザーを使用するにはアカウントを確認してください
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Mozilla Monitor を利用するには Mozilla アカウントが必要です。
+# Headline for Email First Page
+fxa-headline-de41db80 = Mozilla アカウントにログインまたはアカウント登録
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Mozilla Monitor への新しいログインがありました。心当たりがない場合は、パスワードを変更してください。
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Mozilla Monitor への新しいログイン
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Mozilla Monitor への新しいログイン
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Mozilla Monitor のロゴ
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Mozilla Monitor のロゴ
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Mozilla Monitor のセットアップ
+# Description for Signin Page
+fxa-description-ab270ce7 = Mozilla Monitor を利用するには Mozilla アカウントにログインしてください。
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = スキャンを開始するためのパスワードを作成
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Mozilla Monitor を利用するにはアカウントを確認してください
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Mozilla Monitor を利用するにはアカウントを確認してください
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
