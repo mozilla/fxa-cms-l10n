@@ -16,6 +16,8 @@ fxa-subject-a0a749e1 = Новы ўваход у Firefox
 fxa-headline-e8d28194 = Увядзіце ваш пароль
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Увайсці
+# Headline for Signin Token Code Page
+fxa-headline-d076f12b = Увядзіце код пацверджання
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Пацвердзіць
 # Primary Button Text for Signin Unblock Code Page
@@ -28,11 +30,24 @@ fxa-headline-3ed2d228 = Сінхранізацыя ўключана
 fxa-headline-72786b8a = Стварыць пароль
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Стварыць уліковы запіс
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Адкрыйце інтэрнэт з дапамогай Mozilla
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Пацвердзіце свой уліковы запіс
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Лагатып Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Лагатып Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Пачаць
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
