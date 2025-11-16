@@ -153,16 +153,16 @@ fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobri
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Potrdite račun
 # Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Uporabite priloženo kodo za potrditev računa Mozilla.
+fxa-headline-f8578b7c = S priloženo kodo potrdite svoj račun Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Potrdite račun za uporabo brskalnika Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
-fxa-description-4766f222 = Za uporabo Mozilla Monitorja je potreben Mozillin Račun.
+fxa-description-4766f222 = Za uporabo Mozilla Monitorja je potreben račun Mozilla.
 # Headline for Email First Page
-fxa-headline-de41db80 = Registrirajte se ali se prijavite v svoj Račun Mozilla
+fxa-headline-de41db80 = Registrirajte se ali se prijavite v račun Mozilla
 # Description for New Device Login Email
 fxa-description-4e3d5811 = Prišlo je do nove prijave v Mozilla Monitor. Če niste vi, spremenite geslo.
 # Headline for New Device Login Email
