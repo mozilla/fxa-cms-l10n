@@ -12,12 +12,16 @@ fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mo
 fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвайсці
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Новы ўваход у Firefox
+# Headline for Signin Page
+fxa-headline-e8d28194 = Увядзіце ваш пароль
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Увайсці
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Пацвердзіць
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Працягнуць
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-e4029ca4 = Пачаць сінхранізацыю
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = Сінхранізацыя ўключана
 # Headline for Signup Set Password Page
