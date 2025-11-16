@@ -36,10 +36,14 @@ fxa-primaryButtonText-a0bfb8e5 = Идома додан
 fxa-description-da2a8a91 = Ба мо ёрӣ диҳед, то мутмаин шавем, ки ин дар ҳақиқат шумо ҳисобро эҷод карда истодаед.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Оғози ҳамоҳангсозӣ
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = Ниҳонвожаҳо, тарзҳои пардохт, нишониҳо, хатбаракҳо, таърих ва маълумоти дигари шумо метавонад дар ҳамаи ҷойҳое, ки шумо аз «Firefox» истифода мебаред, ҳамоҳанг карда шавад.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = Ҳамоҳангсозӣ фаъол аст
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Илова кардани дастгоҳи дигар
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Ниҳонвожаҳо, тарзҳои пардохт, хатбаракҳо ва маълумоти дигари худро дар ҳамаи ҷойҳое, ки шумо аз «Firefox» истифода мебаред, ҳамоҳанг созед.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Эҷод кардани ниҳонвожа
 # Primary Button Text for Signup Set Password Page
