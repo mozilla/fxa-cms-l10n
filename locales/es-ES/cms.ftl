@@ -216,6 +216,8 @@ fxa-description-811350a6 = Un paso más para disfrutar de las ventajas de Firefo
 
 # Description for Email First Page
 fxa-description-861f2d28 = Haz una copia de seguridad de tus contraseñas, pestañas y marcadores para estar preparado para un nuevo dispositivo.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = zorro sincronizando
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
