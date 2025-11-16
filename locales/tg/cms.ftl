@@ -18,6 +18,8 @@ fxa-headline-7315250e = Ҳисоби «Mozilla»-и шумо барои вори
 fxa-subject-a0a749e1 = Воридшавии нав ба «Firefox»
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Танзими ҳамоҳангсозии «Firefox»
+# Description for Signin Page
+fxa-description-aedac88d = Ниҳонвожаҳо ва маълумоти дигари худро дар ҳамаи ҷойҳое, ки шумо ба ҳисоби худ ворид мешавед, ҳамоҳанг созед.
 # Headline for Signin Page
 fxa-headline-e8d28194 = Ниҳонвожаи худро ворид намоед
 # Primary Button Text for Signin Page
@@ -26,8 +28,12 @@ fxa-primaryButtonText-b6d4223e = Ворид шудан
 fxa-headline-d076f12b = Рамзи тасдиқкунандаро ворид намоед
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Тасдиқ кардан
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = Ба мо ёрӣ диҳед, то мутмаин шавем, ки ин дар ҳақиқат шумо ворид шуда истодаед.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Идома додан
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = Ба мо ёрӣ диҳед, то мутмаин шавем, ки ин дар ҳақиқат шумо ҳисобро эҷод карда истодаед.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Оғози ҳамоҳангсозӣ
 # Headline for Signup Confirmed Sync Page
@@ -54,6 +60,17 @@ fxa-logoAltText-96e4284e = Ангораи браузери «Firefox»
 fxa-primaryButtonText-be11c74c = Оғози кор
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Барои оғози ҳамоҳангсозӣ, ҳисоби «Mozilla»-и худро тасдиқ кунед
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Барои оғоз кардани ҳамоҳангсозӣ почтаи электрониро ворид кунед
+# Headline for Signin Page
+fxa-headline-c2b34227 = Барои оғоз кардани ҳамоҳангсозӣ ниҳонвожаро ворид кунед
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Барои оғоз кардани ҳамоҳангсозӣ ниҳонвожаро эҷод кунед
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
