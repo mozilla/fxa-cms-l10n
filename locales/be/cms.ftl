@@ -40,6 +40,8 @@ fxa-description-201c6fe1 = Сінхранізуйце свае паролі, с�
 fxa-headline-72786b8a = Стварыць пароль
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Стварыць уліковы запіс
+# Description for Verify Login Code Email
+fxa-description-38390134 = Дапамажыце нам захоўваць ваш уліковы запіс у бяспецы, пацвердзіўшы свой ўваход.
 # Headline for Verify Short Code Email
 fxa-headline-f827216f = Адкрыйце інтэрнэт з дапамогай Mozilla
 # Subject for Verify Short Code Email
@@ -61,5 +63,14 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Пацвердзіце свой уліковы запіс
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
