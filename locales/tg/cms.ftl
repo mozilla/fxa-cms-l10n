@@ -82,20 +82,47 @@ fxa-headline-7a6bf86a = Барои оғоз кардани ҳамоҳангсо�
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Ба анҷом расонидани ҳамоҳангсозӣ
 
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Барои ҳамоҳангсозии бехатар, ниҳонвожаеро эҷод кунед
+
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Воридшавии нав ба «Firefox»
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Танзим кардани «Firefox VPN»
+# Description for Signin Page
+fxa-description-427b83de = Ба ҳисоби «Mozilla»-и худ ворид шавед.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Қадами дигар: Фаъол кардани «Firefox VPN»
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Ниҳонвожаи худро танзим кунед
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Ҳисоби худро тасдиқ кунед
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Барои ворид шудан ба «Firefox», ҳисоби худро тасдиқ кунед
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for New Device Login Email
+fxa-description-0a9e868b = Воридшавии нав ба «Firefox»
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Ҳисоби худро тасдиқ кунед
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Барои истифодаи браузери «Firefox», ҳисоби худро тасдиқ кунед
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Воридшавии нав ба «Mozilla Monitor»
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Воридшавии нав ба «Mozilla Monitor»
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 
