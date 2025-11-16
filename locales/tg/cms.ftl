@@ -151,6 +151,8 @@ fxa-emailLogoAltText-ccc1a61b = Тамғаи «Mozilla Monitor»
 fxa-logoAltText-ccc1a61b = Тамғаи «Mozilla Monitor»
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Танзим кардани «Mozilla Monitor»
+# Description for Signin Page
+fxa-description-ab270ce7 = Барои истифодаи «Mozilla Monitor», ба ҳисоби «Mozilla»-и худ ворид шавед.
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Барои оғоз кардани санҷиш ниҳонвожаеро эҷод кунед
 # Headline for Verify Login Code Email
@@ -174,3 +176,8 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-description-32c1f240 = Барои ҳамоҳангсозии бехатар бо дастгоҳи дигар, ҳисоби «Mozilla»-ро эҷод кунед.
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = Барои оғози ҳамоҳангсозӣ, ҳисоби худро тасдиқ кунед
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Headline for Email First Page
+fxa-headline-6aca2436 = «Firefox VPN»-и худро ба воситаи ҳисоби «Mozilla» ройгон фаъол созед
