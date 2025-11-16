@@ -48,6 +48,12 @@ fxa-description-201c6fe1 = Ниҳонвожаҳо, тарзҳои пардохт
 fxa-headline-72786b8a = Эҷод кардани ниҳонвожа
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Эҷод кардани ҳисоб
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = Оё ин шумо ба «Firefox» ворид шудаед?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Тасдиқи воридшавӣ ба «Firefox»
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Интернетро бо «Mozilla» боз кунед
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Ҳисоби худро тасдиқ кунед
 
@@ -125,8 +131,32 @@ fxa-headline-207efcd9 = Воридшавии нав ба «Mozilla Monitor»
 fxa-subject-207efcd9 = Воридшавии нав ба «Mozilla Monitor»
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Тамғаи «Mozilla Monitor»
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Тамғаи «Mozilla Monitor»
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Танзим кардани «Mozilla Monitor»
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Барои оғоз кардани санҷиш ниҳонвожаеро эҷод кунед
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Барои истифодаи «Mozilla Monitor», ҳисоби худро тасдиқ кунед
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Барои истифодаи «Mozilla Monitor», ҳисоби худро тасдиқ кунед
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Барои истифодаи «Mozilla Monitor», ҳисоби худро тасдиқ кунед.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Барои ҳамоҳангсозии бехатар бо дастгоҳи дигар, аз ҳисоби «Mozilla»-и худ истифода баред.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Ниҳонвожаҳои нигоҳдошташударо аз ҷойи дилхоҳ ба даст оред
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = ҳамоҳангсозии ниҳонвожаҳо
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Барои ҳамоҳангсозии бехатар бо дастгоҳи дигар, ҳисоби «Mozilla»-ро эҷод кунед.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Барои оғози ҳамоҳангсозӣ, ҳисоби худро тасдиқ кунед
