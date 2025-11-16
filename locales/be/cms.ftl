@@ -20,12 +20,22 @@ fxa-primaryButtonText-b6d4223e = Увайсці
 fxa-headline-d076f12b = Увядзіце код пацверджання
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Пацвердзіць
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = Дапамажыце нам упэўніцца, што гэта вы ўваходзіце ў сістэму.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Працягнуць
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = Дапамажыце нам упэўніцца, што гэта вы ствараеце ўліковы запіс.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Пачаць сінхранізацыю
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = Вашы паролі, спосабы аплаты, адрасы, закладкі, гісторыя і многае іншае могуць сінхранізавацца ўсюды, дзе вы карыстаецеся Firefox.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = Сінхранізацыя ўключана
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = Дадаць яшчэ адну прыладу
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Сінхранізуйце свае паролі, спосабы аплаты, закладкі і многае іншае ўсюды, дзе вы карыстаецеся Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Стварыць пароль
 # Primary Button Text for Signup Set Password Page
