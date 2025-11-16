@@ -66,12 +66,20 @@ fxa-logoAltText-96e4284e = Ангораи браузери «Firefox»
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Нусхаи эҳтиётиро ба воситаи ҳисоби «Mozilla» таҳия намоед
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = нусхаи эҳтиётии рӯбоҳ
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Оғози кор
 # Headline for New Device Login Email
 fxa-headline-d0511570 = Ҳисоби «Mozilla»-и шумо барои воридшавӣ истифода шуд.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Барои таҳия кардани нусхаи эҳтиётии ин дастгоҳ, ворид шавед.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Нусхаи эҳтиётии маълумоти «Firefox»-и худро бо ниҳонвожа ба таври бехатар таҳия кунед.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Барои ҳифз кардании маълумоти шумо, ниҳонвожаеро эҷод кунед
 # Subject for Verify Short Code Email
@@ -95,6 +103,10 @@ fxa-headline-48cc8c34 = Барои ҳамоҳангсозии бехатар, н
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = Ҳисоби худро эҷод кунед ё агар шумо аллакай ҳисобе дошта бошед, ворид шавед.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Аз «Firefox VPN» ба воситаи ҳисоби «Mozilla» истифода баред
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Воридшавии нав ба «Firefox»
 # Page Title for Shared
@@ -125,6 +137,8 @@ fxa-subject-f3d09e03 = Барои истифодаи браузери «Firefox�
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Headline for Email First Page
+fxa-headline-de41db80 = Сабти ном кунед ё ба ҳисоби «Mozilla»-и худ ворид шавед
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Воридшавии нав ба «Mozilla Monitor»
 # Subject for New Device Login Email
