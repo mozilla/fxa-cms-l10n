@@ -4,6 +4,20 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Ниҳонвожаҳо, варақаҳо ва хатбаракҳоро дар ҳамаи ҷойҳое, ки шумо аз «Firefox» истифода мебаред, ҳамоҳанг созед.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Ба ҳисоби «Mozilla»-и худ идома диҳед
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Сабти ном кунед ё ворид шавед
+# Description for New Device Login Email
+fxa-description-a0671d4a = Ба ҳисоби «Mozilla»-и шумо воридшавии нав иҷро шуд:
+# Headline for New Device Login Email
+fxa-headline-7315250e = Ҳисоби «Mozilla»-и шумо барои воридшавӣ истифода шуд
+# Subject for New Device Login Email
+fxa-subject-a0a749e1 = Воридшавии нав ба «Firefox»
+# Page Title for Shared
+fxa-pageTitle-ffd8275e = Танзими ҳамоҳангсозии «Firefox»
 # Headline for Signin Page
 fxa-headline-e8d28194 = Ниҳонвожаи худро ворид намоед
 # Primary Button Text for Signin Page
