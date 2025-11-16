@@ -58,8 +58,12 @@ fxa-logoAltText-96e4284e = Ангораи браузери «Firefox»
 
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Оғози кор
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Ҳисоби «Mozilla»-и шумо барои воридшавӣ истифода шуд.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Барои ҳифз кардании маълумоти шумо, ниҳонвожаеро эҷод кунед
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Барои оғози ҳамоҳангсозӣ, ҳисоби «Mozilla»-и худро тасдиқ кунед
 
