@@ -48,6 +48,8 @@ fxa-description-201c6fe1 = Ниҳонвожаҳо, тарзҳои пардохт
 fxa-headline-72786b8a = Эҷод кардани ниҳонвожа
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Эҷод кардани ҳисоб
+# Description for Verify Login Code Email
+fxa-description-38390134 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо ба таври бехатар нигоҳ дорем.
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = Оё ин шумо ба «Firefox» ворид шудаед?
 # Subject for Verify Login Code Email
