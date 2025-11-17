@@ -109,6 +109,8 @@ fxa-headline-48cc8c34 = Барои ҳамоҳангсозии бехатар, н
 fxa-description-637f76bf = Ҳисоби худро эҷод кунед ё агар шумо аллакай ҳисобе дошта бошед, ворид шавед.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Аз «Firefox VPN» ба воситаи ҳисоби «Mozilla» истифода баред
+# Description for New Device Login Email
+fxa-description-e59dc09c = Ба ҳисоби «Mozilla»-и шумо воридшавии нав иҷро шуд. Агар ин шумо набошед, лутфан, ниҳонвожаи худро иваз намоед.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Воридшавии нав ба «Firefox»
 # Page Title for Shared
@@ -119,6 +121,8 @@ fxa-description-427b83de = Ба ҳисоби «Mozilla»-и худ ворид ш
 fxa-headline-9628f0ec = Қадами дигар: Фаъол кардани «Firefox VPN»
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Ниҳонвожаи худро танзим кунед
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Барои тасдиқ кардани ҳисоби «Mozilla»-и худ, аз рамзи дохилшуда истифода баред.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Ҳисоби худро тасдиқ кунед
 # Subject for Verify Short Code Email
@@ -132,15 +136,23 @@ fxa-description-0a9e868b = Воридшавии нав ба «Firefox»
 fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Ҳисоби худро тасдиқ кунед
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Барои тасдиқ кардани ҳисоби «Mozilla»-и худ, аз рамзи дохилшуда истифода баред.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Барои истифодаи браузери «Firefox», ҳисоби худро тасдиқ кунед
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Барои истифодаи «Mozilla Monitor» ҳисоби «Mozilla» лозим аст.
 # Headline for Email First Page
 fxa-headline-de41db80 = Сабти ном кунед ё ба ҳисоби «Mozilla»-и худ ворид шавед
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Ба ҳисоби «Mozilla Monitor» воридшавии нав иҷро шуд. Агар ин шумо набошед, лутфан, ниҳонвожаи худро иваз намоед.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Воридшавии нав ба «Mozilla Monitor»
 # Subject for New Device Login Email
@@ -183,3 +195,8 @@ fxa-subject-9235d479 = Барои оғози ҳамоҳангсозӣ, ҳисо�
 
 # Headline for Email First Page
 fxa-headline-6aca2436 = «Firefox VPN»-и худро ба воситаи ҳисоби «Mozilla» ройгон фаъол созед
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = ҳамоҳангсозии рӯбоҳ
