@@ -54,6 +54,10 @@ fxa-description-38390134 = Hjelp oss med å halde kontoen din trygg ved å godkj
 fxa-headline-ed889b16 = Logga du inn på Firefox?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Godkjenn innlogging til Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Stadfest kontoen din og få mest mogleg ut av Mozilla overalt der du loggar inn, og start med:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Opne internett med Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Stadfest kontoen din
 
@@ -66,6 +70,12 @@ fxa-logoAltText-96e4284e = Firefox-logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Description for Email First Page
+fxa-description-0d2e3341 = Sikkerheitskopier Firefox-passorda, bokmerka og fanene dine når du er klar for ei ny eining.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Sikkerheitskopier med ein Mozilla-konto
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = sikkerheitskopier med reven
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Kom i gang
 # Headline for New Device Login Email
@@ -74,6 +84,8 @@ fxa-headline-d0511570 = Mozilla-kontoen din vart brukt til å logge inn.
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = Logg inn for å sikkerheitskopiere denne eininga.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Sikkerheitskopier Firefox-dataa dine trygt med et passord.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Stadfest Mozilla-kontoen din for å synkronisere
 
