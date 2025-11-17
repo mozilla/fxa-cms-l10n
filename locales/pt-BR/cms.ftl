@@ -166,9 +166,9 @@ fxa-headline-de41db80 = Entre na sua conta Mozilla ou crie uma
 # Description for New Device Login Email
 fxa-description-4e3d5811 = Houve um novo acesso à sua conta no Mozilla Monitor. Se não foi você, mude sua senha.
 # Headline for New Device Login Email
-fxa-headline-207efcd9 = Nova entrada no Mozilla Monitor
+fxa-headline-207efcd9 = Novo acesso ao Mozilla Monitor
 # Subject for New Device Login Email
-fxa-subject-207efcd9 = Nova entrada no Mozilla Monitor
+fxa-subject-207efcd9 = Novo acesso ao Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -176,7 +176,7 @@ fxa-emailLogoAltText-ccc1a61b = Logotipo do Mozilla Monitor
 # Logo Alt Text for Shared
 fxa-logoAltText-ccc1a61b = Logotipo do Mozilla Monitor
 # Page Title for Shared
-fxa-pageTitle-924eac9f = Configurar o Mozilla Monitor
+fxa-pageTitle-924eac9f = Configurar Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Entre na sua conta Mozilla para usar o Mozilla Monitor.
 # Headline for Signup Set Password Page
