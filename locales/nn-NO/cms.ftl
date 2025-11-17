@@ -86,6 +86,10 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 fxa-description-5649263e = Logg inn for å sikkerheitskopiere denne eininga.
 # Description for Signup Set Password Page
 fxa-description-3db4ef62 = Sikkerheitskopier Firefox-dataa dine trygt med et passord.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Opprett eit passord for å verne dataa dine
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Stadfest kontoen din og synkroniser passorda dine overalt der du er innlogga på Firefox, og start med:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Stadfest Mozilla-kontoen din for å synkronisere
 
@@ -95,11 +99,22 @@ fxa-subject-c9fd4b52 = Stadfest Mozilla-kontoen din for å synkronisere
 fxa-headline-b36f2b05 = Skriv inn e-postadresse for å starte synkronisering
 # Headline for Signin Page
 fxa-headline-c2b34227 = Skriv inn passord for å starte synkronisering
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Opprett eit passord for å begynne å synkronisere
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Fullfør synkroniseringsoppsettet
 
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Vernar passorda dine, bokmerka dine og synkroniserte Firefox-data med kryptering overalt du er innlogga.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Opprett eit passord for sikker synkronisering
+
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = Opprett ein konto, eller logg inn dersom du allereie har ein.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Neste: Slå på Firefox VPN
 # Headline for Signup Set Password Page
