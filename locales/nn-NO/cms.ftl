@@ -207,3 +207,19 @@ fxa-subject-9235d479 = Stadfest kontoen din for å synkronisere
 
 # Description for Email First Page
 fxa-description-6591d2a0 = Ein konto låser opp tilgang til VPN og synkroniserer Firefox-dataa dine på tvers av einingar.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Aktiver ditt gratis Firefox VPN med ein Mozilla-konto
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Eitt steg til før du får fordelane med Firefox VPN. Gå til det opne panelet og slå det på.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Sikkerheitskopier passorda, fanene og bokmerka dine, slik at du er klar for ein ny eining.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = reven synkroniserer
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = reven hoppar
