@@ -13,7 +13,7 @@ fxa-primaryButtonText-a20eb81e = Registracija ali prijava
 # Description for New Device Login Email
 fxa-description-a0671d4a = Prišlo je do nove prijave v vaš račun Mozilla:
 # Headline for New Device Login Email
-fxa-headline-7315250e = Za prijavo je bil uporabljen vaš Mozillin račun
+fxa-headline-7315250e = Za prijavo je bil uporabljen vaš račun Mozilla
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nova prijava v Firefox
 # Page Title for Shared
