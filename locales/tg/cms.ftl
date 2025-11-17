@@ -68,6 +68,8 @@ fxa-logoAltText-96e4284e = Ангораи браузери «Firefox»
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Description for Email First Page
+fxa-description-0d2e3341 = Вақте ки шумо барои истифодаи дастгоҳи нав омода мешавед, барои ниҳонвожаҳо, хатбаракҳо ва варақаҳои худ аз браузери «Firefox» нусхаи эҳтиётиро таҳия кунед.
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Нусхаи эҳтиётиро ба воситаи ҳисоби «Mozilla» таҳия намоед
 # Logo Alt Text for Email First Page
@@ -198,5 +200,12 @@ fxa-headline-6aca2436 = «Firefox VPN»-и худро ба воситаи ҳис
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
+# Description for Email First Page
+fxa-description-861f2d28 = Барои ниҳонвожаҳо, варақаҳо ва хатбаракҳои худ нусхаи эҳтиётиро таҳия кунед, то шумо тавонед барои истифодаи дастгоҳи нав омода шавед.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ҳамоҳангсозии рӯбоҳ
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = рӯбоҳи ҷаста
