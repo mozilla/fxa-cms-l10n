@@ -115,6 +115,18 @@ fxa-headline-48cc8c34 = Opprett eit passord for sikker synkronisering
 
 # Description for Email First Page
 fxa-description-637f76bf = Opprett ein konto, eller logg inn dersom du allereie har ein.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Prøv Firefox VPN med ein Mozilla-konto
+# Description for New Device Login Email
+fxa-description-e59dc09c = Nytt innloggingforsøk på Mozilla-kontoen din.Dersom dette ikkje var deg, bør du endre passordet ditt.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Ny innlogging på Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Konfigurer Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = Logg inn på Mozilla-kontoen din.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Synkronisering er aktivert, og du er klar for Firefox VPN. Gå til verktøylinja for å slå det på.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Neste: Slå på Firefox VPN
 # Headline for Signup Set Password Page
@@ -132,15 +144,27 @@ fxa-subject-10e5b452 = Stadfest kontoen din for å logge på Firefox
 fxa-description-0a9e868b = Ny innlogging på Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Berre eitt kjapt steg. Skriv inn koden frå e-posten din for å aktivere Mozilla-kontoen din.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Registrer deg eller logg inn
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjelp oss med å halde kontoen din trygg ved å godkjenne innlogginga di på:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Stadfest kontoen din
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Bruk den medfølgjande koden for å stadfeste Mozilla-kontoen din.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Stadfest kontoen din for å bruke Firefox-nettlesaren
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Du treng ein Mozilla-konto for å bruke Mozilla Monitor.
+# Headline for Email First Page
+fxa-headline-de41db80 = Registrer deg eller logg inn på Mozilla-kontoen din
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Ny innlogging på Mozilla Monitor. Dersom dette ikkje er deg, må du endre passordet ditt.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Ny innlogging på Mozilla Monitor
 # Subject for New Device Login Email
@@ -166,5 +190,20 @@ fxa-headline-74461a97 = Stadfest kontoen din for å bruke Mozilla Monitor.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Bruk Mozilla-kontoen din for å synkronisere sikkert til ei anna eining.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Få tilgang til lagra passord overalt
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = passordsynkronisering
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Opprett ein Mozilla-konto for å synkronisere sikkert til ei anna eining.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Stadfest kontoen din for å synkronisere
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = Ein konto låser opp tilgang til VPN og synkroniserer Firefox-dataa dine på tvers av einingar.
