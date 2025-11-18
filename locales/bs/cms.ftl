@@ -74,3 +74,15 @@ fxa-logoAltText-96e4284e = Firefox logo
 fxa-description-0d2e3341 = Napravite sigurnosnu kopiju lozinki, zabilješki i tabova za Firefox kada budete spremni za novi uređaj.
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Napravite sigurnosnu kopiju s Mozilla računom
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = fox sigurnosna kopija
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Započnite
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Vaš Mozilla račun je korišten za prijavu.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Prijavite se da biste napravili sigurnosnu kopiju ovog uređaja.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Sigurno napravite sigurnosnu kopiju svojih Firefox podataka pomoću lozinke.
