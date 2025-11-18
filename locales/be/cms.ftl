@@ -10,6 +10,10 @@ fxa-description-4ac18cac = Сінхранізуйце свае паролі, к�
 fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвайсці
+# Description for New Device Login Email
+fxa-description-a0671d4a = У ваш уліковы запіс Mozilla быў выкананы новы ўваход:
+# Headline for New Device Login Email
+fxa-headline-7315250e = Ваш уліковы запіс Mozilla быў выкарыстаны для ўваходу
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Новы ўваход у Firefox
 # Headline for Signin Page
