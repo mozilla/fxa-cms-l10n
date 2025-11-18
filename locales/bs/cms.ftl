@@ -48,3 +48,29 @@ fxa-description-201c6fe1 = Sinhronizujte svoje lozinke, načine plaćanja, zabil
 fxa-headline-72786b8a = Napravite novu lozinku
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Kreirajte račun
+# Description for Verify Login Code Email
+fxa-description-38390134 = Pomozite nam da vaš račun bude siguran tako što ćete odobriti vašu prijavu.
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = Jesi li se prijavio/la u Firefox?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Odobri prijavu u Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Potvrdite svoj račun i iskoristite Mozillu na najbolji način svugdje gdje se prijavljujete, počevši od:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Otvorite internet pomoću Mozille
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Potvrdite račun
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox logo
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox logo
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = Napravite sigurnosnu kopiju lozinki, zabilješki i tabova za Firefox kada budete spremni za novi uređaj.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Napravite sigurnosnu kopiju s Mozilla računom
