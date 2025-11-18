@@ -34,3 +34,17 @@ fxa-description-8e3fb023 = Pomozite nam da se uvjerimo da se zaista vi prijavlju
 fxa-primaryButtonText-a0bfb8e5 = Nastavi
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Pomozite nam da se uvjerimo da ste to vi koji kreirate račun.
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-e4029ca4 = Započni sinhronizaciju
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = Vaše lozinke, načini plaćanja, adrese, zabilješke, historija i još mnogo toga mogu se sinhronizirati svugdje gdje koristite Firefox.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = Sinhronizacija je uključena
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = Dodaj još jedan uređaj
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sinhronizujte svoje lozinke, načine plaćanja, zabilješke i još mnogo toga svugdje gdje koristite Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-72786b8a = Napravite novu lozinku
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = Kreirajte račun
