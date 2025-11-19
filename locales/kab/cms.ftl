@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Kemmel ɣer umiḍan-ik ⋅im Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Kcem neɣ qqen
 # Subject for New Device Login Email
@@ -28,6 +30,8 @@ fxa-primaryButtonText-598649e6 = Rnu ibenk niḍen
 fxa-headline-72786b8a = Rnu awal n uɛeddi
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Rnu amiḍan
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Sentem anekcum ɣer Firefox
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Sentem amiḍan-ik⋅im
 
