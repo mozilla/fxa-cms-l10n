@@ -119,9 +119,62 @@ fxa-description-637f76bf = Stofnaðu aðgang eða skráðu þig inn ef þú ert 
 fxa-headline-6d656fc9 = Prófaðu Firefox VPN með Mozilla-reikningi
 # Description for New Device Login Email
 fxa-description-e59dc09c = Ný innskráning var gerð á Mozilla reikninginn þinn. Ef þetta varst ekki þú, skaltu endilega breyta lykilorðinu þínu.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Ný innskráning í Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Setja upp Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = Skráðu þig inn á Mozilla-aðganginn þinn
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Samstilling er virk og þú ert tilbúin/n fyrir Firefox VPN. Farðu á verkfærastikuna til að kveikja á henni.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Næsta: Kveiktu á Firefox VPN
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Stilltu lykilorðið þitt
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Notaðu meðfylgjandi kóða til að staðfesta Mozilla-reikninginn þinn.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Staðfestu reikninginn þinn
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Staðfestu reikninginn þinn til að skrá þig inn í Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Ný innskráning í Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Bara eitt fljótlegt skref. Settu inn kóðann úr tölvupóstinum þínum til að virkja Mozilla-reikninginn þinn.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Hjálpaðu okkur að halda reikningnum þínum öruggum með því að staðfesta innskráninguna þína á:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Staðfestu reikninginn þinn
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Notaðu meðfylgjandi kóða til að staðfesta Mozilla-reikninginn þinn.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Staðfestu aðganginn þinn til að nota Firefox-vafrann
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Mozilla-reikningur er nauðsynlegur til að nota Mozilla Monitor.
+# Headline for Email First Page
+fxa-headline-de41db80 = Nýskráðu þig eða skráðu þig inn á Mozilla-reikninginn þinn
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Ný innskráning var gerð á Mozilla Monitor. Ef þetta varst ekki þú, skaltu endilega breyta lykilorðinu þínu.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Ný innskráning á Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Ný innskráning á Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Táknmerki Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Táknmerki Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Setja upp Mozilla Monitor
 # Description for Signin Page
