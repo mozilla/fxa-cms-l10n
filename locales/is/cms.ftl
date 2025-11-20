@@ -76,3 +76,14 @@ fxa-headline-d0511570 = Mozilla-reikningurinn þinn var notaður til innskránin
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
 fxa-description-5649263e = Skráðu þig inn til að taka öryggisafrit af þessu tæki.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Taktu öryggisafrit af Firefox gögnunum þínum á öruggan hátt með lykilorði.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Búðu til lykilorð til að vernda gögnin þín
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Staðfestu Mozilla-reikninginn þinn til að samstilla
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Settu inn netfang til að hefja samstillingu
