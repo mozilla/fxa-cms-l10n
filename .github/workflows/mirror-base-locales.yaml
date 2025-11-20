@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'locales/es-AR/cms.ftl'
+      - 'locales/es-ES/cms.ftl'
       - 'locales/fy-NL/cms.ftl'
       - 'locales/hi-IN/cms.ftl'
       - 'locales/pt-PT/cms.ftl'
@@ -21,7 +21,7 @@ jobs:
 
       - name: Mirror region → base
         run: |
-          pairs="es:es-AR fy:fy-NL hi:hi-IN pt:pt-PT sv:sv-SE"
+          pairs="es:es-ES fy:fy-NL hi:hi-IN pt:pt-PT sv:sv-SE"
           changed=0
           for pair in $pairs; do
             base="${pair%%:*}"; src="${pair##*:}"
