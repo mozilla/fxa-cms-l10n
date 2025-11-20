@@ -36,6 +36,8 @@ fxa-primaryButtonText-a0bfb8e5 = Halda áfram
 fxa-description-da2a8a91 = Hjálpaðu okkur að ganga úr skugga um að það sért þú sem ert að stofna aðgang.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Hefja samstillingu
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = Lykilorð, greiðslumáta, netföng, bókamerki, vafurferilog fleira er hægt að samstilla alls staðar þar sem þú notar Firefox.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = Samstilling er virk
 # Primary Button Text for Signup Confirmed Sync Page
@@ -86,6 +88,8 @@ fxa-description-5649263e = Skráðu þig inn til að taka öryggisafrit af þess
 fxa-description-3db4ef62 = Taktu öryggisafrit af Firefox gögnunum þínum á öruggan hátt með lykilorði.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Búðu til lykilorð til að vernda gögnin þín
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Staðfestu aðganginn þinn og samstilltu lykilorðin þín alls staðar þar sem þú ert skráð(ur) inn í Firefox, til dæmis má byrja á:
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Staðfestu Mozilla-reikninginn þinn til að samstilla
 
@@ -100,8 +104,17 @@ fxa-headline-7a6bf86a = Búðu til lykilorð til að hefja samstillingu
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Ljúka uppsetningu á samstillingu
 
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Verndar lykilorð, bókamerki og samstillt Firefox-gögn með dulritun alls staðar þar sem þú ert skráð(ur) inn.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Búðu til lykilorð til að samstilla á öruggan máta
+
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = Stofnaðu aðgang eða skráðu þig inn ef þú ert með aðgang.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Prófaðu Firefox VPN með Mozilla-reikningi
 # Description for New Device Login Email
