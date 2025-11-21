@@ -53,4 +53,65 @@ fxa-headline-ed889b16 = Tu ai intrat în contul Firefox?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Aprobă autentificarea în contul Firefox
 # Description for Verify Short Code Email
-fxa-description-d28733a3 = Confirmă-ți contul și folosește la maxim Mozilla oriunde te conectezi, începând cu:
+fxa-description-d28733a3 = Confirmă-ți contul și folosește la maxim Mozilla oriunde te autentifici, începând cu:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Intră pe internet cu Mozilla
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Confirmă-ți contul
+
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefox
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = Fă o copie de rezervă cu parolele, marcajele și filele Firefox când ești gata să treci la un dispozitiv nou.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Fă o copie de rezervă cu un cont Mozilla
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = copie de rezervă
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Începe
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Contul tău Mozilla a fost folosit pentru conectare.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Intră în cont ca să faci o copie de rezervă de pe acest dispozitiv.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Fă copii de rezervă în siguranță cu datele din Firefox cu o parolă.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Creează o parolă pentru a-ți proteja datele
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Confirmă-ți contul și sincronizează-ți parolele oriunde ești autentificat în Firefox, începând cu:
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Confirmă-ți contul Mozilla ca să sincronizezi
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Introdu adresa de e-mail pentru a începe sincronizarea
+# Headline for Signin Page
+fxa-headline-c2b34227 = Introdu parola pentru a începe sincronizarea
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Creează o parolă pentru a începe sincronizarea
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Finalizează configurarea sincronizării
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Protejează-ți cu criptare parolele, marcajele și datele Firefox sincronizate oriunde ești autentificat(ă).
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Creează o parolă pentru sincronizare în siguranță
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = Creează-ți un cont sau intră în cont dacă ai unul.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Încearcă VPN-ul Firefox cu un cont Mozilla
