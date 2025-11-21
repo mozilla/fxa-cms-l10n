@@ -10,6 +10,8 @@ fxa-description-4ac18cac = Sincronizează-ți parolele, filele și marcajele ori
 fxa-headline-33e9f42d = Continuă către contul tău Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Fă-ți un cont sau intră în cont
+# Description for New Device Login Email
+fxa-description-a0671d4a = Am depistat o autentificare nouă în contul tău Mozilla:
 # Headline for New Device Login Email
 fxa-headline-7315250e = Contul tău Mozilla a fost folosit pentru autentificare
 # Subject for New Device Login Email
@@ -115,3 +117,102 @@ fxa-headline-48cc8c34 = Creează o parolă pentru sincronizare în siguranță
 fxa-description-637f76bf = Creează-ți un cont sau intră în cont dacă ai unul.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Încearcă VPN-ul Firefox cu un cont Mozilla
+# Description for New Device Login Email
+fxa-description-e59dc09c = Am depistat un acces nou în contul tău Mozilla. Dacă nu ai fost tu, te rugăm să îți schimbi parola.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Autentificare nouă în Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Configurează VPN Firefox
+# Description for Signin Page
+fxa-description-427b83de = Intră în contul tău Mozilla.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Sincronizarea este activată și ești gata pentru VPN Firefox. Mergi la bara de instrumente pentru a-l activa.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Apoi: Activează VPN Firefox
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Creează o parolă
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Folosește codul inclus pentru a-ți confirma contul Mozilla.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Confirmă-ți contul
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Confirmă-ți contul pentru autentificare în Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Autentificare nouă în Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Doar un pas rapid. Introdu codul din mesajul primit pe e-mail pentru a-ți activa contul Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Ajută-ne să îți protejăm contul aprobând autentificarea în:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Confirmă-ți contul
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Folosește codul inclus pentru a-ți confirma contul Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Confirmă-ți contul pentru a utiliza browserul Firefox
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Ai nevoie de un cont Mozilla ca să folosești Mozilla Monitor.
+# Headline for Email First Page
+fxa-headline-de41db80 = Fă-ți un cont sau intră în contul tău Mozilla
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Am depistat un acces nou în contul tău Mozilla Monitor. Dacă nu ai fost tu, te rugăm să îți schimbi parola.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Autentificare nouă în Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Autentificare nouă în Mozilla Monitor
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Logo Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Configurează Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Intră în contul tău Mozilla ca să folosești Mozilla Monitor.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Creează o parolă ca să începi o scanare
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Confirmă-ți contul ca să folosești Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Confirmă-ți contul ca să folosești Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Confirmă-ți contul ca să folosești Mozilla Monitor.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Folosește-ți contul Mozilla pentru sincronizare în siguranță cu un alt dispozitiv.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Iei cu tine parolele salvate peste tot
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = sincronizare parole
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Fă-ți un cont Mozilla pentru a sincroniza în siguranță cu un alt dispozitiv.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirmă-ți contul ca să poți sincroniza
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = Un cont deblochează accesul la VPN și îți sincronizează datele Firefox pe toate dispozitivele.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Activează VPN-ul Firefox gratuit cu un cont Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Încă un pas pentru a obține beneficiile VPN Firefox. Mergi la panoul deschis și activează-l.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Fă-ți copii de rezervă cu parolele, filele și marcajele ca să fii gata să treci pe alt dispozitiv.
