@@ -216,3 +216,10 @@ fxa-description-811350a6 = Încă un pas pentru a obține beneficiile VPN Firefo
 
 # Description for Email First Page
 fxa-description-861f2d28 = Fă-ți copii de rezervă cu parolele, filele și marcajele ca să fii gata să treci pe alt dispozitiv.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = sincronizare
+
+## l10n-91 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = salt
