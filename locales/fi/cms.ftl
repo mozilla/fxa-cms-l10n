@@ -85,6 +85,8 @@ fxa-subject-c9fd4b52 = Vahvista Mozilla-tilisi synkronointia varten
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Kirjoita sähköpostiosoitteesi aloittaaksesi synkronoinnin
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Luo salasana aloittaaksesi synkronoinnin
 # Headline for Verify Short Code Email
@@ -163,8 +165,12 @@ fxa-headline-74461a97 = Vahvista tilisi käyttääksesi Mozilla Monitoria.
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Käytä Mozilla-tiliä synkronoidaksesi turvallisesti toiseen laitteeseen.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Käytä tallennettuja salasanoja kaikkialla
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = salasanojen synkronointi
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
