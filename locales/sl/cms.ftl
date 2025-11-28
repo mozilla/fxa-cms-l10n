@@ -83,15 +83,15 @@ fxa-headline-d0511570 = Za prijavo je bil uporabljen vaš Mozillin račun.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
-fxa-description-5649263e = Prijavite se za varnostno kopiranje te naprave.
+fxa-description-5649263e = Za varnostno kopiranje te naprave se prijavite.
 # Description for Signup Set Password Page
-fxa-description-3db4ef62 = Varno varnostno kopirajte svoje podatke Firefox z geslom.
+fxa-description-3db4ef62 = Zavarujte varnostno kopijo svojih podatkov Firefoxa z geslom.
 # Headline for Signup Set Password Page
-fxa-headline-0dffe504 = Ustvarite geslo za zaščito svojih podatkov
+fxa-headline-0dffe504 = Nastavite geslo za zaščito podatkov
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Potrdite račun in sinhronizirajte gesla povsod, kjer ste prijavljeni v Firefox, začenši z:
 # Subject for Verify Short Code Email
-fxa-subject-c9fd4b52 = Potrdite za sinhronizacijo svoj Mozillin račun
+fxa-subject-c9fd4b52 = Za sinhronizacijo potrdite svoj račun Mozilla
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
@@ -100,7 +100,7 @@ fxa-headline-b36f2b05 = Vnesite e-poštni naslov za začetek sinhronizacije
 # Headline for Signin Page
 fxa-headline-c2b34227 = Vnesite geslo za začetek sinhronizacije
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Ustvarite geslo za začetek sinhronizacije
+fxa-headline-7a6bf86a = Nastavite geslo za začetek sinhronizacije
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Dokončaj nastavitev sinhronizacije
 
@@ -164,7 +164,7 @@ fxa-description-4766f222 = Za uporabo Mozilla Monitorja je potreben račun Mozil
 # Headline for Email First Page
 fxa-headline-de41db80 = Registrirajte se ali se prijavite v račun Mozilla
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Prišlo je do nove prijave v Mozilla Monitor. Če niste vi, spremenite geslo.
+fxa-description-4e3d5811 = Nekdo se je pravkar prijavil v Mozilla Monitor. Če to niste bili vi, spremenite geslo.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Nova prijava v Mozilla Monitor
 # Subject for New Device Login Email
@@ -176,9 +176,9 @@ fxa-emailLogoAltText-ccc1a61b = Logotip Mozilla Monitorja
 # Logo Alt Text for Shared
 fxa-logoAltText-ccc1a61b = Logotip Mozilla Monitorja
 # Page Title for Shared
-fxa-pageTitle-924eac9f = Namestite Mozilla Monitor
+fxa-pageTitle-924eac9f = Nastavite Mozilla Monitor
 # Description for Signin Page
-fxa-description-ab270ce7 = Za uporabo Mozilla Monitorja se prijavite v svoj račun Mozilla.
+fxa-description-ab270ce7 = Za uporabo Mozilla Monitorja se prijavite v račun Mozilla.
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Ustvarite geslo za začetek skeniranja
 # Headline for Verify Login Code Email
@@ -195,7 +195,7 @@ fxa-description-78fd76ac = Uporabite Mozillin račun za varno sinhronizacijo z d
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Prejmite shranjena gesla povsod
 # Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = Podatki brskanja bodo spremljali sinhronizacijo gesel
+fxa-logoAltText-e9e92d2e = sinhronizacija gesel
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
@@ -208,7 +208,7 @@ fxa-subject-9235d479 = Potrdite račun za sinhronizacijo
 # Description for Email First Page
 fxa-description-6591d2a0 = Račun odklene dostop do VPN in sinhronizira vaše podatke Firefoxa med napravami.
 # Headline for Email First Page
-fxa-headline-6aca2436 = Aktivirajte brezplačen Firefox VPN z Mozillin računom
+fxa-headline-6aca2436 = Aktivirajte brezplačen VPN za Firefox z računom Mozilla
 # Description for Signup Confirmed Sync Page
 fxa-description-811350a6 = Še en korak več do ugodnosti Firefox VPN. Pojdite na odprto ploščo in jo omogočite.
 
@@ -217,9 +217,9 @@ fxa-description-811350a6 = Še en korak več do ugodnosti Firefox VPN. Pojdite n
 # Description for Email First Page
 fxa-description-861f2d28 = Varnostno kopirajte gesla, zavihke in zaznamke, da boste pripravljeni na novo napravo.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = Če uporabljate sinhronizacijo brskalnika Fox,
+fxa-logoAltText-164ffc49 = lisica in sinhronizacija
 
 ## l10n-91 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = lisica skače
+fxa-logoAltText-c4b14a5b = skakajoča lisica
