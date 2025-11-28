@@ -37,13 +37,13 @@ fxa-description-da2a8a91 = Pomagajte se nam prepričati, da račun ustvarjate vi
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Začni s sinhronizacijo
 # Description for Signup Confirmed Sync Page
-fxa-description-2115ee89 = Vaša gesla, načini plačila, naslovi, zaznamki, zgodovina in drugo se lahko sinhronizirajo povsod, kjer uporabljate Firefox.
+fxa-description-2115ee89 = Vaša gesla, plačilna sredstva, naslovi, zaznamki, zgodovina in drugi podatki se lahko sinhronizirajo povsod, kjer uporabljate Firefox.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = Sinhronizacija je vključena
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Dodaj drugo napravo
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sinhronizirajte gesla, načine plačila, zaznamke in drugo povsod, kjer uporabljate Firefox.
+fxa-description-201c6fe1 = Sinhronizirajte gesla, plačilna sredstva, zaznamke in ostale podatke povsod, kjer uporabljate Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Ustvarite geslo
 # Primary Button Text for Signup Set Password Page
@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Varnostno kopirajte Firefoxova gesla, zaznamke in zav
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Varnostno kopirajte z računom Mozilla
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = Uporabite Firefox za varnostno kopijo
+fxa-logoAltText-b9228cb5 = lisica in varnostna kopija
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Začnite
 # Headline for New Device Login Email
