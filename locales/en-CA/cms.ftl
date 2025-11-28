@@ -101,6 +101,15 @@ fxa-headline-b36f2b05 = Enter email to start syncing
 fxa-headline-c2b34227 = Enter password to start syncing
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Create a password to start syncing
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Finish sync setup
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Protects your passwords, bookmarks, and synced Firefox data with encryption everywhere you’re signed in.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Create a password to securely sync
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
