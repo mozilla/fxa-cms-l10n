@@ -113,6 +113,8 @@ fxa-headline-48cc8c34 = Create a password to securely sync
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-637f76bf = Create your account or sign in if you have one.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Try Firefox VPN with a Mozilla account
 # Description for New Device Login Email
