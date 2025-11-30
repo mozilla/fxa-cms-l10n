@@ -90,3 +90,43 @@ fxa-description-3db4ef62 = สำรองข้อมูล Firefox ของ�
 fxa-headline-0dffe504 = สร้างรหัสผ่านเพื่อปกป้องข้อมูลของคุณ
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = ยืนยันบัญชี Mozilla ของคุณเพื่อซิงค์
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = เข้าสู่ระบบ Firefox ใหม่
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = ตั้งค่า Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = ลงชื่อเข้าบัญชี Mozilla ของคุณ
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = ตั้งรหัสผ่านของคุณ
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = ยืนยันบัญชีของคุณ
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = ลงทะเบียนหรือลงชื่อเข้า
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = ช่วยเรารักษาบัญชีของคุณให้ปลอดภัยโดยอนุมัติการลงชื่อเข้าใน:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = ยืนยันบัญชีของคุณ
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = โลโก้ Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = โลโก้ Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = ตั้งค่า Mozilla Monitor
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
