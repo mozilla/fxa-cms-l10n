@@ -106,6 +106,8 @@ fxa-headline-929376b4 = Ба анҷом расонидани ҳамоҳангс�
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Новобаста аз ҷое, ки шумо ба ҳисоби худ ворид мешавед, ниҳонвожаҳо, хатбаракҳо ва маълумоти ҳамоҳангшудаи шумо дар «Firefox» бо истифода аз рамзгузорӣ муҳофизат карда мешавад.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Барои ҳамоҳангсозии бехатар, ниҳонвожаеро эҷод кунед
 
@@ -123,6 +125,8 @@ fxa-headline-a0a749e1 = Воридшавии нав ба «Firefox»
 fxa-pageTitle-6a3bf665 = Танзим кардани «Firefox VPN»
 # Description for Signin Page
 fxa-description-427b83de = Ба ҳисоби «Mozilla»-и худ ворид шавед.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Ҳамоҳангсозӣ фаъол аст ва шумо барои истифода аз «Firefox VPN» омода ҳастед. Барои фаъол кардани он, ба навори абзорҳо гузаред.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Қадами дигар: Фаъол кардани «Firefox VPN»
 # Headline for Signup Set Password Page
@@ -140,6 +144,8 @@ fxa-subject-10e5b452 = Барои ворид шудан ба «Firefox», ҳис
 fxa-description-0a9e868b = Воридшавии нав ба «Firefox»
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Танҳо як қадами дигар боқӣ мондааст. Барои фаъолсозии ҳисоби худ дар «Mozilla», лутфан, рамзеро, ки мо ба почтаи электронии шумо ирсол кардем, ворид намоед.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
 # Description for Verify Login Code Email
@@ -199,6 +205,8 @@ fxa-subject-9235d479 = Барои оғози ҳамоҳангсозӣ, ҳисо�
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
+# Description for Email First Page
+fxa-description-6591d2a0 = Ҳисоби расмӣ ба шумо имкон медиҳад, то тавонед ба «VPN» дастрасӣ пайдо кунед ва маълумоти худро байни дастгоҳҳо тавассути браузери «Firefox» ҳамоҳанг созед.
 # Headline for Email First Page
 fxa-headline-6aca2436 = «Firefox VPN»-и худро ба воситаи ҳисоби «Mozilla» ройгон фаъол созед
 
