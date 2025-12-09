@@ -25,7 +25,7 @@ fxa-headline-e8d28194 = گذرواژه خود را وارد کنید
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = ورود
 # Description for Signin Token Code Page
-fxa-description-8e3fb023 = به ما کمک کنید که مطمئن شویم، شما در حال وارد به حساب کاربری خود هستید.
+fxa-description-8e3fb023 = به ما کمک کنید که مطمئن شویم، شما در حال ورود به حساب کاربری خود هستید.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = کد تأیید را وارد کنید
 # Primary Button Text for Signin Token Code Page
@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = اطلاعات Firefox خود را با یک گذرو
 fxa-headline-0dffe504 = برای محافظت از اطلاعات خود گذرواژه‌ای ایجاد کنید
 # Description for Verify Short Code Email
 fxa-description-bb7998da = حساب کاربریت را تأیید کن و گذرواژه‌هایت را در همه مرورگرهای Firefox که وارد آن شده‌ای همگام‌سازی کن؛ ابتدا با این مرورگر:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = به ما کمک کنید که مطمئن شویم، شما در حال ورود به حساب کاربری خود هستید.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = برای همگام‌سازی حساب کاربری Mozilla خود را تأیید کنید
 
