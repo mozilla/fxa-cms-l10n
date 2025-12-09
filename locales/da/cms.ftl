@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Synkroniser adgangskoder og mere overalt, hvor du er 
 fxa-headline-e8d28194 = Indtast din adgangskode
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Log ind
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Hjælp os med at sikre, at det er dig, der logger ind.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Indtast bekræftelseskode
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Bekræft
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Hjælp os med at sikre, at det er dig, der logger ind.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Fortsæt
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = Sikkerhedskopier dine adgangskoder, faneblade og bogm
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ræv synkroniserer
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = ræv springer

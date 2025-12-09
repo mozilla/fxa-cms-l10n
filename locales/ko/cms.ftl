@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = 로그인한 모든 곳에서 비밀번호 등을 동
 fxa-headline-e8d28194 = 암호 입력
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = 로그인
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = 본인이 로그인하는 것인지 확인할 수 있도록 도와주세요.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = 인증 코드를 입력하세요
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = 확인
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = 본인이 로그인하는 것인지 확인할 수 있도록 도와주세요.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = 계속
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = 새 기기를 사용할 준비가 되도록 비밀번
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = 여우 동기화
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = 여우, 뛰는 것

@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Firefox を使用しているすべての端末でパ
 fxa-headline-e8d28194 = パスワードを入力してください
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = ログイン
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = このログインがあなた本人であることを確認します。
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = 確認コードを入力してください
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = 確認
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = このログインがあなた本人であることを確認します。
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = 続ける
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = パスワード、ブックマーク、タブなど�
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = 狐と同期
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = 跳ねる狐

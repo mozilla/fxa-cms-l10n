@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = 在登入的裝置間同步密碼及更多資訊。
 fxa-headline-e8d28194 = 請輸入您的密碼
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = 登入
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = 請幫助我們確認登入帳號的是您本人。
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = 請輸入確認碼
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = 確認
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = 請幫助我們確認登入帳號的是您本人。
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = 繼續
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = 備份您的密碼、開啟分頁與書籤，這樣�
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = 狐狸在同步
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = 狐狸在跳躍

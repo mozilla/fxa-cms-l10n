@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Sinhronizujte lozinke i još mnogo toga svugdje gdje 
 fxa-headline-e8d28194 = Unesite svoju lozinku
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Prijava
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Pomozite nam da se uvjerimo da se zaista vi prijavljujete.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Unesite potvrdni kod
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potvrdi
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Pomozite nam da se uvjerimo da se zaista vi prijavljujete.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Nastavi
 # Description for Signup Confirm Code Page

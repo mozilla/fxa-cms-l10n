@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Synchronisa tu contrasigno e altere datos ubique tu e
 fxa-headline-e8d28194 = Insere tu contrasigno
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Aperir session
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Adjuta nos a nos assecurar que es tu qui te connecte.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Insere le codice de confirmation
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirmar
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Adjuta nos a nos assecurar que es tu qui te connecte.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continuar
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = Salveguarda tu contrasignos, schedas, e marcapaginas 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronisation vulpe
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = vulpe que salta

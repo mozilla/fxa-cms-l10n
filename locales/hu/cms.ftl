@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Szinkronizálja a jelszavait és egyebeit mindenhol, 
 fxa-headline-e8d28194 = Írja be a jelszavát
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Bejelentkezés
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Segítsen meggyőződni arról, hogy Ön jelentkezik be.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Adja meg a megerősítő kódot
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Megerősítés
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Segítsen meggyőződni arról, hogy Ön jelentkezik be.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Folytatás
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = Készítsen biztonsági mentést a jelszavairól, lap
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = szinkronizáló róka
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = ugró róka

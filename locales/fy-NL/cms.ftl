@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Syngronisearje wachtwurden en mear oeral wêr’t jo 
 fxa-headline-e8d28194 = Fier jo wachtwurd yn
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Oanmelde
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Help ús der wis fan te wêzen dat jo it binne dy’t harren oanmeldt.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Fier befêstigingskoade yn
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Befêstigje
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Help ús der wis fan te wêzen dat jo it binne dy’t harren oanmeldt.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Trochgean
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = Meitsje in reservekopy fan jo wachtwurden, ljepblêde
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = foks-syngronisaasje
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = springende fokse

@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -20,12 +20,12 @@ fxa-subject-a0a749e1 = Новы ўваход у Firefox
 fxa-headline-e8d28194 = Увядзіце ваш пароль
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Увайсці
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Дапамажыце нам упэўніцца, што гэта вы ўваходзіце ў сістэму.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Увядзіце код пацверджання
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Пацвердзіць
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Дапамажыце нам упэўніцца, што гэта вы ўваходзіце ў сістэму.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Працягнуць
 # Description for Signup Confirm Code Page

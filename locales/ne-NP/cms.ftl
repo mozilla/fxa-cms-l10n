@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = आफू साइन इन भएको ठाउ�
 fxa-headline-e8d28194 = आफ्नो पासवर्ड प्रविष्ट गर्नुहोस्
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = साइन इन गर्नुहोस्
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = हामीलाई साइन इन गर्ने व्यक्ति तपाईं नै हो भन्ने सुनिश्चित गर्न मद्दत गर्नुहोस्।
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = पुष्टि कोड प्रविष्ट गर्नुहोस्
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = पुष्टि गर्नुहोस्
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = हामीलाई साइन इन गर्ने व्यक्ति तपाईं नै हो भन्ने सुनिश्चित गर्न मद्दत गर्नुहोस्।
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = जारी राख्नुहोस्
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = आफ्नो पासवर्डहरू, ट�
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox सिङ्क गर्दै
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = स्याल जम्प गर्दै

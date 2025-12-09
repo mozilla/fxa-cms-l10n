@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Synkroniser passord, og meir, overalt der du er logga
 fxa-headline-e8d28194 = Skriv inn passordet ditt
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Logg inn
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Hjelp oss å forsikre oss om at det er du som loggar inn.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Skriv inn stadfestingskode
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Stadfest
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Hjelp oss å forsikre oss om at det er du som loggar inn.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Hald fram
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = Sikkerheitskopier passorda, fanene og bokmerka dine, 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = reven synkroniserer
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = reven hoppar

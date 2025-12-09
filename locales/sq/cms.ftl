@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Njëkohësoni fjalëkalime, etj, kurdo që bëni hyrj
 fxa-headline-e8d28194 = Jepni fjalëkalimin tuaj
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Hyni
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Ndihmonani të sigurohemi se jeni ju ai që po bën hyrjen.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Jepni kodin e ripohimit
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Ripohojeni
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Ndihmonani të sigurohemi se jeni ju ai që po bën hyrjen.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Vazhdo
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = Kopjeruani fjalëkalimet, skedat dhe faqerojtësit tu
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = njëkohësim firefox
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = fox jumping
