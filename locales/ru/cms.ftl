@@ -91,7 +91,7 @@ fxa-headline-0dffe504 = Создайте пароль для защиты ваш
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Подтвердите свой аккаунт и синхронизируйте свои пароли везде, где вы вошли в Firefox, начав с:
 # Headline for Verify Short Code Email
-fxa-headline-8e3fb023 = Помогите нам убедиться, что это вы входите в систему.
+fxa-headline-8e3fb023 = Помогите нам убедиться, что это вы совершаете вход.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Подтвердите свой аккаунт Mozilla для синхронизации
 

@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Zawěsććo swóje daty Firefox z gronidłom.
 fxa-headline-0dffe504 = Napórajśo gronidło, aby swóje daty šćitał
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Wobkšuśćo swójo konto a synchronizěrujśo swóje gronidła wšuźi, źož sćo w Firefox pśizjawjony, zachopinajucy z:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Pomagajśo nam zawěsćiś, až se wy pśizjawjaśo.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Wobkšuśćo swójo konto Mozilla za synchronizaciju
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Wobkšuśćo swójo konto, aby se pla Firefox pśizjawił
 fxa-description-0a9e868b = Nowe pśizjawjenje pla Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Zapódajśo gronidło, aby k swójomu kontoju Mozilla pókšacował
+# Description for Signin Token Code Page
+fxa-description-87881780 = Zapódajśo wobkšuśeński kod za swójo konto Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jano jaden malsny kšac. Zapódajśo kod ze swójeje mejlki, aby swójo konto Mozilla aktiwěrował.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-pageTitle-924eac9f = Mozilla Monitor konfigurěrowaś
 # Description for Signin Page
 fxa-description-ab270ce7 = Pśizjawśo se pla konta Mozilla, aby Mozilla Monitor wužywał.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Synchronizacija jo wobkšuśona
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Napórajśo gronidło, aby scan zachopił
 # Headline for Verify Login Code Email

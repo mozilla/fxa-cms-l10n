@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Firefox のデータをパスワードで安全にバ
 fxa-headline-0dffe504 = データを保護するためのパスワードを作成
 # Description for Verify Short Code Email
 fxa-description-bb7998da = アカウントを確認して、Firefox にログインしたどの端末からでもパスワードを同期できます。まずこちらから:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = このログインがあなた本人であることを確認します。
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = 同期するには Mozilla アカウントを確認してください
 
