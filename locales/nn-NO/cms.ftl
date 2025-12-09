@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Sikkerheitskopier Firefox-dataa dine trygt med et pas
 fxa-headline-0dffe504 = Opprett eit passord for å verne dataa dine
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Stadfest kontoen din og synkroniser passorda dine overalt der du er innlogga på Firefox, og start med:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Hjelp oss å forsikre oss om at det er du som loggar inn.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Stadfest Mozilla-kontoen din for å synkronisere
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Stadfest kontoen din for å logge på Firefox
 fxa-description-0a9e868b = Ny innlogging på Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Skriv inn passord for å halde fram til Mozilla-kontoen din
+# Description for Signin Token Code Page
+fxa-description-87881780 = Skriv inn stadfestingskode for Mozilla-kontoen din
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Berre eitt kjapt steg. Skriv inn koden frå e-posten din for å aktivere Mozilla-kontoen din.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor-logo
 fxa-pageTitle-924eac9f = Konfigurer Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Logg inn på Mozilla-kontoen din for å bruke Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Synkronisering stadfesta
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Opprett eit passord for å starte ei skanning
 # Headline for Verify Login Code Email
