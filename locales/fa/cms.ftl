@@ -146,6 +146,10 @@ fxa-subject-10e5b452 = برای ورود به Firefox حساب کاربری خو
 fxa-description-0a9e868b = ورود جدید به Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = برای ادامه به حساب‌کاربری Mozilla خود، گذرواژه را وارد کنید
+# Description for Signin Token Code Page
+fxa-description-87881780 = کد تأیید را برای حساب‌کاربری Mozilla خود وارد کنید
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = فقط یک مرحله سریع. کد ارسال‌شده به رایانامه خودتان را وارد کنید تا حساب کاربری Mozilla شما فعال شود.
 # Headline for Signup Set Password Page
@@ -181,6 +185,8 @@ fxa-logoAltText-ccc1a61b = نشان‌واره Mozilla Monitor
 fxa-pageTitle-924eac9f = راه‌اندازی Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = برای استفاده از Mozilla Monitor وارد حساب کاربری Mozilla خود شوید.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = همگام‌سازی تأیید شد
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = برای آغاز اسکن، یک گذرواژه ایجاد کنید
 # Headline for Verify Login Code Email
