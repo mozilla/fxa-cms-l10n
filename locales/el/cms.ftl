@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Δημιουργήστε αντίγραφα ασφα�
 fxa-headline-0dffe504 = Δημιουργήστε έναν κωδικό πρόσβασης για την προστασία των δεδομένων σας
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Επιβεβαιώστε τον λογαριασμό σας και συγχρονίστε τους κωδικούς πρόσβασής σας οπουδήποτε έχετε συνδεθεί στο Firefox, ξεκινώντας με το:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Βοηθήστε μας να επαληθεύσουμε ότι εσείς πραγματοποιήσατε σύνδεση.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Επιβεβαιώστε τον λογαριασμό Mozilla σας για συγχρονισμό
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Επιβεβαιώστε τον λογαριασμό σα
 fxa-description-0a9e868b = Νέα σύνδεση στο Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Εισαγάγετε κωδικό για να συνεχίσετε στον λογαριασμό Mozilla σας
+# Description for Signin Token Code Page
+fxa-description-87881780 = Εισαγάγετε τον κωδικό επιβεβαίωσης για τον λογαριασμό Mozilla σας
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Απομένει μόνο ένα βήμα ακόμη. Εισαγάγετε τον κωδικό από το email σας για να ενεργοποιήσετε τον λογαριασμό Mozilla σας.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Λογότυπο Mozilla Monitor
 fxa-pageTitle-924eac9f = Ρύθμιση του Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Συνδεθείτε στον λογαριασμό Mozilla σας για χρήση του Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Ο συγχρονισμός επιβεβαιώθηκε
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Δημιουργήστε έναν κωδικό πρόσβασης για να ξεκινήσετε μια σάρωση
 # Headline for Verify Login Code Email

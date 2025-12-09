@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = უსაფრთხოდ დაამარქა�
 fxa-headline-0dffe504 = შექმენით პაროლი თქვენი მონაცემების დასაცავად
 # Description for Verify Short Code Email
 fxa-description-bb7998da = დაადასტურეთ თქვენი ანგარიში და დაასინქრონეთ თქვენი პაროლები ყველგან, სადაც კი გიყენიათ Firefox შესული ანგარიშით, დასაწყისისთვის თუნდაც:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = დაგვეხმარეთ დავადასტუროთ, რომ ნამვილად თქვენ შეხვედით.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = დაადასტურეთ თქვენი Mozilla-ანგარიში დასინქრონებისთვის
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = დაადასტურეთ თქვენი ა�
 fxa-description-0a9e868b = ახალი შემოსვლა Firefox-ზე
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = მიუთითეთ პაროლი თქვენს Mozilla ანგარიშზე გადასასვლელად
+# Description for Signin Token Code Page
+fxa-description-87881780 = შეიყვანეთ თქვენი Mozilla-ანგარიშის დამადასტურებელი კოდი
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = მხოლოდ ერთი სწრაფი ნაბიჯი. შეიყვანეთ კოდი ელფოსტიდან თქვენი Mozilla-ანგარიშის ასამოქმედებლად.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla-Monitor-ლოგო
 fxa-pageTitle-924eac9f = გამართეთ Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = შედით თქვენს Mozilla-ანგარიშზე, რომ გამოიყენოთ Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = სინქრონიზაცია დამოწმებულია
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = შექმენით პაროლი შემოწმების დასაწყებად
 # Headline for Verify Login Code Email

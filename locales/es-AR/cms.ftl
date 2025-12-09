@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Hacé una copia de seguridad de tus datos de Firefox 
 fxa-headline-0dffe504 = Creá una contraseña para proteger tus datos
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Confirmá tu cuenta y sincronizá tus contraseñas en todos los lugares donde iniciaste sesión en Firefox, empezando por:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Ayudanos a asegurarnos de que sos vos el que inició sesión.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirmá tu cuenta de Mozilla para sincronizar
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Confirmá tu cuenta para iniciar sesión en Firefox
 fxa-description-0a9e868b = Nuevo inicio de sesión en Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Ingresá la contraseña para continuar con tu cuenta de Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Ingresá el código de confirmación para tu cuenta de Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Solo un paso rápido. Ingresá el código de tu correo electrónico para activar tu cuenta de Mozilla.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo de Mozilla Monitor
 fxa-pageTitle-924eac9f = Configurar Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Iniciá sesión en tu cuenta de Mozilla para usar Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Sincronización confirmada
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Creá una contraseña para comenzar a escanear
 # Headline for Verify Login Code Email

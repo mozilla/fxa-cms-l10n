@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Сигурно и защитено с парола а
 fxa-headline-0dffe504 = Създаване на парола за защита на данните ви
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Потвърдете своя профил и синхронизирайте паролите си във Firefox навсякъде където сте вписани, започвайки с:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Помогнете ни да се уверим, че се вписвате вие.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Потвърдете профила си в Mozilla
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Потвърдете профила си, за да вл�
 fxa-description-0a9e868b = Ново вписване във Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Въведете парола, за да продължите към вашия Mozilla акаунт
+# Description for Signin Token Code Page
+fxa-description-87881780 = Въведете кода за потвърждение на вашата сметка в Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Само още едно нещо: въведете кода от имейла си, за да активирате профила си в Mozilla.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Лого на Mozilla Monitor
 fxa-pageTitle-924eac9f = Инсталиране на Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Влезте в профила си в Mozilla, за да използвате Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Синхронизирането е потвърдено
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Създаване на парола за започване на сканирането
 # Headline for Verify Login Code Email

@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = 비밀번호로 Firefox 데이터를 안전하게 백
 fxa-headline-0dffe504 = 데이터를 보호하기 위해 비밀번호 만들기
 # Description for Verify Short Code Email
 fxa-description-bb7998da = 계정을 확인하고 Firefox에 로그인한 모든 곳에서 비밀번호를 동기화하세요:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = 본인이 로그인하는 것인지 확인할 수 있도록 도와주세요.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = 동기화를 위한 Mozilla 계정 확인
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세�
 fxa-description-0a9e868b = Firefox에 대한 새로운 로그인
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Mozilla 계정을 사용하려면 비밀번호를 입력하세요.
+# Description for Signin Token Code Page
+fxa-description-87881780 = Mozilla 계정의 확인 코드를 입력하세요
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 한 단계만 빠르게 진행하세요. 이메일에 있는 코드를 입력해서 Mozilla 계정을 활성화하세요.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor 로고
 fxa-pageTitle-924eac9f = Mozilla Monitor 설정
 # Description for Signin Page
 fxa-description-ab270ce7 = Mozilla Monitor를 사용하려면 Mozilla 계정에 로그인하세요.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = 동기화 확인
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = 스캔을 시작하려면 비밀번호를 만드세요
 # Headline for Verify Login Code Email

@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Gwnewch gopi wrth gefn o'ch data Firefox yn ddiogel g
 fxa-headline-0dffe504 = Creu cyfrinair i ddiogelu eich data
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Cadarnhewch eich cyfrif a chydweddwch eich cyfrineiriau ym mhobman rydych wedi mewngofnodi i Firefox, gan ddechrau gyda:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Helpwch ni i wneud yn siŵr mai chi sy'n mewngofnodi.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Cadarnhewch eich cyfrif Mozilla i gydweddu
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 fxa-description-0a9e868b = Mewngofnodi newydd i Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Rhowch gyfrinair i barhau i'ch cyfrif Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Rhowch god cadarnhau ar gyfer eich cyfrif Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Dim ond un cam cyflym. Rhowch y cod o'ch e-bost i weithredu eich cyfrif Mozilla.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-pageTitle-924eac9f = Gosod Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Mewngofnodwch i'ch cyfrif Mozilla i ddefnyddio Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Cadarnhawyd cysoni
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Creu cyfrinair i gychwyn sgan
 # Headline for Verify Login Code Email

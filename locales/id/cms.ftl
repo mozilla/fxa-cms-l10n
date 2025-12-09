@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Cadangkan data Firefox Anda secara aman dengan kata s
 fxa-headline-0dffe504 = Buat kata sandi untuk melindungi data Anda
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Konfirmasikan akun Anda dan sinkronkan kata sandi Anda di mana pun Anda masuk ke Firefox, dimulai dengan:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Bantu kami memastikan yang masuk adalah Anda.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Konfirmasikan akun Mozilla Anda untuk menyinkronkan
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Konfirmasi akun Anda untuk masuk ke Firefox
 fxa-description-0a9e868b = Masuk baru ke Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Masukkan sandi untuk melanjutkan ke akun Mozilla Anda
+# Description for Signin Token Code Page
+fxa-description-87881780 = Masukkan kode konfirmasi untuk akun Mozilla Anda
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Hanya satu langkah cepat. Masukkan kode dari surel Anda untuk mengaktifkan akun Mozilla Anda.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-pageTitle-924eac9f = Siapkan Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Masuk ke akun Mozilla Anda untuk menggunakan Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Sinkronisasi dikonfirmasi
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Buat kata sandi untuk memulai pemindaian
 # Headline for Verify Login Code Email

@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = 設定密碼，安全地備份您的 Firefox 資料�
 fxa-headline-0dffe504 = 設定密碼保護您的資料
 # Description for Verify Short Code Email
 fxa-description-bb7998da = 確認您的帳號，並在所有登入 Firefox 的裝置同步您的密碼。將從下列裝置開始同步：
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = 請幫助我們確認登入帳號的是您本人。
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = 確認您的 Mozilla 帳號後即可同步
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
 fxa-description-0a9e868b = 新登入至 Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = 請輸入密碼以繼續前往 Mozilla 帳號
+# Description for Signin Token Code Page
+fxa-description-87881780 = 請輸入您 Mozilla 帳號的確認碼
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 只需一個快速步驟。請輸入郵件中的驗證碼來啟用您的 Mozilla 帳號。
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor 圖示
 fxa-pageTitle-924eac9f = 設定 Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = 登入您的 Mozilla 帳號即可使用 Mozilla Monitor。
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = 已確認 Sync
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = 設定密碼進行掃描
 # Headline for Verify Login Code Email

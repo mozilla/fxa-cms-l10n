@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Készítsen biztonsági mentést a Firefox adatairól
 fxa-headline-0dffe504 = Hozzon létre egy jelszót, hogy megvédje az adatait
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Erősítse meg fiókját és szinkronizálja a jelszavait mindenhol, ahol be van jelentkezve a Firefoxba, kezdve ezzel:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Segítsen meggyőződni arról, hogy Ön jelentkezik be.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Erősítse meg a Mozilla-fiókját a szinkronizáláshoz
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezés
 fxa-description-0a9e868b = Új bejelentkezés a Firefoxba
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Adja meg a jelszót, hogy a Mozilla fiókjába lépjen
+# Description for Signin Token Code Page
+fxa-description-87881780 = Adja meg a Mozilla fiókjához tartozó megerősítő kódot
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Csak egy gyors lépés. Adja meg az e-mailben kapott kódot, hogy aktiválja a Mozilla-fiókját.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor logó
 fxa-pageTitle-924eac9f = Telepítse a Mozilla Monitort
 # Description for Signin Page
 fxa-description-ab270ce7 = A Mozilla Monitor használatához jelentkezzen be a Mozilla-fiókjába.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Szinkronizálás megerősítve
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Hozzon létre egy jelszót a vizsgálat megkezdéséhez
 # Headline for Verify Login Code Email

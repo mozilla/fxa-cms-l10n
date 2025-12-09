@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = 备份您的 Firefox 数据，并以密码确保安�
 fxa-headline-0dffe504 = 创建密码以保护您的数据
 # Description for Verify Short Code Email
 fxa-description-bb7998da = 确认您的账户后，即可在所有已登录设备间同步密码。体验第一站：
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = 请协助确认是您本人在登录。
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = 确认您的 Mozilla 账户以同步
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 fxa-description-0a9e868b = Firefox 有新的登录活动
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = 输入密码以继续使用您的 Mozilla 账户
+# Description for Signin Token Code Page
+fxa-description-87881780 = 输入 Mozilla 账户的确认码
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 只差一小步了。请输入邮件中的验证码，激活您的 Mozilla 账户。
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor 徽标
 fxa-pageTitle-924eac9f = 设置 Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = 登录您的 Mozilla 账户以使用 Mozilla Monitor。
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = 已确认同步
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = 创建密码即可进行扫描
 # Headline for Verify Login Code Email

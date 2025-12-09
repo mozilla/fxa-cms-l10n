@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Firefox verilerinizi bir parolayla güvenli şekilde 
 fxa-headline-0dffe504 = Verilerinizi korumak için bir parola oluşturun
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Hesabınızı doğrulayın, Firefox’a giriş yaptığınız her yerde parolalarınızı eşitleyin. İlk cihazınız:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Giriş yapanın siz olduğunuzdan emin olalım.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Eşitleme için Mozilla hesabınızı onaylayın
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 fxa-description-0a9e868b = Firefox’a yeni giriş
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Mozilla hesabınıza devam etmek için parolanızı yazın
+# Description for Signin Token Code Page
+fxa-description-87881780 = Mozilla hesabınız için onay kodunu girin
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Tek bir adım kaldı. Mozilla hesabınızı etkinleştirmek için e-postanıza gelen kodu yazın.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor logosu
 fxa-pageTitle-924eac9f = Mozilla Monitor’ü kurun
 # Description for Signin Page
 fxa-description-ab270ce7 = Mozilla Monitor’ü kullanmak için Mozilla hesabınıza giriş yapın.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Eşitleme onaylandı
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Tarama başlatmak için parola oluşturun
 # Headline for Verify Login Code Email
