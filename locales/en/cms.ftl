@@ -133,46 +133,6 @@ fxa-headline-ef1fb997 = Confirm your account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
-## l10n-16 - Firefox Desktop AI Window 
-# Description for Email First Page
-fxa-description-950d3d2a = Sign in with your Mozilla account to sync, summarize, and compare across devices.
-# Headline for Email First Page
-fxa-headline-54e30b28 = Unlock Smart Window!
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox Browser
-# Page Title for Email First Page
-fxa-pageTitle-80919be0 = Signup
-# Description for New Device Login Email
-fxa-description-2d2763e2 = We noticed a new sign-in to your Mozilla account.
-# Headline for New Device Login Email
-fxa-headline-6166a884 = Your Mozilla account was used to access Smart Window
-# Email From Name for Shared
-fxa-emailFromName-8e945631 = Mozilla AI
-# Logo Alt Text for Shared
-fxa-logoAltText-2ffdb610 = Mozilla AI logo
-# Page Title for Shared
-fxa-pageTitle-f937d56a = Smart Window
-# Description for Signin Page
-fxa-description-807f98de = Enter your Mozilla password to start browsing smarter.
-# Headline for Signin Page
-fxa-headline-b7b47c8b = Almost there..
-# Description for Signup Confirm Code Page
-fxa-description-b0016958 = This helps secure your account and unlock the Firefox Smart Window.
-# Headline for Signup Confirm Code Page
-fxa-headline-3f017e20 = Confirm your email to continue
-# Primary Button Text for Signup Confirm Code Page
-fxa-primaryButtonText-dc7e8ffe = Verify email
-# Description for Signup Confirmed Sync Page
-fxa-description-46c87c53 = Browse smarter with instant insights, synced tabs, and personalized AI assistance wherever you go.
-# Headline for Signup Confirmed Sync Page
-fxa-headline-22e41468 = Firefox smart window is now unlocked
-# Description for Signup Set Password Page
-fxa-description-4efc9794 = Unlock Firefox smart window and sync your browsing across devices.
-# Headline for Signup Set Password Page
-fxa-headline-080d714f = Create your Mozilla account
-# Primary Button Text for Signup Set Password Page
-fxa-primaryButtonText-06c43071 = Enable AI Mode
-
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
 fxa-description-0a9e868b = New sign in to Firefox
