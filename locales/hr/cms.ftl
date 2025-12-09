@@ -52,6 +52,14 @@ fxa-primaryButtonText-42369faa = Stvori račun
 fxa-description-38390134 = Pomogni nam zaštititi tvoj račun odobravanjem prijave.
 # Headline for Verify Login Code Email
 fxa-headline-ed889b16 = Jesi se prijavio/la u Firefox?
+# Subject for Verify Login Code Email
+fxa-subject-450ba359 = Odobri prijavu u Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Potvrdi svoj račun i izvuci maksimum iz Mozille gdje god se prijaviš, počevši s:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Otvori internet s Mozillom
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Potvrdi svoj račun
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
@@ -62,5 +70,96 @@ fxa-logoAltText-96e4284e = Firefox logotip
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Description for Email First Page
+fxa-description-0d2e3341 = Sigurnosno kopiraj svoje lozinke, zabilješke i kartice u Firefoxu kada si spreman/na za novi uređaj.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Sigurnosno kopiraj pomoću Mozilla računa
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = sigurnosno kopiranje lisice
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Započni
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Tvoj je Mozilla račun korišten za prijavu.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Prijavi se za sigurnosno kopiranje ovog uređaja.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Izradi sigurnosnu kopiju svojih Firefox podataka pomoću lozinke.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Stvori lozinku za zaštitu tvojih podataka
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Potvrdi svoj račun i sinkroniziraj svoje lozinke gdje god se prijaviš u Firefox, počevši s:
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Potvrdi svoj Mozilla račun za sinkronizaciju
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Upiši e-mail adresu za pokretanje sinkronizacije
+# Headline for Signin Page
+fxa-headline-c2b34227 = Upiši lozinku za pokretanje sinkronizacije
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Stvori lozinku za pokretanje sinkronizacije
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Dovrši postavljanje sinkronizacije
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Štiti tvoje lozinke, zabilješke i sinkronizirane Firefox podatke pomoću šifriranja gdje god se prijaviš.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Stvori lozinku za sigurnu sinkronizaciju
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = Stvori svoj račun ili se prijavi, ako ga već imaš.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Isprobaj Firefox VPN s Mozilla računom
+# Description for New Device Login Email
+fxa-description-e59dc09c = Dogodila se nova prijava u tvom Mozilla računu. Ako to nisi bio/bila ti, promijeni svoju lozinku.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Nova prijava u Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Postavi Firefox VPN
+# Description for Signin Page
+fxa-description-427b83de = Prijavi se na svoj Mozilla račun.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = Sinkronizacija je uključena i sve je spremno za Firefox VPN. Uključi ga u alatnoj traci.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Sljedeće: uključi Firefox VPN
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Postavi lozinku
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Koristi priloženi kod za potvrđivanje tvog Mozilla računa.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Potvrdi svoj račun
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Potvrdi svoj račun za prijavu u Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nova prijava u Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Samo jedan brzi korak. Upiši kod iz e-maila za aktiviranje tvog Mozilla računa.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registriraj se ili se prijavi
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Pomogni nam zaštiti tvoj račun odobravanjem prijave na:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Potvrdi svoj račun
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Koristi priloženi kod za potvrđivanje tvog Mozilla računa.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Potvrdi svoj račun za korištenje preglednika Firefox
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Za korištenje Mozilla Monitora je potreban Mozilla račun.
+# Headline for Email First Page
+fxa-headline-de41db80 = Registriraj se ili se prijavi na svoj Mozilla račun
