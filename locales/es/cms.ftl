@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 
@@ -24,12 +24,12 @@ fxa-description-aedac88d = Sincroniza contraseñas y mucho más en todos los lug
 fxa-headline-e8d28194 = Introduce tu contraseña
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Iniciar sesión
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Ayúdanos a asegurarnos de que eres tú quien inicia sesión.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Introduce el código de confirmación
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirmar
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Ayúdanos a asegurarnos de que eres tú quien inicia sesión.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continuar
 # Description for Signup Confirm Code Page
@@ -219,7 +219,7 @@ fxa-description-861f2d28 = Haz una copia de seguridad de tus contraseñas, pesta
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = zorro sincronizando
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = fox saltando
