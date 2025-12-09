@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Zawěsćće swoje daty Firefox z hesłom.
 fxa-headline-0dffe504 = Wutworće hesło, zo byšće swoje daty škitał
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Wobkrućće swoje konto a synchronizujće swoje hesła wšudźe, hdźež sće w Firefox přizjewjeny, započinajo z:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Pomhajće nam zawěsćić, zo so wy přizjewjeće.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Wobkrućće swoje konto Mozilla za synchronizaciju
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Wobkrućće swoje konto, zo byšće so pola Firefox přiz
 fxa-description-0a9e868b = Nowe přizjewjenje pola Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Zapodajće hesło, zo byšće k swojemu kontu Mozilla pokročował
+# Description for Signin Token Code Page
+fxa-description-87881780 = Zapodajće wobkrućenski kod za swoje konto Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jenož jedyn spěšny krok. Zapodajće kod ze swojeje mejlki, zo byšće swoje konto Mozilla aktiwizował.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-pageTitle-924eac9f = Mozilla Monitor konfigurować
 # Description for Signin Page
 fxa-description-ab270ce7 = Přizjewće so pola konta Mozilla, zo byšće Mozilla Monitor wužiwał.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Synchronizacija je wobkrućena
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Wutworće hesło, zo byšće sken započał
 # Headline for Verify Login Code Email
