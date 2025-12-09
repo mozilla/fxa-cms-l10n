@@ -24,14 +24,34 @@ fxa-description-aedac88d = Sinkroniziraj lozinke i još više gdjegod se prijavi
 fxa-headline-e8d28194 = Upiši lozinku
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Prijavi se
+# Headline for Signin Token Code Page
+fxa-headline-d076f12b = Upiši potvrdni kod
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potvrdi
+# Description for Signin Unblock Code Page
+fxa-description-8e3fb023 = Pomogni nam osigurati da se ti želiš prijaviti.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Nastavi
+# Description for Signup Confirm Code Page
+fxa-description-da2a8a91 = Pomogni nam osigurati da ti želiš stvoriti račun.
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-e4029ca4 = Započni sinkronizaciju
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = Tvoje lozinke, načini plaćanja, adrese, zabilješke, povijest i još toga mogu se sinkronizirati gdje god koristiš Firefox.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = Sinkronizacija je uključena
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = Dodaj još jedan uređaj
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sinkroniziraj svoje lozinke, načine plaćanja, zabilješke i još više gdje god koristiš Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Stvori lozinku
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Stvori račun
+# Description for Verify Login Code Email
+fxa-description-38390134 = Pomogni nam zaštititi tvoj račun odobravanjem prijave.
+# Headline for Verify Login Code Email
+fxa-headline-ed889b16 = Jesi se prijavio/la u Firefox?
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
