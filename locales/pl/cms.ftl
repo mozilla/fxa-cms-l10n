@@ -146,6 +146,10 @@ fxa-subject-10e5b452 = Potwierdź swoje konto, aby zalogować się do przegląda
 fxa-description-0a9e868b = Nowe logowanie do Firefoksa
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Wprowadź hasło, aby przejść do konta Mozilli
+# Description for Signin Token Code Page
+fxa-description-87881780 = Wprowadź kod potwierdzenia dla swojego konta Mozilli
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
 # Headline for Signup Set Password Page
@@ -181,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-pageTitle-924eac9f = Konfiguracja Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Zaloguj się na konto Mozilli, aby korzystać z Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Potwierdzono synchronizację
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Utwórz hasło, aby rozpocząć skanowanie
 # Headline for Verify Login Code Email
