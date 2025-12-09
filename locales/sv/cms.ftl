@@ -147,9 +147,9 @@ fxa-description-0a9e868b = Ny inloggning till Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
-fxa-description-1d4ba9f5 = Ange lösenord för att fortsätta till ditt Mozilla-konto
+fxa-description-1d4ba9f5 = Ange lösenordet för att fortsätta till ditt Mozilla-konto
 # Description for Signin Token Code Page
-fxa-description-87881780 = Ange bekräftelsekod för ditt Mozilla-konto
+fxa-description-87881780 = Ange bekräftelsekoden för ditt Mozilla-konto
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara ett steg kvar. Ange koden från ditt mejl för att aktivera ditt Mozilla-konto.
 # Headline for Signup Set Password Page
