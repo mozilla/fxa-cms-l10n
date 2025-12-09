@@ -147,7 +147,7 @@ fxa-description-0a9e868b = Neue Anmeldung bei Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
-fxa-description-1d4ba9f5 = Geben Sie Passwort ein, um mit Ihrem Mozilla-Konto fortzufahren
+fxa-description-1d4ba9f5 = Geben Sie das Passwort ein, um mit Ihrem Mozilla-Konto fortzufahren
 # Description for Signin Token Code Page
 fxa-description-87881780 = Geben Sie den Bestätigungscode für Ihr Mozilla-Konto ein
 # Description for Signup Confirm Code Page
@@ -186,7 +186,7 @@ fxa-pageTitle-924eac9f = Mozilla Monitor einrichten
 # Description for Signin Page
 fxa-description-ab270ce7 = Melden Sie sich mit Ihrem Mozilla-Konto an, um Mozilla Monitor zu verwenden.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-74db8403 = Sync bestätigt
+fxa-headline-74db8403 = Synchronisation bestätigt
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Erstellen Sie ein Passwort, um eine Überprüfung zu starten
 # Headline for Verify Login Code Email
