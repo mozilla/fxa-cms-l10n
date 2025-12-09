@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Bezpiecznie utwórz kopie zapasowe danych Firefoksa, 
 fxa-headline-0dffe504 = Utwórz hasło, aby chronić swoje dane
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Potwierdź swoje konto i synchronizuj hasła wszędzie tam, gdzie jesteś zalogowany w Firefoksie, zaczynając od przeglądarki i urządzenia:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Pomóż nam upewnić się, że to Ty się logujesz.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Potwierdź swoje konto Mozilli, aby zsynchronizować dane
 
