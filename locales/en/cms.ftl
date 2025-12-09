@@ -1,4 +1,4 @@
-### Generated on 2025-10-30T18:00:17.990Z
+### Generated on 2025-12-09T18:20:33.563Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -22,12 +22,12 @@ fxa-description-aedac88d = Sync passwords and more everywhere you’re signed in
 fxa-headline-e8d28194 = Enter your password
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Sign in
+# Description for Signin Token Code Page
+fxa-description-8e3fb023 = Help us make sure it’s you signing in.
 # Headline for Signin Token Code Page
 fxa-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirm
-# Description for Signin Unblock Code Page
-fxa-description-8e3fb023 = Help us make sure it’s you signing in.
 # Primary Button Text for Signin Unblock Code Page
 fxa-primaryButtonText-a0bfb8e5 = Continue
 # Description for Signup Confirm Code Page
@@ -86,6 +86,8 @@ fxa-description-3db4ef62 = Securely back up your Firefox data with a password.
 fxa-headline-0dffe504 = Create a password to protect your data
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Confirm your account and sync your passwords everywhere you’re signed in to Firefox, starting with:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Help us make sure it’s you signing in.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirm your Mozilla account to sync
 
@@ -131,11 +133,55 @@ fxa-headline-ef1fb997 = Confirm your account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
+## l10n-16 - Firefox Desktop AI Window 
+# Description for Email First Page
+fxa-description-950d3d2a = Sign in with your Mozilla account to sync, summarize, and compare across devices.
+# Headline for Email First Page
+fxa-headline-54e30b28 = Unlock Smart Window!
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox Browser
+# Page Title for Email First Page
+fxa-pageTitle-80919be0 = Signup
+# Description for New Device Login Email
+fxa-description-2d2763e2 = We noticed a new sign-in to your Mozilla account.
+# Headline for New Device Login Email
+fxa-headline-6166a884 = Your Mozilla account was used to access Smart Window
+# Email From Name for Shared
+fxa-emailFromName-8e945631 = Mozilla AI
+# Logo Alt Text for Shared
+fxa-logoAltText-2ffdb610 = Mozilla AI logo
+# Page Title for Shared
+fxa-pageTitle-f937d56a = Smart Window
+# Description for Signin Page
+fxa-description-807f98de = Enter your Mozilla password to start browsing smarter.
+# Headline for Signin Page
+fxa-headline-b7b47c8b = Almost there..
+# Description for Signup Confirm Code Page
+fxa-description-b0016958 = This helps secure your account and unlock the Firefox Smart Window.
+# Headline for Signup Confirm Code Page
+fxa-headline-3f017e20 = Confirm your email to continue
+# Primary Button Text for Signup Confirm Code Page
+fxa-primaryButtonText-dc7e8ffe = Verify email
+# Description for Signup Confirmed Sync Page
+fxa-description-46c87c53 = Browse smarter with instant insights, synced tabs, and personalized AI assistance wherever you go.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-22e41468 = Firefox smart window is now unlocked
+# Description for Signup Set Password Page
+fxa-description-4efc9794 = Unlock Firefox smart window and sync your browsing across devices.
+# Headline for Signup Set Password Page
+fxa-headline-080d714f = Create your Mozilla account
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-06c43071 = Enable AI Mode
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
 fxa-description-0a9e868b = New sign in to Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Enter password to continue to your Mozilla account
+# Description for Signin Token Code Page
+fxa-description-87881780 = Enter confirmation code for your Mozilla account
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Just one quick step. Enter the code from your email to activate your Mozilla account.
 # Headline for Signup Set Password Page
@@ -170,6 +216,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor logo
 fxa-pageTitle-924eac9f = Setup Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Sign in to your Mozilla account to use Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Sync confirmed
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Create a password to start a scan
 # Headline for Verify Login Code Email
@@ -207,6 +255,6 @@ fxa-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox syncing
 
-## l10n-91 - Firefox Desktop Sync - Avatar Menu
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = fox jumping
