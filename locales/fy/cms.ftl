@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Meitsje feilich in reservekopy fan jo Firefox-gegeven
 fxa-headline-0dffe504 = In wachtwurd oanmeitsje om jo gegevens te beskermjen
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Befêstigje jo account en syngronisearje jo wachtwurden oeral wêr’t jo oanmeld binne by Firefox, te begjinnen mei:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Help ús der wis fan te wêzen dat jo it binne dy’t harren oanmeldt.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Befêstigje jo Mozilla-account om te syngronisearjen
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 fxa-description-0a9e868b = Nije oanmelding by Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Fier jo wachtwurd yn om troch te gean nei jo Mozilla-account
+# Description for Signin Token Code Page
+fxa-description-87881780 = Fier befêstigingskoade foar jo Mozilla-account yn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Noch ien flugge stap. Fier de koade út jo e-mailberjocht yn om jo Mozilla-account te aktivearjen.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor-logo
 fxa-pageTitle-924eac9f = Mozilla Monitor ynstelle
 # Description for Signin Page
 fxa-description-ab270ce7 = Meld jo oan by jo Mozilla-account om Mozilla Monitor te brûken.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Syngronisaasje befêstige
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Meitsje in wachtwurd oan om in scan te starten
 # Headline for Verify Login Code Email
