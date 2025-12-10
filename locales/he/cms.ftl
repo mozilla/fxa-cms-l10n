@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = ניתן לגבות את נתוני ה־Firefox של�
 fxa-headline-0dffe504 = יצירת ססמה להגנה על הנתונים שלך
 # Description for Verify Short Code Email
 fxa-description-bb7998da = נא לאמת את החשבון שלך כדי לסנכרן את הססמאות שלך בכל מקום בו יש לך את Firefox, החל מ:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = נא לעזור לנו לוודא שההתחברות לחשבון מתבצעת על ידך.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = אימות חשבון ה־Mozilla שלך כדי לסנכרן
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Fi
 fxa-description-0a9e868b = כניסה חדשה ל־Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = נא להכניס את הססמה כדי להמשיך לחשבון ה־Mozilla שלך
+# Description for Signin Token Code Page
+fxa-description-87881780 = נא להכניס קוד אימות עבור חשבון ה־Mozilla שלך
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = צעד אחד קצר בלבד. נא להכניס את הקוד מהדוא״ל שלך כדי להפעיל את חשבון ה־Mozilla שלך.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = הסמל של Mozilla Monitor
 fxa-pageTitle-924eac9f = הגדרת Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = יש להיכנס לחשבון ה־Mozilla שלך כדי להשתמש ב־Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = הסנכרון אומת
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = יצירת ססמה חדשה להתחלה בסריקה
 # Headline for Verify Login Code Email
