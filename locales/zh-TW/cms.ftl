@@ -147,7 +147,7 @@ fxa-description-0a9e868b = 新登入至 Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
-fxa-description-1d4ba9f5 = 請輸入密碼以繼續前往 Mozilla 帳號
+fxa-description-1d4ba9f5 = 請輸入密碼，以繼續前往您的 Mozilla 帳號
 # Description for Signin Token Code Page
 fxa-description-87881780 = 請輸入您 Mozilla 帳號的確認碼
 # Description for Signup Confirm Code Page
