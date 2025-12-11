@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Salveguarda securmente tu datos de Firefox con un  co
 fxa-headline-0dffe504 = Crea un contrasigno pro proteger tu datos
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Confirma tu conto e synchronisa tu contrasignos ubique tu ha accedite a Firefox, comenciante con:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Adjuta nos a nos assecurar que es tu qui te connecte.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirma tu conto Mozilla pro synchronisar
 
