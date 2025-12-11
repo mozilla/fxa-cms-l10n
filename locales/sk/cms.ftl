@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Bezpečne si zálohujte dáta z Firefoxu pomocou hesl
 fxa-headline-0dffe504 = Vytvorte si heslo na ochranu svojich údajov
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Potvrďte svoj účet a synchronizujte heslá všade, kde ste prihlásení do Firefoxu, počnúc:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Pomôžte nám overiť, či sa prihlasujete vy.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Potvrďte svoj účet Mozilla pre synchronizáciu
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Potvrďte svoj účet pre prihlásenie do Firefoxu
 fxa-description-0a9e868b = Nové prihlásenie k Firefoxu
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Zadajte heslo pre pokračovanie do vášho účtu Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Zadajte potvrdzovací kód pre váš účet Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Len jeden rýchly krok. Zadajte kód z vášho e‑mailu a aktivujte si účet Mozilla.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-pageTitle-924eac9f = Nastavenie služby Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Prihláste sa do svojho účtu Mozilla a použite službu Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Synchronizácia potvrdená
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Vytvorte heslo na spustenie skenovania
 # Headline for Verify Login Code Email
