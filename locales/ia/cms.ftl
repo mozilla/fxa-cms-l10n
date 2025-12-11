@@ -146,6 +146,10 @@ fxa-subject-10e5b452 = Confirma tu conto pro acceder a Firefox
 fxa-description-0a9e868b = Nove accesso a Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Insere le contrasigno pro passar a tu conto Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Insere le codice de confirmation pro tu conto Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Solo un rapide passo. Insere le codice ab tu email pro activar tu conto Mozilla.
 # Headline for Signup Set Password Page
@@ -181,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo de Mozilla Monitor
 fxa-pageTitle-924eac9f = Configura Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Accede a tu conto Mozilla pro usar Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Synchronisation confirmate
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Crea un contrasigno pro initiar un scansion
 # Headline for Verify Login Code Email
