@@ -186,7 +186,7 @@ fxa-pageTitle-924eac9f = Gosod Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Mewngofnodwch i'ch cyfrif Mozilla i ddefnyddio Mozilla Monitor.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-74db8403 = Cadarnhawyd cysoni
+fxa-headline-74db8403 = Cadarnhawyd y cydweddu
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Creu cyfrinair i gychwyn sgan
 # Headline for Verify Login Code Email
