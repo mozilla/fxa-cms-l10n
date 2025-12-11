@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Нусхаи эҳтиётии маълумоти «Fi
 fxa-headline-0dffe504 = Барои ҳифз кардании маълумоти шумо, ниҳонвожаеро эҷод кунед
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Ҳисоби худро тасдиқ кунед ва дар ҳамаи ҷойҳое, ки шумо ба ҳисоби «Firefox»-и худ ворид мешавед, ниҳонвожаҳои худро ҳамоҳанг созед, сар карда аз:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Ба мо ёрӣ диҳед, то мутмаин шавем, ки ин дар ҳақиқат шумо ворид шуда истодаед.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Барои оғози ҳамоҳангсозӣ, ҳисоби «Mozilla»-и худро тасдиқ кунед
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Барои ворид шудан ба «Firefox», ҳис
 fxa-description-0a9e868b = Воридшавии нав ба «Firefox»
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Барои ворид шудан ба ҳисоби «Mozilla»-и худ, ниҳонвожаро ворид намоед
+# Description for Signin Token Code Page
+fxa-description-87881780 = Рамзи тасдиқкунандаро барои ҳисоби «Mozilla»-и худ ворид намоед
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Танҳо як қадами дигар боқӣ мондааст. Барои фаъолсозии ҳисоби худ дар «Mozilla», лутфан, рамзеро, ки мо ба почтаи электронии шумо ирсол кардем, ворид намоед.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Тамғаи «Mozilla Monitor»
 fxa-pageTitle-924eac9f = Танзим кардани «Mozilla Monitor»
 # Description for Signin Page
 fxa-description-ab270ce7 = Барои истифодаи «Mozilla Monitor», ба ҳисоби «Mozilla»-и худ ворид шавед.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Ҳамоҳангсозӣ тасдиқ шуд
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Барои оғоз кардани санҷиш ниҳонвожаеро эҷод кунед
 # Headline for Verify Login Code Email
