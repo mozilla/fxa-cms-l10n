@@ -36,10 +36,14 @@ fxa-primaryButtonText-a0bfb8e5 = ਜਾਰੀ ਰੱਖੋ
 fxa-description-da2a8a91 = ਸਾਨੂੰ ਤਸਦੀਕ ਕਰਨ ਲਈ ਮਦਦ ਕਰੋ ਕਿ ਤੁਸੀਂ ਖਾਤਾ ਬਣਾ ਰਹੇ ਹੋ।
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
+# Description for Signup Confirmed Sync Page
+fxa-description-2115ee89 = ਤੁਹਾਡੇ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਦੇ ਢੰਗ, ਸਿਰਨਾਵੇਂ, ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤਦੇ ਹੋ, ਉੱਥੇ ਸਿੰਕ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਹੈ
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = ਹੋਰ ਡਿਵਾਈਸ ਨੂੰ ਜੋੜੋ
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਉੱਥੇ ਆਪਣੇ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਢੰਗਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = ਪਾਸਵਰਡ ਬਣਾਓ
 # Primary Button Text for Signup Set Password Page
@@ -66,6 +70,8 @@ fxa-logoAltText-96e4284e = Firefox ਲੋਗੋ
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
+# Description for Email First Page
+fxa-description-0d2e3341 = ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤਣ ਲਈ ਤਿਆਰ ਹੋ ਤਾਂ ਆਪਣੇ Firefox ਪਾਸਵਰਡ, ਬੁੱਕਮਾਰਕ ਅਤੇ ਟੈਬਾਂ ਦਾ ਬੈਕਅੱਪ ਲਵੋ।
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Mozilla ਖਾਤੇ ਨਾਲ ਬੈਕ ਅੱਪ ਲਵੋ
 # Logo Alt Text for Email First Page
@@ -82,6 +88,8 @@ fxa-description-5649263e = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਬੈਕਅ�
 fxa-description-3db4ef62 = ਆਪਣੇ Firefox ਡਾਟੇ ਦਾ ਪਾਸਵਰਡ ਨਾਲ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਬੈਕਅੱਪ ਲਵੋ।
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = ਸਾਨੂੰ ਤਸਦੀਕ ਕਰਨ ਲਈ ਮਦਦ ਕਰੋ ਕਿ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰ ਰਹੇ ਹੋ।
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = ਸਿੰਕ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ Mozilla ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
@@ -130,6 +138,10 @@ fxa-subject-10e5b452 = Firefox ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਨ ਲਈ
 fxa-description-0a9e868b = Firefox ਲਈ ਸਾਈਨ-ਇਨ
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਦਿਓ
+# Description for Signin Token Code Page
+fxa-description-87881780 = ਆਪਣੇ Mozilla ਖਾਤੇ ਲਈ ਤਸਦੀਕੀਕਰਨ ਕੋਡ ਦਿਓ
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 # Description for Verify Login Code Email
@@ -161,6 +173,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor ਲੋਗੋ
 fxa-pageTitle-924eac9f = Mozilla Monitor ਸੈਟਅੱਪ
 # Description for Signin Page
 fxa-description-ab270ce7 = Mozilla Monitor ਵਰਤਣ ਲਈ ਆਪਣੇ Mozilla ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = ਸਿੰਕ ਕਰਨ ਲਈ ਤਸਦੀਕ ਕੀਤਾ
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = ਸਕੈਨ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
 # Headline for Verify Login Code Email
