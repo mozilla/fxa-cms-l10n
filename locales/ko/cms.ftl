@@ -109,7 +109,7 @@ fxa-headline-929376b4 = 동기화 설정 완료
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Signup Set Password Page
-fxa-description-c05d9d00 = 비밀번호, 북마크 및 동기화 된 Firefox 데이터를 암호화 기능으로 보호합니다. 로그인 한 모든 곳을 암호화합니다.
+fxa-description-c05d9d00 = 비밀번호와, 북마크, 동기화 된 Firefox 데이터를 암호화 기능으로 보호합니다. 로그인 한 모든 곳을 암호화합니다.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = 안전한 동기화를 위한 비밀번호 생성
 
@@ -118,9 +118,9 @@ fxa-headline-48cc8c34 = 안전한 동기화를 위한 비밀번호 생성
 # Description for Email First Page
 fxa-description-637f76bf = 계정을 만들거나 계정이 있으면 로그인하세요.
 # Headline for Email First Page
-fxa-headline-6d656fc9 = Mozilla 계정으로 Firefox VPN을 사용해 보세요
+fxa-headline-6d656fc9 = Mozilla 계정으로 Firefox VPN을 사용해 보세요.
 # Description for New Device Login Email
-fxa-description-e59dc09c = Mozilla 계정에 새로 로그인했습니다. 그렇지 않으면 비밀번호를 변경하세요.
+fxa-description-e59dc09c = Mozilla 계정에 새로 로그인을 했습니다. 로그인 하지 않았다면 비밀번호를 변경하세요.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Firefox에 새롭게 로그인하기
 # Page Title for Shared
@@ -138,7 +138,7 @@ fxa-description-f8578b7c = 포함된 코드를 사용하여 Mozilla 계정을 �
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = 계정 확인
 # Subject for Verify Short Code Email
-fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세요
+fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세요.
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -149,19 +149,19 @@ fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Mozilla 계정을 사용하려면 비밀번호를 입력하세요.
 # Description for Signin Token Code Page
-fxa-description-87881780 = Mozilla 계정의 확인 코드를 입력하세요
+fxa-description-87881780 = Mozilla 계정의 확인 코드를 입력하세요.
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 한 단계만 빠르게 진행하세요. 이메일에 있는 코드를 입력해서 Mozilla 계정을 활성화하세요.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = 가입 또는 로그인
 # Description for Verify Login Code Email
-fxa-description-6bc52850 = 다음 기기에서 발생한 로그인을 확인하여 계정을 안전하게 보호하세요.
+fxa-description-6bc52850 = 기기에서 일어난 로그인을 확인하여 계정을 안전하게 보호하세요:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = 계정 확인
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = 포함된 코드를 사용하여 Mozilla 계정을 확인하세요.
 # Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Firefox 브라우저를 사용하기 위해 계정을 확인해주세요
+fxa-subject-f3d09e03 = Firefox 브라우저를 사용하기 위해 계정을 확인해주세요.
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
@@ -170,11 +170,11 @@ fxa-description-4766f222 = Mozilla Monitor를 사용하려면 Mozilla 계정이 
 # Headline for Email First Page
 fxa-headline-de41db80 = Mozilla 계정 가입 또는 로그인
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Mozilla Monitor에 새로운 로그인이 있습니다. 그렇지 않으면 비밀번호를 변경하세요.
+fxa-description-4e3d5811 = Mozilla Monitor에 새로 로그인을 했습니다. 로그인 하지 않았다면 비밀번호를 변경하세요.
 # Headline for New Device Login Email
-fxa-headline-207efcd9 = Mozilla Monitor에 대한 새로운 로그인
+fxa-headline-207efcd9 = Mozilla Monitor에 대한 새 로그인
 # Subject for New Device Login Email
-fxa-subject-207efcd9 = Mozilla Monitor에 대한 새로운 로그인
+fxa-subject-207efcd9 = Mozilla Monitor에 대한 새 로그인
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -186,13 +186,13 @@ fxa-pageTitle-924eac9f = Mozilla Monitor 설정
 # Description for Signin Page
 fxa-description-ab270ce7 = Mozilla Monitor를 사용하려면 Mozilla 계정에 로그인하세요.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-74db8403 = 동기화 확인
+fxa-headline-74db8403 = 동기화 확인됨
 # Headline for Signup Set Password Page
-fxa-headline-47e5e3c7 = 스캔을 시작하려면 비밀번호를 만드세요
+fxa-headline-47e5e3c7 = 스캔을 시작하려면 비밀번호를 만드세요.
 # Headline for Verify Login Code Email
-fxa-headline-461a0bbf = Mozilla Monitor를 사용하기 위해 계정을 확인해주세요
+fxa-headline-461a0bbf = Mozilla Monitor를 사용하기 위해 계정을 확인해주세요.
 # Subject for Verify Login Code Email
-fxa-subject-461a0bbf = Mozilla Monitor를 사용하기 위해 계정을 확인해주세요
+fxa-subject-461a0bbf = Mozilla Monitor를 사용하기 위해 계정을 확인해주세요.
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Mozilla Monitor를 사용하려면 계정을 확인하세요.
 
@@ -201,7 +201,7 @@ fxa-headline-74461a97 = Mozilla Monitor를 사용하려면 계정을 확인하�
 # Description for Email First Page
 fxa-description-78fd76ac = Mozilla 계정을 사용하여 다른 기기와 안전하게 동기화하세요.
 # Headline for Email First Page
-fxa-headline-0ec7d798 = 어디서나 저장된 비밀번호 받기
+fxa-headline-0ec7d798 = 어디에서나 저장된 비밀번호 받기
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = 비밀번호 동기화
 # Email From Name for Shared
@@ -216,7 +216,7 @@ fxa-subject-9235d479 = 동기화할 계정 확인
 # Description for Email First Page
 fxa-description-6591d2a0 = 계정은 VPN에 대한 접근을 잠금 해제하고 기기 간에 Firefox 데이터를 동기화합니다.
 # Headline for Email First Page
-fxa-headline-6aca2436 = Mozilla 계정으로 무료 Firefox VPN을 활성화하세요
+fxa-headline-6aca2436 = Mozilla 계정으로 무료 Firefox VPN을 활성화하세요.
 # Description for Signup Confirmed Sync Page
 fxa-description-811350a6 = Firefox VPN의 이점을 누리기 위한 한 단계 더. 열린 패널로 이동하여 켜십시오.
 
