@@ -225,9 +225,9 @@ fxa-description-811350a6 = Firefox VPN의 이점을 누리기 위한 한 단계 
 # Description for Email First Page
 fxa-description-861f2d28 = 새 기기를 사용할 준비가 되도록 비밀번호, 탭 및 북마크를 백업하세요.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = 여우 동기화
+fxa-logoAltText-164ffc49 = Fox sync
 
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = 여우, 뛰는 것
+fxa-logoAltText-c4b14a5b = Fox jumping
