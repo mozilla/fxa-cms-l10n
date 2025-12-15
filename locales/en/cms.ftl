@@ -1,4 +1,4 @@
-### Generated on 2025-12-15T19:58:06.655Z
+### Generated on 2025-12-15T21:21:35.899Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -192,8 +192,6 @@ fxa-headline-74461a97 = Confirm your account to use Mozilla Monitor.
 fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Get saved passwords everywhere
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = passwords sync
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
