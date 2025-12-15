@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Fă copii de rezervă în siguranță cu datele din F
 fxa-headline-0dffe504 = Creează o parolă pentru a-ți proteja datele
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Confirmă-ți contul și sincronizează-ți parolele oriunde ești autentificat în Firefox, începând cu:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Ajută-ne să ne asigurăm că tu ești cel/cea care se conectează.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirmă-ți contul Mozilla ca să sincronizezi
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Confirmă-ți contul pentru autentificare în Firefox
 fxa-description-0a9e868b = Autentificare nouă în Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Introdu parola ca să intri în contul Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Introdu codul de confirmare pentru contul tău Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Doar un pas rapid. Introdu codul din mesajul primit pe e-mail pentru a-ți activa contul Mozilla.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-pageTitle-924eac9f = Configurează Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Intră în contul tău Mozilla ca să folosești Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Sincronizare confirmată
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Creează o parolă ca să începi o scanare
 # Headline for Verify Login Code Email
