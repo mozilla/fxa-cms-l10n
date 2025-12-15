@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Taktu öryggisafrit af Firefox gögnunum þínum á �
 fxa-headline-0dffe504 = Búðu til lykilorð til að vernda gögnin þín
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Staðfestu aðganginn þinn og samstilltu lykilorðin þín alls staðar þar sem þú ert skráð(ur) inn í Firefox, til dæmis má byrja á:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Hjálpaðu okkur að ganga úr skugga um að það sért þú sem skráir þig inn.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Staðfestu Mozilla-reikninginn þinn til að samstilla
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Staðfestu reikninginn þinn til að skrá þig inn í Fi
 fxa-description-0a9e868b = Ný innskráning í Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Settu inn lykilorð til að halda áfram á Mozilla-reikninginn þinn
+# Description for Signin Token Code Page
+fxa-description-87881780 = Settu inn staðfestingarkóða fyrir Mozilla-reikninginn þinn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara eitt fljótlegt skref. Settu inn kóðann úr tölvupóstinum þínum til að virkja Mozilla-reikninginn þinn.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Táknmerki Mozilla Monitor
 fxa-pageTitle-924eac9f = Setja upp Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Skráðu þig inn á Mozilla-reikninginn þinn til að nota Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Samstilling staðfest
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Búðu til lykilorð til að hefja skönnun
 # Headline for Verify Login Code Email
