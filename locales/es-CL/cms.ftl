@@ -83,8 +83,42 @@ fxa-headline-d0511570 = Tu cuenta de Mozilla fue utilizada para conectarse.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Confirma tu cuenta
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Utiliza el código incluido para confirmar tu cuenta de Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Confirma tu cuenta para usar el navegador Firefox
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = Mozilla Monitor
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = Logo de Mozilla Monitor
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = Logo de Mozilla Monitor
+# Page Title for Shared
+fxa-pageTitle-924eac9f = Configurar Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = Conéctate a tu cuenta de Mozilla para usar Mozilla Monitor.
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = Crea una contraseña para comenzar a escanear
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = Confirma tu cuenta para usar Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = Confirma tu cuenta para usar Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = Confirma tu cuenta para usar Mozilla Monitor.
+
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = Usa tu cuenta de Mozilla para sincronizar de forma segura con otro dispositivo.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Lleva tus contraseñas guardadas a todas partes
 # Logo Alt Text for Email First Page
 fxa-logoAltText-e9e92d2e = sincronización de contraseñas
 # Email From Name for Shared
@@ -100,9 +134,13 @@ fxa-subject-9235d479 = Confirma tu cuenta para sincronizar
 fxa-description-6591d2a0 = Una cuenta desbloquea el acceso a VPN y sincroniza tus datos de Firefox en todos tus dispositivos.
 # Headline for Email First Page
 fxa-headline-6aca2436 = Activa tu VPN gratis para Firefox con una cuenta de Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Un paso más para disfrutar de las ventajas de Firefox VPN. Ve al panel abierto y actívalo.
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 
+# Description for Email First Page
+fxa-description-861f2d28 = Haz una copia de seguridad de tus contraseñas, pestañas y marcadores para estar preparado para un nuevo dispositivo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = zorro sincronizando
 
