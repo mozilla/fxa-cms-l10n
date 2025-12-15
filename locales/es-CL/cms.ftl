@@ -82,9 +82,80 @@ fxa-primaryButtonText-be11c74c = Empezar
 fxa-headline-d0511570 = Tu cuenta de Mozilla fue utilizada para conectarse.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Description for Signin Page
+fxa-description-5649263e = Conéctate para realizar una copia de seguridad de este dispositivo.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Realiza una copia de seguridad segura de tus datos de Firefox con una contraseña.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Crea una contraseña para proteger tus datos
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Confirma tu cuenta y sincroniza tus contraseñas en todos los lugares donde te hayas conectado a Firefox, comenzando con:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Ayúdanos a garantizar que seas tú quien se conecta.
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Confirma tu cuenta de Mozilla para sincronizar
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Ingresa tu correo electrónico para comenzar la sincronización
+# Headline for Signin Page
+fxa-headline-c2b34227 = Ingrese la contraseña para comenzar a sincronizar
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crea una contraseña para comenzar a sincronizar
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Finalizar la configuración de sincronización
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = Protege tus contraseñas, marcadores y datos sincronizados de Firefox con cifrado en cualquier lugar donde te hayas conectado.
+# Headline for Signup Set Password Page
+fxa-headline-48cc8c34 = Crea una contraseña para sincronizar de forma segura
+
+## l10n-15 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-637f76bf = Crea tu cuenta o conéctate si tienes una.
+# Headline for Email First Page
+fxa-headline-6d656fc9 = Prueba Firefox VPN con una cuenta de Mozilla
+# Description for New Device Login Email
+fxa-description-e59dc09c = Hubo una nueva conexión a tu cuenta de Mozilla. Si no fuiste tu, cambia tu contraseña.
+# Headline for New Device Login Email
+fxa-headline-a0a749e1 = Nueva conexión a Firefox
+# Page Title for Shared
+fxa-pageTitle-6a3bf665 = Configurar el VPN de Firefox
+# Description for Signin Page
+fxa-description-427b83de = Conéctate a tu cuenta de Mozilla.
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = La sincronización está activada y esta todo listo para usar Firefox VPN. Ve a la barra de herramientas para activarla.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = Siguiente: Activar el VPN de Firefox
+# Headline for Signup Set Password Page
+fxa-headline-7e0aff4a = Establece tu contraseña
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = Utiliza el código incluido para confirmar tu cuenta de Mozilla.
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Confirma tu cuenta
+# Subject for Verify Short Code Email
+fxa-subject-10e5b452 = Confirma tu cuenta para conectarte a Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nueva conexión a Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Ingresa la contraseña para continuar a tu cuenta de Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Introduce el código de confirmación para tu cuenta de Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Solo un paso rápido. Introduce el código de tu correo electrónico para activar tu cuenta de Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Regístrate o conéctate
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu conexión en:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirma tu cuenta
 # Headline for Verify Short Code Email
@@ -94,6 +165,16 @@ fxa-subject-f3d09e03 = Confirma tu cuenta para usar el navegador Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = Se necesita una cuenta Mozilla para utilizar Mozilla Monitor.
+# Headline for Email First Page
+fxa-headline-de41db80 = Registrarse o conectarse a tu cuenta de Mozilla
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Hubo una nueva conexión a Mozilla Monitor. Si no fuiste tu, cambia tu contraseña.
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = Nueva conexión a Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = Nueva conexión a Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -104,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo de Mozilla Monitor
 fxa-pageTitle-924eac9f = Configurar Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Conéctate a tu cuenta de Mozilla para usar Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Sincronización confirmada
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Crea una contraseña para comenzar a escanear
 # Headline for Verify Login Code Email
