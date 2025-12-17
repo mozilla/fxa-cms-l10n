@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Sao lưu dữ liệu Firefox của bạn một cách 
 fxa-headline-0dffe504 = Tạo mật khẩu để bảo vệ dữ liệu của bạn
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Xác minh tài khoản của bạn và đồng bộ hóa mật khẩu ở mọi nơi bạn đăng nhập vào Firefox, bắt đầu bằng:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Hãy giúp chúng tôi xác minh rằng chính bạn là người đăng nhập.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Xác minh tài khoản Mozilla của bạn để đồng bộ hóa
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Xác minh tài khoản của bạn để đăng nhập v�
 fxa-description-0a9e868b = Đăng nhập mới vào Firefox
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Nhập mật khẩu để tiếp tục truy cập tài khoản Mozilla của bạn.
+# Description for Signin Token Code Page
+fxa-description-87881780 = Nhập mã xác minh cho tài khoản Mozilla của bạn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Chỉ cần một bước nhanh chóng. Nhập mã từ email của bạn để kích hoạt tài khoản Mozilla.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 fxa-pageTitle-924eac9f = Thiết lập Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Đăng nhập bằng tài khoản Mozilla của bạn để sử dụng Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Đã xác nhận đồng bộ hoá
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Tạo mật khẩu để bắt đầu quét
 # Headline for Verify Login Code Email
