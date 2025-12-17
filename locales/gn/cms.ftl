@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Eñongatu jey tekorosãrã ne mba’ekuaarã Firefox-
 fxa-headline-0dffe504 = Ejapo ñe’ẽñemi emo’ã hag̃ua ne mba’ekuaarãita
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Emoañete ne mba’ete ha embojuehe ne ñe’ẽñemi opaite tenda eikehague Firefox-pe, eñepyrũvo pe:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Eikuaauka oréve ndeteha upe oikéva.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Emoneĩ ne mba’ete Mozilla-pegua embojuehe hag̃ua
 
@@ -144,6 +146,8 @@ fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 fxa-description-0a9e868b = Eike pyahu Firefox-pe
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Ehai ñe’ẽñemi eike hag̃ua ne mba’ete Mozilla peguápe
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jeku’e pya’e. Emoinge ayvu ne ñanduti vevegua emyandy hag̃ua ne mba’ete Mozilla-pegua.
 # Headline for Signup Set Password Page
@@ -179,6 +183,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor ra’ãnga’i
 fxa-pageTitle-924eac9f = Mozilla Monitor ñemboheko
 # Description for Signin Page
 fxa-description-ab270ce7 = Eike Mozilla mba’etépe eiporu hag̃ua Mozilla Monitor.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Ñembojuehe moneĩmbyre
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Ejapo ñe’ẽñemi emoha’ãnga hag̃ua
 # Headline for Verify Login Code Email
