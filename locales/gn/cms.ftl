@@ -148,6 +148,8 @@ fxa-description-0a9e868b = Eike pyahu Firefox-pe
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Ehai ñe’ẽñemi eike hag̃ua ne mba’ete Mozilla peguápe
+# Description for Signin Token Code Page
+fxa-description-87881780 = Ehai moneĩmby ayvu ne mba’ete Mozilla peg̃uarã
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jeku’e pya’e. Emoinge ayvu ne ñanduti vevegua emyandy hag̃ua ne mba’ete Mozilla-pegua.
 # Headline for Signup Set Password Page
