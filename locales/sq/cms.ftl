@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Kopjeruani në mënyrë të siguruar të dhënat tuaj
 fxa-headline-0dffe504 = Krijoni një fjalëkalim, që të mbroni të dhënat tuaja
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Ripohoni llogarinë tuaj dhe njëkohësoni fjalëkalimet tuaj kudo që bëni hyrje në llogarinë Firefox, duke filluar me:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Ndihmonani të sigurohemi se jeni ju ai që po bën hyrjen.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Që të bëhet njëkohësim, ripohoni llogarinë tuaj Mozilla
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tu
 fxa-description-0a9e868b = Hyrje e re te Firefox-i
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Që të vazhdoni te llogaria juaj Mozilla, jepni fjalëkalimin
+# Description for Signin Token Code Page
+fxa-description-87881780 = Që të vazhdoni te llogaria juaj Mozilla, jepni kod ripohimi
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Thjesht një hap i shpejtë. Që të aktivizohet llogaria juaj Mozilla, jepni kodin që nga email-i juaj.
 # Headline for Signup Set Password Page
@@ -179,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Stemë Mozilla Monitor
 fxa-pageTitle-924eac9f = Ujdisni Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Që të përdorni Mozilla Monitor, bëni hyrjen te llogaria juaj Mozilla.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Njëkohësimi u ripohua
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Që të fillojë një kontroll, krijoni një fjalëkalim
 # Headline for Verify Login Code Email
