@@ -147,9 +147,9 @@ fxa-description-0a9e868b = Új bejelentkezés a Firefoxba
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
-fxa-description-1d4ba9f5 = Adja meg a jelszót, hogy a Mozilla fiókjába lépjen
+fxa-description-1d4ba9f5 = Adja meg a jelszót, hogy a Mozilla-fiókjába lépjen
 # Description for Signin Token Code Page
-fxa-description-87881780 = Adja meg a Mozilla fiókjához tartozó megerősítő kódot
+fxa-description-87881780 = Adja meg a Mozilla-fiókjához tartozó megerősítési kódot
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Csak egy gyors lépés. Adja meg az e-mailben kapott kódot, hogy aktiválja a Mozilla-fiókját.
 # Headline for Signup Set Password Page
