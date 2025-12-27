@@ -225,7 +225,7 @@ fxa-description-811350a6 = Un paso más para obtener los beneficios de Firefox V
 # Description for Email First Page
 fxa-description-861f2d28 = Hacé una copia de seguridad de tus contraseñas, pestañas y marcadores para estar listo para un nuevo dispositivo.
 # Logo Alt Text for Email First Page
-fxa-logoAltText-164ffc49 = fox syncing
+fxa-logoAltText-164ffc49 = zorro sincronizando
 
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
