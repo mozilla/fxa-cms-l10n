@@ -12,6 +12,12 @@ fxa-headline-33e9f42d = Mozilla тіркелгіңізге жалғастыру
 fxa-primaryButtonText-a20eb81e = Тіркелгіні жасау немесе кіру
 # Description for New Device Login Email
 fxa-description-a0671d4a = Mozilla тіркелгіңізге жаңадан кіру орын алды:
+# Headline for New Device Login Email
+fxa-headline-7315250e = Mozilla тіркелгіңіз кіру үшін пайдаланылды
+# Subject for New Device Login Email
+fxa-subject-a0a749e1 = Firefox-қа жаңа кіру
+# Page Title for Shared
+fxa-pageTitle-ffd8275e = Firefox синхрондауын баптау
 # Headline for Signin Page
 fxa-headline-e8d28194 = Пароліңізді енгізіңіз
 # Primary Button Text for Signin Page
@@ -35,8 +41,17 @@ fxa-primaryButtonText-42369faa = Тіркелгіні жасау
 # Description for Verify Login Code Email
 fxa-description-38390134 = Жүйеге кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз.
 
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox логотипі
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox логотипі
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
 # Description for Verify Login Code Email
@@ -45,3 +60,14 @@ fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді р
 fxa-description-ef1fb997 = Тіркелгіңізді растаңыз
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Mozilla тіркелгіңізді растау үшін берілген кодты пайдаланыңыз.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Firefox браузерін пайдалану үшін тіркелгіңізді растаңыз
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Mozilla Monitor қызметін пайдалану үшін Mozilla тіркелгісі қажет.
+# Headline for Email First Page
+fxa-headline-de41db80 = Mozilla тіркелгіңізге тіркеліңіз немесе кіріңіз
+# Description for New Device Login Email
+fxa-description-4e3d5811 = Mozilla Monitor жүйесіне жаңадан кіру әрекеті орын алды. Егер бұл сіз болмасаңыз, пароліңізді өзгертіңіз.
