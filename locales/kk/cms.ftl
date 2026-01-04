@@ -195,3 +195,39 @@ fxa-headline-461a0bbf = Mozilla Monitor пайдалану үшін тіркел
 fxa-subject-461a0bbf = Mozilla Monitor пайдалану үшін тіркелгіңізді растаңыз
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Mozilla Monitor пайдалану үшін тіркелгіңізді растаңыз.
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Басқа құрылғымен қауіпсіз синхрондау үшін Mozilla тіркелгіңізді пайдаланыңыз.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Сақталған парольдеріңізді кез келген жерде алыңыз
+# Logo Alt Text for Email First Page
+fxa-logoAltText-e9e92d2e = парольдерді синхрондау
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Басқа құрылғымен қауіпсіз синхрондау үшін Mozilla тіркелгісін жасаңыз.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Синхрондау үшін тіркелгіңізді растаңыз
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = Тіркелгі VPN-ге кіру мүмкіндігін ашады және Firefox деректеріңізді құрылғылар арасында синхрондайды.
+# Headline for Email First Page
+fxa-headline-6aca2436 = Mozilla тіркелгісімен тегін Firefox VPN қызметін белсендіріңіз
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = Firefox VPN мүмкіндіктерін пайдалану үшін тағы бір қадам қалды. Ашық панельге өтіп, оны іске қосыңыз.
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = Жаңа құрылғыға көшуге дайын болу үшін парольдер, беттер мен бетбелгілеріңізді сақтық көшірмеге сақтаңыз.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = түлкі синхрондауы
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = түлкінің секіруі
