@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -202,8 +202,6 @@ fxa-headline-74461a97 = Подтвердите свой аккаунт для и
 fxa-description-78fd76ac = Используйте свой аккаунт Mozilla для безопасной синхронизации с другим устройством.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Получайте доступ к сохранённым паролям всегда с собой
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = синхронизация паролей
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page

@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -202,8 +202,6 @@ fxa-headline-74461a97 = मोजिला मोनिटर प्रयोग
 fxa-description-78fd76ac = अर्को उपकरणमा सुरक्षित रूपमा सिङ्क गर्न आफ्नो मोजिला खाता प्रयोग गर्नुहोस्।
 # Headline for Email First Page
 fxa-headline-0ec7d798 = जताततै सुरक्षित पासवर्डहरू प्राप्त गर्नुहोस्
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = पासवर्डहरू सिङ्क
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page

@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -202,8 +202,6 @@ fxa-headline-74461a97 = Emoneĩ ne mba’ete eiporu hag̃ua Mozilla Monitor.
 fxa-description-78fd76ac = Eiporu ne Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’oka ndive.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Eraha ne ñe’ẽñemi ñongatupyre opárupi
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = ñe’ẽñemi ñemboheko
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page

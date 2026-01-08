@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -202,8 +202,6 @@ fxa-headline-74461a97 = Confirmă-ți contul ca să folosești Mozilla Monitor.
 fxa-description-78fd76ac = Folosește-ți contul Mozilla pentru sincronizare în siguranță cu un alt dispozitiv.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Iei cu tine parolele salvate peste tot
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = sincronizare parole
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page

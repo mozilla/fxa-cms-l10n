@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -202,8 +202,6 @@ fxa-headline-74461a97 = 确认您的账户以使用 Mozilla Monitor。
 fxa-description-78fd76ac = 使用您的 Mozilla 账户，与其他设备安全同步。
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 随时随地获取已保存的密码
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = 密码同步
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page

@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -202,8 +202,6 @@ fxa-headline-74461a97 = Pro používání služby Mozilla Monitor prosím potvr�
 fxa-description-78fd76ac = Použijte svůj účet Mozilla pro bezpečnou synchronizaci s jiným zařízením.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Uložená hesla budete mít všude s sebou
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = synchronizace hesel
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page

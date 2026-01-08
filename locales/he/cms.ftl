@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -202,8 +202,6 @@ fxa-headline-74461a97 = אימות החשבון שלך לשימוש ב־Mozilla 
 fxa-description-78fd76ac = יש להשתמש בחשבון ה־Mozilla שלך כדי לסנכרן באופן מאובטח עם מכשיר אחר.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = קבלת הססמאות השמורות בכל מקום
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = סנכרון ססמאות
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page

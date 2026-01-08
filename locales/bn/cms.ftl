@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -194,8 +194,6 @@ fxa-headline-74461a97 = Mozilla Monitor ব্যবহার করার জ�
 fxa-description-78fd76ac = আরেকটি ডিভাইসে নিরাপদভাবে সিঙ্ক করতে আপনার Mozilla অ্যাকাউন্ট ব্যবহার করুন।
 # Headline for Email First Page
 fxa-headline-0ec7d798 = সংরক্ষিত পাসওয়ার্ড যেকোনো জায়গায় পান
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = পাসওয়ার্ড সিঙ্ক
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page

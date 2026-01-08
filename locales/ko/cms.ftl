@@ -1,4 +1,4 @@
-### Generated on 2025-12-09T18:20:33.563Z
+### Generated on 2025-12-22T18:52:44.534Z
 ### FTL file for CMS localization
 
 
@@ -202,8 +202,6 @@ fxa-headline-74461a97 = Mozilla Monitor를 사용하려면 계정을 확인하�
 fxa-description-78fd76ac = Mozilla 계정을 사용하여 다른 기기와 안전하게 동기화하세요.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 어디에서나 저장된 비밀번호 받기
-# Logo Alt Text for Email First Page
-fxa-logoAltText-e9e92d2e = 비밀번호 동기화
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
