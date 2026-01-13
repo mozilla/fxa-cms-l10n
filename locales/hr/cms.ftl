@@ -155,7 +155,7 @@ fxa-description-daaed757 = Samo jedan brzi korak. Upiši kod iz e-maila za aktiv
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Registriraj se ili se prijavi
 # Description for Verify Login Code Email
-fxa-description-6bc52850 = Pomogni nam zaštiti tvoj račun odobravanjem prijave na:
+fxa-description-6bc52850 = Pomogni nam zaštiti tvoj račun odobravanjem tvoje prijave na:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Potvrdi svoj račun
 # Headline for Verify Short Code Email
