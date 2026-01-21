@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = 狐狸在同步
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = 狐狸在跳躍
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Mozilla 訂閱服務

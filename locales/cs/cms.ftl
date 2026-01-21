@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = synchronizace lišky
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = skákající liška
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Předplatné služeb Mozilly

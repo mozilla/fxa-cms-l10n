@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = szinkronizáló róka
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = ugró róka
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Mozilla Előfizetéses szolgáltatások

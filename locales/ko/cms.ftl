@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = Fox sync
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = Fox jumping
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Mozilla 구독 서비스

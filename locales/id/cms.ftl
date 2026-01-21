@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = sinkronisasi rubah
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = rubah melompat
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Layanan Berlangganan Mozilla

@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = fox सिङ्क गर्दै
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = स्याल जम्प गर्दै
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = मोजिला सदस्यता सेवाहरू

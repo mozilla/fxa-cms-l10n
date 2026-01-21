@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = zorro sincronizando
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = zorro saltando
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Servicios de suscripción de Mozilla
