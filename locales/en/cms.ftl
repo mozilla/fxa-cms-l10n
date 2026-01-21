@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:03:01.608Z
+### Generated on 2026-01-21T23:03:44.144Z
 ### FTL file for CMS localization
 
 ## firefox-relay-browser-service - CMS Entry
