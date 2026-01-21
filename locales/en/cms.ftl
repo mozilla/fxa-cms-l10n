@@ -1,5 +1,9 @@
-### Generated on 2025-12-22T18:52:44.534Z
+### Generated on 2026-01-21T23:03:01.608Z
 ### FTL file for CMS localization
+
+## firefox-relay-browser-service - CMS Entry
+# Label for Terms
+fxa-label-14c5faa0 = Mozilla Subscription Services
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 # Description for Email First Page
