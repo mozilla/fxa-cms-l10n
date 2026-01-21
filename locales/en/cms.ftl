@@ -1,7 +1,7 @@
-### Generated on 2026-01-21T23:04:36.513Z
+### Generated on 2026-01-21T23:06:03.646Z
 ### FTL file for CMS localization
 
-## firefox-relay-browser-service-subs - CMS Entry
+## firefox-relay-prod-subs - CMS Entry
 # Label for Terms
 fxa-label-14c5faa0 = Mozilla Subscription Services
 
