@@ -1,9 +1,5 @@
-### Generated on 2026-01-21T23:06:14.281Z
+### Generated on 2026-01-21T23:06:23.943Z
 ### FTL file for CMS localization
-
-## firefox-relay-prod-subs - CMS Entry
-# Label for Terms
-fxa-label-14c5faa0 = Mozilla Subscription Services
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 # Description for Email First Page
@@ -220,3 +216,7 @@ fxa-logoAltText-164ffc49 = fox syncing
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = fox jumping
+
+## legal-notice-label-subs-services - CMS Entry
+# Label for Terms
+fxa-label-14c5faa0 = Mozilla Subscription Services
