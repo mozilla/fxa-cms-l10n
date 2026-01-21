@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:03.646Z
+### Generated on 2026-01-21T23:06:14.281Z
 ### FTL file for CMS localization
 
 ## firefox-relay-prod-subs - CMS Entry
