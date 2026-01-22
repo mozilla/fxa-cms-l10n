@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = synchronisation vulpe
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = vulpe que salta
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Servicios in abonamento de Mozilla
