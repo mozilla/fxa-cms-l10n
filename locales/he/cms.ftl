@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = שועל מסנכרן
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = שועל קופץ
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = שירותי המינויים של Mozilla
