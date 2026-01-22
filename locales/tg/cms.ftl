@@ -229,3 +229,8 @@ fxa-logoAltText-164ffc49 = ҳамоҳангсозии рӯбоҳ
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = рӯбоҳи ҷаста
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Хизматрасонии обунаи «Mozilla»
