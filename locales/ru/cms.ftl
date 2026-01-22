@@ -233,4 +233,4 @@ fxa-logoAltText-c4b14a5b = прыгающая лиса
 ## legal-notice-label-subs-services - CMS Entry
 
 # Label for Terms
-fxa-label-14c5faa0 = Службы подписки Mozilla
+fxa-label-14c5faa0 = Службы Mozilla по подписке
