@@ -233,4 +233,4 @@ fxa-logoAltText-c4b14a5b = springende vos
 ## legal-notice-label-subs-services - CMS Entry
 
 # Label for Terms
-fxa-label-14c5faa0 = Mozilla Subscription Services
+fxa-label-14c5faa0 = Mozilla-abonnementservices
