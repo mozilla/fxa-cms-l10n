@@ -90,6 +90,8 @@ fxa-description-3db4ef62 = Varmuuskopioi Firefox-tietosi turvallisesti salasanal
 fxa-headline-0dffe504 = Luo salasana suojataksesi tietosi
 # Description for Verify Short Code Email
 fxa-description-bb7998da = Vahvista tilisi ja synkronoi salasanasi kaikkialla, missä olet kirjautuneena Firefoxiin, aloittaen:
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Auta meitä varmistamaan, että sinä kirjaudut sisään.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Vahvista Mozilla-tilisi synkronointia varten
 
@@ -144,6 +146,10 @@ fxa-subject-10e5b452 = Vahvista tilisi kirjautuaksesi Firefoxiin
 fxa-description-0a9e868b = Uusi kirjautuminen Firefoxiin
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Anna salasana jatkaaksesi Mozilla-tilillesi
+# Description for Signin Token Code Page
+fxa-description-87881780 = Anna Mozilla-tilisi vahvistuskoodi
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Yksi nopea vaihe. Syötä sähköpostitse saamasi koodi aktivoidaksesi Mozilla-tilisi.
 # Headline for Signup Set Password Page
