@@ -185,6 +185,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor -logo
 fxa-pageTitle-924eac9f = Määritä Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Kirjaudu Mozilla-tilillesi käyttääksesi Mozilla Monitoria.
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = Synkronointi vahvistettu
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Luo salasana aloittaaksesi tarkistuksen
 # Headline for Verify Login Code Email
@@ -227,3 +229,8 @@ fxa-logoAltText-164ffc49 = ketun synkronointi
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = ketun hyppy
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Mozilla-tilauspalvelut
