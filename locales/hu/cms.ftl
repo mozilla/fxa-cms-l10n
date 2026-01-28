@@ -233,4 +233,4 @@ fxa-logoAltText-c4b14a5b = ugró róka
 ## legal-notice-label-subs-services - CMS Entry
 
 # Label for Terms
-fxa-label-14c5faa0 = Mozilla Előfizetéses szolgáltatások
+fxa-label-14c5faa0 = Mozilla előfizetéses szolgáltatások
