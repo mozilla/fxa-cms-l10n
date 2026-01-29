@@ -140,6 +140,11 @@ fxa-headline-ef1fb997 = Stadfest kontoen din
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Stadfest kontoen din for å logge på Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Nettlesaren Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page

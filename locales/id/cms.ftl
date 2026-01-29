@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Konfirmasikan akun Anda
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Konfirmasi akun Anda untuk masuk ke Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Masuk sinkron dengan akun Mozilla Anda. Jika Anda tidak memilikinya, hanya perlu beberapa detik untuk membuatnya.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Gunakan surel Anda untuk melanjutkan
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Peramban Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Mulai sinkronkan data Anda dengan akun Mozilla. Sudah punya? Kami akan menemukannya.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Daftar atau masuk
 # Logo Alt Text for Email First Page

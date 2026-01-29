@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Потвърждаване на профил
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Потвърдете профила си, за да влезете във Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Влезте синхронизирано с вашия профил в Mozilla. Ако нямате, създаването му ще отнеме само секунда.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Използвайте имейла си, за да продължите
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox Browser
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Започнете да синхронизирате данните си с профил в Mozilla. Вече имате такъв? Ще го намерим.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Регистриране или вписване
 # Logo Alt Text for Email First Page

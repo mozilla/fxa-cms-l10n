@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = 계정 확인
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세요.
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Mozilla 계정으로 로그인합니다. 계정이 없더라도 몇 초밖에 걸리지 않습니다.
+# Headline for Email First Page
+fxa-headline-a4b1427f = 계속하려면 이메일을 사용하세요.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox 브라우저
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Mozilla 계정으로 데이터 동기화를 시작하세요. 이미 계정이 있으신가요? 찾아드립니다.
 # Headline for Email First Page
 fxa-headline-a20eb81e = 가입 또는 로그인
 # Logo Alt Text for Email First Page

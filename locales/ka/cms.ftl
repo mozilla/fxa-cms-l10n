@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = დაადასტურეთ თქვენი ა
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = დაადასტურეთ თქვენი ანგარიში Firefox-ში შესასვლელად
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = შედით სინქრონიზაციისთვის Mozilla-ს ანგარიშით. თუ თქვენ არ გაქვთ, მის შექმნას მხოლოდ წამი სჭირდება.
+# Headline for Email First Page
+fxa-headline-a4b1427f = გასაგრძელებლად გამოიყენეთ თქვენი ელფოსტა
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox-ბრაუზერი
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = დაიწყეთ თქვენი მონაცემების დასინქრონება Mozilla-ს ანგარიშით. უკვე გაქვთ? ჩვენ მოვძებნით.
 # Headline for Email First Page
 fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
 # Logo Alt Text for Email First Page

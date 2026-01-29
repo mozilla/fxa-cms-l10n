@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Potrdite račun
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Potrdite račun za prijavo v Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Sinhronizirano se prijavite z računom Mozilla. Če ga nimate, ga ustvarite le sekundo.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Za nadaljevanje uporabite e-poštni naslov
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = brskalnik Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Začnite sinhronizirati svoje podatke z Mozillin računom. Ga že imate? Našli ga bomo.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registracija ali prijava
 # Logo Alt Text for Email First Page

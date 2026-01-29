@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Hesabınızı onaylayın
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Mozilla hesabınızla eşitleme yapın. Hesabınız yoksa oluşturulması yalnızca birkaç saniye sürer.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Devam etmek için e-postanızı kullanın
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox tarayıcısı
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Mozilla hesabıyla verilerinizi eşitlemeye başlayın. Zaten bir tane var mı? Onu bulacağız.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Kaydol veya giriş yap
 # Logo Alt Text for Email First Page

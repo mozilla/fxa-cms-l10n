@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = 确认您的账户
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = 使用您的 Mozilla 账户同步登录。如果您没有也只需几秒钟的时间来创建它。
+# Headline for Email First Page
+fxa-headline-a4b1427f = 输入邮箱地址以继续
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox 浏览器
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = 开始与 Mozilla 账户同步您的数据。已经有了我们会找到的。
 # Headline for Email First Page
 fxa-headline-a20eb81e = 注册或登录
 # Logo Alt Text for Email First Page
