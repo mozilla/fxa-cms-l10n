@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = დაადასტურეთ თქვენი ა
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = დაადასტურეთ თქვენი ანგარიში Firefox-ში შესასვლელად
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = მელა დახტის
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = მიუთითეთ პაროლი თქვ
 fxa-description-87881780 = შეიყვანეთ თქვენი Mozilla-ანგარიშის დამადასტურებელი კოდი
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = მხოლოდ ერთი სწრაფი ნაბიჯი. შეიყვანეთ კოდი ელფოსტიდან თქვენი Mozilla-ანგარიშის ასამოქმედებლად.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = ერთი ნაბიჯიღა რჩება
 fxa-description-861f2d28 = დაამარქაფეთ პაროლები, ჩანართები და სანიშნები, რომ მზად იყოთ ახალი მოწყობილობისთვის.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = მელა ასინქრონებს
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = მელა დახტის
 
 ## legal-notice-label-subs-services - CMS Entry
 

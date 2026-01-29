@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Staðfestu reikninginn þinn
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Staðfestu reikninginn þinn til að skrá þig inn í Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = firefox hoppar
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Settu inn lykilorð til að halda áfram á Mozilla-r
 fxa-description-87881780 = Settu inn staðfestingarkóða fyrir Mozilla-reikninginn þinn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara eitt fljótlegt skref. Settu inn kóðann úr tölvupóstinum þínum til að virkja Mozilla-reikninginn þinn.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjálpaðu okkur að halda reikningnum þínum öruggum með því að staðfesta innskráninguna þína á:
 # Description for Verify Short Code Email
@@ -224,8 +229,3 @@ fxa-description-811350a6 = Eitt skref í viðbót til að nýta þér ávinningi
 fxa-description-861f2d28 = Taktu afrit af lykilorðum, flipum og bókamerkjum svo þú sért tilbúin/n fyrir nýtt tæki.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = firefox samstilling
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = firefox hoppar

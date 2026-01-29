@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Potwierdź konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Potwierdź swoje konto, aby zalogować się do przeglądarki Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = skaczący lis
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Wprowadź hasło, aby przejść do konta Mozilli
 fxa-description-87881780 = Wprowadź kod potwierdzenia dla swojego konta Mozilli
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Jeszcze tylko krok do korzystania z zalet Firefox VP
 fxa-description-861f2d28 = Zrób kopię zapasową swoich haseł, kart i zakładek, aby być gotowym na nowe urządzenie.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Lisowa synchronizacja
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = skaczący lis
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Erősítse meg a fiókját
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezéshez
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Regisztráljon vagy jelentkezzen be
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = ugró róka
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Adja meg a jelszót, hogy a Mozilla-fiókjába lépje
 fxa-description-87881780 = Adja meg a Mozilla-fiókjához tartozó megerősítési kódot
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Csak egy gyors lépés. Adja meg az e-mailben kapott kódot, hogy aktiválja a Mozilla-fiókját.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Regisztráljon vagy jelentkezzen be
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Még egy lépés a Firefox VPN előnyeinek megszerzé
 fxa-description-861f2d28 = Készítsen biztonsági mentést a jelszavairól, lapjairól és könyvjelzőiről, hogy készen álljon az új eszköz használatára.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = szinkronizáló róka
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = ugró róka
 
 ## legal-notice-label-subs-services - CMS Entry
 

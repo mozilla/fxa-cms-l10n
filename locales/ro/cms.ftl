@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Confirmă-ți contul
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirmă-ți contul pentru autentificare în Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = salt
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Introdu parola ca să intri în contul Mozilla
 fxa-description-87881780 = Introdu codul de confirmare pentru contul tău Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Doar un pas rapid. Introdu codul din mesajul primit pe e-mail pentru a-ți activa contul Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ajută-ne să îți protejăm contul aprobând autentificarea în:
 # Description for Verify Short Code Email
@@ -224,8 +229,3 @@ fxa-description-811350a6 = Încă un pas pentru a obține beneficiile VPN Firefo
 fxa-description-861f2d28 = Fă-ți copii de rezervă cu parolele, filele și marcajele ca să fii gata să treci pe alt dispozitiv.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronizare
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = salt

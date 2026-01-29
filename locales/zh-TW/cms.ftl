@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = 確認您的帳號
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = 註冊或登入
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = 狐狸在跳躍
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = 請輸入密碼，以繼續前往您的 Mozilla 帳�
 fxa-description-87881780 = 請輸入您 Mozilla 帳號的確認碼
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 只需一個快速步驟。請輸入郵件中的驗證碼來啟用您的 Mozilla 帳號。
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = 註冊或登入
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = 只要再一步即可獲得 Firefox VPN 功能。請�
 fxa-description-861f2d28 = 備份您的密碼、開啟分頁與書籤，這樣就可馬上在新裝置使用。
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = 狐狸在同步
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = 狐狸在跳躍
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Bestätigen Sie Ihr Konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Bestätigen Sie Ihr Konto, um sich bei Firefox anzumelden
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Anmelden oder registrieren
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = Springender Fuchs
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Geben Sie das Passwort ein, um mit Ihrem Mozilla-Kont
 fxa-description-87881780 = Geben Sie den Bestätigungscode für Ihr Mozilla-Konto ein
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Nur ein kurzer Schritt. Geben Sie den Code aus Ihrer E-Mail ein, um Ihr Mozilla-Konto zu aktivieren.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Anmelden oder registrieren
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Helfen Sie uns, Ihr Konto zu schützen, indem Sie Ihre Anmeldung genehmigen:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Ein weiterer Schritt zu den Vorteilen von Firefox VPN
 fxa-description-861f2d28 = Sichern Sie Ihre Passwörter, Tabs und Lesezeichen, damit Sie für ein neues Gerät bereit sind.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Fuchs synchronisiert
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = Springender Fuchs
 
 ## legal-notice-label-subs-services - CMS Entry
 

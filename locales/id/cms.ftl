@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Konfirmasikan akun Anda
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Konfirmasi akun Anda untuk masuk ke Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Daftar atau masuk
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = rubah melompat
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Masukkan sandi untuk melanjutkan ke akun Mozilla Anda
 fxa-description-87881780 = Masukkan kode konfirmasi untuk akun Mozilla Anda
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Hanya satu langkah cepat. Masukkan kode dari surel Anda untuk mengaktifkan akun Mozilla Anda.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Daftar atau masuk
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Satu langkah lagi untuk mendapatkan manfaat Firefox V
 fxa-description-861f2d28 = Cadangkan kata sandi, tab, dan markah Anda sehingga Anda siap untuk perangkat baru.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sinkronisasi rubah
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = rubah melompat
 
 ## legal-notice-label-subs-services - CMS Entry
 

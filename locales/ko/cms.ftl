@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = 계정 확인
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세요.
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = 가입 또는 로그인
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = Fox jumping
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Mozilla 계정을 사용하려면 비밀번호를 입
 fxa-description-87881780 = Mozilla 계정의 확인 코드를 입력하세요.
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 한 단계만 빠르게 진행하세요. 이메일에 있는 코드를 입력해서 Mozilla 계정을 활성화하세요.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = 가입 또는 로그인
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 기기에서 일어난 로그인을 확인하여 계정을 안전하게 보호하세요:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Firefox VPN의 이점을 누리기 위한 한 단계 
 fxa-description-861f2d28 = 새 기기를 사용할 준비가 되도록 비밀번호, 탭 및 북마크를 백업하세요.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Fox sync
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = Fox jumping
 
 ## legal-notice-label-subs-services - CMS Entry
 

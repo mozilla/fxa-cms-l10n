@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Ripohoni llogarinë tuaj
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tuaj
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Hyni ose regjistrohuni
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = fox jumping
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Që të vazhdoni te llogaria juaj Mozilla, jepni fjal
 fxa-description-87881780 = Që të vazhdoni te llogaria juaj Mozilla, jepni kod ripohimi
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Thjesht një hap i shpejtë. Që të aktivizohet llogaria juaj Mozilla, jepni kodin që nga email-i juaj.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Hyni ose regjistrohuni
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, duke miratuar hyrjen në:
 # Description for Verify Short Code Email
@@ -224,8 +229,3 @@ fxa-description-811350a6 = Edhe një që të merrni përfitimet nga Firefox VPN.
 fxa-description-861f2d28 = Kopjeruani fjalëkalimet, skedat dhe faqerojtësit tuaj, që të jeni gati për në një pajisje të re.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = njëkohësim firefox
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = fox jumping

@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Vahvista tilisi
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Vahvista tilisi kirjautuaksesi Firefoxiin
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = ketun hyppy
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Anna salasana jatkaaksesi Mozilla-tilillesi
 fxa-description-87881780 = Anna Mozilla-tilisi vahvistuskoodi
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Yksi nopea vaihe. Syötä sähköpostitse saamasi koodi aktivoidaksesi Mozilla-tilisi.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Auta meitä pitämään tilisi turvassa vahvistamalla, että kirjauduit sisään:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Vielä yksi vaihe Firefox VPN:n hyödyntämiseksi. Si
 fxa-description-861f2d28 = Varmuuskopioi salasanasi, välilehtesi ja kirjanmerkkisi, jotta olet valmiina uutta laitetta varten.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ketun synkronointi
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = ketun hyppy
 
 ## legal-notice-label-subs-services - CMS Entry
 

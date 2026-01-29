@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Confirmez votre compte
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirmez votre compte pour vous connecter à Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Créer un compte ou se connecter
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = renard en train de sauter
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Saisissez votre mot de passe pour continuer vers votr
 fxa-description-87881780 = Saisissez le code de confirmation de votre compte Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Une seule petite étape : entrez le code reçu par e-mail pour activer votre compte Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Créer un compte ou se connecter
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Aidez-nous à protéger votre compte en confirmant votre connexion sur :
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Plus qu’une étape avant de bénéficier des avanta
 fxa-description-861f2d28 = Sauvegardez vos mots de passe, onglets et marque-pages pour vous préparer à passer à un nouvel appareil.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = renard qui synchronise
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = renard en train de sauter
 
 ## legal-notice-label-subs-services - CMS Entry
 

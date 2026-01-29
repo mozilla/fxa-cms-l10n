@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Потвърждаване на профил
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Потвърдете профила си, за да влезете във Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Регистриране или вписване
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = скачаща лисица
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Въведете парола, за да продъл
 fxa-description-87881780 = Въведете кода за потвърждение на профила ви в Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Само още едно нещо: въведете кода от имейла си, за да активирате профила си в Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Регистриране или вписване
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Още една стъпка към получава�
 fxa-description-861f2d28 = Архивирайте паролите, разделите и отметките си, за да сте готови за ново устройство.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = синхронизация
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = скачаща лисица
 
 ## legal-notice-label-subs-services - CMS Entry
 

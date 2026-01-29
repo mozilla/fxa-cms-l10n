@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Bekreft kontoen din
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Bekreft kontoen din for å logge på Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Registrer deg eller logg inn
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = rev hopper
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Skriv inn passordet for å fortsette til Mozilla-kont
 fxa-description-87881780 = Skriv inn bekreftelseskoden for Mozilla-kontoen din
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bare ett raskt trinn. Skriv inn koden fra e-posten din for å aktivere Mozilla-kontoen din.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registrer deg eller logg inn
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjelp oss med å holde kontoen din trygg ved å godkjenne innloggingen din på:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Ett steg igjen før du får fordelene med Firefox VPN
 fxa-description-861f2d28 = Sikkerhetskopier passordene, fanene og bokmerkene dine, slik at du er klar for en ny enhet.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = rev synkroniserer
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = rev hopper
 
 ## legal-notice-label-subs-services - CMS Entry
 

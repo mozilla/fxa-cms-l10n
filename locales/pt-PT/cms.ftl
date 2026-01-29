@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Confirmar a sua conta
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirme a sua conta para iniciar sessão no Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Criar conta ou iniciar sessão
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = salto da raposa
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Introduza a palavra-passe para continuar com a sua co
 fxa-description-87881780 = Insira o código de confirmação para a sua conta Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Apenas um passo rápido. Insira o código do seu email para ativar a sua conta Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Criar conta ou iniciar sessão
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ajude-nos a manter a sua conta segura aprovando o seu início de sessão em:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Mais um passo para obter os benefícios da Firefox VP
 fxa-description-861f2d28 = Faça uma cópia das suas palavras-passe, separadores e marcadores para que esteja pronto para um novo dispositivo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronização fox
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = salto da raposa
 
 ## legal-notice-label-subs-services - CMS Entry
 

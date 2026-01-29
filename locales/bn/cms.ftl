@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -138,6 +138,13 @@ fxa-headline-ef1fb997 = আপনার অ্যাকাউন্ট নিশ
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox এ সাইন ইন করতে আপনার অ্যাকাউন্ট নিশ্চিত করুন।
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = ফক্স লাফাচ্ছে
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -146,8 +153,6 @@ fxa-description-0a9e868b = Firefox এ নতুন সাইন ইন
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = মাত্র এক ধাপ বাকি। আপনার ইমেইল থেকে কোডটি লিখুন এবং আপনার Mozilla অ্যাকাউন্ট সক্রিয় করুন।
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = আপনার সাইন ইন অনুমোদন করে আমাদের সাহায্য করুন যাতে আপনার অ্যাকাউন্ট নিরাপদ থাকে:
 # Description for Verify Short Code Email
@@ -216,8 +221,3 @@ fxa-description-811350a6 = Firefox VPN-এর সুবিধা পেতে �
 fxa-description-861f2d28 = আপনার পাসওয়ার্ড, ট্যাব এবং বুকমার্ক ব্যাকআপ করুন যাতে আপনি নতুন ডিভাইসের জন্য প্রস্তুত থাকেন।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ফক্স সিঙ্ক করছে
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = ফক্স লাফাচ্ছে

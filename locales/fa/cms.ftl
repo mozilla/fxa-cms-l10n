@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = تأیید حساب کاربری خود
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = برای ورود به Firefox حساب کاربری خود را تأیید کنید
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = نام‌نویسی یا ورود
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = fox در حال جستن
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = برای ادامه به حساب‌کاربری Mozi
 fxa-description-87881780 = کد تأیید را برای حساب‌کاربری Mozilla خود وارد کنید
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = فقط یک مرحله سریع. کد ارسال‌شده به رایانامه خودتان را وارد کنید تا حساب کاربری Mozilla شما فعال شود.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = نام‌نویسی یا ورود
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = با تأیید ورود خود در اینجا، به ما کمک کنید حساب کاربری شما را ایمن نگه داریم:
 # Description for Verify Short Code Email
@@ -224,8 +229,3 @@ fxa-description-811350a6 = یک مرحله دیگر تا بهره‌مندی ا�
 fxa-description-861f2d28 = از گذرواژه‌ها، زبانه‌ها و نشانک‌های خود پشتیبان‌گیری کنید تا برای دستگاه جدید آماده باشید.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = همگام‌سازی fox
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = fox در حال جستن

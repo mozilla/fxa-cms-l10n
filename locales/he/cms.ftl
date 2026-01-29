@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = אימות החשבון שלך
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = הרשמה או התחברות
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = שועל קופץ
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = נא להכניס את הססמה כדי להמשיך
 fxa-description-87881780 = נא להכניס קוד אימות עבור חשבון ה־Mozilla שלך
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = צעד אחד קצר בלבד. נא להכניס את הקוד מהדוא״ל שלך כדי להפעיל את חשבון ה־Mozilla שלך.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = הרשמה או התחברות
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = רק צעד אחד נוסף להשגת היתרונו
 fxa-description-861f2d28 = ניתן לגבות את הססמאות, הלשוניות והסימניות שלך כדי שהכל יהיה מוכן לקראת המעבר למכשיר חדש.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = שועל מסנכרן
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = שועל קופץ
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Ҳисоби худро тасдиқ кунед
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Барои ворид шудан ба «Firefox», ҳисоби худро тасдиқ кунед
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = рӯбоҳи ҷаста
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Барои ворид шудан ба ҳисоби «
 fxa-description-87881780 = Рамзи тасдиқкунандаро барои ҳисоби «Mozilla»-и худ ворид намоед
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Танҳо як қадами дигар боқӣ мондааст. Барои фаъолсозии ҳисоби худ дар «Mozilla», лутфан, рамзеро, ки мо ба почтаи электронии шумо ирсол кардем, ворид намоед.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Барои ба даст овардани имтиё�
 fxa-description-861f2d28 = Барои ниҳонвожаҳо, варақаҳо ва хатбаракҳои худ нусхаи эҳтиётиро таҳия кунед, то шумо тавонед барои истифодаи дастгоҳи нав омода шавед.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ҳамоҳангсозии рӯбоҳ
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = рӯбоҳи ҷаста
 
 ## legal-notice-label-subs-services - CMS Entry
 

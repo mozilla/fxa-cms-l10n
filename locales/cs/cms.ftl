@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Potvrďte svůj účet
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Potvrďte svůj účet pro přihlášení do Firefoxu
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Zaregistrujte se nebo se přihlaste
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = skákající liška
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Pro pokračování zadejte heslo ke svému účtu Moz
 fxa-description-87881780 = Zadejte potvrzovací kód pro svůj účet Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jen jeden rychlý krok. Pro aktivaci účtu Mozilla vložte kód z vašeho e-mailu.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Zaregistrujte se nebo se přihlaste
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomozte nám udržet váš účet v bezpečí tím, že schválíte své přihlášení na zařízení:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Další krok k získání výhod Firefox VPN. Přejd�
 fxa-description-861f2d28 = Zálohujte svá hesla, panely a záložky, abyste byli připraveni na nové zařízení.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizace lišky
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = skákající liška
 
 ## legal-notice-label-subs-services - CMS Entry
 

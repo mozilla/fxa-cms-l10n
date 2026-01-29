@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Тіркелгіңізді растаңыз
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox-қа кіру үшін тіркелгіңізді растаңыз
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = түлкінің секіруі
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Mozilla тіркелгіңізге жалғастыр
 fxa-description-87881780 = Mozilla тіркелгіңіз үшін растау кодын енгізіңіз
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Соңғы қадам қалды. Mozilla тіркелгіңізді белсендіру үшін электрондық поштаңызға келген кодты енгізіңіз.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Firefox VPN мүмкіндіктерін пайдал
 fxa-description-861f2d28 = Жаңа құрылғыға көшуге дайын болу үшін парольдер, беттер мен бетбелгілеріңізді сақтық көшірмеге сақтаңыз.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = түлкі синхрондауы
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = түлкінің секіруі
 
 ## legal-notice-label-subs-services - CMS Entry
 

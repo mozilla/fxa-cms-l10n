@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -104,12 +104,15 @@ fxa-headline-7e0aff4a = ตั้งรหัสผ่านของคุณ
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = ยืนยันบัญชีของคุณ
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = ลงทะเบียนหรือลงชื่อเข้า
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = ลงทะเบียนหรือลงชื่อเข้า
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = ช่วยเรารักษาบัญชีของคุณให้ปลอดภัยโดยอนุมัติการลงชื่อเข้าใน:
 # Description for Verify Short Code Email

@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = アカウントを確認してください
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox にログインするには Mozilla アカウントを確認してください
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = ログインまたはアカウント登録
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = 跳ねる狐
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -148,8 +155,6 @@ fxa-description-0a9e868b = Firefox への新しいログイン
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = たった １ つの簡単なステップ。メールに転送されたコードを入力して、Mozilla アカウントを有効にしてください。
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = ログインまたはアカウント登録
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = アカウントを安全に保つために、次の端末からのログインを承認してください:
 # Description for Verify Short Code Email
@@ -218,8 +223,3 @@ fxa-description-811350a6 = Firefox VPN を利用するためのステップは�
 fxa-description-861f2d28 = パスワード、ブックマーク、タブなどをバックアップしておけば、いつでも新しい端末に移行できます。
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = 狐と同期
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = 跳ねる狐

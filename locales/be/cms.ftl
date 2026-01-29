@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -65,12 +65,15 @@ fxa-primaryButtonText-be11c74c = Пачаць
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Пацвердзіце свой уліковы запіс
 

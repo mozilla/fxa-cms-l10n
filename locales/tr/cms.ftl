@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Hesabınızı onaylayın
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Kaydol veya giriş yap
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = zıplayan tilki
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Mozilla hesabınıza devam etmek için parolanızı y
 fxa-description-87881780 = Mozilla hesabınız için onay kodunu girin
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Tek bir adım kaldı. Mozilla hesabınızı etkinleştirmek için e-postanıza gelen kodu yazın.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Kaydol veya giriş yap
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Girişinizi onaylayarak hesabınızı güvende tutmamıza yardımcı olun:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Firefox VPN avantajlarından yararlanmaya bir adım k
 fxa-description-861f2d28 = Yeni cihazınıza geçerken hazırlıksız yakalanmamak için parolalarınızı, sekmelerinizi ve yer imlerinizi yedekleyin.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = eşitleme yapan tilki
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = zıplayan tilki
 
 ## legal-notice-label-subs-services - CMS Entry
 

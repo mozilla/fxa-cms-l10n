@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Επιβεβαίωση του λογαριασμού σ�
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Επιβεβαιώστε τον λογαριασμό σας για να συνδεθείτε στο Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Εγγραφή ή σύνδεση
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = μια αλεπού που κάνει άλμα
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Εισαγάγετε τον κωδικό πρόσβα
 fxa-description-87881780 = Εισαγάγετε τον κωδικό επιβεβαίωσης για τον λογαριασμό Mozilla σας
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Απομένει μόνο ένα βήμα ακόμη. Εισαγάγετε τον κωδικό από το email σας για να ενεργοποιήσετε τον λογαριασμό Mozilla σας.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Εγγραφή ή σύνδεση
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Βοηθήστε μας να προστατέψουμε τον λογαριασμό σας εγκρίνοντας τη σύνδεσή σας στο:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Απομένει ένα ακόμη βήμα για ν
 fxa-description-861f2d28 = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασης, των καρτελών και των σελιδοδεικτών σας, ώστε να προετοιμαστείτε για τη μετάβαση σε νέα συσκευή.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = συγχρονισμός με μια αλεπού
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = μια αλεπού που κάνει άλμα
 
 ## legal-notice-label-subs-services - CMS Entry
 

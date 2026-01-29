@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Potrdite račun
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Potrdite račun za prijavo v Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Registracija ali prijava
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = skakajoča lisica
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Vnesite geslo za nadaljevanje v račun Mozilla
 fxa-description-87881780 = Vnesite potrditveno kodo za svoj račun Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Samo en hiter korak. Vnesite kodo iz e-poštnega naslova za aktiviranje vašega Mozillinega računa.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registracija ali prijava
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobrite prijavo na naslednji napravi:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Še en korak več do ugodnosti Firefox VPN. Pojdite n
 fxa-description-861f2d28 = Varnostno kopirajte gesla, zavihke in zaznamke, da boste pripravljeni na novo napravo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = lisica in sinhronizacija
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = skakajoča lisica
 
 ## legal-notice-label-subs-services - CMS Entry
 

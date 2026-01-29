@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = 确认您的账户
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = 注册或登录
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = 狐狸跳跃
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = 输入密码以继续使用您的 Mozilla 账户
 fxa-description-87881780 = 输入 Mozilla 账户的确认码
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 只差一小步了。请输入邮件中的验证码，激活您的 Mozilla 账户。
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = 注册或登录
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 请确认您的登录活动，以确保账户安全：
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = 再进一步享受 Firefox VPN 的好处。前往打�
 fxa-description-861f2d28 = 备份密码、标签页、书签，从容换用新设备。
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = 狐狸同步
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = 狐狸跳跃
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Wobkšuśćo swójo konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Wobkšuśćo swójo konto, aby se pla Firefox pśizjawił
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = skokajuca liška
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Zapódajśo gronidło, aby k swójomu kontoju Mozilla
 fxa-description-87881780 = Zapódajśo wobkšuśeński kod za swójo konto Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jano jaden malsny kšac. Zapódajśo kod ze swójeje mejlki, aby swójo konto Mozilla aktiwěrował.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Dalšny kšac za dostawanje lěpšynow Firefox VPN. P
 fxa-description-861f2d28 = Zawěsććo swóje gronidła, rejtariki a cytańske znamjenja, aby za nowy rěd gótowy był.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizacija z lišku
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = skokajuca liška
 
 ## legal-notice-label-subs-services - CMS Entry
 

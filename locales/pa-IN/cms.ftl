@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -132,6 +132,13 @@ fxa-headline-ef1fb997 = ਖਾਤੇ ਦੀ ਤਸਦੀਕ
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਨ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -142,8 +149,6 @@ fxa-emailFromName-502f1bd9 = Mozilla
 fxa-description-1d4ba9f5 = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਦਿਓ
 # Description for Signin Token Code Page
 fxa-description-87881780 = ਆਪਣੇ Mozilla ਖਾਤੇ ਲਈ ਤਸਦੀਕੀਕਰਨ ਕੋਡ ਦਿਓ
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਵਾਸਤੇ ਆਪਣੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਇਸ ਤੋਂ ਮਨਜ਼ੂਰ ਕਰੋ:
 # Description for Verify Short Code Email
@@ -208,11 +213,6 @@ fxa-headline-6aca2436 = Mozilla ਖਾਤੇ ਨਾਲ ਆਪਣੇ ਮੁਫ਼
 fxa-description-861f2d28 = ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਜਾਣ ਲਈ ਤਿਆਰੀ ਵਾਸਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਟੈਬਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਬੈਕਅੱਪ ਲੈ ਲਵੋ।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ਸਿੰਕ ਕਰਨਾ ਲੂੰਬੜ
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
 
 ## legal-notice-label-subs-services - CMS Entry
 
