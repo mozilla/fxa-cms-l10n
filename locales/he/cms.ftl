@@ -149,6 +149,8 @@ fxa-logoAltText-17aa6423 = דפדפן Firefox
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = בואו נתחיל לסנכרן את הנתונים שלך עם חשבון Mozilla. כבר יש לך אחד? אנחנו נמצא אותו.
 # Headline for Email First Page
 fxa-headline-a20eb81e = הרשמה או התחברות
 # Logo Alt Text for Email First Page
