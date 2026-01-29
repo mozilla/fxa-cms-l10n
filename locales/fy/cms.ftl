@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Befêstigje jo account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Registrearje of oanmelde
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = springende fokse
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Fier jo wachtwurd yn om troch te gean nei jo Mozilla-
 fxa-description-87881780 = Fier befêstigingskoade foar jo Mozilla-account yn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Noch ien flugge stap. Fier de koade út jo e-mailberjocht yn om jo Mozilla-account te aktivearjen.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registrearje of oanmelde
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Help ús jo account feilich te hâlden troch jo oanmelding goed te karren op:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Noch ien stap om de foardielen fan Firefox VPN te ûn
 fxa-description-861f2d28 = Meitsje in reservekopy fan jo wachtwurden, ljepblêden en blêdwizers, sadat jo klear binne foar in nij apparaat.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = foks-syngronisaasje
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = springende fokse
 
 ## legal-notice-label-subs-services - CMS Entry
 

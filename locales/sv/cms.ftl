@@ -1,4 +1,4 @@
-### Generated on 2026-01-21T23:06:34.136Z
+### Generated on 2026-01-29T22:32:17.477Z
 ### FTL file for CMS localization
 
 
@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Bekräfta ditt konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Bekräfta ditt konto för att logga in till Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-a20eb81e = Registrera dig eller logga in
+# Logo Alt Text for Email First Page
+fxa-logoAltText-c4b14a5b = Hoppande räv
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -152,8 +159,6 @@ fxa-description-1d4ba9f5 = Ange lösenordet för att fortsätta till ditt Mozill
 fxa-description-87881780 = Ange bekräftelsekoden för ditt Mozilla-konto
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara ett steg kvar. Ange koden från ditt mejl för att aktivera ditt Mozilla-konto.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registrera dig eller logga in
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjälp oss att hålla ditt konto säkert genom att godkänna din inloggning på:
 # Description for Verify Short Code Email
@@ -224,11 +229,6 @@ fxa-description-811350a6 = Ytterligare ett steg för att få tillgång till för
 fxa-description-861f2d28 = Säkerhetskopiera dina lösenord, flikar och bokmärken så att du är redo för en ny enhet.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Synkronisera med räven
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Email First Page
-fxa-logoAltText-c4b14a5b = Hoppande räv
 
 ## legal-notice-label-subs-services - CMS Entry
 
