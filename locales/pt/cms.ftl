@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Confirmar a sua conta
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirme a sua conta para iniciar sessão no Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Inicie sessão e sincronize com a sua conta Mozilla. Se não tiver uma, leva apenas um segundo para a criar.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Use o seu email para continuar
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Navegador Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Comece a sincronizar os seus dados com uma conta Mozilla. Já tem um? Nós iremos encontrá-lo.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Criar conta ou iniciar sessão
 # Logo Alt Text for Email First Page
