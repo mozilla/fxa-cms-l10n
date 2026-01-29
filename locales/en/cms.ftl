@@ -1,4 +1,4 @@
-### Generated on 2026-01-29T18:02:36.800Z
+### Generated on 2026-01-29T22:23:55.352Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -132,6 +132,12 @@ fxa-description-f8578b7c = Use the included code to confirm your Mozilla account
 fxa-headline-ef1fb997 = Confirm your account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
+
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+# Description for Email First Page
+fxa-description-94ae34c2 = Sign in sync with your Mozilla account. If you don’t have one, it only takes a sec to create it.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Use your email to continue
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
