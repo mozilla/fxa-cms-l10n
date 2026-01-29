@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = אימות החשבון שלך
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Headline for Email First Page
+fxa-headline-a4b1427f = יש להשתמש בדוא״ל שלך כדי להמשיך
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = דפדפן Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page
