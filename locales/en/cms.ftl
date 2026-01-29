@@ -1,4 +1,4 @@
-### Generated on 2026-01-29T22:23:55.352Z
+### Generated on 2026-01-29T22:25:42.982Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -138,6 +138,8 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 fxa-description-94ae34c2 = Sign in sync with your Mozilla account. If you don’t have one, it only takes a sec to create it.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Use your email to continue
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox Browser
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
