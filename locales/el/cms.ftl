@@ -143,7 +143,7 @@ fxa-subject-10e5b452 = Επιβεβαιώστε τον λογαριασμό σα
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-94ae34c2 = Συνδεθείτε συγχρονισμένοι με τον λογαριασμό Mozilla σας. Αν δεν έχετε ήδη ένα, χρειάζεται μόνο ένα δευτερόλεπτο για να το δημιουργήσετε.
+fxa-description-94ae34c2 = Συνδεθείτε στον συγχρονισμό με τον λογαριασμό Mozilla σας. Εάν δεν διαθέτετε ήδη έναν, μπορείτε να τον δημιουργήσετε μέσα σε λίγα μόνο λεπτά.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Χρησιμοποιήστε το email σας για να συνεχίσετε
 # Logo Alt Text for Email First Page
@@ -152,7 +152,7 @@ fxa-logoAltText-17aa6423 = Πρόγραμμα περιήγησης Firefox
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Ξεκινήστε τον συγχρονισμό των δεδομένων σας με έναν λογαριασμό Mozilla. Έχετε ήδη ένα; Θα το βρούμε.
+fxa-description-a0166dfc = Ξεκινήστε τον συγχρονισμό των δεδομένων σας με έναν λογαριασμό Mozilla. Διαθέτετε ήδη έναν; Θα τον βρούμε.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Εγγραφή ή σύνδεση
 # Logo Alt Text for Email First Page
