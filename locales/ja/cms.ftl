@@ -158,6 +158,8 @@ fxa-logoAltText-c4b14a5b = 跳ねる狐
 fxa-description-0a9e868b = Firefox への新しいログイン
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Mozilla アカウントの確認コードを入力してください
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = たった １ つの簡単なステップ。メールに転送されたコードを入力して、Mozilla アカウントを有効にしてください。
 # Description for Verify Login Code Email

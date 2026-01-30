@@ -142,11 +142,15 @@ fxa-subject-10e5b452 = Confirma tu conto pro acceder a Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Headline for Email First Page
+fxa-headline-a4b1427f = Usa tu adresse de e-mail pro continuar
 # Logo Alt Text for Email First Page
 fxa-logoAltText-17aa6423 = Navigator Firefox
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Initia synchronisar tu datos con un conto Mozilla. Ha tu jam ha un? Nos lo trovara.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Inscribe te o accede
 # Logo Alt Text for Email First Page

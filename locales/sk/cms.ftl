@@ -140,6 +140,11 @@ fxa-headline-ef1fb997 = Potvrďte svoj účet
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Potvrďte svoj účet pre prihlásenie do Firefoxu
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-edee250c = Prihláste sa a synchronizujte s vaším účtom Mozilla. Ak ho nemáte, jeho vytvorenie trvá iba sekundu.
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page
