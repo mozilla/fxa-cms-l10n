@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Wobkrućće swoje konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Wobkrućće swoje konto, zo byšće so pola Firefox přizjewił
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Přizjewće so za synchronizaciju ze swojim kontom Mozilla. Jeli konto nimaće, traje jenož sekundu, zo byšće jo załožił.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Wužiwajće swoju e-mejlowu adresu, zo byšće pokročował
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Wobhladowak Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Započńće swoje daty za kontom Mozilla synchronizować. Maće hižo konto? Namakamy jo.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrować abo přizjewić
 # Logo Alt Text for Email First Page
