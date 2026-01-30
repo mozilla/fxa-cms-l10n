@@ -140,6 +140,11 @@ fxa-headline-ef1fb997 = Emoneĩ ne mba’ete
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox kundaha
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page
