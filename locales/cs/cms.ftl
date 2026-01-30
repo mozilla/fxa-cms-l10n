@@ -17,9 +17,9 @@ fxa-headline-7315250e = K přihlášení byl použit účet Mozilla
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nové přihlášení k Firefoxu
 # Page Title for Shared
-fxa-pageTitle-ffd8275e = Nastavte si synchronizaci s Firefoxem
+fxa-pageTitle-ffd8275e = Nastavení synchronizace Firefoxu
 # Description for Signin Page
-fxa-description-aedac88d = Synchronizujte svá hesla všude, kde jste přihlášeni.
+fxa-description-aedac88d = Synchronizujte hesla a další data všude, kde jste přihlášeni.
 # Headline for Signin Page
 fxa-headline-e8d28194 = Zadání hesla
 # Primary Button Text for Signin Page
@@ -35,7 +35,7 @@ fxa-primaryButtonText-a0bfb8e5 = Pokračovat
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Pomozte nám ujistit se, že jste to vy, kdo si vytváří účet.
 # Primary Button Text for Signup Confirm Code Page
-fxa-primaryButtonText-e4029ca4 = Spustit synchronizaci
+fxa-primaryButtonText-e4029ca4 = Zahájit synchronizaci
 # Description for Signup Confirmed Sync Page
 fxa-description-2115ee89 = Vaše hesla, platební metody, adresy, záložky, historie a další věci se mohou synchronizovat všude, kde používáte Firefox.
 # Headline for Signup Confirmed Sync Page
@@ -120,7 +120,7 @@ fxa-description-637f76bf = Vytvořte si účet nebo se přihlaste, pokud jej má
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Vyzkoušejte Firefox VPN s účtem Mozilla
 # Description for New Device Login Email
-fxa-description-e59dc09c = Došlo k novému přihlášení k vašemu účtu Mozilla. Pokud to nejste vy, změňte si prosím své heslo.
+fxa-description-e59dc09c = Došlo k novému přihlášení do vašeho účtu Mozilla. Pokud to nejste vy, změňte si prosím své heslo.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nové přihlášení k Firefoxu
 # Page Title for Shared

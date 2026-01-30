@@ -142,6 +142,8 @@ fxa-subject-10e5b452 = Stadfest kontoen din for å logge på Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Headline for Email First Page
+fxa-headline-a4b1427f = Bruk e-postadressa di for å halde fram
 # Logo Alt Text for Email First Page
 fxa-logoAltText-17aa6423 = Nettlesaren Firefox
 
