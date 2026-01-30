@@ -140,6 +140,11 @@ fxa-headline-ef1fb997 = Confirma tu conto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirma tu conto pro acceder a Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Navigator Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page
