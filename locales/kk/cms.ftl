@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Тіркелгіңізді растаңыз
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox-қа кіру үшін тіркелгіңізді растаңыз
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Mozilla тіркелгіңізбен синхрондаңыз. Егер сізде тіркелгі болмаса, оны жасау үшін бір секунд қана қажет.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Жалғастыру үшін электрондық поштаңызды пайдаланыңыз
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox браузері
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Деректеріңізді Mozilla тіркелгісімен синхрондауды бастаңыз. Ол сізде бар ма? Біз оны табамыз.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
 # Logo Alt Text for Email First Page
