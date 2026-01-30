@@ -140,6 +140,11 @@ fxa-headline-ef1fb997 = アカウントを確認してください
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox にログインするには Mozilla アカウントを確認してください
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox ブラウザー
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page
@@ -223,3 +228,8 @@ fxa-description-811350a6 = Firefox VPN を利用するためのステップは�
 fxa-description-861f2d28 = パスワード、ブックマーク、タブなどをバックアップしておけば、いつでも新しい端末に移行できます。
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = 狐と同期
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Mozilla サブスクリプションサービス
