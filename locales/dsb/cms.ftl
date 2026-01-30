@@ -151,6 +151,8 @@ fxa-logoAltText-17aa6423 = Wobglědowak Firefox
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Zachopśo swóje daty za kontom Mozilla synchronizěrowaś. Maśo južo konto? Namakajomy jo.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
 # Logo Alt Text for Email First Page
