@@ -142,6 +142,8 @@ fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = Mozilla hesabınızla eşitlemek için giriş yapın. Hesabınız yoksa oluşturulması yalnızca birkaç saniye sürer.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Devam etmek için e-postanızı kullanın
 # Logo Alt Text for Email First Page

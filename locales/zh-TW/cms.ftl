@@ -142,6 +142,8 @@ fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = 登入後即可與您的 Mozilla 帳號同步。若您還沒有也只要花幾秒鐘即可建立。
 # Headline for Email First Page
 fxa-headline-a4b1427f = 使用您的電子郵件地址繼續
 # Logo Alt Text for Email First Page

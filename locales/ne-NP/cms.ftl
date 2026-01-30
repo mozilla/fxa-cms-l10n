@@ -142,6 +142,8 @@ fxa-subject-10e5b452 = Firefox मा साइन इन गर्न आफ्
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = आफ्नो मोजिला खातासँग समक्रमण गर्न साइन इन गर्नुहोस्। यदि तपाइँसँग छैन भने, यसले यसलाई सिर्जना गर्न एक सेकेन्ड मात्र लिन्छ।
 # Headline for Email First Page
 fxa-headline-a4b1427f = जारी राख्न आफ्नो इमेल प्रयोग गर्नुहोस्
 # Logo Alt Text for Email First Page
