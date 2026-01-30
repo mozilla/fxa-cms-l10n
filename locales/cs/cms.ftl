@@ -13,7 +13,7 @@ fxa-primaryButtonText-a20eb81e = Přihlásit nebo registrovat
 # Description for New Device Login Email
 fxa-description-a0671d4a = Došlo k novému přihlášení do vašeho účtu Mozilla:
 # Headline for New Device Login Email
-fxa-headline-7315250e = K přihlášení byl použit účet Mozilla
+fxa-headline-7315250e = K přihlášení byl použit váš účet Mozilla
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nové přihlášení k Firefoxu
 # Page Title for Shared
@@ -79,7 +79,7 @@ fxa-logoAltText-b9228cb5 = liška
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Začít
 # Headline for New Device Login Email
-fxa-headline-d0511570 = Pro přihlášení byl použit účet Mozilla.
+fxa-headline-d0511570 = K přihlášení byl použit váš účet Mozilla
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Description for Signin Page
@@ -186,11 +186,11 @@ fxa-description-4766f222 = K používání Mozilla Monitor je potřeba účet Mo
 # Headline for Email First Page
 fxa-headline-de41db80 = Zaregistrujte se nebo se přihlaste ke svému účtu Mozilla
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Došlo k novému přihlášení k Mozilla Monitoru. Pokud to nejste vy, změňte si prosím své heslo.
+fxa-description-4e3d5811 = Došlo k novému přihlášení do služby Mozilla Monitor. Pokud to nejste vy, změňte si prosím své heslo.
 # Headline for New Device Login Email
-fxa-headline-207efcd9 = Nové přihlášení ke službě Mozilla Monitor
+fxa-headline-207efcd9 = Nové přihlášení do služby Mozilla Monitor
 # Subject for New Device Login Email
-fxa-subject-207efcd9 = Nové přihlášení ke službě Mozilla Monitor
+fxa-subject-207efcd9 = Nové přihlášení do služby Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
