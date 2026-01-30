@@ -11,9 +11,9 @@ fxa-headline-33e9f42d = Pokračovat na účet Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Přihlásit nebo registrovat
 # Description for New Device Login Email
-fxa-description-a0671d4a = Došlo k novému přihlášení k vašemu účtu Mozilla:
+fxa-description-a0671d4a = Došlo k novému přihlášení do vašeho účtu Mozilla:
 # Headline for New Device Login Email
-fxa-headline-7315250e = Pro přihlášení byl použit účet Mozilla
+fxa-headline-7315250e = K přihlášení byl použit účet Mozilla
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nové přihlášení k Firefoxu
 # Page Title for Shared
