@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Xác minh tài khoản của bạn
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Xác minh tài khoản của bạn để đăng nhập vào Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Đăng nhập đồng bộ hoá với tài khoản Mozilla của bạn. Nếu bạn chưa có tài khoản, chỉ mất vài giây để tạo.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Sử dụng email của bạn để tiếp tục
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Trình duyệt Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Hãy bắt đầu đồng bộ hóa dữ liệu của bạn với tài khoản Mozilla. Bạn đã có tài khoản? Chúng tôi sẽ giúp bạn tìm nó.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Đăng ký hoặc đăng nhập
 # Logo Alt Text for Email First Page
