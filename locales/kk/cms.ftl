@@ -142,6 +142,8 @@ fxa-subject-10e5b452 = Firefox-қа кіру үшін тіркелгіңізді
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = Mozilla тіркелгіңізбен синхрондау үшін кіріңіз. Егер сізде тіркелгі болмаса, оны жасау үшін бір секунд қана қажет.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Жалғастыру үшін электрондық поштаңызды пайдаланыңыз
 # Logo Alt Text for Email First Page

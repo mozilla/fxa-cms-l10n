@@ -144,9 +144,15 @@ fxa-subject-10e5b452 = Potvrďte svoj účet pre prihlásenie do Firefoxu
 
 # Description for Email First Page
 fxa-description-edee250c = Prihláste sa a synchronizujte s vaším účtom Mozilla. Ak ho nemáte, jeho vytvorenie trvá iba sekundu.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Ak chcete pokračovať, použite svoj e‑mail
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Prehliadač Firefox
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Spustite synchronizáciu údajov s účtom Mozilla. Už ho máte? Nájdeme ho.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Zaregistrujte sa alebo sa prihláste
 # Logo Alt Text for Email First Page
