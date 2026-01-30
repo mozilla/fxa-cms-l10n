@@ -152,7 +152,7 @@ fxa-logoAltText-17aa6423 = Firefox-Browser
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Beginnen Sie mit dem Synchronisieren Ihrer Daten mit einem Mozilla-Konto. Haben Sie schon eines? Wir finden ihn.
+fxa-description-a0166dfc = Beginnen Sie mit dem Synchronisieren Ihrer Daten mit einem Mozilla-Konto. Haben Sie schon eins? Wir finden es.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Anmelden oder registrieren
 # Logo Alt Text for Email First Page
