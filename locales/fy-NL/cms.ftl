@@ -140,6 +140,15 @@ fxa-headline-ef1fb997 = Befêstigje jo account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-94ae34c2 = Meld jo oan syngronisearre mei jo Mozilla-account. As jo der noch gjin hawwe, duorret it mar in pear sekonden om oan te meitsjen.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Brûk jo e-mailadres om troch te gean
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox-browser
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page
