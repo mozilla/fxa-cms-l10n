@@ -143,7 +143,7 @@ fxa-subject-10e5b452 = Bekräfta ditt konto för att logga in till Firefox
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-94ae34c2 = Logga in synk med ditt Mozilla-konto. Om du inte har en tar det bara en sekund att skapa den.
+fxa-description-94ae34c2 = Logga in för att synkronisera med ditt Mozilla-konto. Om du inte har ett tar det bara en sekund att skapa det.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Använd din e-postadress för att fortsätta
 # Logo Alt Text for Email First Page
@@ -152,7 +152,7 @@ fxa-logoAltText-17aa6423 = Webbläsaren Firefox
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Börja synkronisera din data med ett Mozilla-konto. Har du redan en? Vi hittar den.
+fxa-description-a0166dfc = Börja synkronisera din data med ett Mozilla-konto. Har du redan ett? Vi hittar det.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrera dig eller logga in
 # Logo Alt Text for Email First Page
