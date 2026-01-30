@@ -1,4 +1,4 @@
-### Generated on 2026-01-29T22:32:17.477Z
+### Generated on 2026-01-30T17:27:07.664Z
 ### FTL file for CMS localization
 
 
@@ -142,8 +142,6 @@ fxa-subject-10e5b452 = დაადასტურეთ თქვენი ა�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-94ae34c2 = შედით სინქრონიზაციისთვის Mozilla-ს ანგარიშით. თუ თქვენ არ გაქვთ, მის შექმნას მხოლოდ წამი სჭირდება.
 # Headline for Email First Page
 fxa-headline-a4b1427f = გასაგრძელებლად გამოიყენეთ თქვენი ელფოსტა
 # Logo Alt Text for Email First Page

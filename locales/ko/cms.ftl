@@ -1,4 +1,4 @@
-### Generated on 2026-01-29T22:32:17.477Z
+### Generated on 2026-01-30T17:27:07.664Z
 ### FTL file for CMS localization
 
 
@@ -142,8 +142,6 @@ fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-94ae34c2 = Mozilla 계정으로 로그인합니다. 계정이 없더라도 몇 초밖에 걸리지 않습니다.
 # Headline for Email First Page
 fxa-headline-a4b1427f = 계속하려면 이메일을 사용하세요.
 # Logo Alt Text for Email First Page

@@ -1,4 +1,4 @@
-### Generated on 2026-01-29T22:32:17.477Z
+### Generated on 2026-01-30T17:27:07.664Z
 ### FTL file for CMS localization
 
 
@@ -142,8 +142,6 @@ fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-94ae34c2 = 使用您的 Mozilla 账户同步登录。如果您没有也只需几秒钟的时间来创建它。
 # Headline for Email First Page
 fxa-headline-a4b1427f = 输入邮箱地址以继续
 # Logo Alt Text for Email First Page
