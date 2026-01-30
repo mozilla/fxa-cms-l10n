@@ -142,6 +142,8 @@ fxa-subject-10e5b452 = Confirme a sua conta para iniciar sessão no Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = Inicie sessão para sincronizar com a sua conta Mozilla. Se não tiver uma, leva apenas um segundo para a criar.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Use o seu email para continuar
 # Logo Alt Text for Email First Page
