@@ -145,9 +145,9 @@ fxa-subject-10e5b452 = Подтвердите свой аккаунт для в�
 # Description for Email First Page
 fxa-description-edee250c = Войдите для синхронизации со своим аккаунтом Mozilla. Если у вас его нет, это займет всего секунду, чтобы его создать.
 # Headline for Email First Page
-fxa-headline-a4b1427f = Используйте свою электронную почту для продолжения
+fxa-headline-a4b1427f = Используйте свою эл. почту для продолжения
 # Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = браузер Firefox
+fxa-logoAltText-17aa6423 = Браузер Firefox
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
