@@ -142,6 +142,8 @@ fxa-subject-10e5b452 = Bekräfta ditt konto för att logga in till Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = Logga in med ditt Mozilla-konto för att synkronisera. Om du inte redan har ett går det snabbt och enkelt att skapa ett.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Använd din e-postadress för att fortsätta
 # Logo Alt Text for Email First Page
