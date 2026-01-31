@@ -20,10 +20,16 @@ fxa-primaryButtonText-70d9be9b = បញ្ជាក់
 fxa-primaryButtonText-a0bfb8e5 = បន្ត
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = ចាប់ផ្តើមធ្វើសមកាលកម្ម
+# Headline for Signup Confirmed Sync Page
+fxa-headline-3ed2d228 = ការធ្វើសមកាលកម្មត្រូវបានបើក
+# Primary Button Text for Signup Confirmed Sync Page
+fxa-primaryButtonText-598649e6 = បន្ថែមឧបករណ៍មួយផ្សេងទៀត
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = បង្កើតពាក្យសម្ងាត់
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = បង្កើតគណនី
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = បញ្ជាក់គណនីរបស់អ្នក
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
