@@ -142,11 +142,17 @@ fxa-subject-10e5b452 = Firefox にログインするには Mozilla アカウン�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = Mozilla アカウントと同期するためにログインしてください。アカウントをお持ちでない場合は、すぐに作成できます。
+# Headline for Email First Page
+fxa-headline-a4b1427f = メールアドレスを入力してください
 # Logo Alt Text for Email First Page
 fxa-logoAltText-17aa6423 = Firefox ブラウザー
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Mozilla アカウントでデータの同期を開始しましょう。アカウントをお持ちですか？こちらで確認します。
 # Headline for Email First Page
 fxa-headline-a20eb81e = ログインまたはアカウント登録
 # Logo Alt Text for Email First Page
@@ -158,6 +164,8 @@ fxa-logoAltText-c4b14a5b = 跳ねる狐
 fxa-description-0a9e868b = Firefox への新しいログイン
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signin Page
+fxa-description-1d4ba9f5 = パスワードを入力して Mozilla アカウントへ進みます
 # Description for Signin Token Code Page
 fxa-description-87881780 = Mozilla アカウントの確認コードを入力してください
 # Description for Signup Confirm Code Page
@@ -193,6 +201,8 @@ fxa-logoAltText-ccc1a61b = Mozilla Monitor のロゴ
 fxa-pageTitle-924eac9f = Mozilla Monitor のセットアップ
 # Description for Signin Page
 fxa-description-ab270ce7 = Mozilla Monitor を利用するには Mozilla アカウントにログインしてください。
+# Headline for Signup Confirmed Sync Page
+fxa-headline-74db8403 = 同期を確認しました
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = スキャンを開始するためのパスワードを作成
 # Headline for Verify Login Code Email
