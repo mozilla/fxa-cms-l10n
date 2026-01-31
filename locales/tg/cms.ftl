@@ -140,6 +140,13 @@ fxa-headline-ef1fb997 = Ҳисоби худро тасдиқ кунед
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Барои ворид шудан ба «Firefox», ҳисоби худро тасдиқ кунед
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Headline for Email First Page
+fxa-headline-a4b1427f = Барои идома додан, лутфан, аз почтаи электронии худ истифода баред
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Браузери «Firefox»
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page
