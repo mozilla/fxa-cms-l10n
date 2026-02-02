@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Confirmă-ți contul
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirmă-ți contul pentru autentificare în Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-edee250c = Intră în cont ca să te sincronizezi cu contul Mozilla. Dacă nu ai cont, îți poți face unul într-o secundă.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Folosește-ți adresa de e-mail ca să continui
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Browserul Firefox
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Începe să-ți sincronizezi datele cu un cont Mozilla. Ai deja unul? Îl găsim noi.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
 # Logo Alt Text for Email First Page
@@ -229,3 +240,8 @@ fxa-description-811350a6 = Încă un pas pentru a obține beneficiile VPN Firefo
 fxa-description-861f2d28 = Fă-ți copii de rezervă cu parolele, filele și marcajele ca să fii gata să treci pe alt dispozitiv.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronizare
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Servicii de abonare Mozilla
