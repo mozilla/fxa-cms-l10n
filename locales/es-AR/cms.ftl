@@ -57,7 +57,7 @@ fxa-subject-450ba359 = Aprobar inicio de sesión en Firefox
 # Description for Verify Short Code Email
 fxa-description-d28733a3 = Confirmá tu cuenta y aprovechá Mozilla al máximo cada vez que iniciás una sesión con:
 # Headline for Verify Short Code Email
-fxa-headline-f827216f = Abra internet con Mozilla
+fxa-headline-f827216f = Abrí internet con Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirmá tu cuenta
 
@@ -75,7 +75,7 @@ fxa-description-0d2e3341 = Hacé una copia de seguridad de tus contraseñas, mar
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Hacer una copia de seguridad con una cuenta de Mozilla
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = fox backup
+fxa-logoAltText-b9228cb5 = zorro backup
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Comenzar
 # Headline for New Device Login Email
