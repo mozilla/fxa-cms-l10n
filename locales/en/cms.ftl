@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:26:12.332Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -148,6 +148,8 @@ fxa-description-a0166dfc = Start syncing your data with a Mozilla account. Alrea
 fxa-headline-a20eb81e = Sign up or sign in
 # Logo Alt Text for Email First Page
 fxa-logoAltText-c4b14a5b = fox jumping
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
