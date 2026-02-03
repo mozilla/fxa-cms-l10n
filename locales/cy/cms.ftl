@@ -143,7 +143,7 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-edee250c = Mewngofnodwch i gysoni â'ch cyfrif Mozilla. Os nad oes gennych chi un, dim ond eiliad mae'n ei gymryd i'w greu.
+fxa-description-edee250c = Mewngofnodwch i gydweddu â'ch cyfrif Mozilla. Os nad oes gennych chi un, dim ond eiliad mae'n ei gymryd i'w greu.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Defnyddiwch eich e-bost i barhau
 # Logo Alt Text for Email First Page
