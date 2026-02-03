@@ -142,6 +142,10 @@ fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = Eike embojuehe hag̃ua ne mba’ete Mozilla-pegua. Ndererekóiramo gueteri, sapy’aitépe emoheñoikuaa.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Eiporu ñanduti veve eku’e jey hag̃ua
 # Logo Alt Text for Email First Page
 fxa-logoAltText-17aa6423 = Firefox kundaha
 
@@ -234,3 +238,8 @@ fxa-description-811350a6 = Peteĩ jeku’eve eiporu porãve hag̃ua Firefox VPN.
 fxa-description-861f2d28 = Eñongatu jey ne ñe’ẽñemi, tendayke ha techaukaha ehasa hag̃ua mba’e’oka pyahúpe.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Aguara ñembojuehe
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Mozilla-pe ñemboheraguapyrã
