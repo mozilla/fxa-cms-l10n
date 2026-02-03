@@ -151,6 +151,8 @@ fxa-logoAltText-17aa6423 = Firefox kundaha
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Eñepyrũ embojuehe ne mba’ekuaarã Mozilla-pegua mba’ete ndive. ¿Erekóma? Jajuhúta.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Eñemboheraguapy térã eike
 # Logo Alt Text for Signup Set Password Page
