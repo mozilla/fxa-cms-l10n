@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Firefox Browser
 fxa-description-a0166dfc = Dechreuwch gydweddu'ch data â chyfrif Mozilla. Oes gennych chi un yn barod? Byddwn yn dod o hyd iddo.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Cofrestrwch neu fewngofnodi
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = llwynog yn neidio
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

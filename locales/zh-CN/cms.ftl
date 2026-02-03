@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Firefox 浏览器
 fxa-description-a0166dfc = 开始与 Mozilla 账户同步您的数据。已经有了我们会找到的。
 # Headline for Email First Page
 fxa-headline-a20eb81e = 注册或登录
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 狐狸跳跃
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

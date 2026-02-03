@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Firefox ब्राउजर
 fxa-description-a0166dfc = मोजिला खातासँग आफ्नो डाटा सिङ्क गर्न सुरु गर्नुहोस् । के पहिले नै एउटा छ? हामी त्यो फेला पार्नेछौं ।
 # Headline for Email First Page
 fxa-headline-a20eb81e = साइन अप वा साइन इन गर्नुहोस्
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = स्याल जम्प गर्दै
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

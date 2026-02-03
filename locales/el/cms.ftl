@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Πρόγραμμα περιήγησης Firefox
 fxa-description-a0166dfc = Ξεκινήστε τον συγχρονισμό των δεδομένων σας με έναν λογαριασμό Mozilla. Διαθέτετε ήδη έναν; Θα τον βρούμε.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Εγγραφή ή σύνδεση
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = μια αλεπού που κάνει άλμα
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

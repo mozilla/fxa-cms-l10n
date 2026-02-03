@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -144,7 +144,7 @@ fxa-subject-10e5b452 = Bekræft din konto for at logge ind på Firefox
 
 # Headline for Email First Page
 fxa-headline-a20eb81e = Tilmeld dig eller log ind
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ræv springer
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

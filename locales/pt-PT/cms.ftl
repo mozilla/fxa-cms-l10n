@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Navegador Firefox
 fxa-description-a0166dfc = Comece a sincronizar os seus dados com uma conta Mozilla. Já tem um? Nós iremos encontrá-lo.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Criar conta ou iniciar sessão
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = salto da raposa
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

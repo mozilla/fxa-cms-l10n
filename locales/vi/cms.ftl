@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Trình duyệt Firefox
 fxa-description-a0166dfc = Hãy bắt đầu đồng bộ hóa dữ liệu của bạn với tài khoản Mozilla. Bạn đã có tài khoản? Chúng tôi sẽ giúp bạn tìm nó.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Đăng ký hoặc đăng nhập
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox nhảy
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

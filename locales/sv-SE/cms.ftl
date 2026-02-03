@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Webbläsaren Firefox
 fxa-description-a0166dfc = Börja synkronisera din data med ett Mozilla-konto. Har du redan ett? Vi hittar det.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrera dig eller logga in
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Hoppande räv
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

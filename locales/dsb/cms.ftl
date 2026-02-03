@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Wobglědowak Firefox
 fxa-description-a0166dfc = Zachopśo swóje daty za kontom Mozilla synchronizěrowaś. Maśo južo konto? Namakajomy jo.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skokajuca liška
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

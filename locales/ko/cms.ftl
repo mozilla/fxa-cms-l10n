@@ -1,4 +1,4 @@
-### Generated on 2026-01-30T17:27:07.664Z
+### Generated on 2026-02-02T21:51:29.146Z
 ### FTL file for CMS localization
 
 
@@ -155,7 +155,7 @@ fxa-logoAltText-17aa6423 = Firefox 브라우저
 fxa-description-a0166dfc = Mozilla 계정으로 데이터 동기화를 시작하세요. 이미 계정이 있으신가요? 찾아드립니다.
 # Headline for Email First Page
 fxa-headline-a20eb81e = 가입 또는 로그인
-# Logo Alt Text for Email First Page
+# Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Fox jumping
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
