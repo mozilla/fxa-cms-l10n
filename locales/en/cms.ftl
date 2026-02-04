@@ -1,4 +1,4 @@
-### Generated on 2026-02-04T20:10:39.601Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -176,10 +176,10 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Page
 fxa-description-8286e168 = for your Mozilla account
-# Page Title for Signin Page
-fxa-pageTitle-7631d75e = Sign in to protect your inbox from spam
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Sign up to protect your inbox from spam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = This creates your Mozilla account so you can use and manage email masks.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Create a password to protect your inbox from spam
 # Description for Verify Login Code Email
@@ -189,7 +189,7 @@ fxa-description-e5134d5c = Use the confirmation code below to finish setting up 
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = Confirm your account to use email masks
 # Subject for Verify Short Code Email
-fxa-subject-dbdf5564 = Confirm your Mozilla account to use email masks
+fxa-subject-2322b41f = Confirm your account to use email masks
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
