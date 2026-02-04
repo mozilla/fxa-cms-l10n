@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = 狐狸在跳躍
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = 寄到您的轉寄信箱的郵件將會被轉寄到此信箱。
+# Headline for Email First Page
+fxa-headline-30fd7c55 = 請註冊或登入以保護您的收件匣不受垃圾信騷擾
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = 轉寄信箱
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = 保護您的信箱不受垃圾信騷擾Mozilla 帳號
+# Description for New Device Login Email
+fxa-description-832c10ff = 曾經有一次新的登入紀錄至您的 Mozilla 帳號:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = 您的帳號已用於登入
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = 登入後Firefox 會嘗試將您使用的轉寄信箱轉回給您。
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = 預設值
+# Description for Signin Page
+fxa-description-8286e168 = Mozilla 帳號
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = 註冊即可保護您的信箱不收到垃圾信
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = 這將會建立您的 Mozilla 帳號讓您可以使用與管理轉寄信箱。
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = 設定密碼保護您的信箱不受垃圾信騷擾
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = 請先使用下列授權碼進行登入確認帳號安全。
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = 請使用下方的驗證碼完成帳號設定。
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = 確認您的帳號才能使用轉寄信箱
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = 確認您的帳號才能使用轉寄信箱
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

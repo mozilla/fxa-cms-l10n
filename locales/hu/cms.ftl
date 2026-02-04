@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = ugró róka
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = A maszkokra küldött levelek erre a címre lesznek továbbítva.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Regisztráljon vagy jelentkezzen be, hogy megvédje postaládáját a spamektől
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = e-mail-maszk
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Védje meg a Beérkezett üzenetek mappáját a levélszeméttől | Mozilla fiókok lehetőségre
+# Description for New Device Login Email
+fxa-description-832c10ff = Új bejelentkezés történt a Mozilla-fiókjába:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = A fiókját a bejelentkezéshez használták
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = A Firefox bejelentkezés után e-mail-maszk használatára próbálja visszaküldeni.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = alapértelmezett
+# Description for Signin Page
+fxa-description-8286e168 = a Mozilla fiókjához
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Regisztráljon, hogy megvédje a Beérkezett üzenetek mappáját a spamektől
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Ez létrehozza a Mozilla-fiókját, így használhatja és kezelheti az e-mail-maszkokat.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Hozzon létre egy jelszót, hogy megvédje a postaládáját a levélszeméttől
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Tartsa fiókját biztonságban: jóváhagyja a bejelentkezését az alábbi engedélyezési kóddal.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Használja az alábbi megerősítő kódot a fiókja beállításának befejezéséhez.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatához
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatához
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

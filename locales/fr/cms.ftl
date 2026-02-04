@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = renard en train de sauter
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Les e-mails envoyés à vos alias seront transférés à cette adresse.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Inscrivez-vous ou connectez-vous pour protéger votre boîte de réception du spam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = alias de messagerie
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Protégez votre boîte de réception du spam | comptes Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = Une nouvelle connexion à votre compte Mozilla a été effectuée :
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Votre compte a été utilisé pour se connecter
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox essaiera de vous envoyer à nouveau un alias de messagerie après votre connexion.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = par défaut
+# Description for Signin Page
+fxa-description-8286e168 = pour votre compte Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Inscrivez-vous pour protéger votre boîte de réception du courrier indésirable
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Votre compte Mozilla sera ainsi créé et vous pourrez utiliser et gérer les alias de messagerie.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Créez un mot de passe pour protéger votre boîte de réception du courrier indésirable
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Protégez votre compte en confirmant votre connexion avec le code d’autorisation ci-dessous.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Utilisez le code de confirmation ci-dessous pour terminer la configuration de votre compte.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Confirmez votre compte pour utiliser des alias de messagerie
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Confirmez votre compte pour utiliser des alias de messagerie
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

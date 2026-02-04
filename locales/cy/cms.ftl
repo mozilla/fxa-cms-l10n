@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = llwynog yn neidio
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Bydd e-byst a anfonir at eich masgiau yn cael eu hanfon ymlaen i'r cyfeiriad hwn.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Cofrestrwch neu mewngofnodwch i amddiffyn eich mewnflwch rhag sbam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = enwarall e-bost
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Diogelu'ch mewnflwch rhag sbam | Cyfrifon Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = Roedd mewngofnodi newydd i'ch cyfrif Mozilla:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Defnyddiwyd eich cyfrif i fewngofnodi
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Bydd Firefox yn ceisio eich anfon yn ôl i ddefnyddio mwgwd e-bost ar ôl i chi fewngofnodi.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = rhagosodiad
+# Description for Signin Page
+fxa-description-8286e168 = ar gyfer eich cyfrif Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Cofrestrwch i amddiffyn eich mewnflwch rhag sbam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Mae hyn yn creu eich cyfrif Mozilla er mwyn i chi allu defnyddio a rheoli masgiau e-bost.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Creu cyfrinair i amddiffyn eich mewnflwch rhag sbam
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Cadwch eich cyfrif yn ddiogel trwy gymeradwyo eich mewngofnodi gyda'r cod awdurdodi isod.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Defnyddiwch y cod cadarnhau isod i orffen sefydlu'ch cyfrif.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio masgiau e-bost
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio masgiau e-bost
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

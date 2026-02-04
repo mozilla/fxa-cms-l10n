@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = μια αλεπού που κάνει άλμα
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Τα emails που αποστέλλονται στις μάσκες σας θα προωθούνται σε αυτή τη διεύθυνση.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Εγγραφείτε ή συνδεθείτε για να προστατέψετε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = μάσκα email
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Προστατέψτε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα | Λογαριασμοί Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = Έγινε νέα σύνδεση στον λογαριασμό Mozilla σας:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Ο λογαριασμός σας χρησιμοποιήθηκε για σύνδεση
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Το Firefox θα προσπαθήσει να σας στείλει ξανά για να χρησιμοποιήσετε μια μάσκα email αφού συνδεθείτε.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = προεπιλογή
+# Description for Signin Page
+fxa-description-8286e168 = για τον λογαριασμό Mozilla σας
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Εγγραφείτε για να προστατέψετε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Έτσι, δημιουργείται ο λογαριασμός Mozilla σας, ώστε να μπορείτε να χρησιμοποιείτε και να διαχειρίζεστε τις μάσκες email.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Δημιουργήστε έναν κωδικό πρόσβασης για την προστασία των εισερχομένων σας από ανεπιθύμητα μηνύματα
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Προστατέψτε τον λογαριασμό σας εγκρίνοντας τη σύνδεσή σας με τον παρακάτω κωδικό ταυτοποίησης.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Χρησιμοποιήστε τον παρακάτω κωδικό επιβεβαίωσης για να ολοκληρώσετε τη ρύθμιση του λογαριασμού σας.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Επιβεβαιώστε τον λογαριασμό σας για χρήση των μασκών email
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Επιβεβαιώστε τον λογαριασμό σας για χρήση των μασκών email
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

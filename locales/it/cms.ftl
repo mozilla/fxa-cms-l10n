@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = volpe che salta
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Le email inviate ai tuoi alias verranno inoltrate a questo indirizzo.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Registrati o accedi per proteggere la tua casella di posta dallo spam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = alias di posta elettronica
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Proteggi la tua casella di posta dallo spam | Account Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = È stato effettuato un nuovo accesso al tuo account Mozilla:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Il tuo account è stato utilizzato per accedere
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Dopo aver effettuato l’accesso, Firefox tenterà di rimandare l’utente a utilizzare un alias di posta elettronica.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = predefinito
+# Description for Signin Page
+fxa-description-8286e168 = per il tuo account Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Registrati per proteggere la tua casella di posta dallo spam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Questo crea il tuo account Mozilla in modo da poter utilizzare e gestire gli alias di posta elettronica.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Crea una password per proteggere la tua casella di posta dallo spam
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Mantieni il tuo account al sicuro approvando l’accesso con il codice di autorizzazione riportato di seguito.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Utilizza il seguente codice di conferma per completare la configurazione del tuo account.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Conferma il tuo account per utilizzare gli alias di posta elettronica
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Conferma il tuo account per utilizzare gli alias di posta elettronica
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

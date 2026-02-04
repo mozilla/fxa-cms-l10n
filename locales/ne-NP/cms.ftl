@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = स्याल जम्प गर्दै
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = तपाईँको मास्कहरूमा पठाइएका इमेलहरू यस ठेगानामा फर्वार्ड गरिनेछ ।
+# Headline for Email First Page
+fxa-headline-30fd7c55 = आफ्नो इनबक्सलाई स्प्यामबाट जोगाउन साइन अप वा साइन इन गर्नुहोस्
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = इमेल मास्क
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = आफ्नो इनबक्सलाई स्प्यामबाट सुरक्षित गर्नुहोस् | मोजिला खाताहरू
+# Description for New Device Login Email
+fxa-description-832c10ff = तपाईँको मोजिला खातामा नयाँ साइन इन थियो:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = तपाईंको खाता साइन इन गर्न प्रयोग गरिएको थियो
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox ले तपाईँलाई साइन इन गरेपछि इमेल मास्क प्रयोग गर्न पठाउने प्रयास गर्नेछ।
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = पूर्वनिर्धारित
+# Description for Signin Page
+fxa-description-8286e168 = तपाईँको मोजिला खाताको लागि
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = आफ्नो इनबक्सलाई स्प्यामबाट जोगाउन साइन अप गर्नुहोस्
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = यसले तपाईँको मोजिला खाता सिर्जना गर्छ ताकि तपाईँ इमेल मास्क प्रयोग र व्यवस्थापन गर्न सक्नुहुन्छ।
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = आफ्नो इनबक्सलाई स्प्यामबाट जोगाउन पासवर्ड सिर्जना गर्नुहोस्
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = तलको प्रमाणीकरण कोडको साथ आफ्नो साइन-इनलाई अनुमोदन गरेर आफ्नो खाता सुरक्षित राख्नुहोस्।
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = आफ्नो खाता सेटअप गर्न पूरा गर्न तलको पुष्टि कोड प्रयोग गर्नुहोस्।
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = इमेल मास्क प्रयोग गर्न आफ्नो खाता यकिन गर्नुहोस्
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = इमेल मास्क प्रयोग गर्न आफ्नो खाता यकिन गर्नुहोस्
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

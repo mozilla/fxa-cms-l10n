@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = 狐狸跳跃
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = 发送到您马甲的电子邮件将被转发到此地址。
+# Headline for Email First Page
+fxa-headline-30fd7c55 = 注册或登录以保护您的收件箱免受垃圾邮件
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = 马甲邮箱
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = 保护您的收件箱免受垃圾邮件| Mozilla 账户
+# Description for New Device Login Email
+fxa-description-832c10ff = 您的 Mozilla 账户有新的登录信息
+# Headline for New Device Login Email
+fxa-headline-db70c503 = 您的账户被用于登录
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox 将在您登录后尝试将您退回以供使用马甲邮箱。
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = 默认
+# Description for Signin Page
+fxa-description-8286e168 = 为您的 Mozilla 账户
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = 注册保护收件箱免受垃圾邮件侵扰
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = 这将创建您的 Mozilla 账户以便您可以使用和管理马甲邮箱。
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = 创建密码保护收件箱不受垃圾邮件侵扰
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = 确保您的账户安全请使用下方的授权码批准您的登录活动。
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = 请使用下面的确认码完成账户设置。
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = 确认您的账户以使用马甲邮箱
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = 确认您的账户以使用马甲邮箱
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

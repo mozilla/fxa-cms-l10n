@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = მელა დახტის
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = თქვენს ნიღბებზე გამოგზავნილი წერილები გადამისამართდება ამ მისამართზე.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = შექმენით ან შედით ანგარიშზე, თქვენი საფოსტო ყუთის სპამისგან დასაცავად
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = ელფოსტის შენიღბვა
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = დაიცავით თქვენი საფოსტო ყუთი სპამისგან | Mozilla-ს ანგარიშები
+# Description for New Device Login Email
+fxa-description-832c10ff = თქვენს Mozilla-ს ანგარიშზე ახალი შესვლა დაფიქსირდა:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = თქვენი ანგარიში გამოყენებულია შესვლისთვის
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox შეეცდება ელფოსტის ნიღბის გამოყენებაზე გამოგიგზავნოთ ანგარიშზე შესვლის შემდეგ.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = ნაგულისხმევი
+# Description for Signin Page
+fxa-description-8286e168 = თქვენი Mozilla ანგარიშისთვის
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = გამოიწერეთ თქვენი საფოსტო ყუთი სპამისგან დასაცავად
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = შედეგად, შეიქმნება თქვენი Mozilla-ანგარიში, ასე რომ შეგიძლიათ ელფოსტის ნიღბების გამოყენება და მართვა.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = შექმენით პაროლი თქვენი საფოსტო ყუთის სპამისგან დასაცავად
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = დაიცავით თქვენი ანგარიში, ქვემოთ მოცემული ავტორიზაციის კოდით შესვლის დამოწმებით.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = გამოიყენეთ დამადასტურებელი კოდი ქვემოთ თქვენი ანგარიშის დასასრულებლად.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = დაადასტურეთ თქვენს ანგარიშზე ელფოსტის ნიღბების გამოყენება
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = დაადასტურეთ თქვენს ანგარიშზე ელფოსტის ნიღბების გამოყენება
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

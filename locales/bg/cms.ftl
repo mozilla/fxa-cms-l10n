@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = скачаща лисица
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Имейлите, изпратени до вашите маски, ще бъдат препращани до този адрес.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Регистрирайте се, за да защитите входящата си поща от спам
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = имейл маска
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Защитете вашата пощенска кутия от спам | Mozilla акаунти
+# Description for New Device Login Email
+fxa-description-832c10ff = Имаше ново влизане във вашия Mozilla акаунт:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Профилът ви е използван за вход
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = След като влезете, Firefox ще се опита да ви изпрати обратно, за да използва имейл маска.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = стандартна
+# Description for Signin Page
+fxa-description-8286e168 = за вашия профил в Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Регистрирайте се, за да защитите входящата си поща от спам
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Това създава вашия Mozilla акаунт, за да можете да използвате и управлявате имейл маски.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Създайте парола, за да защитите пощенската си кутия от спам
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Пазете профила си в безопасност, като одобрите влизането си с кода за упълномощаване по-долу.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Използвайте кода за потвърждение по-долу, за да завършите настройката на вашия профил.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Потвърдете профила си, за да използвате имейл маски
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Потвърдете профила си, за да използвате имейл маски
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

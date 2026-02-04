@@ -160,8 +160,46 @@ fxa-logoAltText-c4b14a5b = Springender Fuchs
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = E-Mails, die an Ihre Masken gesendet wurden, werden an diese Adresse weitergeleitet.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Melden Sie sich an oder melden Sie sich an, um Ihren Posteingang vor Spam zu schützen
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = E-Mail-Maske
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Schützen Sie Ihren Posteingang vor Spam | Mozilla-Konten
+# Description for New Device Login Email
+fxa-description-832c10ff = Neue Anmeldung bei Ihrem Mozilla-Konto wurde durchgeführt:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Ihr Konto wurde zur Anmeldung verwendet
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox wird versuchen, Sie nach der Anmeldung zurück zu senden, um eine E-Mail-Maske zu verwenden.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = Standard
+# Description for Signin Page
+fxa-description-8286e168 = für Ihr Mozilla-Konto
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Registrieren Sie sich, um Ihren Posteingang vor Spam zu schützen
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Dies erstellt Ihr Mozilla-Konto, damit Sie E-Mail-Masken verwenden und verwalten können.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Erstellen Sie ein Passwort, um Ihren Posteingang vor Spam zu schützen
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Schützen Sie Ihr Konto, indem Sie Ihre Anmeldung mit dem folgenden Autorisierungscode bestätigen.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Verwenden Sie den folgenden Bestätigungscode, um die Einrichtung Ihres Kontos abzuschließen.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Bestätigen Sie Ihr Konto, um E-Mail-Masken zu verwenden
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Bestätigen Sie Ihr Konto, um E-Mail-Masken zu verwenden
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
