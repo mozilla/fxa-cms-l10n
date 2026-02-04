@@ -1,4 +1,4 @@
-### Generated on 2026-02-02T21:51:29.146Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 
@@ -139,6 +139,11 @@ fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕ
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
 
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -195,8 +200,6 @@ fxa-headline-74461a97 = Mozilla Monitor ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾ�
 fxa-description-78fd76ac = ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ ਆਪਣੇ Mozilla ਖਾਤੇ ਨੂੰ ਵਰਤੋਂ।
 # Headline for Email First Page
 fxa-headline-0ec7d798 = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਹਰ ਥਾਂ ਲਵੋ
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ ਇੱਕ Mozilla ਖਾਤਾ ਬਣਾਓ।
 # Subject for Verify Short Code Email

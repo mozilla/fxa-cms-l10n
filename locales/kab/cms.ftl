@@ -1,4 +1,4 @@
-### Generated on 2026-02-02T21:51:29.146Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 
@@ -63,6 +63,11 @@ fxa-headline-ef1fb997 = Sentem amiḍan-ik⋅im
 # Headline for Email First Page
 fxa-headline-a20eb81e = Kcem neɣ qqen
 
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Email From Name for Shared
@@ -80,8 +85,3 @@ fxa-emailLogoAltText-ccc1a61b = Alugu n Mozilla Monitor
 fxa-logoAltText-ccc1a61b = Alugu n Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Sbadu Mozilla Monitor
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox

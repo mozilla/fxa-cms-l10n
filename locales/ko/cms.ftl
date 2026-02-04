@@ -1,4 +1,4 @@
-### Generated on 2026-02-02T21:51:29.146Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 
@@ -158,6 +158,11 @@ fxa-headline-a20eb81e = 가입 또는 로그인
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Fox jumping
 
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -218,8 +223,6 @@ fxa-headline-74461a97 = Mozilla Monitor를 사용하려면 계정을 확인하�
 fxa-description-78fd76ac = Mozilla 계정을 사용하여 다른 기기와 안전하게 동기화하세요.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 어디에서나 저장된 비밀번호 받기
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = 다른 기기와 안전하게 동기화하려면 Mozilla 계정을 만드세요.
 # Subject for Verify Short Code Email

@@ -1,4 +1,4 @@
-### Generated on 2026-02-02T21:51:29.146Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 
@@ -158,6 +158,11 @@ fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skokajuca liška
 
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -218,8 +223,6 @@ fxa-headline-74461a97 = Wobkšuśćo swójo konto, aby Mozilla Monitor wužywał
 fxa-description-78fd76ac = Wužywajśo swójo konto Mozilla, aby z drugim rědom wěsće synchronizěrował.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Wzejśo swóje skłaźone gronidła wšuźi sobu
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Napórajśo konto Mozilla, aby z drugim rědom wěsće synchronizěrował.
 # Subject for Verify Short Code Email

@@ -1,4 +1,4 @@
-### Generated on 2026-02-02T21:51:29.146Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 
@@ -158,6 +158,11 @@ fxa-headline-a20eb81e = Registreren of aanmelden
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = springende vos
 
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -218,8 +223,6 @@ fxa-headline-74461a97 = Bevestig uw account om Mozilla Monitor te gebruiken.
 fxa-description-78fd76ac = Gebruik uw Mozilla-account om veilig met een ander apparaat te synchroniseren.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Haal uw opgeslagen wachtwoorden overal op
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Maak een Mozilla-account aan om veilig met een ander apparaat te synchroniseren.
 # Subject for Verify Short Code Email

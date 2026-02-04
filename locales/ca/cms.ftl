@@ -1,4 +1,4 @@
-### Generated on 2026-02-02T21:51:29.146Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 
@@ -89,6 +89,11 @@ fxa-headline-a20eb81e = Inici de sessió o registre
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = guineu que salta
 
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -116,11 +121,6 @@ fxa-logoAltText-ccc1a61b = Logotip de Mozilla Monitor
 fxa-pageTitle-924eac9f = Configureu el Mozilla Monitor
 # Description for Signin Page
 fxa-description-ab270ce7 = Inicieu la sessió al compte de Mozilla per utilitzar el Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
 
 ## l10n-8 - Firefox Desktop Sync - Win10 Toast
 

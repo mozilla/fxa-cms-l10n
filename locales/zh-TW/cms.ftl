@@ -1,4 +1,4 @@
-### Generated on 2026-02-02T21:51:29.146Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 
@@ -158,6 +158,11 @@ fxa-headline-a20eb81e = 註冊或登入
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 狐狸在跳躍
 
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -218,8 +223,6 @@ fxa-headline-74461a97 = 確認您的帳號即可使用 Mozilla Monitor。
 fxa-description-78fd76ac = 使用您的 Mozilla 帳號即可安全地同步到另一台裝置。
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 隨時隨地使用儲存的密碼
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = 註冊 Mozilla 帳號即可安全地同步到另一台裝置。
 # Subject for Verify Short Code Email
