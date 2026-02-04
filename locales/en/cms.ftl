@@ -1,4 +1,4 @@
-### Generated on 2026-02-04T00:43:51.027Z
+### Generated on 2026-02-04T16:50:36.465Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -178,8 +178,6 @@ fxa-headlineFontSize-c21f969b = default
 fxa-description-8286e168 = for your Mozilla account
 # Page Title for Signin Page
 fxa-pageTitle-7631d75e = Sign in to protect your inbox from spam
-# Primary Button Text for Signin Page
-fxa-primaryButtonText-e5b47edd = Sign-in
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Sign up to protect your inbox from spam
 # Page Title for Signup Set Password Page
