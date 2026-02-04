@@ -1,4 +1,4 @@
-### Generated on 2026-02-02T21:51:29.146Z
+### Generated on 2026-02-04T21:24:53.214Z
 ### FTL file for CMS localization
 
 
@@ -158,6 +158,49 @@ fxa-headline-a20eb81e = Criar conta ou iniciar sessão
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = salto da raposa
 
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Description for Email First Page
+fxa-description-607e9f0f = Os e-mails enviados para as suas máscaras serão encaminhados para este endereço.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Registe-se ou inicie sessão para proteger a sua caixa de entrada do spam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = máscara de e-mail
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Proteja a sua caixa de entrada do spam | Contas Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = Ocorreu um novo início de sessão na sua conta Mozilla:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = A sua conta foi utilizada para iniciar sessão
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = O Firefox irá tentar enviar-lhe de volta para utilizar uma máscara de e-mail após iniciar sessão.
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = predefinição
+# Description for Signin Page
+fxa-description-8286e168 = para a sua conta Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Subscrever para proteger a sua caixa de entrada do spam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Isto cria a sua conta Mozilla para que possa utilizar e gerir máscaras de correio eletrónico.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Crie uma palavra-passe para proteger a sua caixa de entrada de spam
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Mantenha a sua conta segura aprovando o seu início de sessão com o código de autorização abaixo.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Utilize o código de confirmação abaixo para concluir a configuração da sua conta.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Confirmar a sua conta para utilizar máscaras de e-mail
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Confirmar a sua conta para utilizar máscaras de e-mail
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -218,8 +261,6 @@ fxa-headline-74461a97 = Confirmar a sua conta para utilizar o Mozilla Monitor.
 fxa-description-78fd76ac = Utilize a sua conta Mozilla para sincronizar em segurança com outro dispositivo.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Obtenha palavras-passe guardadas em qualquer lugar
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Crie uma conta Mozilla para sincronizar em segurança com outro dispositivo.
 # Subject for Verify Short Code Email
