@@ -160,8 +160,32 @@ fxa-logoAltText-c4b14a5b = שועל קופץ
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = הודעות דוא״ל הנשלחות למסכות שלך יועברו לכתובת זו.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = יש להירשם או להתחבר כדי להגן על תיבת הדואר הנכנס שלך מפני דואר זבל
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = מסכת דוא״ל
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = הגנה על תיבת הדואר הנכנס שלך מפני דואל זבל | חשבונות Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = בוצעה כניסה חדשה לחשבון ה־Mozilla שלך:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = נעשה שימוש בחשבון שלך להתחברות
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = ‏Firefox ינסה לשלוח אותך בחזרה להשתמש במסכת דוא״ל לאחר ההתחברות.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = יש להירשם כדי להגן על תיבת הדואר שלך מפני דואר זבל
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = פעולה זו יוצרת לך חשבון Mozilla כדי שיהיה ניתן להשתמש ולנהל מסכות דוא״ל.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = יצירת ססמה להגנה על תיבת הדואר הנכנס שלך מפני דואר זבל
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
