@@ -163,7 +163,7 @@ fxa-logoAltText-c4b14a5b = Springender Fuchs
 # Description for Email First Page
 fxa-description-607e9f0f = E-Mails, die an Ihre Masken gesendet wurden, werden an diese Adresse weitergeleitet.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Melden Sie sich an oder melden Sie sich an, um Ihren Posteingang vor Spam zu schützen
+fxa-headline-30fd7c55 = Registrieren Sie sich an oder melden Sie sich an, um Ihren Posteingang vor Spam zu schützen
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = E-Mail-Maske
 # Page Title for Email First Page
