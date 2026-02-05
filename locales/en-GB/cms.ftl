@@ -169,7 +169,7 @@ fxa-logoAltText-8d308a03 = email mask
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Protect your inbox from spam | Mozilla accounts
 # Description for New Device Login Email
-fxa-description-832c10ff = There was a new sign in to your Mozilla account:
+fxa-description-832c10ff = There was a new sign-in to your Mozilla account:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Your account was used to sign in
 # Additional Accessibility Info for Shared
