@@ -161,15 +161,15 @@ fxa-logoAltText-c4b14a5b = 狐狸在跳躍
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
-fxa-description-607e9f0f = 寄到您的轉寄信箱的郵件將會被轉寄到此信箱。
+fxa-description-607e9f0f = 寄到這個轉寄信箱的郵件，會再轉寄到您的實際信箱。
 # Headline for Email First Page
-fxa-headline-30fd7c55 = 請註冊或登入以保護您的收件匣不受垃圾信騷擾
+fxa-headline-30fd7c55 = 註冊或登入後，即可保護您的收件匣不受垃圾信騷擾
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = 轉寄信箱
 # Page Title for Email First Page
-fxa-pageTitle-8e453cea = 保護您的信箱不受垃圾信騷擾Mozilla 帳號
+fxa-pageTitle-8e453cea = 保護您的收件匣，不受垃圾信騷擾 | Mozilla 帳號
 # Description for New Device Login Email
-fxa-description-832c10ff = 曾經有一次新的登入紀錄至您的 Mozilla 帳號:
+fxa-description-832c10ff = 您的 Mozilla 帳號有筆新的登入紀錄：
 # Headline for New Device Login Email
 fxa-headline-db70c503 = 您的帳號已用於登入
 # Additional Accessibility Info for Shared
