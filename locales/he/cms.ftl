@@ -186,6 +186,8 @@ fxa-pageTitle-d38aa094 = יש להירשם כדי להגן על תיבת הדו�
 fxa-description-e45e7923 = פעולה זו יוצרת לך חשבון Mozilla כדי שיהיה ניתן להשתמש ולנהל מסכות דוא״ל.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = יצירת ססמה להגנה על תיבת הדואר הנכנס שלך מפני דואר זבל
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = כדאי לשמור על בטיחות החשבון שלך על־ידי אישור ההתחברות שלך באמצעות קוד ההרשאה שלהלן.
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
