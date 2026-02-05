@@ -160,6 +160,8 @@ fxa-logoAltText-c4b14a5b = vulpe que salta
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = masca de e-mail
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 
