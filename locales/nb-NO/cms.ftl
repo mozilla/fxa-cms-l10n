@@ -162,6 +162,12 @@ fxa-logoAltText-c4b14a5b = rev hopper
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Registrer deg for å beskytte innboksen din mot søppelpost (spam)
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
