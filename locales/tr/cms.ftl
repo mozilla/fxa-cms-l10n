@@ -188,6 +188,8 @@ fxa-description-e45e7923 = Bu işlem, e-posta maskelerini kullanabilmeniz ve yö
 fxa-pageTitle-64718864 = Gelen kutunuzu spam’den korumak için bir parola oluşturun
 # Description for Verify Login Code Email
 fxa-description-1048eab0 = Aşağıdaki doğrulama koduyla girişinizi onaylayarak hesabınızı güvende tutun.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Aşağıdaki onay kodunu kullanarak hesabınızın kurulumunu tamamlayabilirsiniz.
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = E-posta maskelerini kullanmak için hesabınızı onaylayın
 # Subject for Verify Short Code Email
