@@ -167,13 +167,13 @@ fxa-headline-30fd7c55 = Registreer of meld u aan om uw Postvak IN te beschermen 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = e-mailmasker
 # Page Title for Email First Page
-fxa-pageTitle-8e453cea = Uw Postvak IN beschermen tegen spam | Mozilla-accounts
+fxa-pageTitle-8e453cea = Bescherm uw Postvak IN tegen spam | Mozilla-accounts
 # Description for New Device Login Email
 fxa-description-832c10ff = Er was een nieuwe aanmelding op uw Mozilla-account:
 # Headline for New Device Login Email
-fxa-headline-db70c503 = Uw account is gebruikt om u aan te melden
+fxa-headline-db70c503 = Uw account is gebruikt om aan te melden
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Firefox zal proberen u terug te sturen om een e-mailmasker te gebruiken nadat u zich hebt aangemeld.
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox probeert u terug te sturen om een e-mailmasker te gebruiken nadat u bent aangemeld.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -185,7 +185,7 @@ fxa-pageTitle-d38aa094 = Registreer om uw Postvak IN te beschermen tegen spam
 # Description for Signup Set Password Page
 fxa-description-e45e7923 = Hierdoor wordt uw Mozilla-account aangemaakt, zodat u e-mailmaskers kunt gebruiken en beheren.
 # Page Title for Signup Set Password Page
-fxa-pageTitle-64718864 = Stel een wachtwoord in om uw Postvak IN te beschermen tegen spam
+fxa-pageTitle-64718864 = Maak een wachtwoord aan om uw Postvak IN te beschermen tegen spam
 # Description for Verify Login Code Email
 fxa-description-1048eab0 = Houd uw account veilig door uw aanmelding met de onderstaande autorisatiecode goed te keuren.
 # Description for Verify Short Code Email
