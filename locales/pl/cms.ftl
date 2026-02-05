@@ -160,8 +160,22 @@ fxa-logoAltText-c4b14a5b = skaczący lis
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = maska dla adresu e-mail
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Chroń swoją skrzynkę odbiorczą przed spamem | Konta Mozilli
+# Description for New Device Login Email
+fxa-description-832c10ff = Nastąpiło nowe logowanie na Twoje konto Mozilli:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Twoje konto zostało użyte do zalogowania
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox po zalogowaniu spróbuje odesłać Cię do użycia maski dla adresu e-mail.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
