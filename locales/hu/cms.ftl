@@ -163,17 +163,17 @@ fxa-logoAltText-c4b14a5b = ugró róka
 # Description for Email First Page
 fxa-description-607e9f0f = A maszkokra küldött levelek erre a címre lesznek továbbítva.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Regisztráljon vagy jelentkezzen be, hogy megvédje postaládáját a kéretlen tartalomtól
+fxa-headline-30fd7c55 = Regisztráljon vagy jelentkezzen be, hogy megvédje postaládáját a levélszeméttől
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = e-mail-maszk
 # Page Title for Email First Page
-fxa-pageTitle-8e453cea = Védje meg a Beérkezett üzenetek mappáját a levélszeméttől | Mozilla fiókok lehetőségre
+fxa-pageTitle-8e453cea = Védje meg a postafiókját a levélszeméttől | Mozilla-fiókok
 # Description for New Device Login Email
 fxa-description-832c10ff = Új bejelentkezés történt a Mozilla-fiókjába:
 # Headline for New Device Login Email
-fxa-headline-db70c503 = A fiókját a bejelentkezéshez használták
+fxa-headline-db70c503 = Bejelentkezéshez használták a Mozilla-fiókját
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = A Firefox bejelentkezés után e-mail-maszk használatára próbálja visszaküldeni.
+fxa-additionalAccessibilityInfo-5deba5d1 = Bejelentkezés után a Firefox megpróbálja visszaküldeni Önt az e-mail-maszk használatához.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -181,7 +181,7 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
-fxa-pageTitle-d38aa094 = Regisztráljon, hogy megvédje a Beérkezett üzenetek mappáját a spamektől
+fxa-pageTitle-d38aa094 = Regisztráljon, hogy megvédje postafiókját a levélszeméttől
 # Description for Signup Set Password Page
 fxa-description-e45e7923 = Ez létrehozza a Mozilla-fiókját, így használhatja és kezelheti az e-mail-maszkokat.
 # Page Title for Signup Set Password Page
