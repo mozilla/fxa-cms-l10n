@@ -169,7 +169,7 @@ fxa-logoAltText-8d308a03 = E-Mail-Maske
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Schützen Sie Ihren Posteingang vor Spam | Mozilla-Konten
 # Description for New Device Login Email
-fxa-description-832c10ff = Neue Anmeldung bei Ihrem Mozilla-Konto wurde durchgeführt:
+fxa-description-832c10ff = Es gab eine neue Anmeldung bei Ihrem Mozilla-Konto:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Ihr Konto wurde zur Anmeldung verwendet
 # Additional Accessibility Info for Shared

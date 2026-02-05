@@ -160,8 +160,16 @@ fxa-logoAltText-c4b14a5b = reven hoppar
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = e-postalias
+# Description for New Device Login Email
+fxa-description-832c10ff = Der var ei ny innlogging til Mozilla-kontoen din:
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
