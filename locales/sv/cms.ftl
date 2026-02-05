@@ -173,7 +173,7 @@ fxa-description-832c10ff = Det gjordes en ny inloggning till ditt Mozilla-konto:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Ditt konto användes för att logga in
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Firefox försöker skicka dig tillbaka för att använda en e-postalias efter att du har loggat in.
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox försöker skicka dig tillbaka för att använda ett e-postalias efter att du har loggat in.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
