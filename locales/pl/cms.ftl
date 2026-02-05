@@ -160,6 +160,10 @@ fxa-logoAltText-c4b14a5b = skaczący lis
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Wiadomości e-mail wysyłane na Twoje maski będą przesyłane na ten adres.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Zarejestruj się lub zaloguj, aby chronić swoją skrzynkę odbiorczą przed spamem
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = maska dla adresu e-mail
 # Page Title for Email First Page
@@ -176,6 +180,20 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Zarejestruj się, aby chronić swoją skrzynkę odbiorczą przed spamem
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Spowoduje to utworzenie konta Mozilli, dzięki któremu będziesz mieć możliwość korzystania z masek dla adresu e-mail i zarządzania nimi.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Utwórz hasło, aby chronić swoją skrzynkę odbiorczą przed spamem
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Aby zabezpieczyć swoje konto, zatwierdź logowanie za pomocą poniższego kodu autoryzacyjnego.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Aby dokończyć konfigurację konta, użyj poniższego kodu potwierdzenia.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adresu e-mail
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adresu e-mail
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

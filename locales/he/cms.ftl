@@ -188,6 +188,12 @@ fxa-description-e45e7923 = פעולה זו יוצרת לך חשבון Mozilla כ
 fxa-pageTitle-64718864 = יצירת ססמה להגנה על תיבת הדואר הנכנס שלך מפני דואר זבל
 # Description for Verify Login Code Email
 fxa-description-1048eab0 = כדאי לשמור על בטיחות החשבון שלך על־ידי אישור ההתחברות שלך באמצעות קוד ההרשאה שלהלן.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = יש להשתמש בקוד האימות שלהלן כדי לסיים את הגדרת החשבון שלך.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = יש לאמת את החשבון שלך כדי להשתמש במסכות דוא״ל
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמש במסכות דוא״ל
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
