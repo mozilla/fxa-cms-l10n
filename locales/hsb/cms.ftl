@@ -182,6 +182,8 @@ fxa-pageTitle-d38aa094 = Registrujće so, zo byšće swój póstowy dochad před
 fxa-pageTitle-64718864 = Wutworće hesło, zo byšće swój póstowy dochad před spamom škitał
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wužiwał
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wužiwał
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
