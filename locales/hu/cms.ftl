@@ -187,7 +187,7 @@ fxa-description-e45e7923 = Ez létrehozza a Mozilla-fiókját, így használhatj
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Hozzon létre egy jelszót, hogy megvédje a postaládáját a levélszeméttől
 # Description for Verify Login Code Email
-fxa-description-1048eab0 = Tartsa fiókját biztonságban: jóváhagyja a bejelentkezését az alábbi engedélyezési kóddal.
+fxa-description-1048eab0 = Tartsa biztonságban a fiókját a bejelentkezése alábbi engedélyezési kóddal történő jóváhagyásával.
 # Description for Verify Short Code Email
 fxa-description-e5134d5c = Használja az alábbi megerősítő kódot a fiókja beállításának befejezéséhez.
 # Headline for Verify Short Code Email
