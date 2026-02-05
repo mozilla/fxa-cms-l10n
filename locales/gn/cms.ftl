@@ -160,14 +160,24 @@ fxa-logoAltText-c4b14a5b = Aguara jepo
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Ñanduti veveita tovamo’ãhápe mondopyre oñemondojeýta ko kundaharapépe.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = ñanduti veve rovamo’ãha
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Emo’ã ne ñe’ẽmondo g̃uahẽha spam-gui | Mozilla mba’ete
+# Description for New Device Login Email
+fxa-description-832c10ff = Oĩ oike pyahúva ne mba’ete Mozilla peguápe:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Ne mba’ete ojeporu ojeike hag̃ua
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Eñemboheraguapy emo’ã hag̃ua ne ñe’ẽmondo g̃uahẽha spam-gui
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
