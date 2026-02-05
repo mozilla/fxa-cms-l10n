@@ -162,6 +162,8 @@ fxa-logoAltText-c4b14a5b = Aguara jepo
 
 # Description for Email First Page
 fxa-description-607e9f0f = Ñanduti veveita tovamo’ãhápe mondopyre oñemondojeýta ko kundaharapépe.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Eñemboheraguapy térã eike emo’ã hag̃ua ne ñe’ẽmondo g̃uahẽha spam-gui
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = ñanduti veve rovamo’ãha
 # Page Title for Email First Page
@@ -178,6 +180,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Eñemboheraguapy emo’ã hag̃ua ne ñe’ẽmondo g̃uahẽha spam-gui
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Emoneĩ ne mba’ete eiporu hag̃ua ñanduti veve rovamo’ãha
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
