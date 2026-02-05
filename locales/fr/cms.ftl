@@ -167,13 +167,13 @@ fxa-headline-30fd7c55 = Inscrivez-vous ou connectez-vous pour protéger votre bo
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = alias de messagerie
 # Page Title for Email First Page
-fxa-pageTitle-8e453cea = Protégez votre boîte de réception du spam | comptes Mozilla
+fxa-pageTitle-8e453cea = Protégez votre boîte de réception du spam | Comptes Mozilla
 # Description for New Device Login Email
 fxa-description-832c10ff = Une nouvelle connexion à votre compte Mozilla a été effectuée :
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Votre compte a été utilisé pour se connecter
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Firefox essaiera de vous envoyer à nouveau un alias de messagerie après votre connexion.
+fxa-additionalAccessibilityInfo-5deba5d1 = Une fois connecté·e, Firefox tentera de vous renvoyer vers l’onglet d’origine pour utiliser un alias de messagerie.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -181,11 +181,11 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
-fxa-pageTitle-d38aa094 = Inscrivez-vous pour protéger votre boîte de réception du courrier indésirable
+fxa-pageTitle-d38aa094 = Inscrivez-vous pour protéger votre boîte de réception du spam
 # Description for Signup Set Password Page
 fxa-description-e45e7923 = Votre compte Mozilla sera ainsi créé et vous pourrez utiliser et gérer les alias de messagerie.
 # Page Title for Signup Set Password Page
-fxa-pageTitle-64718864 = Créez un mot de passe pour protéger votre boîte de réception du courrier indésirable
+fxa-pageTitle-64718864 = Créez un mot de passe pour protéger votre boîte de réception du spam
 # Description for Verify Login Code Email
 fxa-description-1048eab0 = Protégez votre compte en confirmant votre connexion avec le code d’autorisation ci-dessous.
 # Description for Verify Short Code Email
