@@ -160,8 +160,16 @@ fxa-logoAltText-c4b14a5b = vulpe que salta
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Le emails inviate a tu mascas sera inviate in addition a tu adresse real.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Inscribe te o accede pro proteger tu cassa de ingresso contra spam
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = masca de e-mail
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Protege tu cassa de ingresso contra spam: contos Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = Il habeva un nove accesso a tu conto Mozilla:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Tu conto era usate pro acceder
 # Additional Accessibility Info for Shared
@@ -178,6 +186,10 @@ fxa-pageTitle-d38aa094 = Inscribe te pro proteger tu cassa de ingresso contra sp
 fxa-description-e45e7923 = Isto crea tu conto Mozilla proque tu pote usar e gerer mascas de e-mail.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Crea un contrasigno pro proteger tu cassa de ingresso ab spam
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Mantene secur tu conto approbante tu accesso con le codice de autorisation ifra.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Usa le codice de confirmation infra pro finir de confugurar tu conto.
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = Confirma tu conto pro usar mascas de e-mail
 # Subject for Verify Short Code Email
