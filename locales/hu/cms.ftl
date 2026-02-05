@@ -143,16 +143,16 @@ fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezés
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-edee250c = Jelentkezzen be a Mozilla-fiókjával történő szinkronizáláshoz. Ha nincs ilyenje, akkor csak egy pillanat, amíg létrehozza.
+fxa-description-edee250c = Jelentkezzen be a Mozilla-fiókjával történő szinkronizáláshoz. Ha nincs ilyenje, akkor egy pillanat alatt létrehozhat egyet.
 # Headline for Email First Page
-fxa-headline-a4b1427f = Használja az e-mail címét a folytatáshoz
+fxa-headline-a4b1427f = Használja az e-mail-címét a folytatáshoz
 # Logo Alt Text for Email First Page
 fxa-logoAltText-17aa6423 = Firefox böngésző
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Kezdje el szinkronizálni az adatait egy Mozilla-fiókjával. Már van egy? Meg fogjuk találni.
+fxa-description-a0166dfc = Kezdje el szinkronizálni az adatait egy Mozilla-fiókkal. Már van ilyenje? Meg fogjuk találni.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Regisztráljon vagy jelentkezzen be
 # Logo Alt Text for Signup Set Password Page
@@ -163,7 +163,7 @@ fxa-logoAltText-c4b14a5b = ugró róka
 # Description for Email First Page
 fxa-description-607e9f0f = A maszkokra küldött levelek erre a címre lesznek továbbítva.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Regisztráljon vagy jelentkezzen be, hogy megvédje postaládáját a spamektől
+fxa-headline-30fd7c55 = Regisztráljon vagy jelentkezzen be, hogy megvédje postaládáját a kéretlen tartalomtól
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = e-mail-maszk
 # Page Title for Email First Page
