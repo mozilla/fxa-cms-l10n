@@ -162,8 +162,26 @@ fxa-logoAltText-c4b14a5b = vulpe que salta
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = masca de e-mail
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Tu conto era usate pro acceder
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox tentara inviar te retro pro usar un masca de e-mail post que tu accede.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Inscribe te pro proteger tu cassa de ingresso contra spam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Isto crea tu conto Mozilla proque tu pote usar e gerer mascas de e-mail.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Crea un contrasigno pro proteger tu cassa de ingresso ab spam
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Confirma tu conto pro usar mascas de e-mail
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Confirma tu conto pro usar mascas de e-mail
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
