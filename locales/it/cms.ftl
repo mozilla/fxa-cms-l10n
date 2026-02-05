@@ -173,7 +173,7 @@ fxa-description-832c10ff = È stato effettuato un nuovo accesso al tuo account M
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Il tuo account è stato utilizzato per accedere
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Dopo aver effettuato l’accesso, Firefox tenterà di rimandare l’utente a utilizzare un alias di posta elettronica.
+fxa-additionalAccessibilityInfo-5deba5d1 = Dopo aver effettuato l’accesso, Firefox tenterà di rimandarti alla pagina per utilizzare l’alias di posta elettronica.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -183,11 +183,11 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Registrati per proteggere la tua casella di posta dallo spam
 # Description for Signup Set Password Page
-fxa-description-e45e7923 = Questo crea il tuo account Mozilla in modo da poter utilizzare e gestire gli alias di posta elettronica.
+fxa-description-e45e7923 = Questo ti permette di creare un account Mozilla per poter utilizzare e gestire gli alias di posta elettronica.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Crea una password per proteggere la tua casella di posta dallo spam
 # Description for Verify Login Code Email
-fxa-description-1048eab0 = Mantieni il tuo account al sicuro approvando l’accesso con il codice di autorizzazione riportato di seguito.
+fxa-description-1048eab0 = Mantieni il tuo account al sicuro autorizzando l’accesso con il codice riportato di seguito.
 # Description for Verify Short Code Email
 fxa-description-e5134d5c = Utilizza il seguente codice di conferma per completare la configurazione del tuo account.
 # Headline for Verify Short Code Email
