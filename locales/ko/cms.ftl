@@ -184,8 +184,6 @@ fxa-emailLogoWidth-ca27b150 = 120px
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = 기본
-# Description for Signin Page
-fxa-description-8286e168 = Mozilla 계정을 위해
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = 가입하여 스팸으로부터 받은 편지함을 보호하세요
 # Description for Signup Set Password Page

@@ -184,8 +184,6 @@ fxa-emailLogoWidth-ca27b150 = 120px
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = bawaan
-# Description for Signin Page
-fxa-description-8286e168 = untuk akun Mozilla Anda
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Daftar untuk melindungi kotak masuk Anda dari spam
 # Description for Signup Set Password Page
