@@ -163,17 +163,17 @@ fxa-logoAltText-c4b14a5b = zıplayan tilki
 # Description for Email First Page
 fxa-description-607e9f0f = Maskelerinize gönderilen e-postalar bu adrese yönlendirilecektir.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Gelen kutunuzu spam'den korumak için kaydolun veya giriş yapın
+fxa-headline-30fd7c55 = Gelen kutunuzu spam’den korumak için kaydolun veya giriş yapın
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = e-posta maskesi
 # Page Title for Email First Page
-fxa-pageTitle-8e453cea = Gelen kutunuzu spam'den koruyun | Mozilla hesapları
+fxa-pageTitle-8e453cea = Gelen kutunuzu spam’den koruyun | Mozilla hesapları
 # Description for New Device Login Email
 fxa-description-832c10ff = Mozilla hesabınıza yeni bir giriş yapıldı:
 # Headline for New Device Login Email
-fxa-headline-db70c503 = Hesabınız giriş yapmak için kullanıldı
+fxa-headline-db70c503 = Hesabınızla giriş yapıldı
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Giriş yaptıktan sonra Firefox sizi e-posta maskesi kullanmaya gönderecek.
+fxa-additionalAccessibilityInfo-5deba5d1 = Giriş yaptıktan sonra Firefox sizi e-posta maskesi kullanmaya yönlendirecektir.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -181,15 +181,13 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
-fxa-pageTitle-d38aa094 = Gelen kutunuzu spam'den korumak için kaydolun
+fxa-pageTitle-d38aa094 = Gelen kutunuzu spam’den korumak için kaydolun
 # Description for Signup Set Password Page
-fxa-description-e45e7923 = Bu, e-posta maskelerini kullanabilmeniz ve yönetebilmeniz için Mozilla hesabınızı oluşturur.
+fxa-description-e45e7923 = Bu işlem, e-posta maskelerini kullanabilmeniz ve yönetebilmeniz için Mozilla hesabınızı oluşturur.
 # Page Title for Signup Set Password Page
-fxa-pageTitle-64718864 = Gelen kutunuzu spam'den korumak için bir parola oluşturun
+fxa-pageTitle-64718864 = Gelen kutunuzu spam’den korumak için bir parola oluşturun
 # Description for Verify Login Code Email
-fxa-description-1048eab0 = Aşağıdaki yetkilendirme koduyla girişinizi onaylayarak hesabınızı güvende tutun.
-# Description for Verify Short Code Email
-fxa-description-e5134d5c = Hesabınızın kurulumunu tamamlamak için aşağıdaki onay kodunu kullanın.
+fxa-description-1048eab0 = Aşağıdaki doğrulama koduyla girişinizi onaylayarak hesabınızı güvende tutun.
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = E-posta maskelerini kullanmak için hesabınızı onaylayın
 # Subject for Verify Short Code Email
