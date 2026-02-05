@@ -160,8 +160,18 @@ fxa-logoAltText-c4b14a5b = 跳ねる狐
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = メールマスク
+# Description for New Device Login Email
+fxa-description-832c10ff = 新しい端末から Mozilla アカウントへのログインがありました:
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
