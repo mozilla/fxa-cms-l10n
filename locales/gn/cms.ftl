@@ -160,8 +160,14 @@ fxa-logoAltText-c4b14a5b = Aguara jepo
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = ñanduti veve rovamo’ãha
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
