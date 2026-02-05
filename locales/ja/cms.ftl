@@ -168,8 +168,6 @@ fxa-description-832c10ff = 新しい端末から Mozilla アカウントへの�
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 

@@ -178,12 +178,8 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox intentará enviarte de vuelta
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = predeterminado
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Registrate para proteger tu bandeja de entrada de spam
 # Description for Signup Set Password Page
