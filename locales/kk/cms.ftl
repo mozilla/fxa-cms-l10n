@@ -160,8 +160,40 @@ fxa-logoAltText-c4b14a5b = түлкінің секіруі
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Сіздің маскаларыңызға жіберілген эл. пошта осы адреске бағытталатын болады.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Кіріс жәшігіңізді спамнан қорғау үшін тіркеліңіз немесе кіріңіз
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = электрондық пошта маскасы
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Кіріс жәшігіңізді спамнан қорғаңыз | Mozilla тіркелгілері
+# Description for New Device Login Email
+fxa-description-832c10ff = Mozilla тіркелгіңізге жаңадан кіру орын алды:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Сіздің тіркелгіңіз кіру үшін пайдаланылды
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox сіз кіргеннен кейін электрондық пошта маскасын пайдалануға қайта жіберуге тырысады.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Кіріс жәшігіңізді спамнан қорғау үшін тіркеліңіз
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Бұл сіздің Mozilla тіркелгіңізді жасайды, осылайша сіз электрондық пошта маскаларын пайдалана және басқара аласыз.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Кіріс жәшігіңізді спамнан қорғау үшін парольді жасаңыз
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Төмендегі авторизация кодымен кіруді растау арқылы тіркелгіңіздің қауіпсіздігін қамтамасыз етіңіз.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Тіркелгіңізді баптауды аяқтау үшін төмендегі растау кодын пайдаланыңыз.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Эл. пошта маскаларын пайдалану үшін тіркелгіңізді растаңыз
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Эл. пошта маскаларын пайдалану үшін тіркелгіңізді растаңыз
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
