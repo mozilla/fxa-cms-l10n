@@ -1,4 +1,4 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-05T04:18:49.743Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -159,7 +159,7 @@ fxa-logoAltText-8d308a03 = email mask
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Protect your inbox from spam | Mozilla accounts
 # Description for New Device Login Email
-fxa-description-832c10ff = There was a new sign-in to your Mozilla account:
+fxa-description-832c10ff = There was a new sign in to your Mozilla account:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Your account was used to sign in
 # Additional Accessibility Info for Shared
@@ -168,8 +168,14 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox will try sending you back to 
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+# Description for Signin Page
+fxa-description-8286e168 = for your Mozilla account
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Sign up to protect your inbox from spam
 # Description for Signup Set Password Page
