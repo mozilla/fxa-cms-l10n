@@ -160,8 +160,28 @@ fxa-logoAltText-c4b14a5b = skakaca liška
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Registrujće so abo přizjewće so, zo byšće swój póstowy dochad před spamom škitał
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = e-mejlowa maska
+# Description for New Device Login Email
+fxa-description-832c10ff = Běše nowe přizjewjenje pola swojeho konta Mozilla
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Waše konto je so za přizjewjenje wužiło
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox budźe was wróćo słać, zo byšće po přizjewjenju e-mejlowu masku wužiwał.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Registrujće so, zo byšće swój póstowy dochad před spamom škitał
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Wutworće hesło, zo byšće swój póstowy dochad před spamom škitał
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wužiwał
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
