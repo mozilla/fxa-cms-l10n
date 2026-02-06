@@ -1,4 +1,4 @@
-### Generated on 2026-02-05T04:18:49.743Z
+### Generated on 2026-02-06T01:57:38.281Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -158,8 +158,6 @@ fxa-headline-30fd7c55 = Sign up or sign in to protect your inbox from spam
 fxa-logoAltText-8d308a03 = email mask
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Protect your inbox from spam | Mozilla accounts
-# Description for New Device Login Email
-fxa-description-832c10ff = There was a new sign in to your Mozilla account:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Your account was used to sign in
 # Additional Accessibility Info for Shared
