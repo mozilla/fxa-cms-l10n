@@ -163,7 +163,7 @@ fxa-logoAltText-c4b14a5b = Fox jumping
 # Description for Email First Page
 fxa-description-607e9f0f = 마스크로 전송된 이메일은 이 주소로 전달됩니다.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = 스팸으로부터 받은 편지함을 보호하려면 가입하거나 로그인하세요.
+fxa-headline-30fd7c55 = 받은 편지함을 스팸으로부터 보호하려면 가입하거나 로그인하세요.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = 이메일 마스크
 # Page Title for Email First Page
@@ -173,7 +173,7 @@ fxa-description-832c10ff = Mozilla 계정에 새로 로그인하였습니다:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = 귀하의 계정은 로그인에 사용되었습니다.
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Firefox는 로그인 후 이메일 마스크를 사용하도록 다시 보내려고 합니다.
+fxa-additionalAccessibilityInfo-5deba5d1 = 로그인 후 이메일 마스크를 사용하도록 Firefox가 다시 보내려고 합니다.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -183,17 +183,17 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = 가입하여 스팸으로부터 받은 편지함을 보호하세요
 # Description for Signup Set Password Page
-fxa-description-e45e7923 = Mozilla 계정이 생성되어 이메일 가리기를 사용하고 관리할 수 있습니다.
+fxa-description-e45e7923 = Mozilla 계정이 생성되어 이메일 마스크를 사용하고 관리할 수 있습니다.
 # Page Title for Signup Set Password Page
-fxa-pageTitle-64718864 = 스팸으로부터 받은 편지함을 보호하기 위한 비밀번호 만들기
+fxa-pageTitle-64718864 = 받은 편지함을 스팸으로부터 보호하기 위한 비밀번호 만들기
 # Description for Verify Login Code Email
-fxa-description-1048eab0 = 아래 인증 코드를 사용하여 로그인을 승인하여 계정을 안전하게 보호하세요.
+fxa-description-1048eab0 = 아래 인증 코드를 사용하여 로그인을 승인하고 계정을 안전하게 보호하세요.
 # Description for Verify Short Code Email
-fxa-description-e5134d5c = 아래 확인 코드를 사용하여 계정 설정을 완료하십시오.
+fxa-description-e5134d5c = 아래 확인 코드를 사용하여 계정 설정을 완료하세요.
 # Headline for Verify Short Code Email
-fxa-headline-2322b41f = 이메일 가리기를 사용하려면 계정을 확인하세요
+fxa-headline-2322b41f = 이메일 마스크를 사용하려면 계정을 확인하세요
 # Subject for Verify Short Code Email
-fxa-subject-2322b41f = 이메일 가리기를 사용하려면 계정을 확인하세요
+fxa-subject-2322b41f = 이메일 마스크를 사용하려면 계정을 확인하세요
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
