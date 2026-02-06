@@ -140,8 +140,19 @@ fxa-headline-ef1fb997 = Confirm your account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-edee250c = Sign in to sync with your Mozilla account. If you don’t have one, it only takes a sec to create it.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Use your email to continue
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox Browser
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Start syncing your data with a Mozilla account. Already have one? We’ll find it.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Sign up or sign in
 # Logo Alt Text for Signup Set Password Page
@@ -149,8 +160,40 @@ fxa-logoAltText-c4b14a5b = fox jumping
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Emails sent to your masks will be forwarded to this address.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Sign up or sign in to protect your inbox from spam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = email mask
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Protect your inbox from spam | Mozilla accounts
+# Description for New Device Login Email
+fxa-description-832c10ff = There was a new sign-in to your Mozilla account:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Your account was used to sign in
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox will try sending you back to use an email mask after you sign in.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Sign up to protect your inbox from spam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = This creates your Mozilla account so you can use and manage email masks.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Create a password to protect your inbox from spam
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Keep your account safe by approving your sign-in with the authorization code below.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Use the confirmation code below to finish setting up your account.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Confirm your account to use email masks
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Confirm your account to use email masks
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
