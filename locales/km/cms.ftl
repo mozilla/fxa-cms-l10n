@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-4ac18cac = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
 # Headline for Email First Page
 fxa-headline-33e9f42d = បន្តទៅគណនី Mozilla របស់អ្នក
 # Primary Button Text for Email First Page
@@ -107,3 +109,7 @@ fxa-headline-47e5e3c7 = បង្កើតពាក្យសម្ងាត់�
 
 # Headline for Email First Page
 fxa-headline-0ec7d798 = ទទួលបានពាក្យសម្ងាត់ដែលបានរក្សាទុកគ្រប់ទីកន្លែង
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = បង្កើតគណនី Mozilla ដើម្បីធ្វើសមកាលកម្ម ដោយសុវត្ថិភាពទៅឧបករណ៍ផ្សេងទៀត។
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = បញ្ជាក់គណនីរបស់អ្នក ដើម្បីធ្វើសមកាលកម្ម
