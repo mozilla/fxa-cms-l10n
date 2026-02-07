@@ -161,7 +161,7 @@ fxa-logoAltText-c4b14a5b = zorro saltando
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
-fxa-description-607e9f0f = Los correos electrónicos enviados a sus máscaras se reenviarán a esta dirección.
+fxa-description-607e9f0f = Los correos electrónicos enviados a tus máscaras se reenviarán a esta dirección.
 # Headline for Email First Page
 fxa-headline-30fd7c55 = Registrate o iniciá la sesión para proteger tu bandeja de entrada de spam
 # Logo Alt Text for Email First Page
