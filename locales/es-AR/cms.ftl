@@ -163,7 +163,7 @@ fxa-logoAltText-c4b14a5b = zorro saltando
 # Description for Email First Page
 fxa-description-607e9f0f = Los correos electrónicos enviados a tus máscaras se reenviarán a esta dirección.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Registrate o iniciá la sesión para proteger tu bandeja de entrada de spam
+fxa-headline-30fd7c55 = Registrate o iniciá sesión para proteger tu bandeja de entrada de la llegada de spam
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = máscara de correo electrónico
 # Page Title for Email First Page
@@ -181,9 +181,9 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
-fxa-pageTitle-d38aa094 = Registrate para proteger tu bandeja de entrada de spam
+fxa-pageTitle-d38aa094 = Registrate para proteger tu bandeja de entrada de la llegada de spam
 # Description for Signup Set Password Page
-fxa-description-e45e7923 = Esto crea tu cuenta de Mozilla para que puedas usar y administrar máscaras de correo electrónico.
+fxa-description-e45e7923 = Esto crea tu cuenta de Mozilla para que podás usar y administrar máscaras de correo electrónico.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Creá una contraseña para proteger tu bandeja de entrada del spam
 # Description for Verify Login Code Email
