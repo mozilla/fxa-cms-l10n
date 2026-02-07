@@ -160,8 +160,40 @@ fxa-logoAltText-c4b14a5b = skákanie líšky
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = E‑maily odoslané na vaše masky budú presmerované na túto adresu.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Zaregistrujte sa alebo prihláste, aby ste ochránili svoju doručenú poštu pred nevyžiadanou poštou
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = e‑mailová maska
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Chráňte svoju doručenú poštu pred nevyžiadanou poštou | Účty Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = Došlo k novému prihláseniu do vášho účtu Mozilla:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Na prihlásenie bol použitý váš účet
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox sa vás po prihlásení pokúsi poslať späť, aby ste mohli použiť e‑mailovú masku.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Zaregistrujte sa a ochráňte svoju schránku pred nevyžiadanou poštou
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Týmto sa vytvorí váš účet Mozilla, aby ste mohli používať a spravovať masky e‑mailov.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Vytvorte si heslo na ochranu svojej schránky pred nevyžiadanou poštou
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Zabezpečte si svoj účet schválením prihlásenia pomocou autorizačného kódu nižšie.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Na dokončenie nastavenia účtu použite potvrdzovací kód nižšie.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Potvrďte svoj účet, aby ste mohli používať e‑mailové masky
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Potvrďte svoj účet, aby ste mohli používať e‑mailové masky
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
