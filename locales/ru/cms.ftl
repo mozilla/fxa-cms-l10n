@@ -173,7 +173,7 @@ fxa-description-832c10ff = В ваш аккаунт Mozilla произведён
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Ваш аккаунт был использован для входа
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Firefox попытается отправить вас обратно с использованием псевдонима электронной почты после того, как вы войдете в систему.
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox попытается отправить вас обратно к использованию псевдонима электронной почты после того, как вы совершите вход.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
