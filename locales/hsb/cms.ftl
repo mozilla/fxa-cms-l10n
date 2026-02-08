@@ -186,6 +186,10 @@ fxa-pageTitle-d38aa094 = Registrujće so, zo byšće swój póstowy dochad před
 fxa-description-e45e7923 = To waše konto Mozilla wutwori, zo byšće móhł e-mejlowe maski wužiwać a rjadować.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Wutworće hesło, zo byšće swój póstowy dochad před spamom škitał
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Dźeržće swoje konto wěste: Wobkrućće swoje přizjewjenje z kodom awtorizacije deleka.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Wužiwajće wobkrućenski kod deleka, zo byšće konfiguraciju swojeho konta dokónčił.
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wužiwał
 # Subject for Verify Short Code Email
