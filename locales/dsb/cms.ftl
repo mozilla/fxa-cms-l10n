@@ -160,8 +160,40 @@ fxa-logoAltText-c4b14a5b = skokajuca liška
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Mejlki, kótarež su se na waše maski pósłali, se k toś tej adresy dalej pósrědnjaju.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Registrěrujśo se abo pśizjawśo se, aby swój postowy dochad pśed spamom šćitał
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = e-mailowa maska
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Šćitajśo swój dochad posta pśed spamom | konta Mozilla
+# Description for New Device Login Email
+fxa-description-832c10ff = Dajo nowe pśizjawjenje pla wašogo konta Mozilla:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Wašo konto jo se wužyło za pśizjawjenje
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox buźo was slědk słaś, aby pó pśizjawjenju e-mailowu masku wužywał.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Registrěrujśo se, aby swój postowy dochad pśed spamom šćitał
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = To wašo konto Mozilla napórajo, aby mógał e-mailowe maski wužywaś a zastojaś.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Napórajśo gronidło, aby swój postowy dochad pśed spamom šćitał
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Źaržćo swójo konto wěste: Wobkšuśćo swóje pśizjawjenje z kodom awtorizěrowanja dołojce.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Wužywajśo wobkšuśeński kod dołojce, aby konfiguraciju swójogo konta dokóńcył.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Wobkšuśćo swójo konto, aby e-mailowe maski wužywał
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Wobkšuśćo swójo konto, aby e-mailowe maski wužywał
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

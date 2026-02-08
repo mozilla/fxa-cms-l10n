@@ -161,7 +161,7 @@ fxa-logoAltText-c4b14a5b = skakaca liška
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
-fxa-description-607e9f0f = Mejlki, kotrež su na waše maski pósłali, so k tutej adresy dale sposrědkuja.
+fxa-description-607e9f0f = Mejlki, kotrež su so na waše maski pósłali, so k tutej adresy dale sposrědkuja.
 # Headline for Email First Page
 fxa-headline-30fd7c55 = Registrujće so abo přizjewće so, zo byšće swój póstowy dochad před spamom škitał
 # Logo Alt Text for Email First Page
