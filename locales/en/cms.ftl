@@ -1,13 +1,15 @@
-### Generated on 2026-02-06T17:52:33.940Z
+### Generated on 2026-02-09T19:57:01.870Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 # Description for Email First Page
-fxa-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
+fxa-description-0b815ba1 = It only takes a sec to sign in or create a Mozilla account.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Continue to your Mozilla account
+fxa-headline-a20eb81e = Sign up or sign in
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox logo
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Sign up or sign in
+fxa-primaryButtonText-10ac3d04 = Next
 # Description for New Device Login Email
 fxa-description-a0671d4a = There was a new sign-in to your Mozilla account:
 # Headline for New Device Login Email
@@ -60,10 +62,14 @@ fxa-headline-f827216f = Open the internet with Mozilla
 fxa-subject-ef1fb997 = Confirm your account
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+# Description for Email First Page
+fxa-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continue to your Mozilla account
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Sign up or sign in
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox logo
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 # Description for Email First Page
@@ -144,8 +150,6 @@ fxa-logoAltText-17aa6423 = Firefox Browser
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 # Description for Email First Page
 fxa-description-a0166dfc = Start syncing your data with a Mozilla account. Already have one? We’ll find it.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Sign up or sign in
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -262,6 +266,12 @@ fxa-description-811350a6 = One more step to obtaining the benefits of Firefox VP
 fxa-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’re ready for a new device.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox syncing
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+# Description for Email First Page
+fxa-description-50988cb8 = Keep everything in sync, whether you have a Mozilla account or are new here.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Sign in or create an account
 
 ## legal-notice-label-subs-services - CMS Entry
 # Label for Terms
