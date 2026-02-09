@@ -132,6 +132,13 @@ fxa-headline-ef1fb997 = ਖਾਤੇ ਦੀ ਤਸਦੀਕ
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਨ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Headline for Email First Page
+fxa-headline-a4b1427f = ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣਾ ਈਮੇਲ ਨੂੰ ਵਰਤੋਂ
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox ਬਰਾਊਜ਼ਰ
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Headline for Email First Page
@@ -141,8 +148,20 @@ fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = ਈਮੇਲ ਮਾਸਕ
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਕੋ | Mozilla ਖਾਤੇ
+# Description for New Device Login Email
+fxa-description-832c10ff = ਤੁਹਾਡੇ Mozilla ਖਾਤੇ ਲਈ ਨਵਾਂ ਲਾਗ ਇਨ ਕੀਤਾ ਗਿਆ ਸੀ:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
