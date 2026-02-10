@@ -160,6 +160,20 @@ fxa-logoAltText-c4b14a5b = rev hopper
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = E-poster sendt til dine e-postaliaser blir videresendt til denne adressen.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Registrer deg eller logg inn for å beskytte innboksen din mot søppelpost (spam)
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = e-postalias
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Beskytt innboksen din mot spam | Mozilla-kontoer
+# Description for New Device Login Email
+fxa-description-832c10ff = Det var en ny pålogging til Mozilla-kontoen din:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Kontoen din ble brukt til å logge inn
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox vil prøve å sende deg tilbake til å bruke et e-postalias etter at du har logget inn.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -168,6 +182,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Registrer deg for å beskytte innboksen din mot søppelpost (spam)
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Dette oppretter Mozilla-kontoen din, slik at du kan bruke og håndtere e-postaliaser.
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
