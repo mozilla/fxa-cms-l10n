@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = A bejelentkezés vagy a Mozilla-fiók létrehozása csak egy másodpercet vesz igénybe.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Regisztráljon vagy jelentkezzen be
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox logó
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Tovább
 # Description for New Device Login Email
 fxa-description-a0671d4a = Új bejelentkezés történt a Mozilla-fiókjába:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatáho
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktiválja a beépített VPN-jét Mozilla-fiókjával
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla – Regisztráljon egy fiókot
+# Description for New Device Login Email
+fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla-fiók
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Bejelentkezett a Mozillába?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Bejelentkezett a Mozillába?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Még egy lépés a Firefox VPN előnyeinek megszerzé
 fxa-description-861f2d28 = Készítsen biztonsági mentést a jelszavairól, lapjairól és könyvjelzőiről, hogy készen álljon az új eszköz használatára.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = szinkronizáló róka
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Tartson mindent szinkronban, akár van Mozilla fiókja, akár új felhasználó itt.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Jelentkezzen be vagy hozzon létre egy fiókot
 
 ## legal-notice-label-subs-services - CMS Entry
 

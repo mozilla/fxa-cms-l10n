@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Hanya perlu beberapa detik untuk masuk atau membuat akun Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Daftar atau masuk
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Selanjutnya
 # Description for New Device Login Email
 fxa-description-a0671d4a = Ada kejadian masuk baru ke akun Mozilla Anda:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktifkan VPN bawaan Anda dengan akun Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Daftar untuk sebuah akun
+# Description for New Device Login Email
+fxa-description-6c54afca = Anda hampir siap untuk meningkatkan privasi peramban Anda.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Akun Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Apakah Anda masuk ke Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Apakah Anda masuk ke Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Satu langkah lagi untuk mendapatkan manfaat Firefox V
 fxa-description-861f2d28 = Cadangkan kata sandi, tab, dan markah Anda sehingga Anda siap untuk perangkat baru.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sinkronisasi rubah
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Tetap sinkronkan, baik Anda memiliki akun Mozilla atau baru di sini.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Masuk atau buat akun
 
 ## legal-notice-label-subs-services - CMS Entry
 

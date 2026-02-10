@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = साइन इन गर्न वा मोजिला खाता सिर्जना गर्न एक सेकेन्ड मात्र लाग्छ।
 # Headline for Email First Page
 fxa-headline-a20eb81e = साइन अप वा साइन इन गर्नुहोस्
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox को लोगो
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = अर्को
 # Description for New Device Login Email
 fxa-description-a0671d4a = तपाईँको मोजिला खातामा नयाँ साइन इन थियो:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = इमेल मास्क प्रयोग गर्
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = मोजिला खाताको साथ आफ्नो पहिले नै VPN सक्रिय गर्नुहोस्
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = मोजिला - खाताको लागि साइन अप गर्नुहोस्
+# Description for New Device Login Email
+fxa-description-6c54afca = तपाईं आफ्नो ब्राउजरको गोपनीयता बढाउन लगभग तयार हुनुहुन्छ।
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = मोजिला खाता
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = हामीलाई तपाईँको साइन-इन अनुमोदन गरेर तपाईँको खाता सुरक्षित राख्न मद्दत गर्नुहोस्:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = के तपाईँले Mozilla मा साइन इन गर्नुभयो ?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = के तपाईँले Mozilla मा साइन इन गर्नुभयो ?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Firefox VPN का लाभहरू प्राप
 fxa-description-861f2d28 = आफ्नो पासवर्डहरू, ट्याबहरू, र बुकमार्कहरू जगेडा गर्नुहोस् ताकि तपाईं नयाँ यन्त्रको लागि तयार हुन सक्नुहुनेछ।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox सिङ्क गर्दै
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = चाहे तपाईँसँग मोजिला खाता छ वा यहाँ नयाँ हुनुहुन्छ, सबै कुरा सिङ्कमा राख्नुहोस्।
+# Headline for Email First Page
+fxa-headline-7b9deb3b = साइन इन गर्नुहोस् वा खाता सिर्जना गर्नुहोस्
 
 ## legal-notice-label-subs-services - CMS Entry
 

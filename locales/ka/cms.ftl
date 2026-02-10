@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = მხოლოდ წამი სჭირდება Mozilla-ში შესვლას ან შექმნას.
 # Headline for Email First Page
 fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-ლოგო
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = შემდეგი
 # Description for New Device Login Email
 fxa-description-a0671d4a = ახალი შესვლა თქვენს Mozilla-ანგარიშზე:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = დაადასტურეთ თქვენს ა�
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = აამოქმედეთ თქვენი ჩაშენებული VPN Mozilla-ს ანგარიშით
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - შექმენით ანგარიში
+# Description for New Device Login Email
+fxa-description-6c54afca = თითქმის მზად ხართ ბრაუზერის კონფიდენციალურობის გასაძლიერებლად.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = დაადასტურეთ თქვენი ანგარიში, Firefox-ის ჩაშენებული VPN-ით გამოსაყენებლად
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla-ანგარიში
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = დაადასტურეთ თქვენი ანგარიში, Firefox-ის ჩაშენებული VPN-ით გამოსაყენებლად
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Mozilla-ში ხართ შესული?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Mozilla-ში ხართ შესული?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = ერთი ნაბიჯიღა რჩება
 fxa-description-861f2d28 = დაამარქაფეთ პაროლები, ჩანართები და სანიშნები, რომ მზად იყოთ ახალი მოწყობილობისთვის.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = მელა ასინქრონებს
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = დატოვეთ ყველაფერი დასინქრონებული, მიუხედავად იმისა, გაქვთ Mozilla-ს ანგარიში თუ ახალი ხართ.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = შედით ან შექმენით ანგარიში
 
 ## legal-notice-label-subs-services - CMS Entry
 
