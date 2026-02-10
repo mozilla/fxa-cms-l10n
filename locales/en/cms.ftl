@@ -1,13 +1,15 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 # Description for Email First Page
-fxa-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
+fxa-description-0b815ba1 = It only takes a sec to sign in or create a Mozilla account.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Continue to your Mozilla account
+fxa-headline-a20eb81e = Sign up or sign in
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox logo
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Sign up or sign in
+fxa-primaryButtonText-10ac3d04 = Next
 # Description for New Device Login Email
 fxa-description-a0671d4a = There was a new sign-in to your Mozilla account:
 # Headline for New Device Login Email
@@ -60,10 +62,14 @@ fxa-headline-f827216f = Open the internet with Mozilla
 fxa-subject-ef1fb997 = Confirm your account
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
+# Description for Email First Page
+fxa-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continue to your Mozilla account
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Sign up or sign in
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox logo
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 # Description for Email First Page
@@ -144,8 +150,6 @@ fxa-logoAltText-17aa6423 = Firefox Browser
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 # Description for Email First Page
 fxa-description-a0166dfc = Start syncing your data with a Mozilla account. Already have one? We’ll find it.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Sign up or sign in
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -158,8 +162,6 @@ fxa-headline-30fd7c55 = Sign up or sign in to protect your inbox from spam
 fxa-logoAltText-8d308a03 = email mask
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Protect your inbox from spam | Mozilla accounts
-# Description for New Device Login Email
-fxa-description-832c10ff = There was a new sign-in to your Mozilla account:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Your account was used to sign in
 # Additional Accessibility Info for Shared
@@ -185,6 +187,26 @@ fxa-headline-2322b41f = Confirm your account to use email masks
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Confirm your account to use email masks
 
+## l10n-19 - VPN (Settings)
+# Headline for Email First Page
+fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
+# Description for New Device Login Email
+fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla account
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Did you sign in to Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Did you sign in to Mozilla?
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
 fxa-description-0a9e868b = New sign in to Firefox
@@ -196,8 +218,6 @@ fxa-description-1d4ba9f5 = Enter password to continue to your Mozilla account
 fxa-description-87881780 = Enter confirmation code for your Mozilla account
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Just one quick step. Enter the code from your email to activate your Mozilla account.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirm your account
 # Headline for Verify Short Code Email
@@ -260,6 +280,12 @@ fxa-description-811350a6 = One more step to obtaining the benefits of Firefox VP
 fxa-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’re ready for a new device.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox syncing
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+# Description for Email First Page
+fxa-description-50988cb8 = Keep everything in sync, whether you have a Mozilla account or are new here.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Sign in or create an account
 
 ## legal-notice-label-subs-services - CMS Entry
 # Label for Terms
