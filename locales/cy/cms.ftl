@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Dim ond eiliad mae'n ei gymryd i fewngofnodi neu greu cyfrif Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Cofrestrwch neu fewngofnodi
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Nesaf
 # Description for New Device Login Email
 fxa-description-a0671d4a = Roedd mewngofnodi newydd i'ch cyfrif Mozilla:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio arallenwau e-byst
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Gweithredwch eich VPN adeiledig gyda chyfrif Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
+# Description for New Device Login Email
+fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN adeiledig Firefox
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Cyfrif Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN adeiledig Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Helpwch ni i gadw'ch cyfrif yn ddiogel trwy gymeradwyo eich mewngofnodi:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = A wnaethoch chi fewngofnodi i Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = A wnaethoch chi fewngofnodi i Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Un cam arall i gael buddion Firefox VPN. Ewch i'r pan
 fxa-description-861f2d28 = Gwnewch gopi wrth gefn o'ch cyfrineiriau, tabiau a nodau tudalen fel eich bod chi'n barod am ddyfais newydd.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = cydweddu llwynog
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Cadwch bopeth wedi'i gysoni, p'un a oes gennych gyfrif Mozilla neu a ydych yn newydd yma.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Mewngofnodi neu greu cyfrif
 
 ## legal-notice-label-subs-services - CMS Entry
 

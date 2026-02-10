@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Leva apenas um segundo para entrar ou criar uma conta Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Entrar na sua conta ou criar uma
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logotipo do Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Próximo
 # Description for New Device Login Email
 fxa-description-a0671d4a = Houve um novo acesso na sua conta Mozilla:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Confirme sua conta para usar máscaras de email
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Ative sua VPN integrada com uma conta Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Criar uma conta
+# Description for New Device Login Email
+fxa-description-6c54afca = Você está quase pronto para aumentar a privacidade do seu navegador.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Confirme sua conta para usar a VPN integrada do Firefox
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Conta Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Confirme sua conta para usar a VPN integrada do Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Ajude-nos a manter sua conta segura aprovando seu acesso em:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Você entrou na Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Você entrou na Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Mais uma etapa para obter os benefícios do Firefox V
 fxa-description-861f2d28 = Faça backup de suas senhas, abas e favoritos para estar pronto para um novo dispositivo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronização da raposa
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Mantenha tudo sincronizado, tenha uma conta Mozilla ou seja novo aqui.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Entrar ou criar uma conta
 
 ## legal-notice-label-subs-services - CMS Entry
 

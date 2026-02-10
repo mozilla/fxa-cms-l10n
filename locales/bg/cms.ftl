@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Отнема секунда, за да влезете или да създадете профил в Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Регистриране или вписване
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Лого на Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Напред
 # Description for New Device Login Email
 fxa-description-a0671d4a = Имаше ново влизане във вашия профил в Mozilla:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Потвърдете профила си, за да из�
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Активирайте вградения VPN с акаунт в Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Регистриране на профил
+# Description for New Device Login Email
+fxa-description-6c54afca = Почти сте готови да подобрите поверителността на браузъра си.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla профил
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Вписани ли сте в Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Вписани ли сте в Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Още една стъпка към получава�
 fxa-description-861f2d28 = Архивирайте паролите, разделите и отметките си, за да сте готови за ново устройство.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = синхронизация
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Поддържайте всичко синхронизирано, независимо дали имате профил в Mozilla или сте нов тук.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Влезте или създайте профил
 
 ## legal-notice-label-subs-services - CMS Entry
 

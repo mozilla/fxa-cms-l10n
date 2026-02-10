@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Mozilla 계정에 로그인하거나 생성하는데 몇 초밖에 걸리지 않습니다.
 # Headline for Email First Page
 fxa-headline-a20eb81e = 가입 또는 로그인
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox 로고
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = 다음
 # Description for New Device Login Email
 fxa-description-a0671d4a = Mozilla 계정에 새로 로그인했습니다:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = 이메일 마스크를 사용하려면 계정을 확인�
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Mozilla 계정으로 내장 VPN을 활성화하세요
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - 계정 생성
+# Description for New Device Login Email
+fxa-description-6c54afca = 브라우저의 개인 정보 보호를 강화할 준비가 거의 다 되었습니다.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla 계정
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = 기기에서 일어난 로그인을 확인하여 계정을 안전하게 보호하세요:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Mozilla에 로그인하셨나요?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Mozilla에 로그인하셨나요?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Firefox VPN의 이점을 누리기 위한 한 단계 
 fxa-description-861f2d28 = 새 기기를 사용할 준비가 되도록 비밀번호, 탭 및 북마크를 백업하세요.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Fox sync
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Mozilla 계정을 보유하고 계시거나 신규 계정이 아니더라도 모든 것을 동기화하세요.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = 로그인 또는 계정 생성
 
 ## legal-notice-label-subs-services - CMS Entry
 
