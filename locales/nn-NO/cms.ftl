@@ -180,6 +180,20 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Registrer deg for å beskytte innboksen din mot søppelpost (spam)
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Dette opprettar Mozilla-kontoen din, slik at du kan bruke og handtere e-postalias.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Opprett eit passord for å beskytte innboksen din mot søppelpost (spam)
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Hald kontoen din trygg ved å godkjenne innlogginga med godkjenningskoden nedanfor.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Bruk godkjenningskoden nedanfor for å fullføre oppsettet av kontoen din.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Stadfest kontoen din for å bruke e-postalias
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Stadfest kontoen din for å bruke e-postalias
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
