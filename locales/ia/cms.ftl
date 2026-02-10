@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Synchronisa tu contrasignos, schedas e marcapaginas ubique tu usa Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Continua verso tu conto Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Inscribe te o accede
+fxa-headline-a20eb81e = Inscribe te o accede
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Logo Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = Il habeva un nove connexion a tu conto Mozilla
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Confirma tu conto
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Synchronisa tu contrasignos, schedas e marcapaginas ubique tu usa Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continua verso tu conto Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Inscribe te o accede
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Logo Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Navigator Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = Initia synchronisar tu datos con un conto Mozilla. Ha tu jam ha un? Nos lo trovara.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Inscribe te o accede
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = vulpe que salta
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Inscribe te o accede pro proteger tu cassa de ingresso c
 fxa-logoAltText-8d308a03 = masca de e-mail
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Protege tu cassa de ingresso contra spam: contos Mozilla
-# Description for New Device Login Email
-fxa-description-832c10ff = Il habeva un nove accesso a tu conto Mozilla:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Tu conto era usate pro acceder
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Confirma tu conto pro usar mascas de e-mail
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Confirma tu conto pro usar mascas de e-mail
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Insere le contrasigno pro passar a tu conto Mozilla
 fxa-description-87881780 = Insere le codice de confirmation pro tu conto Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Solo un rapide passo. Insere le codice ab tu email pro activar tu conto Mozilla.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirma tu conto
 # Headline for Verify Short Code Email

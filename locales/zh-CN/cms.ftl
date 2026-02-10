@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = 在您使用 Firefox 的各设备间，同步密码、标签页、书签。
 # Headline for Email First Page
-fxa-headline-33e9f42d = 继续登录 Mozilla 账户
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = 注册或登录
+fxa-headline-a20eb81e = 注册或登录
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox 徽标
 # Description for New Device Login Email
 fxa-description-a0671d4a = 您的 Mozilla 账户有新的登录活动：
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = 确认您的账户
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = 在您使用 Firefox 的各设备间，同步密码、标签页、书签。
+# Headline for Email First Page
+fxa-headline-33e9f42d = 继续登录 Mozilla 账户
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = 注册或登录
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox 徽标
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox 徽标
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox 浏览器
 
 # Description for Email First Page
 fxa-description-a0166dfc = 开始与 Mozilla 账户同步您的数据。已经有了我们会找到的。
-# Headline for Email First Page
-fxa-headline-a20eb81e = 注册或登录
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 狐狸跳跃
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = 注册或登录以保护您的收件箱免受垃圾邮�
 fxa-logoAltText-8d308a03 = 马甲邮箱
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = 保护您的收件箱免受垃圾邮件| Mozilla 账户
-# Description for New Device Login Email
-fxa-description-832c10ff = 您的 Mozilla 账户有新的登录信息
 # Headline for New Device Login Email
 fxa-headline-db70c503 = 您的账户被用于登录
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = 确认您的账户以使用马甲邮箱
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = 确认您的账户以使用马甲邮箱
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = 请确认您的登录活动，以确保账户安全：
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = 输入密码以继续使用您的 Mozilla 账户
 fxa-description-87881780 = 输入 Mozilla 账户的确认码
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 只差一小步了。请输入邮件中的验证码，激活您的 Mozilla 账户。
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = 请确认您的登录活动，以确保账户安全：
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = 确认您的账户
 # Headline for Verify Short Code Email

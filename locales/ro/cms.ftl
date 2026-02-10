@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Sincronizează-ți parolele, filele și marcajele oriunde folosești Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Continuă către contul tău Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Fă-ți un cont sau intră în cont
+fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Logo Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = Am depistat o autentificare nouă în contul tău Mozilla:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Confirmă-ți contul
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Sincronizează-ți parolele, filele și marcajele oriunde folosești Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continuă către contul tău Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Fă-ți un cont sau intră în cont
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Logo Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Browserul Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = Începe să-ți sincronizezi datele cu un cont Mozilla. Ai deja unul? Îl găsim noi.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = salt
 
@@ -162,6 +162,11 @@ fxa-logoAltText-c4b14a5b = salt
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Ajută-ne să îți protejăm contul aprobând autentificarea în:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -175,8 +180,6 @@ fxa-description-1d4ba9f5 = Introdu parola ca să intri în contul Mozilla
 fxa-description-87881780 = Introdu codul de confirmare pentru contul tău Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Doar un pas rapid. Introdu codul din mesajul primit pe e-mail pentru a-ți activa contul Mozilla.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Ajută-ne să îți protejăm contul aprobând autentificarea în:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirmă-ți contul
 # Headline for Verify Short Code Email

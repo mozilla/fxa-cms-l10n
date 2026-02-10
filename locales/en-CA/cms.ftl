@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Continue to your Mozilla account
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Sign up or sign in
+fxa-headline-a20eb81e = Sign up or sign in
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox logo
 # Description for New Device Login Email
 fxa-description-a0671d4a = There was a new sign-in to your Mozilla account:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Confirm your account
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continue to your Mozilla account
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Sign up or sign in
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox logo
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox Browser
 
 # Description for Email First Page
 fxa-description-a0166dfc = Start syncing your data with a Mozilla account. Already have one? We’ll find it.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Sign up or sign in
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Sign up or sign in to protect your inbox from spam
 fxa-logoAltText-8d308a03 = email mask
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Protect your inbox from spam | Mozilla accounts
-# Description for New Device Login Email
-fxa-description-832c10ff = There was a new sign-in to your Mozilla account:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Your account was used to sign in
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Confirm your account to use email masks
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Confirm your account to use email masks
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Enter password to continue to your Mozilla account
 fxa-description-87881780 = Enter confirmation code for your Mozilla account
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Just one quick step. Enter the code from your email to activate your Mozilla account.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirm your account
 # Headline for Verify Short Code Email

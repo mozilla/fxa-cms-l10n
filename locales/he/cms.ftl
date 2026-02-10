@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = סנכרון הססמאות, הלשוניות פתוחות והסימניות שלך בכל מקום בו יש לך את Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = המשך אל חשבון ה־Mozilla שלך
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = הרשמה או התחברות
+fxa-headline-a20eb81e = הרשמה או התחברות
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = הסמל של Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = בוצעה כניסה חדשה לחשבון ה־Mozilla שלך:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = אימות החשבון שלך
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = סנכרון הססמאות, הלשוניות פתוחות והסימניות שלך בכל מקום בו יש לך את Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = המשך אל חשבון ה־Mozilla שלך
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = הרשמה או התחברות
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = הסמל של Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = הסמל של Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = דפדפן Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = בואו נתחיל לסנכרן את הנתונים שלך עם חשבון Mozilla. כבר יש לך אחד? אנחנו נמצא אותו.
-# Headline for Email First Page
-fxa-headline-a20eb81e = הרשמה או התחברות
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = שועל קופץ
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = יש להירשם או להתחבר כדי להגן על
 fxa-logoAltText-8d308a03 = מסכת דוא״ל
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = הגנה על תיבת הדואר הנכנס שלך מפני דואל זבל | חשבונות Mozilla
-# Description for New Device Login Email
-fxa-description-832c10ff = בוצעה כניסה חדשה לחשבון ה־Mozilla שלך:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = נעשה שימוש בחשבון שלך להתחברות
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = יש לאמת את החשבון שלך כדי להשתמ
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמש במסכות דוא״ל
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = נא להכניס את הססמה כדי להמשיך
 fxa-description-87881780 = נא להכניס קוד אימות עבור חשבון ה־Mozilla שלך
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = צעד אחד קצר בלבד. נא להכניס את הקוד מהדוא״ל שלך כדי להפעיל את חשבון ה־Mozilla שלך.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = אימות החשבון שלך
 # Headline for Verify Short Code Email

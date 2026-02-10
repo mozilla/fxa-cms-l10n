@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Synchroniseer uw wachtwoorden, tabbladen en bladwijzers overal waar u Firefox gebruikt.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Doorgaan naar uw Mozilla-account
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Registreren of aanmelden
+fxa-headline-a20eb81e = Registreren of aanmelden
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox-logo
 # Description for New Device Login Email
 fxa-description-a0671d4a = Er is een nieuwe aanmelding op uw Mozilla-account:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Bevestig uw account
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Synchroniseer uw wachtwoorden, tabbladen en bladwijzers overal waar u Firefox gebruikt.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Doorgaan naar uw Mozilla-account
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Registreren of aanmelden
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-logo
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox-logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox-browser
 
 # Description for Email First Page
 fxa-description-a0166dfc = Begin met het synchroniseren van uw gegevens met een Mozilla-account. Hebt u er al een? We vinden hem wel.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Registreren of aanmelden
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = springende vos
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Registreer of meld u aan om uw Postvak IN te beschermen 
 fxa-logoAltText-8d308a03 = e-mailmasker
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Bescherm uw Postvak IN tegen spam | Mozilla-accounts
-# Description for New Device Login Email
-fxa-description-832c10ff = Er was een nieuwe aanmelding op uw Mozilla-account:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Uw account is gebruikt om aan te melden
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Bevestig uw account om e-mailmaskers te gebruiken
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Bevestig uw account om e-mailmaskers te gebruiken
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Help ons uw account veilig te houden door uw aanmelding goed te keuren op:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Voer uw wachtwoord in om door te gaan naar uw Mozilla
 fxa-description-87881780 = Voer bevestigingscode voor uw Mozilla-account in
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Slechts één snelle stap. Voer de code uit het e-mailbericht in om uw Mozilla-account te activeren.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Help ons uw account veilig te houden door uw aanmelding goed te keuren op:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Bevestig uw account
 # Headline for Verify Short Code Email

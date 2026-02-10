@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Firefox를 사용하는 어디서든 탭, 비밀번호, 그리고 북마크를 동기화합니다.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Mozilla 계정으로 계속
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = 가입 또는 로그인
+fxa-headline-a20eb81e = 가입 또는 로그인
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox 로고
 # Description for New Device Login Email
 fxa-description-a0671d4a = Mozilla 계정에 새로 로그인했습니다:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = 계정 확인
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Firefox를 사용하는 어디서든 탭, 비밀번호, 그리고 북마크를 동기화합니다.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Mozilla 계정으로 계속
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = 가입 또는 로그인
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox 로고
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox 로고
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox 브라우저
 
 # Description for Email First Page
 fxa-description-a0166dfc = Mozilla 계정으로 데이터 동기화를 시작하세요. 이미 계정이 있으신가요? 찾아드립니다.
-# Headline for Email First Page
-fxa-headline-a20eb81e = 가입 또는 로그인
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Fox jumping
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = 받은 편지함을 스팸으로부터 보호하려면 �
 fxa-logoAltText-8d308a03 = 이메일 마스크
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = 스팸으로부터 받은 편지함 보호 | Mozilla 계정
-# Description for New Device Login Email
-fxa-description-832c10ff = Mozilla 계정에 새로 로그인하였습니다:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = 귀하의 계정은 로그인에 사용되었습니다.
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = 이메일 마스크를 사용하려면 계정을 확인�
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = 이메일 마스크를 사용하려면 계정을 확인하세요
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = 기기에서 일어난 로그인을 확인하여 계정을 안전하게 보호하세요:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Mozilla 계정을 사용하려면 비밀번호를 입
 fxa-description-87881780 = Mozilla 계정의 확인 코드를 입력하세요.
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 한 단계만 빠르게 진행하세요. 이메일에 있는 코드를 입력해서 Mozilla 계정을 활성화하세요.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = 기기에서 일어난 로그인을 확인하여 계정을 안전하게 보호하세요:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = 계정 확인
 # Headline for Verify Short Code Email

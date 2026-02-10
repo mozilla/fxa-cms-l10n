@@ -1,8 +1,8 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
-## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
+## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronisescha tes pleds-clav, tabs e segnapaginas dapertut là nua che ti utiliseschas Firefox.

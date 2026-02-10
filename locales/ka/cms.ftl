@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = დაასინქრონეთ სანიშნები, ისტორია და პაროლები ყველგან, სადაც გიყენიათ Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = განაგრძეთ Mozilla-ანგარიშით
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = შედით ან შექმენით ანგარიში
+fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox-ლოგო
 # Description for New Device Login Email
 fxa-description-a0671d4a = ახალი შესვლა თქვენს Mozilla-ანგარიშზე:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = დაადასტურეთ თქვენი ა�
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = დაასინქრონეთ სანიშნები, ისტორია და პაროლები ყველგან, სადაც გიყენიათ Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = განაგრძეთ Mozilla-ანგარიშით
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = შედით ან შექმენით ანგარიში
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-ლოგო
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox-ლოგო
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox-ბრაუზერი
 
 # Description for Email First Page
 fxa-description-a0166dfc = დაიწყეთ თქვენი მონაცემების დასინქრონება Mozilla-ს ანგარიშით. უკვე გაქვთ? ჩვენ მოვძებნით.
-# Headline for Email First Page
-fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = მელა დახტის
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = შექმენით ან შედით ან�
 fxa-logoAltText-8d308a03 = ელფოსტის შენიღბვა
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = დაიცავით თქვენი საფოსტო ყუთი სპამისგან | Mozilla-ს ანგარიშები
-# Description for New Device Login Email
-fxa-description-832c10ff = თქვენს Mozilla-ს ანგარიშზე ახალი შესვლა დაფიქსირდა:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = თქვენი ანგარიში გამოყენებულია შესვლისთვის
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = დაადასტურეთ თქვენს ა
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = დაადასტურეთ თქვენს ანგარიშზე ელფოსტის ნიღბების გამოყენება
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = მიუთითეთ პაროლი თქვ
 fxa-description-87881780 = შეიყვანეთ თქვენი Mozilla-ანგარიშის დამადასტურებელი კოდი
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = მხოლოდ ერთი სწრაფი ნაბიჯი. შეიყვანეთ კოდი ელფოსტიდან თქვენი Mozilla-ანგარიშის ასამოქმედებლად.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = დაადასტურეთ თქვენი ანგარიში
 # Headline for Verify Short Code Email

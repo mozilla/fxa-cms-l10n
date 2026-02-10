@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Сінхранізуйце свае паролі, карткі і закладкі ўсюды, дзе вы карыстаецеся Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвайсці
+fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Лагатып Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = У ваш уліковы запіс Mozilla быў выкананы новы ўваход:
 # Headline for New Device Login Email
@@ -53,10 +51,14 @@ fxa-subject-ef1fb997 = Пацвердзіце свой уліковы запіс
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Сінхранізуйце свае паролі, карткі і закладкі ўсюды, дзе вы карыстаецеся Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвайсці
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Лагатып Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Лагатып Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -64,11 +66,6 @@ fxa-logoAltText-96e4284e = Лагатып Firefox
 fxa-primaryButtonText-be11c74c = Пачаць
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
-
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Headline for Email First Page
-fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = আপনার পাসওয়ার্ড, ট্যাব এবং বুকমার্কগুলো সিঙ্ক করুন, যেখানে যেখানে আপনি Firefox ব্যবহার করেন।
 # Headline for Email First Page
-fxa-headline-33e9f42d = আপনার Mozilla অ্যাকাউন্টে চালিয়ে যান
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
+fxa-headline-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox লোগো
 # Description for New Device Login Email
 fxa-description-a0671d4a = আপনার Mozilla অ্যাকাউন্টে একটি নতুন সাইন-ইন হয়েছে:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = আপনার অ্যাকাউন্ট নিশ�
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = আপনার পাসওয়ার্ড, ট্যাব এবং বুকমার্কগুলো সিঙ্ক করুন, যেখানে যেখানে আপনি Firefox ব্যবহার করেন।
+# Headline for Email First Page
+fxa-headline-33e9f42d = আপনার Mozilla অ্যাকাউন্টে চালিয়ে যান
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox লোগো
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox লোগো
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -140,8 +142,6 @@ fxa-subject-10e5b452 = Firefox এ সাইন ইন করতে আপনা
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ফক্স লাফাচ্ছে
 
@@ -149,6 +149,11 @@ fxa-logoAltText-c4b14a5b = ফক্স লাফাচ্ছে
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = আপনার সাইন ইন অনুমোদন করে আমাদের সাহায্য করুন যাতে আপনার অ্যাকাউন্ট নিরাপদ থাকে:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -158,8 +163,6 @@ fxa-description-0a9e868b = Firefox এ নতুন সাইন ইন
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = মাত্র এক ধাপ বাকি। আপনার ইমেইল থেকে কোডটি লিখুন এবং আপনার Mozilla অ্যাকাউন্ট সক্রিয় করুন।
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = আপনার সাইন ইন অনুমোদন করে আমাদের সাহায্য করুন যাতে আপনার অ্যাকাউন্ট নিরাপদ থাকে:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = আপনার অ্যাকাউন্ট নিশ্চিত করুন
 # Headline for Verify Short Code Email

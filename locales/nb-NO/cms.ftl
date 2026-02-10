@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Synkroniser passordene, fanene og bokmerkene dine overalt hvor du bruker Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Fortsett til Mozilla-kontoen din
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Registrer deg eller logg inn
+fxa-headline-a20eb81e = Registrer deg eller logg inn
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox-logo
 # Description for New Device Login Email
 fxa-description-a0671d4a = Det var en ny pålogging til Mozilla-kontoen din:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Bekreft kontoen
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Synkroniser passordene, fanene og bokmerkene dine overalt hvor du bruker Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Fortsett til Mozilla-kontoen din
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Registrer deg eller logg inn
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-logo
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox-logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox-nettleser
 
 # Description for Email First Page
 fxa-description-a0166dfc = Begynn å synkronisere dataene dine med en Mozilla-konto. Har du allerede en? Vi finner den.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Registrer deg eller logg inn
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = rev hopper
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Registrer deg eller logg inn for å beskytte innboksen d
 fxa-logoAltText-8d308a03 = e-postalias
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Beskytt innboksen din mot spam | Mozilla-kontoer
-# Description for New Device Login Email
-fxa-description-832c10ff = Det var en ny pålogging til Mozilla-kontoen din:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Kontoen din ble brukt til å logge inn
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Bekreft kontoen din for å bruke e-postalias
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Bekreft kontoen din for å bruke e-postalias
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Hjelp oss med å holde kontoen din trygg ved å godkjenne innloggingen din på:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Skriv inn passordet for å fortsette til Mozilla-kont
 fxa-description-87881780 = Skriv inn bekreftelseskoden for Mozilla-kontoen din
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bare ett raskt trinn. Skriv inn koden fra e-posten din for å aktivere Mozilla-kontoen din.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Hjelp oss med å holde kontoen din trygg ved å godkjenne innloggingen din på:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Bekreft kontoen din
 # Headline for Verify Short Code Email

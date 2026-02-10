@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = 在使用 Firefox 的所有地方同步您的密碼、分頁、書籤。
 # Headline for Email First Page
-fxa-headline-33e9f42d = 繼續前往 Mozilla 帳號
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = 註冊或登入
+fxa-headline-a20eb81e = 註冊或登入
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox 圖示
 # Description for New Device Login Email
 fxa-description-a0671d4a = 您的 Mozilla 帳號有筆新的登入紀錄：
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = 確認您的帳號
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = 在使用 Firefox 的所有地方同步您的密碼、分頁、書籤。
+# Headline for Email First Page
+fxa-headline-33e9f42d = 繼續前往 Mozilla 帳號
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = 註冊或登入
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox 圖示
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox 圖示
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox 瀏覽器
 
 # Description for Email First Page
 fxa-description-a0166dfc = 使用 Mozilla 帳號同步資料。已經註冊過了嗎？讓我們來找找。
-# Headline for Email First Page
-fxa-headline-a20eb81e = 註冊或登入
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 狐狸在跳躍
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = 註冊或登入後，即可保護您的收件匣不受�
 fxa-logoAltText-8d308a03 = 轉寄信箱
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = 保護您的收件匣，不受垃圾信騷擾 | Mozilla 帳號
-# Description for New Device Login Email
-fxa-description-832c10ff = 您的 Mozilla 帳號有筆新的登入紀錄：
 # Headline for New Device Login Email
 fxa-headline-db70c503 = 您的帳號已用於登入
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = 確認您的帳號後即可使用轉寄信箱
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = 確認您的帳號後即可使用轉寄信箱
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = 請輸入密碼，以繼續前往您的 Mozilla 帳�
 fxa-description-87881780 = 請輸入您 Mozilla 帳號的確認碼
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 只需一個快速步驟。請輸入郵件中的驗證碼來啟用您的 Mozilla 帳號。
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = 確認您的帳號
 # Headline for Verify Short Code Email

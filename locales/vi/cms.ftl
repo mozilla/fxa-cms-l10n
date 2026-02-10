@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Đồng bộ hóa mật khẩu, thẻ và dấu trang của bạn ở mọi nơi bạn sử dụng Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Tiếp tục với tài khoản Mozilla của bạn
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Đăng ký hoặc đăng nhập
+fxa-headline-a20eb81e = Đăng ký hoặc đăng nhập
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Logo Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = Có đăng nhập mới vào tài khoản Mozilla của bạn:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Xác minh tài khoản của bạn
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Đồng bộ hóa mật khẩu, thẻ và dấu trang của bạn ở mọi nơi bạn sử dụng Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Tiếp tục với tài khoản Mozilla của bạn
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Đăng ký hoặc đăng nhập
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Logo Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Trình duyệt Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = Hãy bắt đầu đồng bộ hóa dữ liệu của bạn với tài khoản Mozilla. Bạn đã có tài khoản? Chúng tôi sẽ giúp bạn tìm nó.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Đăng ký hoặc đăng nhập
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox nhảy
 
@@ -162,6 +162,11 @@ fxa-logoAltText-c4b14a5b = fox nhảy
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Giúp chúng tôi giữ an toàn cho tài khoản của bạn bằng cách chấp thuận đăng nhập của bạn trên:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -175,8 +180,6 @@ fxa-description-1d4ba9f5 = Nhập mật khẩu để tiếp tục truy cập tà
 fxa-description-87881780 = Nhập mã xác minh cho tài khoản Mozilla của bạn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Chỉ cần một bước nhanh chóng. Nhập mã từ email của bạn để kích hoạt tài khoản Mozilla.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Giúp chúng tôi giữ an toàn cho tài khoản của bạn bằng cách chấp thuận đăng nhập của bạn trên:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Xác minh tài khoản của bạn
 # Headline for Verify Short Code Email

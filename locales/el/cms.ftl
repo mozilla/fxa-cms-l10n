@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Συγχρονίστε τους κωδικούς πρόσβασης, τις καρτέλες και τους σελιδοδείκτες σας οπουδήποτε χρησιμοποιείτε το Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Συνέχεια στον λογαριασμό Mozilla σας
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Εγγραφή ή σύνδεση
+fxa-headline-a20eb81e = Εγγραφή ή σύνδεση
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Λογότυπο Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = Έγινε νέα σύνδεση στον λογαριασμό Mozilla σας:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Επιβεβαίωση του λογαριασμού σα
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Συγχρονίστε τους κωδικούς πρόσβασης, τις καρτέλες και τους σελιδοδείκτες σας οπουδήποτε χρησιμοποιείτε το Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Συνέχεια στον λογαριασμό Mozilla σας
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Εγγραφή ή σύνδεση
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Λογότυπο Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Λογότυπο Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Πρόγραμμα περιήγησης Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = Ξεκινήστε τον συγχρονισμό των δεδομένων σας με έναν λογαριασμό Mozilla. Διαθέτετε ήδη έναν; Θα τον βρούμε.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Εγγραφή ή σύνδεση
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = μια αλεπού που κάνει άλμα
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Εγγραφείτε ή συνδεθείτε για να
 fxa-logoAltText-8d308a03 = μάσκα email
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Προστατέψτε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα | Λογαριασμοί Mozilla
-# Description for New Device Login Email
-fxa-description-832c10ff = Έγινε νέα σύνδεση στον λογαριασμό Mozilla σας:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Ο λογαριασμός σας χρησιμοποιήθηκε για σύνδεση
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Επιβεβαιώστε τον λογαριασμό σ�
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Επιβεβαιώστε τον λογαριασμό σας για χρήση των μασκών email
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Βοηθήστε μας να προστατέψουμε τον λογαριασμό σας εγκρίνοντας τη σύνδεσή σας στο:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Εισαγάγετε τον κωδικό πρόσβα
 fxa-description-87881780 = Εισαγάγετε τον κωδικό επιβεβαίωσης για τον λογαριασμό Mozilla σας
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Απομένει μόνο ένα βήμα ακόμη. Εισαγάγετε τον κωδικό από το email σας για να ενεργοποιήσετε τον λογαριασμό Mozilla σας.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Βοηθήστε μας να προστατέψουμε τον λογαριασμό σας εγκρίνοντας τη σύνδεσή σας στο:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Επιβεβαίωση του λογαριασμού σας
 # Headline for Verify Short Code Email

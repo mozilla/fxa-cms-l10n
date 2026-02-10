@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Ниҳонвожаҳо, варақаҳо ва хатбаракҳоро дар ҳамаи ҷойҳое, ки шумо аз «Firefox» истифода мебаред, ҳамоҳанг созед.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Ба ҳисоби «Mozilla»-и худ идома диҳед
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Сабти ном кунед ё ворид шавед
+fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Ангораи браузери «Firefox»
 # Description for New Device Login Email
 fxa-description-a0671d4a = Ба ҳисоби «Mozilla»-и шумо воридшавии нав иҷро шуд:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Ҳисоби худро тасдиқ кунед
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Ниҳонвожаҳо, варақаҳо ва хатбаракҳоро дар ҳамаи ҷойҳое, ки шумо аз «Firefox» истифода мебаред, ҳамоҳанг созед.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Ба ҳисоби «Mozilla»-и худ идома диҳед
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Сабти ном кунед ё ворид шавед
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Ангораи браузери «Firefox»
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Ангораи браузери «Firefox»
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -149,8 +151,6 @@ fxa-logoAltText-17aa6423 = Браузери «Firefox»
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = рӯбоҳи ҷаста
 
@@ -158,6 +158,11 @@ fxa-logoAltText-c4b14a5b = рӯбоҳи ҷаста
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -171,8 +176,6 @@ fxa-description-1d4ba9f5 = Барои ворид шудан ба ҳисоби «
 fxa-description-87881780 = Рамзи тасдиқкунандаро барои ҳисоби «Mozilla»-и худ ворид намоед
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Танҳо як қадами дигар боқӣ мондааст. Барои фаъолсозии ҳисоби худ дар «Mozilla», лутфан, рамзеро, ки мо ба почтаи электронии шумо ирсол кардем, ворид намоед.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Ҳисоби худро тасдиқ кунед
 # Headline for Verify Short Code Email

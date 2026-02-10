@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Synkronoi salasanat, välilehdet ja kirjanmerkit kaikkialla, missä käytät Firefoxia.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Jatka Mozilla-tilillesi
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Rekisteröidy tai kirjaudu sisään
+fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox-logo
 # Description for New Device Login Email
 fxa-description-a0671d4a = Uusi kirjautuminen Mozilla-tilillesi:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Vahvista tilisi
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Synkronoi salasanat, välilehdet ja kirjanmerkit kaikkialla, missä käytät Firefoxia.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Jatka Mozilla-tilillesi
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Rekisteröidy tai kirjaudu sisään
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-logo
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox-logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -142,8 +144,6 @@ fxa-subject-10e5b452 = Vahvista tilisi kirjautuaksesi Firefoxiin
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ketun hyppy
 
@@ -151,6 +151,11 @@ fxa-logoAltText-c4b14a5b = ketun hyppy
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Auta meitä pitämään tilisi turvassa vahvistamalla, että kirjauduit sisään:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -164,8 +169,6 @@ fxa-description-1d4ba9f5 = Anna salasana jatkaaksesi Mozilla-tilillesi
 fxa-description-87881780 = Anna Mozilla-tilisi vahvistuskoodi
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Yksi nopea vaihe. Syötä sähköpostitse saamasi koodi aktivoidaksesi Mozilla-tilisi.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Auta meitä pitämään tilisi turvassa vahvistamalla, että kirjauduit sisään:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Vahvista tilisi
 # Headline for Verify Short Code Email

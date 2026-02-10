@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Sincronize senhas, abas e favoritos onde quer que use o Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Continuar para sua conta Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Entrar na sua conta ou criar uma
+fxa-headline-a20eb81e = Entrar na sua conta ou criar uma
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Logotipo do Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = Houve um novo acesso na sua conta Mozilla:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Confirme sua conta
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Sincronize senhas, abas e favoritos onde quer que use o Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continuar para sua conta Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Entrar na sua conta ou criar uma
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logotipo do Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Logotipo do Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Navegador Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = Comece a sincronizar seus dados com uma conta Mozilla. Já tem um? Nós encontraremos.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Entrar na sua conta ou criar uma
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = salto da raposa
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Cadastre-se ou entre para proteger sua caixa de entrada 
 fxa-logoAltText-8d308a03 = máscara de email
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Proteja sua caixa de entrada contra spam | contas Mozilla
-# Description for New Device Login Email
-fxa-description-832c10ff = Houve um novo acesso na sua conta Mozilla:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Sua conta foi usada para entrar
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Confirme sua conta para usar máscaras de email
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Confirme sua conta para usar máscaras de email
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Ajude-nos a manter sua conta segura aprovando seu acesso em:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Digite a senha para continuar para sua conta Mozilla
 fxa-description-87881780 = Digite o código de confirmação da sua conta Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Apenas uma etapa rápida. Digite o código recebido por email para ativar sua conta Mozilla.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Ajude-nos a manter sua conta segura aprovando seu acesso em:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirme sua conta
 # Headline for Verify Short Code Email

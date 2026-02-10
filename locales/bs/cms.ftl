@@ -1,15 +1,11 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Sinhronizujte svoje lozinke, tabove i zabilješke svugdje gdje koristite Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Nastavite na svoj Mozilla račun
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Registrujte se ili prijavite se
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox logo
 # Description for New Device Login Email
 fxa-description-a0671d4a = Došlo je do nove prijave na vaš Mozilla račun:
 # Headline for New Device Login Email
@@ -63,10 +59,14 @@ fxa-subject-ef1fb997 = Potvrdite račun
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Sinhronizujte svoje lozinke, tabove i zabilješke svugdje gdje koristite Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Nastavite na svoj Mozilla račun
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Registrujte se ili prijavite se
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox logo
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox logo
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

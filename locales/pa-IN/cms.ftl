@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਆਪਣੇ ਪਾਸਵਰਡ, ਟੈਬਾਂ ਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 # Headline for Email First Page
-fxa-headline-33e9f42d = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
+fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox ਲੋਗੋ
 # Description for New Device Login Email
 fxa-description-a0671d4a = ਤੁਹਾਡੇ Mozilla ਖਾਤੇ ਲਈ ਨਵਾਂ ਲਾਗ ਇਨ ਕੀਤਾ ਗਿਆ ਸੀ:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = ਆਪਣੇ ਖਾਤੇ ਦੀ ਤਸਦੀਕ
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਆਪਣੇ ਪਾਸਵਰਡ, ਟੈਬਾਂ ਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
+# Headline for Email First Page
+fxa-headline-33e9f42d = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox ਲੋਗੋ
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox ਲੋਗੋ
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -141,8 +143,6 @@ fxa-logoAltText-17aa6423 = Firefox ਬਰਾਊਜ਼ਰ
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
 
@@ -152,8 +152,6 @@ fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
 fxa-logoAltText-8d308a03 = ਈਮੇਲ ਮਾਸਕ
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਕੋ | Mozilla ਖਾਤੇ
-# Description for New Device Login Email
-fxa-description-832c10ff = ਤੁਹਾਡੇ Mozilla ਖਾਤੇ ਲਈ ਨਵਾਂ ਲਾਗ ਇਨ ਕੀਤਾ ਗਿਆ ਸੀ:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ
 # Email From Name for Shared
@@ -162,6 +160,11 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਵਾਸਤੇ ਆਪਣੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਇਸ ਤੋਂ ਮਨਜ਼ੂਰ ਕਰੋ:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -173,8 +176,6 @@ fxa-emailFromName-502f1bd9 = Mozilla
 fxa-description-1d4ba9f5 = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਦਿਓ
 # Description for Signin Token Code Page
 fxa-description-87881780 = ਆਪਣੇ Mozilla ਖਾਤੇ ਲਈ ਤਸਦੀਕੀਕਰਨ ਕੋਡ ਦਿਓ
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਵਾਸਤੇ ਆਪਣੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਇਸ ਤੋਂ ਮਨਜ਼ੂਰ ਕਰੋ:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਤਸਦੀਕ
 # Headline for Verify Short Code Email

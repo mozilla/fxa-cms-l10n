@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = همگام‌سازی گذرواژه‌ها، زبانه‌ها و نشانک‌های شما در همه‌جا که از Firefox استفاده می‌کنید.
 # Headline for Email First Page
-fxa-headline-33e9f42d = ادامه با حساب کاربری Mozilla شما
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = نام‌نویسی یا ورود
+fxa-headline-a20eb81e = نام‌نویسی یا ورود
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = نشان‌واره Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = یک ورود جدید به حساب کاربری Mozilla شما انجام شده است:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = حساب کاربری خود را تأیید کنید
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = همگام‌سازی گذرواژه‌ها، زبانه‌ها و نشانک‌های شما در همه‌جا که از Firefox استفاده می‌کنید.
+# Headline for Email First Page
+fxa-headline-33e9f42d = ادامه با حساب کاربری Mozilla شما
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = نام‌نویسی یا ورود
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = نشان‌واره Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = نشان‌واره Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -142,8 +144,6 @@ fxa-subject-10e5b452 = برای ورود به Firefox حساب کاربری خو
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = نام‌نویسی یا ورود
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox در حال جستن
 
@@ -151,6 +151,11 @@ fxa-logoAltText-c4b14a5b = fox در حال جستن
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = با تأیید ورود خود در اینجا، به ما کمک کنید حساب کاربری شما را ایمن نگه داریم:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -164,8 +169,6 @@ fxa-description-1d4ba9f5 = برای ادامه به حساب‌کاربری Mozi
 fxa-description-87881780 = کد تأیید را برای حساب‌کاربری Mozilla خود وارد کنید
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = فقط یک مرحله سریع. کد ارسال‌شده به رایانامه خودتان را وارد کنید تا حساب کاربری Mozilla شما فعال شود.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = با تأیید ورود خود در اینجا، به ما کمک کنید حساب کاربری شما را ایمن نگه داریم:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = تأیید حساب کاربری خود
 # Headline for Verify Short Code Email

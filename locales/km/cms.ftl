@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
 # Headline for Email First Page
-fxa-headline-33e9f42d = បន្តទៅគណនី Mozilla របស់អ្នក
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = ចុះឈ្មោះ ឬចូល
+fxa-headline-a20eb81e = ចុះឈ្មោះ ឬចូល
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = ឡូហ្គោ Firefox
 # Headline for Signin Page
 fxa-headline-e8d28194 = បញ្ចូល​ពាក្យ​សម្ងាត់​របស់​អ្នក
 # Primary Button Text for Signin Page
@@ -35,10 +33,14 @@ fxa-subject-ef1fb997 = បញ្ជាក់គណនីរបស់អ្នក
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
+# Headline for Email First Page
+fxa-headline-33e9f42d = បន្តទៅគណនី Mozilla របស់អ្នក
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = ចុះឈ្មោះ ឬចូល
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = ឡូហ្គោ Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = ឡូហ្គោ Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -78,11 +80,6 @@ fxa-subject-10e5b452 = បញ្ជាក់គណនីរបស់អ្នក
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-17aa6423 = កម្មវិធីរុករក Firefox
-
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Headline for Email First Page
-fxa-headline-a20eb81e = ចុះឈ្មោះ ឬចូល
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

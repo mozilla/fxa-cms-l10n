@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Samstilltu lykilorðin þín, flipa og bókamerki alls staðar þar sem þú notar Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Halda áfram í Mozilla-reikninginn þinn
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Nýskráðu þig eða skráðu þig inn
+fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox-táknmerki
 # Description for New Device Login Email
 fxa-description-a0671d4a = Ný innskráning var gerð á Mozilla-reikninginn þinn:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Staðfestu reikninginn þinn
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Samstilltu lykilorðin þín, flipa og bókamerki alls staðar þar sem þú notar Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Halda áfram í Mozilla-reikninginn þinn
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Nýskráðu þig eða skráðu þig inn
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-táknmerki
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox-táknmerki
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -142,8 +144,6 @@ fxa-subject-10e5b452 = Staðfestu reikninginn þinn til að skrá þig inn í Fi
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = firefox hoppar
 
@@ -151,6 +151,11 @@ fxa-logoAltText-c4b14a5b = firefox hoppar
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Hjálpaðu okkur að halda reikningnum þínum öruggum með því að staðfesta innskráninguna þína á:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -164,8 +169,6 @@ fxa-description-1d4ba9f5 = Settu inn lykilorð til að halda áfram á Mozilla-r
 fxa-description-87881780 = Settu inn staðfestingarkóða fyrir Mozilla-reikninginn þinn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara eitt fljótlegt skref. Settu inn kóðann úr tölvupóstinum þínum til að virkja Mozilla-reikninginn þinn.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Hjálpaðu okkur að halda reikningnum þínum öruggum með því að staðfesta innskráninguna þína á:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Staðfestu reikninginn þinn
 # Headline for Verify Short Code Email

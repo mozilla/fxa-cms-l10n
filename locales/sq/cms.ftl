@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Njëkohësoni fjalëkalimet, skedat dhe faqerojtësit tuaj, kudo që përdorni Firefox-in.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Vazhdoni te llogaria juaj Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Hyni ose regjistrohuni
+fxa-headline-a20eb81e = Hyni ose regjistrohuni
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Stemë Firefox-i
 # Description for New Device Login Email
 fxa-description-a0671d4a = Pati një hyrje të re në llogarinë tuaj Mozilla:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Ripohoni llogarinë tuaj
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Njëkohësoni fjalëkalimet, skedat dhe faqerojtësit tuaj, kudo që përdorni Firefox-in.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Vazhdoni te llogaria juaj Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Hyni ose regjistrohuni
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Stemë Firefox-i
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Stemë Firefox-i
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -142,8 +144,6 @@ fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tu
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Hyni ose regjistrohuni
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -151,6 +151,11 @@ fxa-logoAltText-c4b14a5b = fox jumping
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, duke miratuar hyrjen në:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -164,8 +169,6 @@ fxa-description-1d4ba9f5 = Që të vazhdoni te llogaria juaj Mozilla, jepni fjal
 fxa-description-87881780 = Që të vazhdoni te llogaria juaj Mozilla, jepni kod ripohimi
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Thjesht një hap i shpejtë. Që të aktivizohet llogaria juaj Mozilla, jepni kodin që nga email-i juaj.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, duke miratuar hyrjen në:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Ripohoni llogarinë tuaj
 # Headline for Verify Short Code Email

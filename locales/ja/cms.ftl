@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Firefox を使用しているすべての端末で、パスワード、タブ、ブックマークを同期しましょう。
 # Headline for Email First Page
-fxa-headline-33e9f42d = Mozilla アカウントへ進む
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = ログインまたはアカウント登録
+fxa-headline-a20eb81e = ログインまたはアカウント登録
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox ロゴ
 # Description for New Device Login Email
 fxa-description-a0671d4a = 新しい端末から Mozilla アカウントへのログインがありました:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = アカウントを確認してください
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Firefox を使用しているすべての端末で、パスワード、タブ、ブックマークを同期しましょう。
+# Headline for Email First Page
+fxa-headline-33e9f42d = Mozilla アカウントへ進む
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = ログインまたはアカウント登録
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox ロゴ
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox ロゴ
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox ブラウザー
 
 # Description for Email First Page
 fxa-description-a0166dfc = Mozilla アカウントでデータの同期を開始しましょう。アカウントをお持ちですか？こちらで確認します。
-# Headline for Email First Page
-fxa-headline-a20eb81e = ログインまたはアカウント登録
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 跳ねる狐
 
@@ -162,14 +162,17 @@ fxa-logoAltText-c4b14a5b = 跳ねる狐
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = メールマスク
-# Description for New Device Login Email
-fxa-description-832c10ff = 新しい端末から Mozilla アカウントへのログインがありました:
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = アカウントを安全に保つために、次の端末からのログインを承認してください:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -183,8 +186,6 @@ fxa-description-1d4ba9f5 = パスワードを入力して Mozilla アカウン�
 fxa-description-87881780 = Mozilla アカウントの確認コードを入力してください
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = たった １ つの簡単なステップ。メールに転送されたコードを入力して、Mozilla アカウントを有効にしてください。
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = アカウントを安全に保つために、次の端末からのログインを承認してください:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = アカウントを確認してください
 # Headline for Verify Short Code Email

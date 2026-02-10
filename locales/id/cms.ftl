@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan markah Anda di mana pun Anda menggunakan Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Lanjutkan ke akun Mozilla Anda
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Daftar atau masuk
+fxa-headline-a20eb81e = Daftar atau masuk
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Logo Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = Ada kejadian masuk baru ke akun Mozilla Anda:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Konfirmasikan akun Anda
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan markah Anda di mana pun Anda menggunakan Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Lanjutkan ke akun Mozilla Anda
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Daftar atau masuk
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Logo Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Peramban Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = Mulai sinkronkan data Anda dengan akun Mozilla. Sudah punya? Kami akan menemukannya.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Daftar atau masuk
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = rubah melompat
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Daftar atau masuk untuk melindungi kotak masuk Anda dari
 fxa-logoAltText-8d308a03 = topeng surel
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Lindungi kotak masuk Anda dari spam | Akun Mozilla
-# Description for New Device Login Email
-fxa-description-832c10ff = Ada proses masuk baru ke akun Mozilla Anda:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Akun Anda digunakan untuk masuk
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Masukkan sandi untuk melanjutkan ke akun Mozilla Anda
 fxa-description-87881780 = Masukkan kode konfirmasi untuk akun Mozilla Anda
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Hanya satu langkah cepat. Masukkan kode dari surel Anda untuk mengaktifkan akun Mozilla Anda.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Konfirmasikan akun Anda
 # Headline for Verify Short Code Email

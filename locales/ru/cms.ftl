@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Синхронизируйте свои пароли, вкладки и закладки везде, где используете Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Перейдите в свой аккаунт Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Зарегистрироваться или войти
+fxa-headline-a20eb81e = Зарегистрироваться или войти
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Лого Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = В ваш аккаунт Mozilla был произведён новый вход:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Подтвердите ваш аккаунт
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Синхронизируйте свои пароли, вкладки и закладки везде, где используете Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Перейдите в свой аккаунт Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Зарегистрироваться или войти
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Лого Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Лого Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Браузер Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = Начните синхронизировать свои данные с аккаунтом Mozilla. Он уже есть? Мы найдем его.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Зарегистрироваться или войти
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = прыгающая лиса
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Зарегистрируйтесь или войдите
 fxa-logoAltText-8d308a03 = псевдоним электронной почты
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Защитите свой почтовый ящик от спама | Аккаунты Mozilla
-# Description for New Device Login Email
-fxa-description-832c10ff = В ваш аккаунт Mozilla произведён новый вход:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Ваш аккаунт был использован для входа
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Подтвердите свой аккаунт, чтоб
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Подтвердите свой аккаунт, чтобы использовать псевдонимы электронной почты
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Помогите нам обеспечить безопасность вашей учётной записи, подтвердив вход в:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Введите пароль, чтобы продол�
 fxa-description-87881780 = Введите код подтверждения для вашего аккаунта Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Всего лишь один быстрый шаг. Введите код из вашего адреса электронной почты, чтобы активировать свой аккаунт Mozilla.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Помогите нам обеспечить безопасность вашей учётной записи, подтвердив вход в:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Подтвердите ваш аккаунт
 # Headline for Verify Short Code Email

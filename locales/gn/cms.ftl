@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Embojuehe ñe’ẽñemi, tendayke ha techaukaha oimeraẽva tenda eiporuhápe Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Eku’ejey Mozilla mba’ete ndive
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Eike térã eñemboheraguapy
+fxa-headline-a20eb81e = Eñemboheraguapy térã eike
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox ra’ãnga’i
 # Description for New Device Login Email
 fxa-description-a0671d4a = Oĩ oike pyahúva ne mba’ete Mozilla peguápe:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Emoneĩjey ne mba’ete
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Embojuehe ñe’ẽñemi, tendayke ha techaukaha oimeraẽva tenda eiporuhápe Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Eku’ejey Mozilla mba’ete ndive
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Eike térã eñemboheraguapy
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox ra’ãnga’i
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox ra’ãnga’i
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox kundaha
 
 # Description for Email First Page
 fxa-description-a0166dfc = Eñepyrũ embojuehe ne mba’ekuaarã Mozilla-pegua mba’ete ndive. ¿Erekóma? Jajuhúta.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Eñemboheraguapy térã eike
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Aguara jepo
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Eñemboheraguapy térã eike emo’ã hag̃ua ne ñe’�
 fxa-logoAltText-8d308a03 = ñanduti veve rovamo’ãha
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Emo’ã ne ñe’ẽmondo g̃uahẽha spam-gui | Mozilla mba’ete
-# Description for New Device Login Email
-fxa-description-832c10ff = Oĩ oike pyahúva ne mba’ete Mozilla peguápe:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Ne mba’ete ojeporu ojeike hag̃ua
 # Email From Name for Shared
@@ -187,6 +185,11 @@ fxa-headline-2322b41f = Emoneĩ ne mba’ete eiporu hag̃ua ñanduti veve rovamo
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Emoneĩ ne mba’ete eiporu hag̃ua ñanduti veve rovamo’ãha
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -199,8 +202,6 @@ fxa-description-1d4ba9f5 = Ehai ñe’ẽñemi eike hag̃ua ne mba’ete Mozilla
 fxa-description-87881780 = Ehai moneĩmby ayvu ne mba’ete Mozilla peg̃uarã
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jeku’e pya’e. Emoinge ayvu ne ñanduti vevegua emyandy hag̃ua ne mba’ete Mozilla-pegua.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Emoneĩ ne mba’ete
 # Headline for Verify Short Code Email

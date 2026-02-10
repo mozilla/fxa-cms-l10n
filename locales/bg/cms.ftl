@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Синхронизирайте своите пароли, раздели и отметки навсякъде, където използвате Firefox.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Продължaване към Mozilla профила ви
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Вписване или регистриране
+fxa-headline-a20eb81e = Регистриране или вписване
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Лого на Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = Имаше ново влизане във вашия профил в Mozilla:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Потвърдете своя профил
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Синхронизирайте своите пароли, раздели и отметки навсякъде, където използвате Firefox.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Продължaване към Mozilla профила ви
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Вписване или регистриране
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Лого на Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Лого на Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox Browser
 
 # Description for Email First Page
 fxa-description-a0166dfc = Започнете да синхронизирате данните си с профил в Mozilla. Вече имате такъв? Ще го намерим.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Регистриране или вписване
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = скачаща лисица
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Регистрирайте се, за да защити�
 fxa-logoAltText-8d308a03 = имейл маска
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Защитете вашата пощенска кутия от спам | Mozilla акаунти
-# Description for New Device Login Email
-fxa-description-832c10ff = Имаше ново влизане във вашия Mozilla акаунт:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Профилът ви е използван за вход
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Потвърдете профила си, за да из
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Потвърдете профила си, за да използвате имейл маски
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Въведете парола, за да продъл
 fxa-description-87881780 = Въведете кода за потвърждение на профила ви в Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Само още едно нещо: въведете кода от имейла си, за да активирате профила си в Mozilla.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Потвърдете своя профил
 # Headline for Verify Short Code Email

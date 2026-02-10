@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = ซิงค์รหัสผ่าน แท็บ และที่คั่นหน้าของคุณในทุกที่ที่คุณใช้ Firefox
 # Headline for Email First Page
-fxa-headline-33e9f42d = เข้าสู่บัญชี Mozilla ของคุณ
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = ลงทะเบียนหรือลงชื่อเข้า
+fxa-headline-a20eb81e = ลงทะเบียนหรือลงชื่อเข้า
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = โลโก้ Firefox
 # Description for New Device Login Email
 fxa-description-a0671d4a = มีการลงชื่อเข้าบัญชี Mozilla ของคุณใหม่:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = ยืนยันบัญชีของคุณ
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = ซิงค์รหัสผ่าน แท็บ และที่คั่นหน้าของคุณในทุกที่ที่คุณใช้ Firefox
+# Headline for Email First Page
+fxa-headline-33e9f42d = เข้าสู่บัญชี Mozilla ของคุณ
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = ลงทะเบียนหรือลงชื่อเข้า
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = โลโก้ Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = โลโก้ Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -104,22 +106,20 @@ fxa-headline-7e0aff4a = ตั้งรหัสผ่านของคุณ
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = ยืนยันบัญชีของคุณ
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Headline for Email First Page
-fxa-headline-a20eb81e = ลงทะเบียนหรือลงชื่อเข้า
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = ช่วยเรารักษาบัญชีของคุณให้ปลอดภัยโดยอนุมัติการลงชื่อเข้าใน:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = ช่วยเรารักษาบัญชีของคุณให้ปลอดภัยโดยอนุมัติการลงชื่อเข้าใน:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = ยืนยันบัญชีของคุณ
 

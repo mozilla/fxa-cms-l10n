@@ -1,13 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Headline for Email First Page
-fxa-headline-33e9f42d = Kemmel ɣer umiḍan-ik ⋅im Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Kcem neɣ qqen
+fxa-headline-a20eb81e = Kcem neɣ qqen
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Alugu n Firefox
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Tuqqna niḍen ɣer Firefox
 # Headline for Signin Page
@@ -37,10 +37,12 @@ fxa-subject-ef1fb997 = Sentem amiḍan-ik⋅im
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Kemmel ɣer umiḍan-ik ⋅im Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Kcem neɣ qqen
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Alugu Firefox
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Alugu n Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -57,11 +59,6 @@ fxa-headline-a0a749e1 = Tuqqna niḍen ɣer Firefox
 fxa-headline-7e0aff4a = Sbadu awal-ik⋅im n uɛeddi
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Sentem amiḍan-ik⋅im
-
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Headline for Email First Page
-fxa-headline-a20eb81e = Kcem neɣ qqen
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

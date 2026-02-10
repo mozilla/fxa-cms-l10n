@@ -1,15 +1,13 @@
-### Generated on 2026-02-04T21:24:53.214Z
+### Generated on 2026-02-10T22:01:08.979Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-4ac18cac = Firefox қолданатын әр жерде парольдер, беттер, және бетбелгілерді синхрондаңыз.
 # Headline for Email First Page
-fxa-headline-33e9f42d = Mozilla тіркелгіңізге жалғастыру
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Тіркелгіні жасау немесе кіру
+fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
+# Logo Alt Text for Email First Page
+fxa-logoAltText-96e4284e = Firefox логотипі
 # Description for New Device Login Email
 fxa-description-a0671d4a = Mozilla тіркелгіңізге жаңадан кіру орын алды:
 # Headline for New Device Login Email
@@ -63,10 +61,14 @@ fxa-subject-ef1fb997 = Тіркелгіңізді растаңыз
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
+# Description for Email First Page
+fxa-description-4ac18cac = Firefox қолданатын әр жерде парольдер, беттер, және бетбелгілерді синхрондаңыз.
+# Headline for Email First Page
+fxa-headline-33e9f42d = Mozilla тіркелгіңізге жалғастыру
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Тіркелгіні жасау немесе кіру
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox логотипі
-# Logo Alt Text for Shared
-fxa-logoAltText-96e4284e = Firefox логотипі
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -153,8 +155,6 @@ fxa-logoAltText-17aa6423 = Firefox браузері
 
 # Description for Email First Page
 fxa-description-a0166dfc = Деректеріңізді Mozilla тіркелгісімен синхрондауды бастаңыз. Ол сізде бар ма? Біз оны табамыз.
-# Headline for Email First Page
-fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = түлкінің секіруі
 
@@ -168,8 +168,6 @@ fxa-headline-30fd7c55 = Кіріс жәшігіңізді спамнан қор�
 fxa-logoAltText-8d308a03 = электрондық пошта маскасы
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Кіріс жәшігіңізді спамнан қорғаңыз | Mozilla тіркелгілері
-# Description for New Device Login Email
-fxa-description-832c10ff = Mozilla тіркелгіңізге жаңадан кіру орын алды:
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Сіздің тіркелгіңіз кіру үшін пайдаланылды
 # Additional Accessibility Info for Shared
@@ -195,6 +193,11 @@ fxa-headline-2322b41f = Эл. пошта маскаларын пайдалану
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Эл. пошта маскаларын пайдалану үшін тіркелгіңізді растаңыз
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -207,8 +210,6 @@ fxa-description-1d4ba9f5 = Mozilla тіркелгіңізге жалғастыр
 fxa-description-87881780 = Mozilla тіркелгіңіз үшін растау кодын енгізіңіз
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Соңғы қадам қалды. Mozilla тіркелгіңізді белсендіру үшін электрондық поштаңызға келген кодты енгізіңіз.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Тіркелгіңізді растаңыз
 # Headline for Verify Short Code Email
