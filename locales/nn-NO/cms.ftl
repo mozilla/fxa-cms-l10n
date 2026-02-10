@@ -160,10 +160,20 @@ fxa-logoAltText-c4b14a5b = reven hoppar
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = E-postar sende til e-postaliasa dine, blir vidaresende til denne adressa.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Registrer deg eller logg inn for å verne innboksen din mot søppelpost (spam)
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = e-postalias
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Vern innboksen din mot spam | Mozilla-kontoar
 # Description for New Device Login Email
 fxa-description-832c10ff = Der var ei ny innlogging til Mozilla-kontoen din:
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Kontoen din vart brukt til å logge inn
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox vil prøve å sende deg tilbake for å bruke eit e-postalias etter at du har logga inn.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
