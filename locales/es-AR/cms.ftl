@@ -173,7 +173,7 @@ fxa-description-832c10ff = Hubo un nuevo inicio de sesión en tu cuenta de Mozil
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Tu cuenta fue usada para iniciar sesión
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Firefox intentará enviarte de vuelta para usar una máscara de correo electrónico después de que inicies sesión.
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox tratará de volver donde estabas para usar una máscara de correo electrónico después de que iniciés sesión.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
