@@ -4,10 +4,20 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = វាត្រូវការពេលត្រឹមតែមួយវិនាទីប៉ុណ្ណោះដើម្បីចូល ឬបង្កើតគណនី Mozilla។
 # Headline for Email First Page
 fxa-headline-a20eb81e = ចុះឈ្មោះ ឬចូល
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = ឡូហ្គោ Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = បន្ទាប់
+# Description for New Device Login Email
+fxa-description-a0671d4a = មានការចូលគណនី Mozilla ថ្មីរបស់អ្នក៖
+# Headline for New Device Login Email
+fxa-headline-7315250e = គណនី Mozilla របស់អ្នកត្រូវបានប្រើដើម្បីចូល
+# Subject for New Device Login Email
+fxa-subject-a0a749e1 = ការ​ចូល​ថ្មី​ទៅ Firefox
 # Headline for Signin Page
 fxa-headline-e8d28194 = បញ្ចូល​ពាក្យ​សម្ងាត់​របស់​អ្នក
 # Primary Button Text for Signin Page
