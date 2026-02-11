@@ -174,13 +174,49 @@ fxa-logoAltText-8d308a03 = mască de e-mail
 fxa-pageTitle-8e453cea = Protejează-ți căsuța poștală de spam | Conturi Mozilla
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Contul tău a fost folosit pentru autentificare
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox va încerca să te trimită înapoi ca să folosești o mască de e-mail după ce intri în cont.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Fă-ți un cont ca să-ți protejezi căsuța poștală de spam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Îți creează contul Mozilla ca să poți utiliza și gestiona măștile de e-mail.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Creează o parolă pentru a-ți proteja de spam căsuța poștală
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Păstrează-ți contul în siguranță aprobând intrarea în cont cu codul de autorizare de mai jos.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Folosește codul de confirmare de mai jos pentru a finaliza configurarea contului.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Confirmă-ți contul ca să folosești măști de e-mail
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Confirmă-ți contul ca să folosești măști de e-mail
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Activează VPN-ul încorporat cu un cont Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Fă-ți un cont
+# Description for New Device Login Email
+fxa-description-6c54afca = Ești aproape gata să îmbunătățești confidențialitatea browserului.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat Firefox
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Cont Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Ajută-ne să îți protejăm contul aprobând autentificarea în:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Ai intrat în contul Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Ai intrat în contul Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -260,6 +296,13 @@ fxa-description-811350a6 = Încă un pas pentru a obține beneficiile VPN Firefo
 fxa-description-861f2d28 = Fă-ți copii de rezervă cu parolele, filele și marcajele ca să fii gata să treci pe alt dispozitiv.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronizare
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Păstrează totul sincronizat, indiferent dacă ai un cont Mozilla sau ești nou pe aici.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Intră în cont sau fă-ți un cont
 
 ## legal-notice-label-subs-services - CMS Entry
 
