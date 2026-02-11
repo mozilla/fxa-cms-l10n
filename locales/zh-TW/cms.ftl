@@ -5,7 +5,7 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = 幾秒鐘即可註冊或登入 Mozilla 帳號。
+fxa-description-0b815ba1 = 只要幾秒鐘即可註冊或登入 Mozilla 帳號。
 # Headline for Email First Page
 fxa-headline-a20eb81e = 註冊或登入
 # Logo Alt Text for Email First Page
@@ -200,23 +200,23 @@ fxa-subject-2322b41f = 確認您的帳號後即可使用轉寄信箱
 ## l10n-19 - VPN (Settings)
 
 # Headline for Email First Page
-fxa-headline-21296b0d = 使用 Mozilla 帳號啟用您內建的 VPN
+fxa-headline-21296b0d = 使用 Mozilla 帳號啟用內建的 VPN
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla - 註冊帳號
 # Description for New Device Login Email
-fxa-description-6c54afca = 您就可以加強瀏覽器的隱私保護了。
+fxa-description-6c54afca = 您快要可以加強瀏覽器的隱私保護了。
 # Subject for New Device Login Email
-fxa-subject-9627bd4a = 確認您的帳號以使用 Firefox 內建的 VPN
+fxa-subject-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Mozilla 帳號
 # Headline for Verify Login Code Email
-fxa-headline-9627bd4a = 確認您的帳號以使用 Firefox 內建的 VPN
+fxa-headline-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = 您登入 Mozilla 了嗎
+fxa-headline-2e6f7fd2 = 您剛登入 Mozilla 嗎？
 # Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = 您登入 Mozilla 了嗎
+fxa-subject-2e6f7fd2 = 您剛登入 Mozilla 嗎？
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -300,7 +300,7 @@ fxa-logoAltText-164ffc49 = 狐狸在同步
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = 不論您是 Mozilla 帳號還是新手都能同步所有內容。
+fxa-description-50988cb8 = 不論您已有 Mozilla 帳號還是新手，都能同步所有內容。
 # Headline for Email First Page
 fxa-headline-7b9deb3b = 登入或註冊帳號
 
