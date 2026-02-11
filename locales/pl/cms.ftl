@@ -8,6 +8,8 @@
 fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefoksa
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Dalej
 # Description for New Device Login Email
 fxa-description-a0671d4a = Nastąpiło nowe logowanie na Twoje konto Mozilli:
 # Headline for New Device Login Email
@@ -195,6 +197,8 @@ fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adres
 
 ## l10n-19 - VPN (Settings)
 
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Konto Mozilli
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
 
