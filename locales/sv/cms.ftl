@@ -204,7 +204,7 @@ fxa-headline-21296b0d = Aktivera ditt inbyggda VPN med ett Mozilla-konto
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla - Registrera dig för ett konto
 # Description for New Device Login Email
-fxa-description-6c54afca = Du är nästan redo att stärka din webbläsares integritet.
+fxa-description-6c54afca = Du är nästan redo att förbättra din webbläsares integritet.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda VPN
 # Page Title for Signin Page
