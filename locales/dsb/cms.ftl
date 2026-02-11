@@ -207,8 +207,16 @@ fxa-pageTitle-a8211ca7 = Mozilla – registrěrujśo se za konto
 fxa-description-6c54afca = Sćo pśisamem gótowy, aby priwatnosć swójogo wobglědowaka pówušył.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Wobkšuśćo swójo konto, aby zatwarjony VPN Firefox wužywał
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Konto Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Wobkšuśćo swójo konto, aby zatwarjony VPN Firefox wužywał
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Sćo se pśizjawił pla Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Sćo se pśizjawił pla Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -288,6 +296,13 @@ fxa-description-811350a6 = Dalšny kšac za dostawanje lěpšynow Firefox VPN. P
 fxa-description-861f2d28 = Zawěsććo swóje gronidła, rejtariki a cytańske znamjenja, aby za nowy rěd gótowy był.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizacija z lišku
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Synchronizěrujśo wšykno, wšojadno, lěc maśo konto Mozilla abo sćo how nowy.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Pśizjawiś abo konto załožyś
 
 ## legal-notice-label-subs-services - CMS Entry
 
