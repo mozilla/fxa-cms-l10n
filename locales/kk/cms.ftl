@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Mozilla тіркелгісіне кіру немесе оны жасау үшін бір секунд қана қажет.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox логотипі
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Келесі
 # Description for New Device Login Email
 fxa-description-a0671d4a = Mozilla тіркелгіңізге жаңадан кіру орын алды:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Эл. пошта маскаларын пайдалану 
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Mozilla тіркелгісімен құрамындағы VPN қызметін белсендіріңіз
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Тіркелгі жасау
+# Description for New Device Login Email
+fxa-description-6c54afca = Браузеріңіздің жекелігін жақсартуға дайын болуға жақынсыз.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla тіркелгісі
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Mozilla жүйесіне кірдіңіз бе?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Mozilla жүйесіне кірдіңіз бе?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Firefox VPN мүмкіндіктерін пайдал
 fxa-description-861f2d28 = Жаңа құрылғыға көшуге дайын болу үшін парольдер, беттер мен бетбелгілеріңізді сақтық көшірмеге сақтаңыз.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = түлкі синхрондауы
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Mozilla тіркелгіңіз болса да, жаңадан тіркелген болсаңыз да, барлығын синхрондаңыз.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Кіру немесе тіркелгі жасау
 
 ## legal-notice-label-subs-services - CMS Entry
 
