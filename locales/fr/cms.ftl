@@ -204,7 +204,7 @@ fxa-headline-21296b0d = Activez votre VPN intégré avec un compte Mozilla
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla - Créer un compte
 # Description for New Device Login Email
-fxa-description-6c54afca = Vous êtes presque prêt à renforcer la vie privée de votre navigateur.
+fxa-description-6c54afca = Vous êtes presque prêt·e à renforcer la vie privée de votre navigateur.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré à Firefox
 # Page Title for Signin Page

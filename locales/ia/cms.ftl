@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Il emplea solo un secunda pro acceder o crear un conto Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Inscribe te o accede
 # Logo Alt Text for Email First Page
@@ -199,10 +201,22 @@ fxa-subject-2322b41f = Confirma tu conto pro usar mascas de e-mail
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Activa tu VPN integrate gratuite con un conto Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla: registrar un conto
+# Description for New Device Login Email
+fxa-description-6c54afca = Tu es quasi preste a augmentar le confidentialitate de tu navigator.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Conto Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Accedeva tu a Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Accedeva tu a Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -282,6 +296,13 @@ fxa-description-811350a6 = Un altere passo pro obtener le beneficios de Firefox 
 fxa-description-861f2d28 = Salveguarda tu contrasignos, schedas, e marcapaginas assi tu es preste pro un nove apparato.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronisation vulpe
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Mantene omne cosa in synchronia, sia que tu ha un conto Mozilla o que tu es nove ci.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Accede o crea un conto
 
 ## legal-notice-label-subs-services - CMS Entry
 
