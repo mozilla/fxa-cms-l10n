@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Det tek berre ein augneblink å logge inn eller opprette ein Mozilla-konto.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrer deg eller logg inn
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-logo
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Neste
 # Description for New Device Login Email
 fxa-description-a0671d4a = Der var ei ny innlogging til Mozilla-kontoen din:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Stadfest kontoen din for å bruke e-postalias
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktiver den innebygde VPN-en din med ein Mozilla-konto
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla – Registrer deg for ein konto
+# Description for New Device Login Email
+fxa-description-6c54afca = Du er nesten klar til å gi nettlesaren din eit personvernløft.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde VPN
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla-konto
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde VPN
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Hjelp oss med å halde kontoen din trygg ved å godkjenne innlogginga di på:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Logga du inn på Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Logga du inn på Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Eitt steg til før du får fordelane med Firefox VPN.
 fxa-description-861f2d28 = Sikkerheitskopier passorda, fanene og bokmerka dine, slik at du er klar for ein ny eining.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = reven synkroniserer
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Hald alt synkronisert, anten du har ein Mozilla-konto eller er ny her.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Logg inn eller opprett ein konto
 
 ## legal-notice-label-subs-services - CMS Entry
 
