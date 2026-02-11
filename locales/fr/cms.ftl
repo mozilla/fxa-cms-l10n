@@ -206,11 +206,11 @@ fxa-pageTitle-a8211ca7 = Mozilla - Créer un compte
 # Description for New Device Login Email
 fxa-description-6c54afca = Vous êtes presque prêt à renforcer la vie privée de votre navigateur.
 # Subject for New Device Login Email
-fxa-subject-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré de Firefox
+fxa-subject-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré à Firefox
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Compte Mozilla
 # Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré de Firefox
+fxa-headline-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré à Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Aidez-nous à protéger votre compte en confirmant votre connexion sur :
 # Headline for Verify Short Code Email
