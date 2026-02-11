@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Durează doar o secundă să intri în cont sau să îți faci un cont Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Înainte
 # Description for New Device Login Email
 fxa-description-a0671d4a = Am depistat o autentificare nouă în contul tău Mozilla:
 # Headline for New Device Login Email
@@ -160,6 +164,16 @@ fxa-logoAltText-c4b14a5b = salt
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Mesajele de e-mail trimise către măști vor fi redirecționate către această adresă.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Fă-ți un cont sau intră în cont pentru a-ți proteja căsuța poștală de spam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = mască de e-mail
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Protejează-ți căsuța poștală de spam | Conturi Mozilla
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Contul tău a fost folosit pentru autentificare
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 
