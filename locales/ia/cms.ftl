@@ -195,6 +195,8 @@ fxa-subject-2322b41f = Confirma tu conto pro usar mascas de e-mail
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Activa tu VPN integrate gratuite con un conto Mozilla
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 
