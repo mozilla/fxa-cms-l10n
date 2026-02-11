@@ -297,6 +297,13 @@ fxa-description-861f2d28 = ניתן לגבות את הססמאות, הלשוני
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = שועל מסנכרן
 
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = לשמור על סנכרון של הכול - בין אם יש לך חשבון Mozilla או שזו הפעם הראשונה שלך כאן.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = כניסה או יצירת חשבון
+
 ## legal-notice-label-subs-services - CMS Entry
 
 # Label for Terms
