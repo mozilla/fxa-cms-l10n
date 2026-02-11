@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = It only takes a sec to sign in or create a Mozilla account.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Sign up or sign in
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox logo
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Next
 # Description for New Device Login Email
 fxa-description-a0671d4a = There was a new sign-in to your Mozilla account:
 # Headline for New Device Login Email
@@ -195,6 +199,12 @@ fxa-subject-2322b41f = Confirm your account to use email masks
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
+# Description for New Device Login Email
+fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
 
