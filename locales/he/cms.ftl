@@ -203,8 +203,20 @@ fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמ�
 fxa-headline-21296b0d = הפעלת ה־VPN המובנה באמצעות חשבון Mozilla
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = ‏Mozilla - הרשמה לחשבון
+# Description for New Device Login Email
+fxa-description-6c54afca = כמעט הכל מוכן לשדרוג הפרטיות בדפדפן שלך.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = חשבון Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = האם התחברת ל־Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = האם התחברת ל־Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
