@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = לוקח רק שנייה להתחבר או ליצור חשבון Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = הרשמה או התחברות
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = הסמל של Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = הבא
 # Description for New Device Login Email
 fxa-description-a0671d4a = בוצעה כניסה חדשה לחשבון ה־Mozilla שלך:
 # Headline for New Device Login Email
@@ -195,6 +199,8 @@ fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמ�
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = הפעלת ה־VPN המובנה באמצעות חשבון Mozilla
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
 
