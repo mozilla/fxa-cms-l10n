@@ -201,6 +201,8 @@ fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמ�
 
 # Headline for Email First Page
 fxa-headline-21296b0d = הפעלת ה־VPN המובנה באמצעות חשבון Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = ‏Mozilla - הרשמה לחשבון
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
 
