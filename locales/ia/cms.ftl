@@ -8,6 +8,8 @@
 fxa-headline-a20eb81e = Inscribe te o accede
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Sequente
 # Description for New Device Login Email
 fxa-description-a0671d4a = Il habeva un nove connexion a tu conto Mozilla
 # Headline for New Device Login Email
@@ -197,6 +199,8 @@ fxa-subject-2322b41f = Confirma tu conto pro usar mascas de e-mail
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Activa tu VPN integrate gratuite con un conto Mozilla
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Conto Mozilla
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 
