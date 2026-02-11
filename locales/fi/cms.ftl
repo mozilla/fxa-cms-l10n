@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Mozilla-tilille kirjautuminen tai uuden tilin luominen vie vain hetken.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-logo
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Seuraava
 # Description for New Device Login Email
 fxa-description-a0671d4a = Uusi kirjautuminen Mozilla-tilillesi:
 # Headline for New Device Login Email
@@ -142,15 +146,54 @@ fxa-headline-ef1fb997 = Vahvista tilisi
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Vahvista tilisi kirjautuaksesi Firefoxiin
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-edee250c = Kirjaudu sisään synkronoidaksesi Mozilla-tilisi kanssa. Jos sinulla ei ole tiliä, sen luominen vie vain hetken.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Käytä sähköpostiosoitettasi jatkaaksesi
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox-selain
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Aloita tietojesi synkronointi Mozilla-tilin kanssa. Onko sinulla jo tili? Käytetään sitä.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ketun hyppy
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Maskeihisi lähetetyt sähköpostit välitetään tähän osoitteeseen.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Rekisteröidy tai kirjaudu sisään suojataksesi postilaatikkosi roskapostilta
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = sähköpostimaski
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Suojaa postilaatikkosi roskapostilta | Mozilla-tilit
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Tiliäsi käytettiin sisäänkirjautumiseen
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox yrittää ohjata sinut takaisin käyttämään sähköpostimaskia sisäänkirjautumisen jälkeen.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Rekisteröidy suojataksesi postilaatikkosi roskapostilta
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Tämä luo Mozilla-tilisi, jotta voit käyttää ja hallita sähköpostimaskeja.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Luo salasana suojataksesi postilaatikkosi roskapostilta
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Pidä tilisi turvassa hyväksymällä kirjautumisesi alla olevalla valtuuskoodilla.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Viimeistele tilisi määrittäminen alla olevalla vahvistuskoodilla.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Vahvista tilisi käyttääksesi sähköpostimaskeja
 
 ## l10n-19 - VPN (Settings)
 
