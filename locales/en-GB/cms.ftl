@@ -205,8 +205,18 @@ fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
 fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla account
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Did you sign in to Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Did you sign in to Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -286,6 +296,13 @@ fxa-description-811350a6 = One more step to obtaining the benefits of Firefox VP
 fxa-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’re ready for a new device.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox synchronising
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Keep everything synchronised, whether you have a Mozilla account or are new here.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Sign in or create an account
 
 ## legal-notice-label-subs-services - CMS Entry
 

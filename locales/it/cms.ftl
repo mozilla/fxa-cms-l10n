@@ -204,11 +204,11 @@ fxa-headline-21296b0d = Attiva la tua VPN integrata con un account Mozilla
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla - Crea un account
 # Description for New Device Login Email
-fxa-description-6c54afca = Sei quasi pronto per aumentare la privacy del tuo browser.
+fxa-description-6c54afca = Sei quasi pronto per migliorare la privacy del tuo browser.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Conferma il tuo account per utilizzare la VPN integrata in Firefox
 # Page Title for Signin Page
-fxa-pageTitle-001bb150 = account Mozilla
+fxa-pageTitle-001bb150 = Account Mozilla
 # Headline for Verify Login Code Email
 fxa-headline-9627bd4a = Conferma il tuo account per utilizzare la VPN integrata in Firefox
 # Description for Verify Short Code Email
@@ -300,7 +300,7 @@ fxa-logoAltText-164ffc49 = sincronizzazione con la volpe
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = Mantieni tutto sincronizzato, che tu abbia un account Mozilla o sia nuovo.
+fxa-description-50988cb8 = Tieni tutto sincronizzato, sia che tu abbia già un account Mozilla o che tu sia appena arrivato.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = Accedi o crea un account
 
