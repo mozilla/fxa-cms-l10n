@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Trajo jano sekundu, aby wy se pśizjawił abo konto Mozilla załožył.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Dalej
 # Description for New Device Login Email
 fxa-description-a0671d4a = Dajo nowe pśizjawjenje pla wašogo konta Mozilla:
 # Headline for New Device Login Email
@@ -195,6 +199,14 @@ fxa-subject-2322b41f = Wobkšuśćo swójo konto, aby e-mailowe maski wužywał
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktiwěrujśo swój zatwarjony VPN z kontom Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla – registrěrujśo se za konto
+# Description for New Device Login Email
+fxa-description-6c54afca = Sćo pśisamem gótowy, aby priwatnosć swójogo wobglědowaka pówušył.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Wobkšuśćo swójo konto, aby zatwarjony VPN Firefox wužywał
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
 
