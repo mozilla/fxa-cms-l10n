@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Traje jenož sekundu, zo byšće so přizjewił abo konto Mozilla załožił.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrować abo přizjewić
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Dale
 # Description for New Device Login Email
 fxa-description-a0671d4a = Běše nowe přizjewjenje pola swojeho konta Mozilla
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wuži
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktiwizujće swój zatwarjeny VPN z kontom Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla – registrujće so za konto
+# Description for New Device Login Email
+fxa-description-6c54afca = Sće nimale hotowy, zo byšće priwatnosć swojeho wobhladowaka powyšił.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Konto Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Schwalće swoje přizjewjenje, zo byšće nam pomhał, waše konto škitać.
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Sće so pola Mozilla přizjewił?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Sće so pola Mozilla přizjewił?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Dalši krok za dóstawanje lěpšinow Firefox VPN. P�
 fxa-description-861f2d28 = Zawěsćće swoje hesła, rajtarki a zapołožki, zo byšće za nowy grat hotowy był.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizacija z lišku
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Synchronizujće wšitko, wšojedne, hač maće konto Mozilla abo sće tu nowy.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Přizjewić abo konto załožić
 
 ## legal-notice-label-subs-services - CMS Entry
 
