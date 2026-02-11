@@ -200,7 +200,7 @@ fxa-subject-2322b41f = E-posta maskelerini kullanmak için hesabınızı onaylay
 ## l10n-19 - VPN (Settings)
 
 # Headline for Email First Page
-fxa-headline-21296b0d = Mozilla hesabıyla yerleşik VPN’inizi etkinleştirin
+fxa-headline-21296b0d = Yerleşik VPN’inizi Mozilla hesabıyla etkinleştirin
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla - Hesap açın
 # Description for New Device Login Email
@@ -300,9 +300,9 @@ fxa-logoAltText-164ffc49 = eşitleme yapan tilki
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = İster Mozilla hesabınız olsun, ister burada yeni olun, her şey yanınızda.
+fxa-description-50988cb8 = Mozilla hesabınız olsa da henüz olmasa da her şeyi eşitlemeye başlayabilirsiniz.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Giriş yap veya hesap oluştur
+fxa-headline-7b9deb3b = Giriş yapın veya hesap açın
 
 ## legal-notice-label-subs-services - CMS Entry
 
