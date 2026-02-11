@@ -202,7 +202,7 @@ fxa-subject-2322b41f = Bevestig uw account om e-mailmaskers te gebruiken
 # Headline for Email First Page
 fxa-headline-21296b0d = Activeer uw ingebouwde VPN met een Mozilla-account
 # Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Registreren voor een account
+fxa-pageTitle-a8211ca7 = Mozilla – Registreren voor een account
 # Description for New Device Login Email
 fxa-description-6c54afca = U bent bijna klaar om de privacy van uw browser een boost te geven.
 # Subject for New Device Login Email
@@ -300,7 +300,7 @@ fxa-logoAltText-164ffc49 = synchoniserende vos
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = Houd alles gesynchroniseerd, of u een Mozilla-account hebt of hier nieuw bent.
+fxa-description-50988cb8 = Houd alles gesynchroniseerd, of u nu een Mozilla-account hebt of hier nieuw bent.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = Aanmelden of een account aanmaken
 
