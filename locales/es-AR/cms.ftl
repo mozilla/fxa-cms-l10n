@@ -200,7 +200,7 @@ fxa-subject-2322b41f = Confirmá tu cuenta para usar máscaras de correo electr�
 ## l10n-19 - VPN (Settings)
 
 # Headline for Email First Page
-fxa-headline-21296b0d = Activa tu VPN incorporada con una cuenta de Mozilla
+fxa-headline-21296b0d = Activá tu VPN integrada con una cuenta de Mozilla
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla - Registrate para obtener una cuenta
 # Description for New Device Login Email
