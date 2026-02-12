@@ -8,6 +8,8 @@
 fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox ਲੋਗੋ
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = ਅੱਗੇ
 # Description for New Device Login Email
 fxa-description-a0671d4a = ਤੁਹਾਡੇ Mozilla ਖਾਤੇ ਲਈ ਨਵਾਂ ਲਾਗ ਇਨ ਕੀਤਾ ਗਿਆ ਸੀ:
 # Headline for New Device Login Email
@@ -236,6 +238,11 @@ fxa-headline-6aca2436 = Mozilla ਖਾਤੇ ਨਾਲ ਆਪਣੇ ਮੁਫ਼
 fxa-description-861f2d28 = ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਜਾਣ ਲਈ ਤਿਆਰੀ ਵਾਸਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਟੈਬਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਬੈਕਅੱਪ ਲੈ ਲਵੋ।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ਸਿੰਕ ਕਰਨਾ ਲੂੰਬੜ
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-7b9deb3b = ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਬਣਾਓ
 
 ## legal-notice-label-subs-services - CMS Entry
 
