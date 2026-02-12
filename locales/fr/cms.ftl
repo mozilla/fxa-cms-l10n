@@ -300,7 +300,7 @@ fxa-logoAltText-164ffc49 = renard qui synchronise
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = Gardez tout synchronisé, que vous ayez un compte Mozilla ou que vous soyez nouveau ici.
+fxa-description-50988cb8 = Synchronisez tout, que vous ayez un compte Mozilla ou que vous découvriez le service.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = Connectez-vous ou créez un compte
 
