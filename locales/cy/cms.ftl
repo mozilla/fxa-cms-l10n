@@ -200,17 +200,17 @@ fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio arallenwau e-byst
 ## l10n-19 - VPN (Settings)
 
 # Headline for Email First Page
-fxa-headline-21296b0d = Gweithredwch eich VPN adeiledig gyda chyfrif Mozilla
+fxa-headline-21296b0d = Gweithredwch eich VPN mewnol gyda chyfrif Mozilla
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
 # Subject for New Device Login Email
-fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN adeiledig Firefox
+fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Cyfrif Mozilla
 # Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN adeiledig Firefox
+fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Helpwch ni i gadw'ch cyfrif yn ddiogel trwy gymeradwyo eich mewngofnodi:
 # Headline for Verify Short Code Email
@@ -300,7 +300,7 @@ fxa-logoAltText-164ffc49 = cydweddu llwynog
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = Cadwch bopeth wedi'i gysoni, p'un a oes gennych gyfrif Mozilla neu a ydych yn newydd yma.
+fxa-description-50988cb8 = Cadwch bopeth wedi'i gydweddu, p'un a oes gennych gyfrif Mozilla neu os ydych yn newydd yma.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = Mewngofnodi neu greu cyfrif
 
