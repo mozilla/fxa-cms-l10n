@@ -131,8 +131,16 @@ fxa-description-e59dc09c = មានការចូលគណនី Mozilla ថ�
 fxa-headline-a0a749e1 = ការចូលថ្មីទៅកាន់ Firefox
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = ដំឡើង VPN Firefox
+# Description for Signin Page
+fxa-description-427b83de = ចូលទៅក្នុងគណនី Mozilla របស់អ្នក។
+# Description for Signup Confirmed Sync Page
+fxa-description-68ca3526 = ការធ្វើសមកាលកម្មត្រូវបានបើក ហើយអ្នករួចរាល់សម្រាប់ Firefox VPN។ ចូលទៅកាន់របារឧបករណ៍ដើម្បីបើកវា។
+# Headline for Signup Confirmed Sync Page
+fxa-headline-9628f0ec = បន្ទាប់៖ បើក Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = កំណត់ពាក្យសម្ងាត់របស់អ្នក
+# Description for Verify Short Code Email
+fxa-description-f8578b7c = ប្រើលេខកូដដែលភ្ជាប់មកជាមួយដើម្បីបញ្ជាក់គណនី Mozilla របស់អ្នក។
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = បញ្ជាក់គណនីរបស់អ្នក
 # Subject for Verify Short Code Email
@@ -151,6 +159,8 @@ fxa-logoAltText-17aa6423 = កម្មវិធីរុករក Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = ចាប់ផ្តើមធ្វើសមកាលកម្មទិន្នន័យរបស់អ្នកជាមួយគណនី Mozilla។ មានគណនីរួចហើយឬនៅ? យើងនឹងរកវា។
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = កញ្ជ្រោងលោត
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -174,28 +184,127 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = ចុះឈ្មោះដើម្បីការពារប្រអប់សំបុត្ររបស់អ្នកពីសារឥតបានការ
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = វាបង្កើតគណនី Mozilla របស់អ្នក ដូច្នេះអ្នកអាចប្រើ និងគ្រប់គ្រងរបាំងអ៊ីមែលបាន។
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = បង្កើតពាក្យសម្ងាត់ដើម្បីការពារប្រអប់សំបុត្ររបស់អ្នកពីសារឥតបានការ
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = រក្សាសុវត្ថិភាពគណនីរបស់អ្នកដោយអនុម័តការចូលរបស់អ្នកជាមួយលេខកូដអនុញ្ញាតខាងក្រោម។
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = សូមប្រើប្រាស់លេខកូដបញ្ជាក់ខាងក្រោម ដើម្បីបញ្ចប់ការរៀបចំគណនីរបស់អ្នក។
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើរបាំងអ៊ីមែល
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើរបាំងអ៊ីមែល
+
+## l10n-19 - VPN (Settings)
+
+# Headline for Email First Page
+fxa-headline-21296b0d = ធ្វើឱ្យ VPN ដែលភ្ជាប់មកជាមួយរបស់អ្នកសកម្មជាមួយគណនី Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - ចុះឈ្មោះសម្រាប់គណនីមួយ
+# Description for New Device Login Email
+fxa-description-6c54afca = អ្នកជិតរួចរាល់ហើយក្នុងការបង្កើនភាពឯកជននៃកម្មវិធីរុករកតាមអ៊ីនធឺណិតរបស់អ្នក។
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើ VPN ដែលភ្ជាប់មកជាមួយ Firefox
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = គណនី Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើ VPN ដែលភ្ជាប់មកជាមួយ Firefox
+# Description for Verify Short Code Email
+fxa-description-6bc52850 = ជួយយើងរក្សាសុវត្ថិភាពគណនីរបស់អ្នកដោយអនុម័តការចូលរបស់អ្នកនៅលើ៖
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = តើអ្នកបានចូលទៅក្នុង Mozilla ហើយឬនៅ?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = តើអ្នកបានចូលទៅក្នុង Mozilla ហើយឬនៅ?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for New Device Login Email
+fxa-description-0a9e868b = ចូលថ្មីទៅក្នុង Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = បញ្ចូលពាក្យសម្ងាត់ដើម្បីបន្តទៅគណនី Mozilla របស់អ្នក
 # Description for Signin Token Code Page
 fxa-description-87881780 = បញ្ចូលលេខកូដបញ្ជាក់សម្រាប់គណនី Mozilla របស់អ្នក
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = គ្រាន់តែជាជំហានរហ័សមួយប៉ុណ្ណោះ។ បញ្ចូលលេខកូដពីអ៊ីមែលរបស់អ្នក ដើម្បីធ្វើឱ្យគណនី Mozilla របស់អ្នកសកម្ម។
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = បញ្ជាក់គណនីរបស់អ្នក
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = ប្រើលេខកូដដែលភ្ជាប់មកជាមួយដើម្បីបញ្ជាក់គណនី Mozilla របស់អ្នក។
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើកម្មវិធីរុករក Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
+# Description for Email First Page
+fxa-description-4766f222 = ត្រូវការគណនី Mozilla ដើម្បីប្រើប្រាស់ Mozilla Monitor។
+# Headline for Email First Page
+fxa-headline-de41db80 = ចុះឈ្មោះ ឬចូលទៅក្នុងគណនី Mozilla របស់អ្នក
+# Description for New Device Login Email
+fxa-description-4e3d5811 = មានការចូលគណនីថ្មីទៅកាន់ Mozilla Monitor។ ប្រសិនបើនេះមិនមែនជាអ្នកទេ សូមផ្លាស់ប្តូរពាក្យសម្ងាត់របស់អ្នក។
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = ការចូលថ្មីទៅកាន់ការសង្កេត Mozilla
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = ការចូលថ្មីទៅកាន់ការសង្កេត Mozilla
+# Email From Name for Shared
+fxa-emailFromName-e2b624cb = ការសង្កេត Mozilla
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-ccc1a61b = ការសង្កេតម៉ាសញ្ញា Mozilla
+# Logo Alt Text for Shared
+fxa-logoAltText-ccc1a61b = ការសង្កេតម៉ាសញ្ញា Mozilla
+# Page Title for Shared
+fxa-pageTitle-924eac9f = ដំឡើងការសង្កេត Mozilla
+# Description for Signin Page
+fxa-description-ab270ce7 = ចូលទៅក្នុងគណនី Mozilla របស់អ្នក ដើម្បីប្រើប្រាស់ Mozilla Monitor។
 # Headline for Signup Confirmed Sync Page
 fxa-headline-74db8403 = ការធ្វើសមកាលកម្មត្រូវបានបញ្ជាក់
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = បង្កើតពាក្យសម្ងាត់ដើម្បីចាប់ផ្តើមស្កេន
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើ Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើ Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើ Mozilla Monitor
 
 ## l10n-6 - Firefox Desktop - Password Manager
 
+# Description for Email First Page
+fxa-description-78fd76ac = ប្រើគណនី Mozilla របស់អ្នកដើម្បីធ្វើសមកាលកម្មដោយសុវត្ថិភាពទៅឧបករណ៍ផ្សេងទៀត។
 # Headline for Email First Page
 fxa-headline-0ec7d798 = ទទួលបានពាក្យសម្ងាត់ដែលបានរក្សាទុកគ្រប់ទីកន្លែង
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = បង្កើតគណនី Mozilla ដើម្បីធ្វើសមកាលកម្ម ដោយសុវត្ថិភាពទៅឧបករណ៍ផ្សេងទៀត។
 # Subject for Verify Short Code Email
 fxa-subject-9235d479 = បញ្ជាក់គណនីរបស់អ្នក ដើម្បីធ្វើសមកាលកម្ម
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = គណនីមួយដោះសោការចូលប្រើ VPN និងធ្វើសមកាលកម្មទិន្នន័យ Firefox របស់អ្នកនៅទូទាំងឧបករណ៍នានា។
+# Headline for Email First Page
+fxa-headline-6aca2436 = ធ្វើឱ្យ Firefox VPN ឥតគិតថ្លៃរបស់អ្នកសកម្មជាមួយគណនី Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = ជំហានមួយទៀតដើម្បីទទួលបានអត្ថប្រយោជន៍ពី Firefox VPN។ ចូលទៅកាន់ផ្ទាំងដែលបើក ហើយបើកវា។
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = បម្រុងទុកពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នក ដើម្បីឱ្យអ្នកត្រៀមខ្លួនសម្រាប់ឧបករណ៍ថ្មី។
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = ការ​ធ្វើ​សម​កាល​កម្ម​កញ្ជ្រោង
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = រក្សាអ្វីៗគ្រប់យ៉ាងឱ្យធ្វើសមកាលកម្ម មិនថាអ្នកមានគណនី Mozilla ឬថ្មីនៅទីនេះទេ។
+# Headline for Email First Page
+fxa-headline-7b9deb3b = ចូល ឬបង្កើតគណនី
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = សេវាកម្មជាវ Mozilla
