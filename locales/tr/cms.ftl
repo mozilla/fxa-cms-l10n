@@ -5,7 +5,7 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Giriş yapmak veya Mozilla hesabı açmak sadece birkaç saniye sürer.
+fxa-description-0b815ba1 = Giriş yapmak veya Mozilla hesabı açmak yalnızca birkaç saniye sürer.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Kaydol veya giriş yap
 # Logo Alt Text for Email First Page
