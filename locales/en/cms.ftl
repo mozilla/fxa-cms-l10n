@@ -1,4 +1,4 @@
-### Generated on 2026-02-11T17:09:39.916Z
+### Generated on 2026-02-13T17:52:31.430Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -228,6 +228,18 @@ fxa-description-ef1fb997 = Confirm your account
 fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
+
+## l10n-20 - VPN (Panel)
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Your Mozilla account was used to sign in to Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Did you sign in to Firefox with your Mozilla account?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Approve sign-in to Mozilla
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 # Description for Email First Page
