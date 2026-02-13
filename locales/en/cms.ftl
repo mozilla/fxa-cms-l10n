@@ -1,4 +1,4 @@
-### Generated on 2026-02-13T18:29:30.212Z
+### Generated on 2026-02-13T18:30:05.387Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -198,18 +198,24 @@ fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
 fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Your Mozilla account was used to sign in to Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Mozilla account
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
-# Description for Verify Short Code Email
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Did you sign in to Firefox with your Mozilla account?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Approve sign-in to Mozilla
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Did you sign in to Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Did you sign in to Mozilla?
+fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
@@ -228,18 +234,6 @@ fxa-description-ef1fb997 = Confirm your account
 fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
-
-## l10n-20 - VPN (Panel)
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Your Mozilla account was used to sign in to Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-502f1bd9 = Mozilla
-# Header Logo Alt Text for Shared
-fxa-headerLogoAltText-502f1bd9 = Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-b9c2e03a = Did you sign in to Firefox with your Mozilla account?
-# Subject for Verify Login Code Email
-fxa-subject-72eba5e0 = Approve sign-in to Mozilla
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 # Description for Email First Page
