@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Prihlásenie alebo vytvorenie účtu Mozilla trvá iba chvíľku.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Zaregistrujte sa alebo sa prihláste
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefoxu
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Ďalej
 # Description for New Device Login Email
 fxa-description-a0671d4a = Došlo k novému prihláseniu do vášho účtu Mozilla:
 # Headline for New Device Login Email
@@ -195,8 +199,24 @@ fxa-subject-2322b41f = Potvrďte svoj účet, aby ste mohli používať e‑mail
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktivujte si vstavanú VPN pomocou účtu Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
+# Description for New Device Login Email
+fxa-description-6c54afca = Ste takmer pripravení zvýšiť súkromie vášho prehliadača.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Potvrďte svoj účet, aby ste mohli používať VPN vstavanú vo Firefoxe
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Účet Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Potvrďte svoj účet, aby ste mohli používať VPN vstavanú vo Firefoxe
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Pomôžte nám zabezpečiť bezpečnosť vášho účtu schválením prihlásenia na zariadení:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Prihlásili ste sa do Mozilly?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Prihlásili ste sa do Mozilly?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -276,6 +296,13 @@ fxa-description-811350a6 = Ešte jeden krok k získaniu výhod Firefox VPN. Prej
 fxa-description-861f2d28 = Zálohujte si heslá, karty a záložky, aby ste boli pripravení na nové zariadenie.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizácia líšky
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Udržujte všetko synchronizované, či už máte účet Mozilla alebo ste tu noví.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Prihlásiť sa alebo vytvoriť účet
 
 ## legal-notice-label-subs-services - CMS Entry
 
