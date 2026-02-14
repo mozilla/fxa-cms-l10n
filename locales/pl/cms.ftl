@@ -201,10 +201,16 @@ fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adres
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktywuj wbudowany VPN za pomocą konta Mozilli
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Konto Mozilli
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Ktoś zalogował się do Mozilli. To Ty?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
