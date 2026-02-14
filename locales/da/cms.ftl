@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Det tager kun et øjeblik at logge ind eller oprette en Mozilla-konto.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Tilmeld dig eller log ind
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-logo
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Næste
 # Description for New Device Login Email
 fxa-description-a0671d4a = Der var et nyt login på din Mozilla-konto:
 # Headline for New Device Login Email
@@ -142,20 +146,75 @@ fxa-headline-ef1fb997 = Bekræft din konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Bekræft din konto for at logge ind på Firefox
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Headline for Email First Page
+fxa-headline-a4b1427f = Brug din mailadresse for at fortsætte
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = Firefox-browser
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-a0166dfc = Begynd at synkronisere dine data med en Mozilla-konto. Har du allerede en konto? Så finder vi den.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ræv springer
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Mails sendt til dine masker vil blive videresendt til denne adresse.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Tilmeld dig eller log ind for at beskytte din indbakke mod spam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = mail-maske
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Beskyt din indbakke mod spam | Mozilla-konti
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Din konto blev brugt til at logge ind
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox vil forsøge at sende dig tilbage, så du kan bruge en mail-maske, når du har logget ind.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Tilmeld dig for at beskytte din indbakke mod spam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Dette opretter din Mozilla-konto, så du kan bruge og administrere mail-masker.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Opret en adgangskode for at beskytte din indbakke mod spam
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Hold din konto sikker ved at godkende dit log-in med nedenstående godkendelseskode.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Brug godkendelseskoden nedenfor til at afslutte opsætningen af din konto.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Bekræft din konto for at bruge mail-masker
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Bekræft din konto for at bruge mail-masker
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktivér din indbyggede VPN med en Mozilla-konto
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Opret en konto
+# Description for New Device Login Email
+fxa-description-6c54afca = Nu er din browser snart klar til at beskytte dit privatliv endnu bedre.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Bekræft din konto for at bruge Firefox' indbyggede VPN
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla-konto
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Bekræft din konto for at bruge Firefox' indbyggede VPN
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Hold din konto sikker ved at bekræfte dit login på:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Har du logget ind på Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Har du logget ind på Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -235,6 +294,13 @@ fxa-description-811350a6 = Et trin mere for at få fordelene af Firefox VPN. Gå
 fxa-description-861f2d28 = Sikkerhedskopier dine adgangskoder, faneblade og bogmærker, så du er klar til en ny enhed.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ræv synkroniserer
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Hold alt synkroniseret, uanset om du har en Mozilla-konto eller er ny her.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Log ind eller opret en konto
 
 ## legal-notice-label-subs-services - CMS Entry
 
