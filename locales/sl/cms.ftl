@@ -79,7 +79,7 @@ fxa-emailLogoAltText-96e4284e = Logotip Firefoxa
 # Description for Email First Page
 fxa-description-0d2e3341 = Varnostno kopirajte Firefoxova gesla, zaznamke in zavihke, ko ste pripravljeni za novo napravo.
 # Headline for Email First Page
-fxa-headline-cdd2faf6 = Varnostno kopirajte z računom Mozilla
+fxa-headline-cdd2faf6 = Varnostno kopiranje z računom Mozilla
 # Logo Alt Text for Email First Page
 fxa-logoAltText-b9228cb5 = lisica in varnostna kopija
 # Primary Button Text for Email First Page
@@ -140,7 +140,7 @@ fxa-headline-9628f0ec = Naprej: Vklopite Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Nastavite geslo
 # Description for Verify Short Code Email
-fxa-description-f8578b7c = Uporabite priloženo kodo za potrditev računa Mozilla.
+fxa-description-f8578b7c = S priloženo kodo potrdite svoj račun Mozilla.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Potrdite račun
 # Subject for Verify Short Code Email
@@ -191,26 +191,26 @@ fxa-pageTitle-64718864 = Ustvarite geslo, da zaščitite svoj nabiralnik pred vs
 # Description for Verify Login Code Email
 fxa-description-1048eab0 = Ohranite svoj račun varen z odobritvijo prijave s spodnjo overitveno kodo.
 # Description for Verify Short Code Email
-fxa-description-e5134d5c = Uporabite spodnjo potrditveno kodo za dokončanje nastavitve računa.
+fxa-description-e5134d5c = Za dokončanje nastavitve računa uporabite spodnjo potrditveno kodo.
 # Headline for Verify Short Code Email
-fxa-headline-2322b41f = Potrdite račun za uporabo e-poštnih mask
+fxa-headline-2322b41f = Za uporabo e-poštnih mask potrdite račun
 # Subject for Verify Short Code Email
-fxa-subject-2322b41f = Potrdite račun za uporabo e-poštnih mask
+fxa-subject-2322b41f = Za uporabo e-poštnih mask potrdite račun
 
 ## l10n-19 - VPN (Settings)
 
 # Headline for Email First Page
-fxa-headline-21296b0d = Aktivirajte vgrajeni VPN z Mozillin računom
+fxa-headline-21296b0d = Aktivirajte vgrajeni VPN z računom Mozilla
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla – Ustvarite račun
 # Description for New Device Login Email
 fxa-description-6c54afca = Skoraj ste pripravljeni za izboljšanje zasebnosti vašega brskalnika.
 # Subject for New Device Login Email
-fxa-subject-9627bd4a = Potrdite račun za uporabo vgrajenega VPN-ja Firefox
+fxa-subject-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Račun Mozilla
 # Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Potrdite račun za uporabo vgrajenega VPN-ja Firefox
+fxa-headline-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobrite prijavo na naslednji napravi:
 # Headline for Verify Short Code Email
