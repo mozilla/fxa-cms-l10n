@@ -300,7 +300,7 @@ fxa-logoAltText-164ffc49 = Fox sync
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = Mozilla 계정을 보유하고 계시거나 신규 계정이 아니더라도 모든 것을 동기화하세요.
+fxa-description-50988cb8 = Mozilla 계정을 가지고 있거나 여기에 처음왔더라도 모든 것을 동기화하세요.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = 로그인 또는 계정 생성
 
