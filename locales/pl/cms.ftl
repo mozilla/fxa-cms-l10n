@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Zalogowanie się lub utworzenie konta Mozilli zajmie tylko chwilę.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
 # Logo Alt Text for Email First Page
@@ -197,6 +199,8 @@ fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adres
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktywuj wbudowany VPN za pomocą konta Mozilli
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Konto Mozilli
 # Description for Verify Short Code Email
