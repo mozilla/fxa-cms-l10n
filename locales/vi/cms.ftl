@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Chỉ mất vài giây để đăng nhập hoặc tạo tài khoản Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Đăng ký hoặc đăng nhập
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Tiếp
 # Description for New Device Login Email
 fxa-description-a0671d4a = Có đăng nhập mới vào tài khoản Mozilla của bạn:
 # Headline for New Device Login Email
@@ -160,13 +164,59 @@ fxa-logoAltText-c4b14a5b = fox nhảy
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Các email được gửi đến địa chỉ đặt khẩu trang của bạn sẽ được chuyển tiếp đến địa chỉ này.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Đăng ký hoặc đăng nhập để bảo vệ hộp thư đến của bạn khỏi thư rác.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = email ẩn danh
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Bảo vệ hộp thư đến của bạn khỏi thư rác | Tài khoản Mozilla
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Tài khoản của bạn đã được sử dụng để đăng nhập
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox sẽ điều hướng bạn quay trở lại để sử dụng email ẩn danh sau khi bạn đăng nhập.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Đăng ký để bảo vệ hộp thư đến của bạn khỏi thư rác
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Thao tác này tạo tài khoản Mozilla của bạn để bạn có thể sử dụng và quản lý email ẩn danh.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Hãy tạo mật khẩu để bảo vệ hộp thư đến của bạn khỏi thư rác
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Hãy bảo vệ tài khoản của bạn bằng cách xác minh đăng nhập bằng mã xác thực bên dưới.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Sử dụng mã xác minh bên dưới để hoàn tất thiết lập tài khoản của bạn.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Xác minh tài khoản của bạn để sử dụng email ẩn danh
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Xác mih tài khoản của bạn để sử dụng email ẩn danh
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Kích hoạt VPN tích hợp sẵn bằng tài khoản Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla - Đăng ký tài khoản
+# Description for New Device Login Email
+fxa-description-6c54afca = Bạn gần như đã sẵn sàng để tăng cường quyền riêng tư cho trình duyệt của mình.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Tài khoản Mozilla
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Giúp chúng tôi giữ an toàn cho tài khoản của bạn bằng cách chấp thuận đăng nhập của bạn trên:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Bạn đã đăng nhập vào Mozilla chưa?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Bạn đã đăng nhập vào Mozilla chưa?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -246,6 +296,13 @@ fxa-description-811350a6 = Thêm một bước nữa để tận dụng lợi í
 fxa-description-861f2d28 = Sao lưu mật khẩu, thẻ và dấu trang để bạn sẵn sàng sử dụng thiết bị mới.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = đồng bộ hoá fox
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Hãy đảm bảo mọi thứ luôn được đồng bộ, cho dù bạn có tài khoản Mozilla hay là người dùng mới.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Đăng nhập hoặc tạo tài khoản
 
 ## legal-notice-label-subs-services - CMS Entry
 
