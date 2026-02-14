@@ -122,19 +122,19 @@ fxa-headline-48cc8c34 = Ustvarite geslo za varno sinhronizacijo
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Description for Email First Page
-fxa-description-637f76bf = Ustvarite račun ali se prijavite, če ga imate.
+fxa-description-637f76bf = Ustvarite račun ali se prijavite, če ga že imate.
 # Headline for Email First Page
-fxa-headline-6d656fc9 = Preskusite Firefox VPN z Mozillin računom
+fxa-headline-6d656fc9 = Preskusite Firefox VPN z računom Mozilla
 # Description for New Device Login Email
-fxa-description-e59dc09c = Prišlo je do nove prijave v vaš račun Mozilla. Če niste vi, spremenite geslo.
+fxa-description-e59dc09c = Nekdo se je pravkar prijavil v vaš račun Mozilla. Če niste bili vi, spremenite geslo.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Nova prijava v Firefox
 # Page Title for Shared
-fxa-pageTitle-6a3bf665 = Nastavite Firefox VPN
+fxa-pageTitle-6a3bf665 = Nastavitev Firefox VPN
 # Description for Signin Page
 fxa-description-427b83de = Prijavite se v svoj račun Mozilla.
 # Description for Signup Confirmed Sync Page
-fxa-description-68ca3526 = Sinhronizacija je omogočena in pripravljeni ste na Firefox VPN. Pojdite v orodno vrstico, da jo vklopite.
+fxa-description-68ca3526 = Sinhronizacija je omogočena in vse je pripravljeno na uporabo Firefox VPN. Vključite ga v orodni vrstici.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-9628f0ec = Naprej: Vklopite Firefox VPN
 # Headline for Signup Set Password Page
@@ -153,7 +153,7 @@ fxa-description-edee250c = Prijavite se za sinhronizacijo z vašim računom Mozi
 # Headline for Email First Page
 fxa-headline-a4b1427f = Za nadaljevanje uporabite e-poštni naslov
 # Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = brskalnik Firefox
+fxa-logoAltText-17aa6423 = Brskalnik Firefox
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
@@ -171,7 +171,7 @@ fxa-headline-30fd7c55 = Registrirajte ali se prijavite in zaščitite svoj nabir
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = maska e-pošte
 # Page Title for Email First Page
-fxa-pageTitle-8e453cea = Zaščitite svoj nabiralnik pred vsiljeno pošto | Mozilline račune
+fxa-pageTitle-8e453cea = Zaščitite svoj nabiralnik pred neželeno pošto | Računi Mozilla
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Za prijavo je bil uporabljen vaš račun
 # Additional Accessibility Info for Shared
@@ -183,9 +183,9 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
-fxa-pageTitle-d38aa094 = Prijavite se in zaščitite svoj nabiralnik pred vsiljeno pošto
+fxa-pageTitle-d38aa094 = Registrirajte se in zaščitite svoj nabiralnik pred neželeno pošto
 # Description for Signup Set Password Page
-fxa-description-e45e7923 = S tem je ustvarjen vaš Mozillin račun, tako da lahko uporabljate in upravljate e-poštne maske.
+fxa-description-e45e7923 = S tem boste ustvarili račun Mozilla, s katerim boste lahko uporabljali in upravljali e-poštne maske.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Ustvarite geslo, da zaščitite svoj nabiralnik pred vsiljeno pošto
 # Description for Verify Login Code Email
@@ -202,13 +202,13 @@ fxa-subject-2322b41f = Potrdite račun za uporabo e-poštnih mask
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktivirajte vgrajeni VPN z Mozillin računom
 # Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Ustvarite račun
+fxa-pageTitle-a8211ca7 = Mozilla – Ustvarite račun
 # Description for New Device Login Email
 fxa-description-6c54afca = Skoraj ste pripravljeni za izboljšanje zasebnosti vašega brskalnika.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Potrdite račun za uporabo vgrajenega VPN-ja Firefox
 # Page Title for Signin Page
-fxa-pageTitle-001bb150 = račun Mozilla
+fxa-pageTitle-001bb150 = Račun Mozilla
 # Headline for Verify Login Code Email
 fxa-headline-9627bd4a = Potrdite račun za uporabo vgrajenega VPN-ja Firefox
 # Description for Verify Short Code Email
@@ -262,7 +262,7 @@ fxa-description-ab270ce7 = Za uporabo Mozilla Monitorja se prijavite v račun Mo
 # Headline for Signup Confirmed Sync Page
 fxa-headline-74db8403 = Sinhronizacija potrjena
 # Headline for Signup Set Password Page
-fxa-headline-47e5e3c7 = Ustvarite geslo za začetek skeniranja
+fxa-headline-47e5e3c7 = Nastavite geslo za začetek pregleda
 # Headline for Verify Login Code Email
 fxa-headline-461a0bbf = Za uporabo Mozilla Monitorja potrdite račun
 # Subject for Verify Login Code Email
