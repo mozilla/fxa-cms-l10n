@@ -201,6 +201,10 @@ fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adres
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktywuj wbudowany VPN za pomocą konta Mozilli
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla – załóż konto
+# Description for New Device Login Email
+fxa-description-6c54afca = Twoja przeglądarka jest już prawie gotowa do zwiększenia poziomu prywatności.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
 # Page Title for Signin Page
@@ -211,6 +215,8 @@ fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VP
 fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
 # Headline for Verify Short Code Email
 fxa-headline-2e6f7fd2 = Ktoś zalogował się do Mozilli. To Ty?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Ktoś zalogował się do Mozilli. To Ty?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -290,6 +296,13 @@ fxa-description-811350a6 = Jeszcze tylko krok do korzystania z zalet Firefox VP
 fxa-description-861f2d28 = Zrób kopię zapasową swoich haseł, kart i zakładek, aby być gotowym na nowe urządzenie.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Lisowa synchronizacja
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Synchronizuj wszystkie dane, niezależnie od tego, czy posiadasz konto Mozilli, czy jesteś nowym użytkownikiem.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Zaloguj się lub utwórz konto
 
 ## legal-notice-label-subs-services - CMS Entry
 
