@@ -159,6 +159,8 @@ fxa-logoAltText-17aa6423 = เบราว์เซอร์ Firefox
 
 # Description for Email First Page
 fxa-description-a0166dfc = เริ่มซิงค์ข้อมูลของคุณกับบัญชี Mozilla ได้เลย มีบัญชีอยู่แล้วใช่ไหม? เราจะค้นหาให้เอง
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = จิ้งจอกกำลังกระโดด
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -229,6 +231,14 @@ fxa-subject-f3d09e03 = ยืนยันบัญชีของคุณเพ
 
 # Description for Email First Page
 fxa-description-4766f222 = จำเป็นต้องมีบัญชี Mozilla เพื่อใช้งาน Mozilla Monitor
+# Headline for Email First Page
+fxa-headline-de41db80 = ลงทะเบียนหรือลงชื่อเข้าสู่บัญชี Mozilla ของคุณ
+# Description for New Device Login Email
+fxa-description-4e3d5811 = มีการลงชื่อเข้าใหม่ใน Mozilla Monitor หากไม่ใช่คุณ โปรดเปลี่ยนรหัสผ่านของคุณ
+# Headline for New Device Login Email
+fxa-headline-207efcd9 = การลงชื่อเข้าใหม่ใน Mozilla Monitor
+# Subject for New Device Login Email
+fxa-subject-207efcd9 = การลงชื่อเข้าใหม่ใน Mozilla Monitor
 # Email From Name for Shared
 fxa-emailFromName-e2b624cb = Mozilla Monitor
 # Email Logo Alt Text for Shared
@@ -237,8 +247,45 @@ fxa-emailLogoAltText-ccc1a61b = โลโก้ Mozilla Monitor
 fxa-logoAltText-ccc1a61b = โลโก้ Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = ตั้งค่า Mozilla Monitor
+# Description for Signin Page
+fxa-description-ab270ce7 = ลงชื่อเข้าบัญชี Mozilla ของคุณเพื่อใช้งาน Mozilla Monitor
 # Headline for Signup Confirmed Sync Page
 fxa-headline-74db8403 = ยืนยันการซิงค์แล้ว
+# Headline for Signup Set Password Page
+fxa-headline-47e5e3c7 = สร้างรหัสผ่านเพื่อเริ่มการสแกน
+# Headline for Verify Login Code Email
+fxa-headline-461a0bbf = ยืนยันบัญชีของคุณเพื่อใช้ Mozilla Monitor
+# Subject for Verify Login Code Email
+fxa-subject-461a0bbf = ยืนยันบัญชีของคุณเพื่อใช้ Mozilla Monitor
+# Headline for Verify Short Code Email
+fxa-headline-74461a97 = ยืนยันบัญชีของคุณเพื่อใช้ Mozilla Monitor
+
+## l10n-6 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = ใช้บัญชี Mozilla ของคุณเพื่อซิงค์ข้อมูลไปยังอุปกรณ์อื่นอย่างปลอดภัย
+# Headline for Email First Page
+fxa-headline-0ec7d798 = ดึงรหัสผ่านที่บันทึกได้ทุกที่
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = สร้างบัญชี Mozilla เพื่อซิงค์ข้อมูลไปยังอุปกรณ์อื่นอย่างปลอดภัย
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = ยืนยันบัญชีของคุณเพื่อซิงค์
+
+## l10n-7 - Firefox Desktop Sync - VPN Promo
+
+# Description for Email First Page
+fxa-description-6591d2a0 = การสร้างบัญชีจะช่วยให้เข้าถึง VPN และซิงค์ข้อมูล Firefox ของคุณระหว่างอุปกรณ์ต่างๆ ได้
+# Headline for Email First Page
+fxa-headline-6aca2436 = เปิดใช้งาน Firefox VPN ของคุณได้ฟรีด้วยบัญชี Mozilla
+# Description for Signup Confirmed Sync Page
+fxa-description-811350a6 = อีกขั้นตอนเดียวที่จะช่วยให้คุณได้รับประโยชน์จาก Firefox VPN คือไปที่ เปิดแผง และเปิดใช้งาน
+
+## l10n-8 - Firefox Desktop Sync - Win10 Toast
+
+# Description for Email First Page
+fxa-description-861f2d28 = สำรองรหัสผ่าน แท็บ และที่คั่นหน้าของคุณ เพื่อเตรียมพร้อมสำหรับอุปกรณ์ใหม่
+# Logo Alt Text for Email First Page
+fxa-logoAltText-164ffc49 = จิ้งจอกกำลังซิงค์ข้อมูล
 
 ## legal-notice-label-subs-services - CMS Entry
 
