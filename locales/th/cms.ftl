@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = การลงชื่อเข้าหรือสร้างบัญชี Mozilla ใช้เวลาเพียงไม่กี่วินาทีเท่านั้น
 # Headline for Email First Page
 fxa-headline-a20eb81e = ลงทะเบียนหรือลงชื่อเข้า
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = โลโก้ Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = ถัดไป
 # Description for New Device Login Email
 fxa-description-a0671d4a = มีการลงชื่อเข้าบัญชี Mozilla ของคุณใหม่:
 # Headline for New Device Login Email
@@ -90,6 +94,8 @@ fxa-description-5649263e = ลงชื่อเข้าเพื่อสำ�
 fxa-description-3db4ef62 = สำรองข้อมูล Firefox ของคุณอย่างปลอดภัยด้วยรหัสผ่าน
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = สร้างรหัสผ่านเพื่อปกป้องข้อมูลของคุณ
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = ช่วยให้เราแน่ใจว่าเป็นคุณที่ลงชื่อเข้า
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = ยืนยันบัญชี Mozilla ของคุณเพื่อซิงค์
 
@@ -105,6 +111,15 @@ fxa-description-427b83de = ลงชื่อเข้าบัญชี Mozilla
 fxa-headline-7e0aff4a = ตั้งรหัสผ่านของคุณ
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = ยืนยันบัญชีของคุณ
+
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Description for Email First Page
+fxa-description-edee250c = ลงชื่อเข้าเพื่อซิงค์ข้อมูลกับบัญชี Mozilla ของคุณ หากคุณยังไม่มีบัญชี คุณสามารถสร้างได้ในเวลาเพียงไม่กี่วินาที
+# Headline for Email First Page
+fxa-headline-a4b1427f = ใช้อีเมลของคุณเพื่อดำเนินการต่อ
+# Logo Alt Text for Email First Page
+fxa-logoAltText-17aa6423 = เบราว์เซอร์ Firefox
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
