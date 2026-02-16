@@ -174,6 +174,8 @@ fxa-logoAltText-8d308a03 = ñanduti veve rovamo’ãha
 fxa-pageTitle-8e453cea = Emo’ã ne ñe’ẽmondo g̃uahẽha spam-gui | Mozilla mba’ete
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Ne mba’ete ojeporu ojeike hag̃ua
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox oujeýta oĩgaguépe oiporu hag̃ua ñanduti veve rovamo’ãhápe eike rire ñandutípe.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
