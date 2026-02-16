@@ -210,7 +210,7 @@ fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-
 # Page Title for Signin Page
 fxa-pageTitle-001bb150 = Mozilla-fiók
 # Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
+fxa-headline-9627bd4a = Erősítse meg a fiókját, hogy a Firefox beépített VPN-jét használja
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
 # Headline for Verify Short Code Email
@@ -300,7 +300,7 @@ fxa-logoAltText-164ffc49 = szinkronizáló róka
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = Tartson mindent szinkronban, akár van Mozilla fiókja, akár új felhasználó itt.
+fxa-description-50988cb8 = Tartson mindent szinkronban, akár van már Mozilla-fiókja, akár új felhasználó itt.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = Jelentkezzen be vagy hozzon létre egy fiókot
 
