@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Eikotevẽ sapy’ami eike térã emoheñói hag̃ua mba’ete Mozilla-pe.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Eñemboheraguapy térã eike
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox ra’ãnga’i
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Upeigua
 # Description for New Device Login Email
 fxa-description-a0671d4a = Oĩ oike pyahúva ne mba’ete Mozilla peguápe:
 # Headline for New Device Login Email
@@ -187,6 +191,12 @@ fxa-subject-2322b41f = Emoneĩ ne mba’ete eiporu hag̃ua ñanduti veve rovamo�
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Emyandy nde VPN jehe’apyre ne mba’ete Mozilla-guándi
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Eñemboheraguapy ereko hag̃ua mba’ete
+# Description for New Device Login Email
+fxa-description-6c54afca = Eime porãma emoporãve hag̃ua ne kundahára rekoñemi.
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
 
