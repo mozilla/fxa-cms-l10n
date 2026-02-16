@@ -197,8 +197,18 @@ fxa-headline-21296b0d = Emyandy nde VPN jehe’apyre ne mba’ete Mozilla-guánd
 fxa-pageTitle-a8211ca7 = Eñemboheraguapy ereko hag̃ua mba’ete
 # Description for New Device Login Email
 fxa-description-6c54afca = Eime porãma emoporãve hag̃ua ne kundahára rekoñemi.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla mba’ete
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = ¿Eikéma Mozilla-pe?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = ¿Eikéma Mozilla-pe?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -278,6 +288,13 @@ fxa-description-811350a6 = Peteĩ jeku’eve eiporu porãve hag̃ua Firefox VPN.
 fxa-description-861f2d28 = Eñongatu jey ne ñe’ẽñemi, tendayke ha techaukaha ehasa hag̃ua mba’e’oka pyahúpe.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Aguara ñembojuehe
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Eime moñondipyrépe, taha’e eguerekórõ mba’ete Mozilla térã nde pyahu ko’ápe.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Eike térã emoheñói mba’ete
 
 ## legal-notice-label-subs-services - CMS Entry
 
