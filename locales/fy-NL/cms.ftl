@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Oanmelde of in Mozilla-account oanmeitsje duorret mar efkes.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Registrearje of oanmelde
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-logo
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Folgjende
 # Description for New Device Login Email
 fxa-description-a0671d4a = Der is in nije oanmelding op jo Mozilla-account:
 # Headline for New Device Login Email
@@ -144,6 +148,8 @@ fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-edee250c = Meld jo oan om mei jo Mozilla-account te syngronisearjen. As jo der noch gjin hawwe, duorret it mar in pear sekonden om oan te meitsjen.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Brûk jo e-mailadres om troch te gean
 # Logo Alt Text for Email First Page
@@ -158,13 +164,59 @@ fxa-logoAltText-c4b14a5b = springende fokse
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = E-mailberjochten dy’t nei dit masker ferstjoerd wurde, wurde nei dit adres trochstjoerd.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Registrearje of meld jo oan om jo Postfek YN te beskermjen tsjin spam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = e-mailmasker
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Beskermje jo Postfek YN tsjin spam | Mozilla-accounts
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Jo account is brûkt om jo oan te melden
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox probearret jo werom te stjoeren om in e-mailmasker te brûken neidat jo jo oanmeld hawwe.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Registrearje om jo Postfek YN te beskermjen tsjin spam
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Hjirtroch wurdt jo Mozilla-account oanmakke, sadat jo e-mailmaskers brûke en beheare kinne.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Meitsje in wachtwurd oan om jo Postfek YN te beskermjen tsjin spam
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Hâld jo account feilich troch jo oanmelding mei de ûndersteande autorisaasjekoade goed te karren.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Brûk de ûndersteande befêstigingskoade om it ynstellen fan jo account te foltôgjen.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Befêstigje jo account om e-mailmaskers te brûken
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Befêstigje jo account om e-mailmaskers te brûken
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktivearje jo ynboude VPN mei in Mozilla-account
+# Page Title for Email First Page
+fxa-pageTitle-a8211ca7 = Mozilla – Registrearje foar in account
+# Description for New Device Login Email
+fxa-description-6c54afca = Jo binne hast klear om de privacy fan jo browser te ferbetterjen.
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
+# Page Title for Signin Page
+fxa-pageTitle-001bb150 = Mozilla-account
+# Headline for Verify Login Code Email
+fxa-headline-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
 # Description for Verify Short Code Email
 fxa-description-6bc52850 = Help ús jo account feilich te hâlden troch jo oanmelding goed te karren op:
+# Headline for Verify Short Code Email
+fxa-headline-2e6f7fd2 = Hawwe jo jo oanmeld by Mozilla?
+# Subject for Verify Short Code Email
+fxa-subject-2e6f7fd2 = Hawwe jo jo oanmeld by Mozilla?
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -244,6 +296,13 @@ fxa-description-811350a6 = Noch ien stap om de foardielen fan Firefox VPN te ûn
 fxa-description-861f2d28 = Meitsje in reservekopy fan jo wachtwurden, ljepblêden en blêdwizers, sadat jo klear binne foar in nij apparaat.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = foks-syngronisaasje
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Hâld alles syngronisearre, oft jo no in Mozilla-account hawwe of hjir nij binne.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Oanmelde of in account oanmeitsje
 
 ## legal-notice-label-subs-services - CMS Entry
 
