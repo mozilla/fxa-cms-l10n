@@ -5,7 +5,7 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Χρειάζεται μόνο λίγος χρόνος για να συνδεθείτε ή να δημιουργήσετε έναν λογαριασμό Mozilla.
+fxa-description-0b815ba1 = Χρειάζονται μόνο λίγα λεπτά για να συνδεθείτε ή να δημιουργήσετε έναν λογαριασμό Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Εγγραφή ή σύνδεση
 # Logo Alt Text for Email First Page
@@ -149,7 +149,7 @@ fxa-subject-10e5b452 = Επιβεβαιώστε τον λογαριασμό σα
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-edee250c = Συνδεθείτε για συγχρονισμό με τον λογαριασμό Mozilla σας. Αν δεν έχετε ήδη ένα, χρειάζεται μόνο ένα δευτερόλεπτο για να το δημιουργήσετε.
+fxa-description-edee250c = Συνδεθείτε για να κάνετε συγχρονισμό με τον λογαριασμό Mozilla σας. Εάν δεν διαθέτετε ήδη έναν, χρειάζονται μόνο λίγα λεπτά για να τον δημιουργήσετε.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Χρησιμοποιήστε το email σας για να συνεχίσετε
 # Logo Alt Text for Email First Page
@@ -165,7 +165,7 @@ fxa-logoAltText-c4b14a5b = μια αλεπού που κάνει άλμα
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
-fxa-description-607e9f0f = Τα emails που αποστέλλονται στις μάσκες σας θα προωθούνται σε αυτή τη διεύθυνση.
+fxa-description-607e9f0f = Τα email που αποστέλλονται στις μάσκες σας θα προωθούνται σε αυτήν τη διεύθυνση.
 # Headline for Email First Page
 fxa-headline-30fd7c55 = Εγγραφείτε ή συνδεθείτε για να προστατέψετε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα
 # Logo Alt Text for Email First Page
@@ -175,7 +175,7 @@ fxa-pageTitle-8e453cea = Προστατέψτε τα εισερχόμενά σα
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Ο λογαριασμός σας χρησιμοποιήθηκε για σύνδεση
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Το Firefox θα προσπαθήσει να σας στείλει ξανά για να χρησιμοποιήσετε μια μάσκα email αφού συνδεθείτε.
+fxa-additionalAccessibilityInfo-5deba5d1 = Το Firefox θα δοκιμάσει να σας γυρίσει πίσω για να χρησιμοποιήσετε μια μάσκα email αφού συνδεθείτε.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -302,7 +302,7 @@ fxa-logoAltText-164ffc49 = συγχρονισμός με μια αλεπού
 # Description for Email First Page
 fxa-description-50988cb8 = Συγχρονίστε τα πάντα, είτε έχετε λογαριασμό Mozilla είτε είστε νέοι εδώ.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Συνδεθείτε ή δημιουργήστε λογαριασμό
+fxa-headline-7b9deb3b = Σύνδεση η δημιουργία λογαριασμού
 
 ## legal-notice-label-subs-services - CMS Entry
 
