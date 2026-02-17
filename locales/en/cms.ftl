@@ -1,4 +1,4 @@
-### Generated on 2026-02-17T23:53:45.020Z
+### Generated on 2026-02-17T23:54:26.787Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -155,7 +155,7 @@ fxa-headline-73fe011e = Sign in or create a Mozilla account
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
 # Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -180,8 +180,6 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Sign up to protect your inbox from spam
 # Description for Signup Set Password Page
