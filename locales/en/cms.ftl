@@ -1,4 +1,4 @@
-### Generated on 2026-02-17T23:49:20.921Z
+### Generated on 2026-02-17T23:50:04.089Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -153,7 +153,7 @@ fxa-description-524b29ef = Not sure if you have an account? Enter your email, an
 # Headline for Email First Page
 fxa-headline-73fe011e = Sign in or create a Mozilla account
 # Logo Url for Email First Page
-fxa-logoUrl-23c0b1cc = url(https://accounts-cdn.stage.mozaws.net/other/cms/fox_jumping_computer.svg?raw=true) no-repeat center
+fxa-logoUrl-156c42d5 = url(https://accounts-cdn.stage.mozaws.net/product-icons/firefox-logo-email.png?raw=true) no-repeat center
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
 # Logo Alt Text for Signup Set Password Page
