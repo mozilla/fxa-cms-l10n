@@ -204,7 +204,7 @@ fxa-headline-21296b0d = Ενεργοποιήστε το ενσωματωμένο
 # Page Title for Email First Page
 fxa-pageTitle-a8211ca7 = Mozilla - Δημιουργία λογαριασμού
 # Description for New Device Login Email
-fxa-description-6c54afca = Είστε σχεδόν έτοιμοι να ενισχύσετε το απόρρητο του προγράμματος περιήγησής σας.
+fxa-description-6c54afca = Όλα είναι σχεδόν έτοιμα για να ενισχύσετε το απόρρητο του προγράμματος περιήγησής σας.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Επιβεβαιώστε τον λογαριασμό σας για χρήση του ενσωματωμένου VPN του Firefox
 # Page Title for Signin Page
@@ -300,9 +300,9 @@ fxa-logoAltText-164ffc49 = συγχρονισμός με μια αλεπού
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-50988cb8 = Συγχρονίστε τα πάντα, είτε έχετε λογαριασμό Mozilla είτε είστε νέοι εδώ.
+fxa-description-50988cb8 = Συγχρονίστε τα πάντα, είτε έχετε λογαριασμό Mozilla είτε είστε νέος χρήστης.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Σύνδεση η δημιουργία λογαριασμού
+fxa-headline-7b9deb3b = Σύνδεση ή δημιουργία λογαριασμού
 
 ## legal-notice-label-subs-services - CMS Entry
 
