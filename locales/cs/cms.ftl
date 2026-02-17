@@ -202,7 +202,7 @@ fxa-subject-2322b41f = Pro používání e-mailových masek potvrďte svůj úč
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktivujte vestavěnou VPN pomocí účtu Mozilla
 # Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Registrace účtu
+fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
 # Description for New Device Login Email
 fxa-description-6c54afca = Jste téměř připraveni zlepšit soukromí svého prohlížeče.
 # Subject for New Device Login Email
