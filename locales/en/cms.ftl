@@ -1,4 +1,4 @@
-### Generated on 2026-02-17T23:50:04.089Z
+### Generated on 2026-02-17T23:51:19.899Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -152,10 +152,6 @@ fxa-logoAltText-17aa6423 = Firefox Browser
 fxa-description-524b29ef = Not sure if you have an account? Enter your email, and we'll check for you.
 # Headline for Email First Page
 fxa-headline-73fe011e = Sign in or create a Mozilla account
-# Logo Url for Email First Page
-fxa-logoUrl-156c42d5 = url(https://accounts-cdn.stage.mozaws.net/product-icons/firefox-logo-email.png?raw=true) no-repeat center
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla account
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -200,6 +196,8 @@ fxa-subject-2322b41f = Confirm your account to use email masks
 ## l10n-19 - VPN (Settings)
 # Headline for Email First Page
 fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla account
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
 # Headline for New Device Login Email
