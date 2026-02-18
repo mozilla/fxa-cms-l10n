@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Fi
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = ניתן להיכנס או ליצור חשבון כדי לסנכרן את ההגדרות והנתונים שלך.
 # Headline for Email First Page
 fxa-headline-a4b1427f = יש להשתמש בדוא״ל שלך כדי להמשיך
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = חשבון Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = יש להתחבר כדי לסנכרן עם חשבון ה־Mozilla שלך. אם אין לך חשבון, ייקח רק שנייה ליצור אותו.
+# Headline for Email First Page
+fxa-headline-73fe011e = כניסה או יצירת חשבון Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = שועל קופץ
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמ�
 fxa-headline-21296b0d = הפעלת ה־VPN המובנה באמצעות חשבון Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = כמעט הכל מוכן לשדרוג הפרטיות בדפדפן שלך.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = נעשה שימוש בחשבון ה־Mozilla שלך להתחברות ל־Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = ‏Mozilla - הרשמה לחשבון
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = האם התחברת ל־Firefox עם חשבון ה־Mozilla שלך?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = אישור הכניסה ל־Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
 
