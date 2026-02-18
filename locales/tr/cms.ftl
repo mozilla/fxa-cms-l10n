@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Ayarlarınızın ve verilerinizin senkronize olması için giriş yapın veya hesap açın.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Devam etmek için e-postanızı kullanın
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla hesabı
 
 # Description for Email First Page
 fxa-description-edee250c = Mozilla hesabınızla eşitleme yapmak için giriş yapın. Hesabınız yoksa birkaç saniyede hesap açabilirsiniz.
+# Headline for Email First Page
+fxa-headline-73fe011e = Giriş yapın veya Mozilla hesabı açın
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = zıplayan tilki
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = E-posta maskelerini kullanmak için hesabınızı onaylay
 fxa-headline-21296b0d = Yerleşik VPN’inizi Mozilla hesabıyla etkinleştirin
 # Description for New Device Login Email
 fxa-description-6c54afca = Tarayıcınızın gizliliğini artırmaya neredeyse hazırsınız.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Firefox'a giriş yapmak için Mozilla hesabınız kullanıldı
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox’un yerleşik VPN’ini kullanmak için hesabınızı onaylayın
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Hesap açın
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Girişinizi onaylayarak hesabınızı güvende tutmamıza yardımcı olun:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Firefox’a Mozilla hesabınızla giriş yaptınız mı?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Mozilla’ya girişi onaylayın
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox’un yerleşik VPN’ini kullanmak için hesabınızı onaylayın
 

@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Confirmá tu cuenta para iniciar sesión en Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Iniciá sesión o creá una cuenta para mantener tu configuración y datos sincronizados.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Usá tu correo electrónico para continuar
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Cuenta de Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Ingresá para sincronizar con tu cuenta de Mozilla. Si no tenés una, solo toma un segundo crearla.
+# Headline for Email First Page
+fxa-headline-73fe011e = Ingresá o creá una cuenta de Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = zorro saltando
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Confirmá tu cuenta para usar máscaras de correo electr�
 fxa-headline-21296b0d = Activá tu VPN integrada con una cuenta de Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Ya casi estás listo para mejorar la privacidad de tu navegador.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Tu cuenta de Mozilla fue usada para iniciar sesión en Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirmá tu cuenta para usar la VPN integrada de Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Registrate para obtener una cuenta
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ayudanos a mantener tu cuenta segura aprobando el inicio de sesión en:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = ¿Iniciaste sesión en Firefox con tu cuenta de Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Aprobar inicio de sesión en Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirmá tu cuenta para usar la VPN integrada de Firefox
 

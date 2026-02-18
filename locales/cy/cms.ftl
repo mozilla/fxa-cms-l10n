@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Mewngofnodwch neu crëwch gyfrif i gadw'ch gosodiadau a'ch data wedi'u cysoni.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Defnyddiwch eich e-bost i barhau
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Cyfrif Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Mewngofnodwch i gydweddu â'ch cyfrif Mozilla. Os nad oes gennych chi un, dim ond eiliad mae'n ei gymryd i'w greu.
+# Headline for Email First Page
+fxa-headline-73fe011e = Mewngofnodwch neu crëwch gyfrif Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = llwynog yn neidio
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio arallenwau e-byst
 fxa-headline-21296b0d = Gweithredwch eich VPN mewnol gyda chyfrif Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Defnyddiwyd eich cyfrif Mozilla i fewngofnodi i Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Helpwch ni i gadw'ch cyfrif yn ddiogel trwy gymeradwyo eich mewngofnodi:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = A wnaethoch chi fewngofnodi i Firefox gyda'ch cyfrif Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Cymeradwyo mewngofnodi i Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 

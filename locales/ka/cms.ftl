@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = დაადასტურეთ თქვენი ა�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = შედით ან შექმენით ანგარიში თქვენი პარამეტრებისა და მონაცემების დასინქრონებისთვის.
 # Headline for Email First Page
 fxa-headline-a4b1427f = გასაგრძელებლად გამოიყენეთ თქვენი ელფოსტა
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla-ანგარიში
 
 # Description for Email First Page
 fxa-description-edee250c = შედით თქვენი Mozilla-ანგარიშით დასინქრონებისთვის. თუ თქვენ არ გაქვთ, მის შექმნას მხოლოდ წამი სჭირდება.
+# Headline for Email First Page
+fxa-headline-73fe011e = შედით ან შექმენით Mozilla-ანგარიში
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = მელა დახტის
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = დაადასტურეთ თქვენს ა�
 fxa-headline-21296b0d = აამოქმედეთ თქვენი ჩაშენებული VPN Mozilla-ს ანგარიშით
 # Description for New Device Login Email
 fxa-description-6c54afca = თითქმის მზად ხართ ბრაუზერის კონფიდენციალურობის გასაძლიერებლად.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = თქვენი Mozilla-ანგარიში გამოყენებულია Firefox-ში შესასვლელად
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = დაადასტურეთ თქვენი ანგარიში, Firefox-ის ჩაშენებული VPN-ით გამოსაყენებლად
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - შექმენით ანგარიში
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Firefox-ში თქვენი Mozilla ანგარიშით ხართ შესული?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Mozilla-ში შესვლის დამოწმება
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = დაადასტურეთ თქვენი ანგარიში, Firefox-ის ჩაშენებული VPN-ით გამოსაყენებლად
 

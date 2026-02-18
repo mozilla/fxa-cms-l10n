@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Bekräfta ditt konto för att logga in till Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Logga in eller skapa ett konto för att hålla dina inställningar och data synkroniserade.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Använd din e-postadress för att fortsätta
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla-konto
 
 # Description for Email First Page
 fxa-description-edee250c = Logga in med ditt Mozilla-konto för att synkronisera. Om du inte redan har ett går det snabbt och enkelt att skapa ett.
+# Headline for Email First Page
+fxa-headline-73fe011e = Logga in eller skapa ett Mozilla-konto
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Hoppande räv
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Bekräfta ditt konto för att använda e-postalias
 fxa-headline-21296b0d = Aktivera ditt inbyggda VPN med ett Mozilla-konto
 # Description for New Device Login Email
 fxa-description-6c54afca = Du är nästan redo att förbättra din webbläsares integritet.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Ditt Mozilla-konto användes för att logga in på Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda VPN
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Registrera dig för ett konto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjälp oss att hålla ditt konto säkert genom att godkänna din inloggning på:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Loggade du in på Firefox med ditt Mozilla-konto?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Godkänn inloggning till Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda VPN
 

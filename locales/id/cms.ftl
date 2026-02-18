@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Konfirmasi akun Anda untuk masuk ke Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Masuk atau buat akun untuk menjaga pengaturan dan data Anda tetap sinkron.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Gunakan surel Anda untuk melanjutkan
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Akun Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Masuk untuk menyinkronkan dengan akun Mozilla Anda. Jika Anda tidak memilikinya, hanya perlu beberapa detik untuk membuatnya.
+# Headline for Email First Page
+fxa-headline-73fe011e = Masuk atau buat akun Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = rubah melompat
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 fxa-headline-21296b0d = Aktifkan VPN bawaan Anda dengan akun Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Anda hampir siap untuk meningkatkan privasi peramban Anda.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Akun Mozilla Anda digunakan untuk masuk ke Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Daftar untuk sebuah akun
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Apakah Anda masuk ke Firefox dengan akun Mozilla Anda?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Setujui masuk ke Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
 

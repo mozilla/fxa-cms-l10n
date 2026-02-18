@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Bestätigen Sie Ihr Konto, um sich bei Firefox anzumelden
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Melden Sie sich an oder erstellen Sie ein Konto, um Ihre Einstellungen und Daten synchron zu halten.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Ihre E-Mail-Adresse verwenden, um fortzufahren
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla-Konto
 
 # Description for Email First Page
 fxa-description-edee250c = Melden Sie sich an, um mit Ihrem Mozilla-Konto zu synchronisieren. Wenn Sie noch keines haben, können Sie schnell eines erstellen.
+# Headline for Email First Page
+fxa-headline-73fe011e = Anmelden oder Mozilla-Konto erstellen
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Springender Fuchs
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Bestätigen Sie Ihr Konto, um E-Mail-Masken zu verwenden
 fxa-headline-21296b0d = Aktivieren Sie Ihr integriertes VPN mit einem Mozilla-Konto
 # Description for New Device Login Email
 fxa-description-6c54afca = Sie sind fast soweit, die Privatsphäre Ihres Browsers zu erhöhen.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Ihr Mozilla-Konto wurde zur Anmeldung bei Firefox verwendet
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Bestätigen Sie Ihr Konto, um das integrierte VPN von Firefox zu verwenden
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Erstellen Sie ein Konto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Helfen Sie uns, Ihr Konto zu schützen, indem Sie Ihre Anmeldung genehmigen:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Haben Sie sich mit Ihrem Mozilla-Konto bei Firefox angemeldet?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Anmeldung bei Mozilla genehmigen
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Bestätigen Sie Ihr Konto, um das integrierte VPN von Firefox zu verwenden
 

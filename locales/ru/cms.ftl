@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Подтвердите свой аккаунт для в�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Войдите или создайте аккаунт, чтобы синхронизировать свои настройки и данные.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Используйте свою эл. почту для продолжения
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Аккаунт Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Войдите для синхронизации со своим аккаунтом Mozilla. Если у вас его нет, это займет всего секунду, чтобы его создать.
+# Headline for Email First Page
+fxa-headline-73fe011e = Войдите или создайте аккаунт Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = прыгающая лиса
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Подтвердите свой аккаунт, чтоб�
 fxa-headline-21296b0d = Активируйте встроенный VPN с помощью аккаунта Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Вы почти готовы повысить приватность вашего браузера.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Ваш Аккаунт Mozilla был использован для входа в Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Подтвердите свой аккаунт для использования встроенного в Firefox VPN
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Зарегистрировать аккаунт
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Помогите нам обеспечить безопасность вашей учётной записи, подтвердив вход в:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Вы вошли в Firefox с помощью своего аккаунта Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Подтвердить вход в Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Подтвердите свой аккаунт для использования встроенного в Firefox VPN
 

@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Потвърдете профила си, за да вл�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Влезте или създайте профил, за да поддържате настройките и данните си синхронизирани.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Използвайте имейла си, за да продължите
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla профил
 
 # Description for Email First Page
 fxa-description-edee250c = Влезте, за да синхронизирате с вашия Mozilla акаунт. Ако нямате, създаването му ще отнеме само секунда.
+# Headline for Email First Page
+fxa-headline-73fe011e = Влезте или създайте профил в Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = скачаща лисица
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Потвърдете профила си, за да из�
 fxa-headline-21296b0d = Активирайте вградения VPN с акаунт в Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Почти сте готови да подобрите поверителността на браузъра си.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Вашият Mozilla акаунт е използван за вписване във Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Регистриране на профил
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Влязохте ли във Firefox с вашия Mozilla акаунт?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Одобряване вписването в Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
 

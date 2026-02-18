@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Επιβεβαιώστε τον λογαριασμό σα
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Συνδεθείτε ή δημιουργήστε ένα λογαριασμό για να διατηρήσετε συγχρονισμένα τις ρυθμίσεις και τα δεδομένα σας.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Χρησιμοποιήστε το email σας για να συνεχίσετε
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Λογαριασμός Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Συνδεθείτε για να κάνετε συγχρονισμό με τον λογαριασμό Mozilla σας. Εάν δεν διαθέτετε ήδη έναν, χρειάζονται μόνο λίγα λεπτά για να τον δημιουργήσετε.
+# Headline for Email First Page
+fxa-headline-73fe011e = Συνδεθείτε ή δημιουργήστε λογαριασμό Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = μια αλεπού που κάνει άλμα
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Επιβεβαιώστε τον λογαριασμό σα
 fxa-headline-21296b0d = Ενεργοποιήστε το ενσωματωμένο VPN σας με έναν λογαριασμό Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Όλα είναι σχεδόν έτοιμα για να ενισχύσετε το απόρρητο του προγράμματος περιήγησής σας.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Ο λογαριασμός Mozilla σας χρησιμοποιήθηκε για σύνδεση στο Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Επιβεβαιώστε τον λογαριασμό σας για χρήση του ενσωματωμένου VPN του Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Δημιουργία λογαριασμού
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Βοηθήστε μας να προστατέψουμε τον λογαριασμό σας εγκρίνοντας τη σύνδεσή σας στο:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Συνδεθήκατε στο Firefox με το λογαριασμό Mozilla σας;
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Έγκριση σύνδεσης στο Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Επιβεβαιώστε τον λογαριασμό σας για χρήση του ενσωματωμένου VPN του Firefox
 

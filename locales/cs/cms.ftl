@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Potvrďte svůj účet pro přihlášení do Firefoxu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Pro synchronizaci svých nastavení a dat si vytvořte účet.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Pro pokračování použijte svůj e-mail
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Účet Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Přihlaste se k synchronizaci pomocí svého účtu Mozilla. Pokud žádné nemáte, jeho vytvoření trvá jenom sekundu.
+# Headline for Email First Page
+fxa-headline-73fe011e = Přihlaste se nebo si vytvořte účet Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skákající liška
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Pro používání e-mailových masek potvrďte svůj úč
 fxa-headline-21296b0d = Aktivujte vestavěnou VPN pomocí účtu Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Jste téměř připraveni zlepšit soukromí svého prohlížeče.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Pro přihlášení do Firefoxu byl použit váš účet Mozilla
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Potvrďte svůj účet pro používání vestavěné VPN ve Firefoxu
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomozte nám udržet váš účet v bezpečí tím, že schválíte své přihlášení na zařízení:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Přihlásili jste se do Firefoxu pomocí svého účtu Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Schválit přihlášení do Mozilly
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Potvrďte svůj účet pro používání vestavěné VPN ve Firefoxu
 

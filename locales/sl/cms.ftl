@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Potrdite račun za prijavo v Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Prijavite se ali ustvarite račun, da ohranite sinhronizacijo nastavitev in podatkov.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Za nadaljevanje uporabite e-poštni naslov
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Račun Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Prijavite se za sinhronizacijo z vašim računom Mozilla. Če ga nimate, ga ustvarite le sekundo.
+# Headline for Email First Page
+fxa-headline-73fe011e = Prijavite se ali ustvarite račun Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skakajoča lisica
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Za uporabo e-poštnih mask potrdite račun
 fxa-headline-21296b0d = Aktivirajte vgrajeni VPN z računom Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Skoraj ste pripravljeni za izboljšanje zasebnosti vašega brskalnika.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Vaš račun Mozilla je bil uporabljen za prijavo v Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Ustvarite račun
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobrite prijavo na naslednji napravi:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Ste se v Firefox prijavili s svojim računom Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Odobri prijavo v Mozillo
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
 

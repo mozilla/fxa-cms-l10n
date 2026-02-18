@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = 설정과 데이터를 동기화 상태로 유지하려면 로그인하거나 계정을 만드세요.
 # Headline for Email First Page
 fxa-headline-a4b1427f = 계속하려면 이메일을 사용하세요.
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla 계정
 
 # Description for Email First Page
 fxa-description-edee250c = Mozilla 계정과 동기화하려면 로그인하세요. 계정이 없더라도 몇 초밖에 걸리지 않습니다.
+# Headline for Email First Page
+fxa-headline-73fe011e = Mozilla 계정 생성 또는 로그인
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Fox jumping
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = 이메일 마스크를 사용하려면 계정을 확인�
 fxa-headline-21296b0d = Mozilla 계정으로 내장 VPN을 활성화하세요
 # Description for New Device Login Email
 fxa-description-6c54afca = 브라우저의 개인 정보 보호를 강화할 준비가 거의 다 되었습니다.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Firefox에 로그인하는 데 Mozilla 계정이 사용되었습니다
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 계정 생성
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 기기에서 일어난 로그인을 확인하여 계정을 안전하게 보호하세요:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Mozilla 계정으로 Firefox에 로그인하셨나요?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Mozilla 로그인 승인
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
 
