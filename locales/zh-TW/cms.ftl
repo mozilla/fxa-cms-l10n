@@ -149,7 +149,7 @@ fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-98e60975 = 登入或註冊帳號即可同步設定與資料。
+fxa-description-98e60975 = 登入或註冊帳號，即可同步您的設定與資料。
 # Headline for Email First Page
 fxa-headline-a4b1427f = 使用您的電子郵件地址繼續
 # Page Title for Email First Page
@@ -218,9 +218,9 @@ fxa-pageTitle-a8211ca7 = Mozilla - 註冊帳號
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
 # Headline for Verify Login Code Email
-fxa-headline-b9c2e03a = 您使用 Mozilla 帳號登入 Firefox 了嗎
+fxa-headline-b9c2e03a = 您使用 Mozilla 帳號登入 Firefox 了嗎？
 # Subject for Verify Login Code Email
-fxa-subject-72eba5e0 = 確認登入 Mozilla
+fxa-subject-72eba5e0 = 確認登入至 Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
 
