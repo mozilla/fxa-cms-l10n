@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Wobkrućće swoje konto, zo byšće so pola Firefox přiz
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Přizjewće so abo załožće konto, zo bychu waše nastajenja a daty synchronizowane wostali.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Wužiwajće swoju e-mejlowu adresu, zo byšće pokročował
 # Page Title for Email First Page
@@ -215,6 +217,8 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-pageTitle-a8211ca7 = Mozilla – registrujće so za konto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Schwalće swoje přizjewjenje, zo byšće nam pomhał, waše konto škitać.
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Sće so pola Firefox ze swojim kontom Mozilla přizjewił?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Přizjewjenje pola Mozilla schwalić
 # Headline for Verify Short Code Email

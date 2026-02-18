@@ -157,6 +157,8 @@ fxa-pageTitle-001bb150 = Mozilla mba’ete
 
 # Description for Email First Page
 fxa-description-edee250c = Eike embojuehe hag̃ua ne mba’ete Mozilla-pegua. Ndererekóiramo gueteri, sapy’aitépe emoheñoikuaa.
+# Headline for Email First Page
+fxa-headline-73fe011e = Eike térã emoheñói Mozilla-pe mba’ete
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Aguara jepo
 
@@ -195,12 +197,22 @@ fxa-subject-2322b41f = Emoneĩ ne mba’ete eiporu hag̃ua ñanduti veve rovamo�
 fxa-headline-21296b0d = Emyandy nde VPN jehe’apyre ne mba’ete Mozilla-guándi
 # Description for New Device Login Email
 fxa-description-6c54afca = Eime porãma emoporãve hag̃ua ne kundahára rekoñemi.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Mba’ete Mozilla-gua ojeporu ojeike hag̃ua Firefox-pe
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Eñemboheraguapy ereko hag̃ua mba’ete
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = ¿Eike Firefox-pe Mozilla mba’ete rupive?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Emboaje Mozilla-pe jeike
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
 
