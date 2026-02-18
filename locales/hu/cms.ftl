@@ -218,7 +218,7 @@ fxa-pageTitle-a8211ca7 = Mozilla – Regisztráljon egy fiókot
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
 # Headline for Verify Login Code Email
-fxa-headline-b9c2e03a = Bejelentkezett a Firefoxba a Mozilla fiókjával?
+fxa-headline-b9c2e03a = Bejelentkezett a Firefoxba a Mozilla-fiókjával?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Bejelentkezés jóváhagyása a Mozillába
 # Headline for Verify Short Code Email
