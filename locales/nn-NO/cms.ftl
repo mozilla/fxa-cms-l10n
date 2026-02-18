@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Stadfest kontoen din for å logge på Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Logg inn eller skap ein konto for å halde innstillingane og dataa dine synkroniserte.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Bruk e-postadressa di for å halde fram
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla-konto
 
 # Description for Email First Page
 fxa-description-edee250c = Logg inn for å synkronisere med Mozilla-kontoen din. Om du ikkje har ein, tek det berre ein augneblink å opprette ein.
+# Headline for Email First Page
+fxa-headline-73fe011e = Logg inn eller opprett ein Mozilla-konto
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = reven hoppar
 
@@ -201,12 +205,20 @@ fxa-subject-2322b41f = Stadfest kontoen din for å bruke e-postalias
 fxa-headline-21296b0d = Aktiver den innebygde VPN-en din med ein Mozilla-konto
 # Description for New Device Login Email
 fxa-description-6c54afca = Du er nesten klar til å gi nettlesaren din eit personvernløft.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Mozilla-kontoen din vart brukt til å logge inn på Firefox.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde VPN
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registrer deg for ein konto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjelp oss med å halde kontoen din trygg ved å godkjenne innlogginga di på:
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Godkjenn innlogging til Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde VPN
 
