@@ -160,7 +160,7 @@ fxa-pageTitle-001bb150 = Cuenta de Mozilla
 # Description for Email First Page
 fxa-description-edee250c = Ingresá para sincronizar con tu cuenta de Mozilla. Si no tenés una, solo toma un segundo crearla.
 # Headline for Email First Page
-fxa-headline-73fe011e = Ingresá o creá una cuenta de Mozilla
+fxa-headline-73fe011e = Iniciá sesión o creá una cuenta de Mozilla.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = zorro saltando
 
