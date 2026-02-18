@@ -1,4 +1,4 @@
-### Generated on 2026-02-17T23:59:47.585Z
+### Generated on 2026-02-18T00:00:10.133Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
