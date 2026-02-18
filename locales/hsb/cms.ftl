@@ -157,6 +157,8 @@ fxa-pageTitle-001bb150 = Konto Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Přizjewće so za synchronizaciju ze swojim kontom Mozilla. Jeli konto nimaće, traje jenož sekundu, zo byšće jo załožił.
+# Headline for Email First Page
+fxa-headline-73fe011e = Přizjewić abo konto Mozilla załožić
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skakaca liška
 
@@ -201,12 +203,20 @@ fxa-subject-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wuži
 fxa-headline-21296b0d = Aktiwizujće swój zatwarjeny VPN z kontom Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Sće nimale hotowy, zo byšće priwatnosć swojeho wobhladowaka powyšił.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Waše konto Mozilla je so za přizjewjenje pola Firefox wužiło
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – registrujće so za konto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Schwalće swoje přizjewjenje, zo byšće nam pomhał, waše konto škitać.
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Přizjewjenje pola Mozilla schwalić
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
 
