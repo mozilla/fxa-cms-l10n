@@ -160,7 +160,7 @@ fxa-pageTitle-001bb150 = Mozilla-fiók
 # Description for Email First Page
 fxa-description-edee250c = Jelentkezzen be a Mozilla-fiókjával történő szinkronizáláshoz. Ha nincs ilyenje, akkor egy pillanat alatt létrehozhat egyet.
 # Headline for Email First Page
-fxa-headline-73fe011e = Jelentkezzen be vagy hozzon létre Mozilla fiókot
+fxa-headline-73fe011e = Jelentkezzen be vagy hozzon létre Mozilla-fiókot
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ugró róka
 
@@ -206,7 +206,7 @@ fxa-headline-21296b0d = Aktiválja a beépített VPN-jét Mozilla-fiókjával
 # Description for New Device Login Email
 fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
 # Headline for New Device Login Email
-fxa-headline-8b338d52 = Mozilla-fiókját a Firefoxba történő bejelentkezéshez használták
+fxa-headline-8b338d52 = A Firefoxba való bejelentkezéshez használták a Mozilla-fiókját
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
 # Email Logo Alt Text for Shared
