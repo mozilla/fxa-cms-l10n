@@ -217,6 +217,8 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-pageTitle-a8211ca7 = Mozilla – Registrer deg for ein konto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjelp oss med å halde kontoen din trygg ved å godkjenne innlogginga di på:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Logga du inn på Firefox med Mozilla-kontoen din?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Godkjenn innlogging til Mozilla
 # Headline for Verify Short Code Email
