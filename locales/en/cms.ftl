@@ -1,4 +1,4 @@
-### Generated on 2026-02-18T00:12:19.119Z
+### Generated on 2026-02-18T00:25:29.699Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -141,7 +141,9 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 # Description for Email First Page
-fxa-description-6afa7131 = Keep your settings and data in sync, whether you already have a Mozilla account or are new here.
+fxa-description-98e60975 = Sign in or create an account to keep your settings and data in sync.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Use your email to continue
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
 
