@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Potwierdź swoje konto, aby zalogować się do przegląda
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Zaloguj się lub utwórz konto, aby synchronizować ustawienia i dane.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Użyj swojego e-maila, aby kontynuować
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Konto Mozilli
 
 # Description for Email First Page
 fxa-description-edee250c = Zaloguj się, aby zsynchronizować swoje konto Mozilli. Jeśli nie masz konta, jego utworzenie zajmie tylko chwilę.
+# Headline for Email First Page
+fxa-headline-73fe011e = Zaloguj się lub utwórz konto Mozilli
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skaczący lis
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adres
 fxa-headline-21296b0d = Aktywuj wbudowany VPN za pomocą konta Mozilli
 # Description for New Device Login Email
 fxa-description-6c54afca = Twoja przeglądarka jest już prawie gotowa do zwiększenia poziomu prywatności.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Twoje konto Mozilli zostało użyte do zalogowania się w Firefoksie
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – załóż konto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Ktoś zalogował się do Firefoksa za pomocą Twojego konta Mozilli. To Ty?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Zatwierdź logowanie do Mozilli
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
 
