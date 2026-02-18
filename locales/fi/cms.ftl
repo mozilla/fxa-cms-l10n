@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Vahvista tilisi kirjautuaksesi Firefoxiin
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Kirjaudu sisään tai luo tili pitääksesi asetuksesi ja tietosi synkronoituina.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Käytä sähköpostiosoitettasi jatkaaksesi
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla-tili
 
 # Description for Email First Page
 fxa-description-edee250c = Kirjaudu sisään synkronoidaksesi Mozilla-tilisi kanssa. Jos sinulla ei ole tiliä, sen luominen vie vain hetken.
+# Headline for Email First Page
+fxa-headline-73fe011e = Kirjaudu sisään tai luo Mozilla-tili
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ketun hyppy
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Vahvista tilisi käyttääksesi sähköpostimaskeja
 fxa-headline-21296b0d = Aktivoi sisäänrakennettu VPN Mozilla-tilillä
 # Description for New Device Login Email
 fxa-description-6c54afca = Olet melkein valmis tehostaaksesi selaimesi yksityisyyttä.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Mozilla-tiliäsi käytettiin Firefoxiin kirjautumiseen
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Vahvista tilisi käyttääksesi Firefoxin sisäänrakennettua VPN:ää
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Rekisteröi tili
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Auta meitä pitämään tilisi turvassa vahvistamalla, että kirjauduit sisään:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Kirjauduitko Firefoxiin Mozilla-tililläsi?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Hyväksy Mozillaan kirjautuminen
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Vahvista tilisi käyttääksesi Firefoxin sisäänrakennettua VPN:ää
 
