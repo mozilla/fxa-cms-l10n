@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Confirme a sua conta para iniciar sessão no Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Inicie sessão para sincronizar com a sua conta Mozilla. Se não tiver uma, leva apenas um segundo para a criar.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Use o seu email para continuar
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Navegador Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Conta Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Comece a sincronizar os seus dados com uma conta Mozilla. Já tem um? Nós iremos encontrá-lo.
+fxa-description-edee250c = Inicie sessão para sincronizar com a sua conta Mozilla. Se não tiver uma, leva apenas um segundo para a criar.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = salto da raposa
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Confirmar a sua conta para utilizar máscaras de e-mail
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Ative a sua VPN integrada com uma conta Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Registar para uma conta
 # Description for New Device Login Email
 fxa-description-6c54afca = Está quase pronto para melhorar a privacidade do seu navegador.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirme a sua conta para utilizar a VPN integrada do Firefox
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Conta Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Confirme a sua conta para utilizar a VPN integrada do Firefox
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Registar para uma conta
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Ajude-nos a manter a sua conta segura aprovando o seu início de sessão em:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Iniciou a sessão na Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Iniciou a sessão na Mozilla?
+fxa-headline-9627bd4a = Confirme a sua conta para utilizar a VPN integrada do Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
