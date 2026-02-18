@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -144,17 +144,13 @@ fxa-subject-10e5b452 = Potvrdi svoj račun za prijavu u Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Prijavi se za sinkronizaciju s tvojim Mozilla računom. Ako ga nemaš, stvori ga u samo par sekunda.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Koristi svoju e-mail adresu za nastavljanje
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox preglednik
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Počni sinkronizirati svoje podatke s Mozilla računom. Već ga imaš? Pronaći ćemo ga.
+fxa-description-edee250c = Prijavi se za sinkronizaciju s tvojim Mozilla računom. Ako ga nemaš, stvori ga u samo par sekunda.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skakuća lisica
 
@@ -165,7 +161,7 @@ fxa-emailFromName-763f7f1a = Firefox
 
 ## l10n-19 - VPN (Settings)
 
-# Description for Verify Short Code Email
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomogni nam zaštiti tvoj račun odobravanjem tvoje prijave na:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Подтвердите свой аккаунт для в�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Войдите для синхронизации со своим аккаунтом Mozilla. Если у вас его нет, это займет всего секунду, чтобы его создать.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Используйте свою эл. почту для продолжения
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Браузер Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Аккаунт Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Начните синхронизировать свои данные с аккаунтом Mozilla. Он уже есть? Мы найдем его.
+fxa-description-edee250c = Войдите для синхронизации со своим аккаунтом Mozilla. Если у вас его нет, это займет всего секунду, чтобы его создать.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = прыгающая лиса
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Подтвердите свой аккаунт, чтоб�
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Активируйте встроенный VPN с помощью аккаунта Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Зарегистрировать аккаунт
 # Description for New Device Login Email
 fxa-description-6c54afca = Вы почти готовы повысить приватность вашего браузера.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Подтвердите свой аккаунт для использования встроенного в Firefox VPN
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Аккаунт Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Подтвердите свой аккаунт для использования встроенного в Firefox VPN
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Зарегистрировать аккаунт
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Помогите нам обеспечить безопасность вашей учётной записи, подтвердив вход в:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Вы вошли в Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Вы вошли в Mozilla?
+fxa-headline-9627bd4a = Подтвердите свой аккаунт для использования встроенного в Firefox VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

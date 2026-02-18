@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -144,17 +144,13 @@ fxa-subject-10e5b452 = Confirma tu cuenta para conectarte a Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Conéctate para sincronizar tu cuenta de Mozilla. Si no tienes una, solo te llevará un segundo crearla.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Usa tu correo electrónico para continuar
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Navegador Firefox
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Empieza a sincronizar tus datos con una cuenta de Mozilla. ¿Ya tienes una? La encontraremos.
+fxa-description-edee250c = Conéctate para sincronizar tu cuenta de Mozilla. Si no tienes una, solo te llevará un segundo crearla.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = zorro saltando
 
@@ -195,7 +191,7 @@ fxa-subject-2322b41f = Confirma tu cuenta para usar máscaras de correo electró
 
 ## l10n-19 - VPN (Settings)
 
-# Description for Verify Short Code Email
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu conexión en:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

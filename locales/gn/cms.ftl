@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Eike embojuehe hag̃ua ne mba’ete Mozilla-pegua. Ndererekóiramo gueteri, sapy’aitépe emoheñoikuaa.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Eiporu ñanduti veve eku’e jey hag̃ua
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox kundaha
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla mba’ete
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Eñepyrũ embojuehe ne mba’ekuaarã Mozilla-pegua mba’ete ndive. ¿Erekóma? Jajuhúta.
+fxa-description-edee250c = Eike embojuehe hag̃ua ne mba’ete Mozilla-pegua. Ndererekóiramo gueteri, sapy’aitépe emoheñoikuaa.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Aguara jepo
 
@@ -195,22 +193,16 @@ fxa-subject-2322b41f = Emoneĩ ne mba’ete eiporu hag̃ua ñanduti veve rovamo�
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Emyandy nde VPN jehe’apyre ne mba’ete Mozilla-guándi
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Eñemboheraguapy ereko hag̃ua mba’ete
 # Description for New Device Login Email
 fxa-description-6c54afca = Eime porãma emoporãve hag̃ua ne kundahára rekoñemi.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla mba’ete
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Eñemboheraguapy ereko hag̃ua mba’ete
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = ¿Eikéma Mozilla-pe?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = ¿Eikéma Mozilla-pe?
+fxa-headline-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

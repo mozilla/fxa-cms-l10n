@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Επιβεβαιώστε τον λογαριασμό σα
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Συνδεθείτε για να κάνετε συγχρονισμό με τον λογαριασμό Mozilla σας. Εάν δεν διαθέτετε ήδη έναν, χρειάζονται μόνο λίγα λεπτά για να τον δημιουργήσετε.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Χρησιμοποιήστε το email σας για να συνεχίσετε
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Πρόγραμμα περιήγησης Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Λογαριασμός Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Ξεκινήστε τον συγχρονισμό των δεδομένων σας με έναν λογαριασμό Mozilla. Διαθέτετε ήδη έναν; Θα τον βρούμε.
+fxa-description-edee250c = Συνδεθείτε για να κάνετε συγχρονισμό με τον λογαριασμό Mozilla σας. Εάν δεν διαθέτετε ήδη έναν, χρειάζονται μόνο λίγα λεπτά για να τον δημιουργήσετε.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = μια αλεπού που κάνει άλμα
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Επιβεβαιώστε τον λογαριασμό σα
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Ενεργοποιήστε το ενσωματωμένο VPN σας με έναν λογαριασμό Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Δημιουργία λογαριασμού
 # Description for New Device Login Email
 fxa-description-6c54afca = Όλα είναι σχεδόν έτοιμα για να ενισχύσετε το απόρρητο του προγράμματος περιήγησής σας.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Επιβεβαιώστε τον λογαριασμό σας για χρήση του ενσωματωμένου VPN του Firefox
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Λογαριασμός Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Επιβεβαιώστε τον λογαριασμό σας για χρήση του ενσωματωμένου VPN του Firefox
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Δημιουργία λογαριασμού
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Βοηθήστε μας να προστατέψουμε τον λογαριασμό σας εγκρίνοντας τη σύνδεσή σας στο:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Συνδεθήκατε στη Mozilla;
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Συνδεθήκατε στη Mozilla;
+fxa-headline-9627bd4a = Επιβεβαιώστε τον λογαριασμό σας για χρήση του ενσωματωμένου VPN του Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

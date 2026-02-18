@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Sign in to synchronise with your Mozilla account. If you don’t have one, it only takes a sec to create it.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Use your email to continue
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox Browser
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla account
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Start synchronising your data with a Mozilla account. Already have one? We’ll find it.
+fxa-description-edee250c = Sign in to synchronise with your Mozilla account. If you don’t have one, it only takes a sec to create it.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Confirm your account to use email masks
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla account
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Did you sign in to Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Did you sign in to Mozilla?
+fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

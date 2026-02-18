@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Xác minh tài khoản của bạn để đăng nhập v�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Đăng nhập để đồng bộ hoá với tài khoản Mozilla của bạn. Nếu bạn chưa có tài khoản, chỉ mất vài giây để tạo.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Sử dụng email của bạn để tiếp tục
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Trình duyệt Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Tài khoản Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Hãy bắt đầu đồng bộ hóa dữ liệu của bạn với tài khoản Mozilla. Bạn đã có tài khoản? Chúng tôi sẽ giúp bạn tìm nó.
+fxa-description-edee250c = Đăng nhập để đồng bộ hoá với tài khoản Mozilla của bạn. Nếu bạn chưa có tài khoản, chỉ mất vài giây để tạo.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox nhảy
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Xác mih tài khoản của bạn để sử dụng email
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Kích hoạt VPN tích hợp sẵn bằng tài khoản Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Đăng ký tài khoản
 # Description for New Device Login Email
 fxa-description-6c54afca = Bạn gần như đã sẵn sàng để tăng cường quyền riêng tư cho trình duyệt của mình.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Tài khoản Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Đăng ký tài khoản
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Giúp chúng tôi giữ an toàn cho tài khoản của bạn bằng cách chấp thuận đăng nhập của bạn trên:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Bạn đã đăng nhập vào Mozilla chưa?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Bạn đã đăng nhập vào Mozilla chưa?
+fxa-headline-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Firefox मा साइन इन गर्न आफ्
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = आफ्नो मोजिला खातासँग समक्रमण गर्न साइन इन गर्नुहोस्। यदि तपाइँसँग छैन भने, यसले यसलाई सिर्जना गर्न एक सेकेन्ड मात्र लिन्छ।
 # Headline for Email First Page
 fxa-headline-a4b1427f = जारी राख्न आफ्नो इमेल प्रयोग गर्नुहोस्
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox ब्राउजर
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = मोजिला खाता
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = मोजिला खातासँग आफ्नो डाटा सिङ्क गर्न सुरु गर्नुहोस् । के पहिले नै एउटा छ? हामी त्यो फेला पार्नेछौं ।
+fxa-description-edee250c = आफ्नो मोजिला खातासँग समक्रमण गर्न साइन इन गर्नुहोस्। यदि तपाइँसँग छैन भने, यसले यसलाई सिर्जना गर्न एक सेकेन्ड मात्र लिन्छ।
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = स्याल जम्प गर्दै
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = इमेल मास्क प्रयोग गर्
 
 # Headline for Email First Page
 fxa-headline-21296b0d = मोजिला खाताको साथ आफ्नो पहिले नै VPN सक्रिय गर्नुहोस्
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = मोजिला - खाताको लागि साइन अप गर्नुहोस्
 # Description for New Device Login Email
 fxa-description-6c54afca = तपाईं आफ्नो ब्राउजरको गोपनीयता बढाउन लगभग तयार हुनुहुन्छ।
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = मोजिला खाता
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = मोजिला - खाताको लागि साइन अप गर्नुहोस्
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = हामीलाई तपाईँको साइन-इन अनुमोदन गरेर तपाईँको खाता सुरक्षित राख्न मद्दत गर्नुहोस्:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = के तपाईँले Mozilla मा साइन इन गर्नुभयो ?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = के तपाईँले Mozilla मा साइन इन गर्नुभयो ?
+fxa-headline-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -154,7 +154,7 @@ fxa-emailFromName-763f7f1a = Firefox
 
 ## l10n-19 - VPN (Settings)
 
-# Description for Verify Short Code Email
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = با تأیید ورود خود در اینجا، به ما کمک کنید حساب کاربری شما را ایمن نگه داریم:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

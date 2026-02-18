@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -144,17 +144,13 @@ fxa-subject-10e5b452 = Firefox にログインするには Mozilla アカウン�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Mozilla アカウントと同期するためにログインしてください。アカウントをお持ちでない場合は、すぐに作成できます。
 # Headline for Email First Page
 fxa-headline-a4b1427f = メールアドレスを入力してください
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox ブラウザー
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Mozilla アカウントでデータの同期を開始しましょう。アカウントをお持ちですか？こちらで確認します。
+fxa-description-edee250c = Mozilla アカウントと同期するためにログインしてください。アカウントをお持ちでない場合は、すぐに作成できます。
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 跳ねる狐
 
@@ -171,7 +167,7 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 
 ## l10n-19 - VPN (Settings)
 
-# Description for Verify Short Code Email
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = アカウントを安全に保つために、次の端末からのログインを承認してください:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Confirma tu conto pro acceder a Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Accede con tu conto Mozilla pro synchronisar. Si tu non ha un, on emplea solo un secunda pro crear lo.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Usa tu adresse de e-mail pro continuar
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Navigator Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Conto Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Initia synchronisar tu datos con un conto Mozilla. Ha tu jam ha un? Nos lo trovara.
+fxa-description-edee250c = Accede con tu conto Mozilla pro synchronisar. Si tu non ha un, on emplea solo un secunda pro crear lo.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = vulpe que salta
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Confirma tu conto pro usar mascas de e-mail
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Activa tu VPN integrate gratuite con un conto Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla: registrar un conto
 # Description for New Device Login Email
 fxa-description-6c54afca = Tu es quasi preste a augmentar le confidentialitate de tu navigator.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Conto Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla: registrar un conto
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Accedeva tu a Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Accedeva tu a Mozilla?
+fxa-headline-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

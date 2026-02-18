@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Mozilla 계정과 동기화하려면 로그인하세요. 계정이 없더라도 몇 초밖에 걸리지 않습니다.
 # Headline for Email First Page
 fxa-headline-a4b1427f = 계속하려면 이메일을 사용하세요.
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox 브라우저
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla 계정
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Mozilla 계정으로 데이터 동기화를 시작하세요. 이미 계정이 있으신가요? 찾아드립니다.
+fxa-description-edee250c = Mozilla 계정과 동기화하려면 로그인하세요. 계정이 없더라도 몇 초밖에 걸리지 않습니다.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Fox jumping
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = 이메일 마스크를 사용하려면 계정을 확인�
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Mozilla 계정으로 내장 VPN을 활성화하세요
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - 계정 생성
 # Description for New Device Login Email
 fxa-description-6c54afca = 브라우저의 개인 정보 보호를 강화할 준비가 거의 다 되었습니다.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla 계정
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - 계정 생성
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = 기기에서 일어난 로그인을 확인하여 계정을 안전하게 보호하세요:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Mozilla에 로그인하셨나요?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Mozilla에 로그인하셨나요?
+fxa-headline-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

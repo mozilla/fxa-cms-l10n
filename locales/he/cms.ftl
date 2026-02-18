@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Fi
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = יש להתחבר כדי לסנכרן עם חשבון ה־Mozilla שלך. אם אין לך חשבון, ייקח רק שנייה ליצור אותו.
 # Headline for Email First Page
 fxa-headline-a4b1427f = יש להשתמש בדוא״ל שלך כדי להמשיך
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = דפדפן Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = חשבון Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = בואו נתחיל לסנכרן את הנתונים שלך עם חשבון Mozilla. כבר יש לך אחד? אנחנו נמצא אותו.
+fxa-description-edee250c = יש להתחבר כדי לסנכרן עם חשבון ה־Mozilla שלך. אם אין לך חשבון, ייקח רק שנייה ליצור אותו.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = שועל קופץ
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמ�
 
 # Headline for Email First Page
 fxa-headline-21296b0d = הפעלת ה־VPN המובנה באמצעות חשבון Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = ‏Mozilla - הרשמה לחשבון
 # Description for New Device Login Email
 fxa-description-6c54afca = כמעט הכל מוכן לשדרוג הפרטיות בדפדפן שלך.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = חשבון Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = ‏Mozilla - הרשמה לחשבון
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = האם התחברת ל־Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = האם התחברת ל־Mozilla?
+fxa-headline-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

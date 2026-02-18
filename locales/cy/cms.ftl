@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Mewngofnodwch i gydweddu â'ch cyfrif Mozilla. Os nad oes gennych chi un, dim ond eiliad mae'n ei gymryd i'w greu.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Defnyddiwch eich e-bost i barhau
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox Browser
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Cyfrif Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Dechreuwch gydweddu'ch data â chyfrif Mozilla. Oes gennych chi un yn barod? Byddwn yn dod o hyd iddo.
+fxa-description-edee250c = Mewngofnodwch i gydweddu â'ch cyfrif Mozilla. Os nad oes gennych chi un, dim ond eiliad mae'n ei gymryd i'w greu.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = llwynog yn neidio
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio arallenwau e-byst
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Gweithredwch eich VPN mewnol gyda chyfrif Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Cyfrif Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Helpwch ni i gadw'ch cyfrif yn ddiogel trwy gymeradwyo eich mewngofnodi:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = A wnaethoch chi fewngofnodi i Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = A wnaethoch chi fewngofnodi i Mozilla?
+fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

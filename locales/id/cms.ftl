@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Konfirmasi akun Anda untuk masuk ke Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Masuk untuk menyinkronkan dengan akun Mozilla Anda. Jika Anda tidak memilikinya, hanya perlu beberapa detik untuk membuatnya.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Gunakan surel Anda untuk melanjutkan
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Peramban Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Akun Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Mulai sinkronkan data Anda dengan akun Mozilla. Sudah punya? Kami akan menemukannya.
+fxa-description-edee250c = Masuk untuk menyinkronkan dengan akun Mozilla Anda. Jika Anda tidak memilikinya, hanya perlu beberapa detik untuk membuatnya.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = rubah melompat
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktifkan VPN bawaan Anda dengan akun Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Daftar untuk sebuah akun
 # Description for New Device Login Email
 fxa-description-6c54afca = Anda hampir siap untuk meningkatkan privasi peramban Anda.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Akun Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Daftar untuk sebuah akun
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Apakah Anda masuk ke Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Apakah Anda masuk ke Mozilla?
+fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

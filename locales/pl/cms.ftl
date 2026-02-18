@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Potwierdź swoje konto, aby zalogować się do przegląda
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Zaloguj się, aby zsynchronizować swoje konto Mozilli. Jeśli nie masz konta, jego utworzenie zajmie tylko chwilę.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Użyj swojego e-maila, aby kontynuować
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Przeglądarka Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Konto Mozilli
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Zacznij synchronizować swoje dane z kontem Mozilli. Masz już konto? Znajdziemy je.
+fxa-description-edee250c = Zaloguj się, aby zsynchronizować swoje konto Mozilli. Jeśli nie masz konta, jego utworzenie zajmie tylko chwilę.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skaczący lis
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adres
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktywuj wbudowany VPN za pomocą konta Mozilli
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla – załóż konto
 # Description for New Device Login Email
 fxa-description-6c54afca = Twoja przeglądarka jest już prawie gotowa do zwiększenia poziomu prywatności.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Konto Mozilli
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla – załóż konto
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Ktoś zalogował się do Mozilli. To Ty?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Ktoś zalogował się do Mozilli. To Ty?
+fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

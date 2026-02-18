@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Potrdite račun za prijavo v Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Prijavite se za sinhronizacijo z vašim računom Mozilla. Če ga nimate, ga ustvarite le sekundo.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Za nadaljevanje uporabite e-poštni naslov
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Brskalnik Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Račun Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Začnite sinhronizirati svoje podatke z Mozillin računom. Ga že imate? Našli ga bomo.
+fxa-description-edee250c = Prijavite se za sinhronizacijo z vašim računom Mozilla. Če ga nimate, ga ustvarite le sekundo.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skakajoča lisica
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Za uporabo e-poštnih mask potrdite račun
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktivirajte vgrajeni VPN z računom Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla – Ustvarite račun
 # Description for New Device Login Email
 fxa-description-6c54afca = Skoraj ste pripravljeni za izboljšanje zasebnosti vašega brskalnika.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Račun Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla – Ustvarite račun
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobrite prijavo na naslednji napravi:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Ste se prijavili v Mozillo?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Ste se prijavili v Mozillo?
+fxa-headline-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

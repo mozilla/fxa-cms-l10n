@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Потвърдете профила си, за да вл�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Влезте, за да синхронизирате с вашия Mozilla акаунт. Ако нямате, създаването му ще отнеме само секунда.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Използвайте имейла си, за да продължите
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox Browser
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla профил
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Започнете да синхронизирате данните си с профил в Mozilla. Вече имате такъв? Ще го намерим.
+fxa-description-edee250c = Влезте, за да синхронизирате с вашия Mozilla акаунт. Ако нямате, създаването му ще отнеме само секунда.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = скачаща лисица
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Потвърдете профила си, за да из�
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Активирайте вградения VPN с акаунт в Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Регистриране на профил
 # Description for New Device Login Email
 fxa-description-6c54afca = Почти сте готови да подобрите поверителността на браузъра си.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla профил
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Регистриране на профил
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Вписани ли сте в Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Вписани ли сте в Mozilla?
+fxa-headline-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

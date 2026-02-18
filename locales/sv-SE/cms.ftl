@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Bekräfta ditt konto för att logga in till Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Logga in med ditt Mozilla-konto för att synkronisera. Om du inte redan har ett går det snabbt och enkelt att skapa ett.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Använd din e-postadress för att fortsätta
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Webbläsaren Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-konto
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Börja synkronisera din data med ett Mozilla-konto. Har du redan ett? Vi hittar det.
+fxa-description-edee250c = Logga in med ditt Mozilla-konto för att synkronisera. Om du inte redan har ett går det snabbt och enkelt att skapa ett.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Hoppande räv
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Bekräfta ditt konto för att använda e-postalias
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktivera ditt inbyggda VPN med ett Mozilla-konto
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Registrera dig för ett konto
 # Description for New Device Login Email
 fxa-description-6c54afca = Du är nästan redo att förbättra din webbläsares integritet.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda VPN
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla-konto
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda VPN
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Registrera dig för ett konto
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjälp oss att hålla ditt konto säkert genom att godkänna din inloggning på:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Loggade du in på Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Loggade du in på Mozilla?
+fxa-headline-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

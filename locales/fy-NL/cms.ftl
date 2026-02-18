@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Meld jo oan om mei jo Mozilla-account te syngronisearjen. As jo der noch gjin hawwe, duorret it mar in pear sekonden om oan te meitsjen.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Brûk jo e-mailadres om troch te gean
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox-browser
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-account
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Begjin mei it syngronisearjen fan jo gegevens mei in Mozilla-account. Hawwe jo der al ien? Wy sille it fine.
+fxa-description-edee250c = Meld jo oan om mei jo Mozilla-account te syngronisearjen. As jo der noch gjin hawwe, duorret it mar in pear sekonden om oan te meitsjen.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = springende fokse
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Befêstigje jo account om e-mailmaskers te brûken
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktivearje jo ynboude VPN mei in Mozilla-account
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla – Registrearje foar in account
 # Description for New Device Login Email
 fxa-description-6c54afca = Jo binne hast klear om de privacy fan jo browser te ferbetterjen.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla-account
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla – Registrearje foar in account
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Help ús jo account feilich te hâlden troch jo oanmelding goed te karren op:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Hawwe jo jo oanmeld by Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Hawwe jo jo oanmeld by Mozilla?
+fxa-headline-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezés
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Jelentkezzen be a Mozilla-fiókjával történő szinkronizáláshoz. Ha nincs ilyenje, akkor egy pillanat alatt létrehozhat egyet.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Használja az e-mail-címét a folytatáshoz
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox böngésző
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-fiók
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Kezdje el szinkronizálni az adatait egy Mozilla-fiókkal. Már van ilyenje? Meg fogjuk találni.
+fxa-description-edee250c = Jelentkezzen be a Mozilla-fiókjával történő szinkronizáláshoz. Ha nincs ilyenje, akkor egy pillanat alatt létrehozhat egyet.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ugró róka
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatáho
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktiválja a beépített VPN-jét Mozilla-fiókjával
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla – Regisztráljon egy fiókot
 # Description for New Device Login Email
 fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla-fiók
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Erősítse meg a fiókját, hogy a Firefox beépített VPN-jét használja
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla – Regisztráljon egy fiókot
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Bejelentkezett a Mozillába?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Bejelentkezett a Mozillába?
+fxa-headline-9627bd4a = Erősítse meg a fiókját, hogy a Firefox beépített VPN-jét használja
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

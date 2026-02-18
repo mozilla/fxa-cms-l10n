@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = 登入後即可使用您的 Mozilla 帳號同步。若您還沒有帳號，只要花幾秒鐘即可註冊一組。
 # Headline for Email First Page
 fxa-headline-a4b1427f = 使用您的電子郵件地址繼續
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox 瀏覽器
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla 帳號
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = 使用 Mozilla 帳號同步資料。已經註冊過了嗎？讓我們來找找。
+fxa-description-edee250c = 登入後即可使用您的 Mozilla 帳號同步。若您還沒有帳號，只要花幾秒鐘即可註冊一組。
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 狐狸在跳躍
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = 確認您的帳號後即可使用轉寄信箱
 
 # Headline for Email First Page
 fxa-headline-21296b0d = 使用 Mozilla 帳號啟用內建的 VPN
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - 註冊帳號
 # Description for New Device Login Email
 fxa-description-6c54afca = 您快要可以加強瀏覽器的隱私保護了。
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla 帳號
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - 註冊帳號
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = 您剛登入 Mozilla 嗎？
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = 您剛登入 Mozilla 嗎？
+fxa-headline-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = ยืนยันบัญชีของคุณเพ
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = ลงชื่อเข้าเพื่อซิงค์ข้อมูลกับบัญชี Mozilla ของคุณ หากคุณยังไม่มีบัญชี คุณสามารถสร้างได้ในเวลาเพียงไม่กี่วินาที
 # Headline for Email First Page
 fxa-headline-a4b1427f = ใช้อีเมลของคุณเพื่อดำเนินการต่อ
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = เบราว์เซอร์ Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = บัญชี Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = เริ่มซิงค์ข้อมูลของคุณกับบัญชี Mozilla ได้เลย มีบัญชีอยู่แล้วใช่ไหม? เราจะค้นหาให้เอง
+fxa-description-edee250c = ลงชื่อเข้าเพื่อซิงค์ข้อมูลกับบัญชี Mozilla ของคุณ หากคุณยังไม่มีบัญชี คุณสามารถสร้างได้ในเวลาเพียงไม่กี่วินาที
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = จิ้งจอกกำลังกระโดด
 
@@ -197,16 +195,10 @@ fxa-subject-2322b41f = ยืนยันบัญชีของคุณเพ
 
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = ยืนยันบัญชีของคุณเพื่อใช้งาน VPN ในตัวของ Firefox
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = บัญชี Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = ยืนยันบัญชีของคุณเพื่อใช้งาน VPN ในตัวของ Firefox
-# Description for Verify Short Code Email
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = ช่วยเรารักษาบัญชีของคุณให้ปลอดภัยโดยอนุมัติการลงชื่อเข้าใน:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = คุณได้ลงชื่อเข้า Mozilla หรือไม่?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = คุณได้ลงชื่อเข้า Mozilla หรือไม่?
+fxa-headline-9627bd4a = ยืนยันบัญชีของคุณเพื่อใช้งาน VPN ในตัวของ Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

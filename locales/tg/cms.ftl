@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -146,8 +146,6 @@ fxa-subject-10e5b452 = Барои ворид шудан ба «Firefox», ҳис
 
 # Headline for Email First Page
 fxa-headline-a4b1427f = Барои идома додан, лутфан, аз почтаи электронии худ истифода баред
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Браузери «Firefox»
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
@@ -161,7 +159,7 @@ fxa-emailFromName-763f7f1a = Firefox
 
 ## l10n-19 - VPN (Settings)
 
-# Description for Verify Short Code Email
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop

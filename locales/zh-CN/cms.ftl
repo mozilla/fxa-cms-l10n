@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = 登录以与您的 Mozilla 账户同步。如果您没有也只需几秒钟的时间来创建它。
 # Headline for Email First Page
 fxa-headline-a4b1427f = 输入邮箱地址以继续
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox 浏览器
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla 账户
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = 开始与 Mozilla 账户同步您的数据。已经有了我们会找到的。
+fxa-description-edee250c = 登录以与您的 Mozilla 账户同步。如果您没有也只需几秒钟的时间来创建它。
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 狐狸跳跃
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = 确认您的账户以使用马甲邮箱
 
 # Headline for Email First Page
 fxa-headline-21296b0d = 使用 Mozilla 账户激活内置 VPN
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - 注册账户
 # Description for New Device Login Email
 fxa-description-6c54afca = 几乎所有准备好增强浏览器的隐私保护了。
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = 确认您的账户以使用 Firefox 内置的 VPN
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla 账户
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = 确认您的账户以使用 Firefox 内置的 VPN
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - 注册账户
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = 请确认您的登录活动，以确保账户安全：
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = 您是否登录了 Mozilla
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = 您是否登录了 Mozilla
+fxa-headline-9627bd4a = 确认您的账户以使用 Firefox 内置的 VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

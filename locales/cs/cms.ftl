@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 
@@ -148,17 +148,15 @@ fxa-subject-10e5b452 = Potvrďte svůj účet pro přihlášení do Firefoxu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-edee250c = Přihlaste se k synchronizaci pomocí svého účtu Mozilla. Pokud žádné nemáte, jeho vytvoření trvá jenom sekundu.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Pro pokračování použijte svůj e-mail
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Prohlížeč Firefox
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Účet Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-a0166dfc = Začněte synchronizovat svá data pomocí účtu Mozilla. Už nějaký máte? Najdeme.
+fxa-description-edee250c = Přihlaste se k synchronizaci pomocí svého účtu Mozilla. Pokud žádné nemáte, jeho vytvoření trvá jenom sekundu.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skákající liška
 
@@ -201,22 +199,16 @@ fxa-subject-2322b41f = Pro používání e-mailových masek potvrďte svůj úč
 
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktivujte vestavěnou VPN pomocí účtu Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
 # Description for New Device Login Email
 fxa-description-6c54afca = Jste téměř připraveni zlepšit soukromí svého prohlížeče.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Potvrďte svůj účet pro používání vestavěné VPN ve Firefoxu
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Účet Mozilla
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Potvrďte svůj účet pro používání vestavěné VPN ve Firefoxu
-# Description for Verify Short Code Email
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomozte nám udržet váš účet v bezpečí tím, že schválíte své přihlášení na zařízení:
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Přihlásili jste se do Mozilly?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Přihlásili jste se do Mozilly?
+fxa-headline-9627bd4a = Potvrďte svůj účet pro používání vestavěné VPN ve Firefoxu
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
