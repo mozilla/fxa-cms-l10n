@@ -1,4 +1,4 @@
-### Generated on 2026-02-10T22:01:08.979Z
+### Generated on 2026-02-18T00:42:51.160Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -141,15 +141,19 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 # Description for Email First Page
-fxa-description-edee250c = Sign in to sync with your Mozilla account. If you don’t have one, it only takes a sec to create it.
+fxa-description-98e60975 = Sign in or create an account to keep your settings and data in sync.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Use your email to continue
-# Logo Alt Text for Email First Page
-fxa-logoAltText-17aa6423 = Firefox Browser
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla account
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 # Description for Email First Page
-fxa-description-a0166dfc = Start syncing your data with a Mozilla account. Already have one? We’ll find it.
+fxa-description-edee250c = Sign in to sync with your Mozilla account. If you don’t have one, it only takes a sec to create it.
+# Headline for Email First Page
+fxa-headline-73fe011e = Sign in or create a Mozilla account
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -170,6 +174,8 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox will try sending you back to 
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
@@ -190,22 +196,26 @@ fxa-subject-2322b41f = Confirm your account to use email masks
 ## l10n-19 - VPN (Settings)
 # Headline for Email First Page
 fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
-# Page Title for Email First Page
-fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Your Mozilla account was used to sign in to Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
-# Page Title for Signin Page
-fxa-pageTitle-001bb150 = Mozilla account
-# Headline for Verify Login Code Email
-fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
-# Description for Verify Short Code Email
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
+# Description for Verify Login Code Email
 fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Did you sign in to Firefox with your Mozilla account?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Approve sign-in to Mozilla
 # Headline for Verify Short Code Email
-fxa-headline-2e6f7fd2 = Did you sign in to Mozilla?
-# Subject for Verify Short Code Email
-fxa-subject-2e6f7fd2 = Did you sign in to Mozilla?
+fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 # Description for New Device Login Email
