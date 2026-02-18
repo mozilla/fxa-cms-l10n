@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Confirma tu conto pro acceder a Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Accede o crea un conto pro mantener tu parametros e datos in synchronia.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Usa tu adresse de e-mail pro continuar
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Conto Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Accede con tu conto Mozilla pro synchronisar. Si tu non ha un, on emplea solo un secunda pro crear lo.
+# Headline for Email First Page
+fxa-headline-73fe011e = Accede o crea un conto Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = vulpe que salta
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Confirma tu conto pro usar mascas de e-mail
 fxa-headline-21296b0d = Activa tu VPN integrate gratuite con un conto Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Tu es quasi preste a augmentar le confidentialitate de tu navigator.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Tu conto Mozilla era usate pro acceder a Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla: registrar un conto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Accedeva tu a Firefox con tu conto Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Approbar accesso a Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
 
