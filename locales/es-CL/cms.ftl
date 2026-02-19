@@ -8,6 +8,8 @@
 fxa-headline-a20eb81e = Regístrate o conéctate
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo de Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Siguiente
 # Description for New Device Login Email
 fxa-description-a0671d4a = Hubo una nueva conexión a tu cuenta de Mozilla:
 # Headline for New Device Login Email
@@ -146,6 +148,8 @@ fxa-subject-10e5b452 = Confirma tu cuenta para conectarte a Firefox
 
 # Headline for Email First Page
 fxa-headline-a4b1427f = Usa tu correo electrónico para continuar
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Cuenta de Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
@@ -191,6 +195,10 @@ fxa-subject-2322b41f = Confirma tu cuenta para usar máscaras de correo electró
 
 ## l10n-19 - VPN (Settings)
 
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu conexión en:
 
