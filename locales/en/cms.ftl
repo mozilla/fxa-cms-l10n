@@ -1,4 +1,4 @@
-### Generated on 2026-02-18T21:12:28.222Z
+### Generated on 2026-02-19T00:58:37.955Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -241,7 +241,7 @@ fxa-description-9115feed = You’ll need a Mozilla account to get started.
 # Headline for Email First Page
 fxa-headline-2728ce37 = Sign in to power up Smart Window
 # Page Title for Email First Page
-fxa-pageTitle-80919be0 = Signup
+fxa-pageTitle-d9776f07 = Sign up
 # Description for New Device Login Email
 fxa-description-2d2763e2 = We noticed a new sign-in to your Mozilla account.
 # Headline for New Device Login Email
