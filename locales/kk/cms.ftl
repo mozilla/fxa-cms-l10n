@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Firefox-қа кіру үшін тіркелгіңізді
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Баптауларыңыз бен деректеріңізді синхрондалған күйде сақтау үшін кіріңіз немесе тіркелгі жасаңыз.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Жалғастыру үшін электрондық поштаңызды пайдаланыңыз
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Mozilla тіркелгісі
 
 # Description for Email First Page
 fxa-description-edee250c = Mozilla тіркелгіңізбен синхрондау үшін кіріңіз. Егер сізде тіркелгі болмаса, оны жасау үшін бір секунд қана қажет.
+# Headline for Email First Page
+fxa-headline-73fe011e = Кіру немесе Mozilla тіркелгісін жасау
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = түлкінің секіруі
 
@@ -201,12 +205,20 @@ fxa-subject-2322b41f = Эл. пошта маскаларын пайдалану 
 fxa-headline-21296b0d = Mozilla тіркелгісімен құрамындағы VPN қызметін белсендіріңіз
 # Description for New Device Login Email
 fxa-description-6c54afca = Браузеріңіздің жекелігін жақсартуға дайын болуға жақынсыз.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Mozilla тіркелгіңіз Firefox ішіне кіру үшін пайдаланылды
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Тіркелгі жасау
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Firefox ішіне Mozilla тіркелгіңізбен кірдіңіз бе?
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
 
