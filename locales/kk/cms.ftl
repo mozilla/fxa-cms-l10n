@@ -219,6 +219,8 @@ fxa-pageTitle-a8211ca7 = Mozilla - Тіркелгі жасау
 fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Firefox ішіне Mozilla тіркелгіңізбен кірдіңіз бе?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Mozilla жүйесіне кіруді растау
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
 
