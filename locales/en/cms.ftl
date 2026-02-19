@@ -1,4 +1,4 @@
-### Generated on 2026-02-19T00:58:37.955Z
+### Generated on 2026-02-19T01:28:33.750Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -146,6 +146,8 @@ fxa-description-34db8966 = Sign in or create an account to keep everything in sy
 fxa-headline-a4b1427f = Use your email to continue
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 # Description for Email First Page
