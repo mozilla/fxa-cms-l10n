@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Xác minh tài khoản của bạn để đăng nhập v�
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Đăng nhập hoặc tạo tài khoản để đồng bộ hóa cài đặt và dữ liệu của bạn.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Sử dụng email của bạn để tiếp tục
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Tài khoản Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Đăng nhập để đồng bộ hoá với tài khoản Mozilla của bạn. Nếu bạn chưa có tài khoản, chỉ mất vài giây để tạo.
+# Headline for Email First Page
+fxa-headline-73fe011e = Đăng nhập hoặc tạo tài khoản Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox nhảy
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Xác mih tài khoản của bạn để sử dụng email
 fxa-headline-21296b0d = Kích hoạt VPN tích hợp sẵn bằng tài khoản Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Bạn gần như đã sẵn sàng để tăng cường quyền riêng tư cho trình duyệt của mình.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Tài khoản Mozilla của bạn đã được sử dụng để đăng nhập vào Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Đăng ký tài khoản
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Giúp chúng tôi giữ an toàn cho tài khoản của bạn bằng cách chấp thuận đăng nhập của bạn trên:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Có phải bạn đã đăng nhập vào Firefox bằng tài khoản Mozilla của mình hay không?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Chấp thuận đăng nhập vào Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
 
