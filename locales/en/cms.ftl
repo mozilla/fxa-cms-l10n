@@ -1,4 +1,4 @@
-### Generated on 2026-02-19T01:39:49.440Z
+### Generated on 2026-02-19T01:40:35.872Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -236,30 +236,6 @@ fxa-description-ef1fb997 = Confirm your account
 fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
-
-## l10n-21 - Firefox Desktop - Smart Window 
-# Description for Email First Page
-fxa-description-9115feed = You’ll need a Mozilla account to get started.
-# Headline for Email First Page
-fxa-headline-2728ce37 = Sign in to power up Smart Window
-# Page Title for Email First Page
-fxa-pageTitle-d9776f07 = Sign up
-# Description for New Device Login Email
-fxa-description-2d2763e2 = We noticed a new sign-in to your Mozilla account.
-# Headline for New Device Login Email
-fxa-headline-6166a884 = Your Mozilla account was used to access Smart Window
-# Subject for New Device Login Email
-fxa-subject-e3c0723a = New sign-in to Mozilla
-# Email Logo Width for Shared
-fxa-emailLogoWidth-90020071 = 280px
-# Page Title for Shared
-fxa-pageTitle-f937d56a = Smart Window
-# Primary Button Text for Signup Confirm Code Page
-fxa-primaryButtonText-a35fe0c1 = Open Smart Window
-# Description for Verify Short Code Email
-fxa-description-59b6d4ae = You’re almost ready to power up Smart Window.
-# Subject for Verify Short Code Email
-fxa-subject-8f67e79d = Confirm your account to use Smart Window
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 # Description for Email First Page
