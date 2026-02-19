@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Potvrďte svoj účet pre prihlásenie do Firefoxu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Prihláste sa alebo si vytvorte účet, aby ste mali synchronizované nastavenia a údaje.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Ak chcete pokračovať, použite svoj e‑mail
 # Page Title for Email First Page
@@ -157,6 +159,8 @@ fxa-pageTitle-001bb150 = Účet Mozilla
 
 # Description for Email First Page
 fxa-description-edee250c = Prihláste sa a synchronizujte s vaším účtom Mozilla. Ak ho nemáte, jeho vytvorenie trvá iba sekundu.
+# Headline for Email First Page
+fxa-headline-73fe011e = Prihláste sa alebo si vytvorte účet Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skákanie líšky
 
@@ -201,12 +205,22 @@ fxa-subject-2322b41f = Potvrďte svoj účet, aby ste mohli používať e‑mail
 fxa-headline-21296b0d = Aktivujte si vstavanú VPN pomocou účtu Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Ste takmer pripravení zvýšiť súkromie vášho prehliadača.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Váš účet Mozilla bol použitý na prihlásenie do Firefoxu
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Potvrďte svoj účet, aby ste mohli používať VPN vstavanú vo Firefoxe
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomôžte nám zabezpečiť bezpečnosť vášho účtu schválením prihlásenia na zariadení:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Prihlásili ste sa do Firefoxu pomocou svojho účtu Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Schválenie prihlásenia do Mozilly
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Potvrďte svoj účet, aby ste mohli používať VPN vstavanú vo Firefoxe
 
