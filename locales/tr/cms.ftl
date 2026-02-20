@@ -149,7 +149,7 @@ fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-98e60975 = Ayarlarınızın ve verilerinizin senkronize olması için giriş yapın veya hesap açın.
+fxa-description-98e60975 = Ayarlarınızın ve verilerinizin eşitlenmesi için giriş yapın veya hesap açın.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Devam etmek için e-postanızı kullanın
 # Page Title for Email First Page
@@ -206,7 +206,7 @@ fxa-headline-21296b0d = Yerleşik VPN’inizi Mozilla hesabıyla etkinleştirin
 # Description for New Device Login Email
 fxa-description-6c54afca = Tarayıcınızın gizliliğini artırmaya neredeyse hazırsınız.
 # Headline for New Device Login Email
-fxa-headline-8b338d52 = Firefox'a giriş yapmak için Mozilla hesabınız kullanıldı
+fxa-headline-8b338d52 = Firefox’a giriş yapmak için Mozilla hesabınız kullanıldı
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox’un yerleşik VPN’ini kullanmak için hesabınızı onaylayın
 # Email Logo Alt Text for Shared
