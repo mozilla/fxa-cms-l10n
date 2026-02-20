@@ -206,7 +206,7 @@ fxa-headline-21296b0d = Активируйте встроенный VPN с по�
 # Description for New Device Login Email
 fxa-description-6c54afca = Вы почти готовы повысить приватность вашего браузера.
 # Headline for New Device Login Email
-fxa-headline-8b338d52 = Ваш Аккаунт Mozilla был использован для входа в Firefox
+fxa-headline-8b338d52 = Ваш аккаунт Mozilla был использован для входа в Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Подтвердите свой аккаунт для использования встроенного в Firefox VPN
 # Email Logo Alt Text for Shared
