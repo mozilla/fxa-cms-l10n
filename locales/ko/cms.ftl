@@ -149,7 +149,7 @@ fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세�
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-98e60975 = 설정과 데이터를 동기화 상태로 유지하려면 로그인하거나 계정을 만드세요.
+fxa-description-98e60975 = 설정과 데이터 동기화를 유지하려면 로그인하거나 계정을 만드세요.
 # Headline for Email First Page
 fxa-headline-a4b1427f = 계속하려면 이메일을 사용하세요.
 # Page Title for Email First Page
@@ -206,7 +206,7 @@ fxa-headline-21296b0d = Mozilla 계정으로 내장 VPN을 활성화하세요
 # Description for New Device Login Email
 fxa-description-6c54afca = 브라우저의 개인 정보 보호를 강화할 준비가 거의 다 되었습니다.
 # Headline for New Device Login Email
-fxa-headline-8b338d52 = Firefox에 로그인하는 데 Mozilla 계정이 사용되었습니다
+fxa-headline-8b338d52 = Firefox에 로그인하는 데 Mozilla 계정이 사용되었습니다.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
 # Email Logo Alt Text for Shared
