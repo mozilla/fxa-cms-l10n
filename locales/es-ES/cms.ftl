@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Sólo te llevará un segundo iniciar sesión o crear una cuenta de Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Regístrate o inicia sesión
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo de Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Siguiente
 # Description for New Device Login Email
 fxa-description-a0671d4a = Se ha registrado un nuevo inicio de sesión en tu cuenta de Mozilla:
 # Headline for New Device Login Email
@@ -144,13 +148,19 @@ fxa-subject-10e5b452 = Confirma tu cuenta para iniciar sesión en Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Inicia sesión o crea una cuenta para mantener sincronizados tus configuraciones y datos.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Usa tu correo electrónico para continuar
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Cuenta de Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
 fxa-description-edee250c = Inicia sesión para sincronizar con tu cuenta de Mozilla. Si no tienes una, solo te llevará un segundo crearla.
+# Headline for Email First Page
+fxa-headline-73fe011e = Inicia sesión o crea una cuenta de Mozilla.
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox saltando
 
@@ -191,8 +201,28 @@ fxa-subject-2322b41f = Confirma tu cuenta para usar máscaras de correo electró
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Activa tu VPN integrada con una cuenta de Mozilla
+# Description for New Device Login Email
+fxa-description-6c54afca = Ya casi estás listo para mejorar la privacidad de tu navegador.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Se ha utilizado tu cuenta de Mozilla para iniciar sesión en Firefox
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Confirma tu cuenta para usar la VPN integrada en Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Regístrate para obtener una cuenta
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu inicio de sesión en:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = ¿Has iniciado sesión en Firefox con tu cuenta de Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Aprobar el inicio de sesión en Mozilla
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Confirma tu cuenta para usar la VPN integrada en Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -272,6 +302,13 @@ fxa-description-811350a6 = Un paso más para disfrutar de las ventajas de Firefo
 fxa-description-861f2d28 = Haz una copia de seguridad de tus contraseñas, pestañas y marcadores para estar preparado para un nuevo dispositivo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = zorro sincronizando
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Description for Email First Page
+fxa-description-50988cb8 = Mantén todo sincronizado, tanto si ya tienes una cuenta de Mozilla como si acabas de llegar.
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Inicia sesión o crea una cuenta
 
 ## legal-notice-label-subs-services - CMS Entry
 
