@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Sólo toma un segundo conectarse o crear una cuenta de Mozilla.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Regístrate o conéctate
 # Logo Alt Text for Email First Page
