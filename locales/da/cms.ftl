@@ -203,6 +203,10 @@ fxa-headline-21296b0d = Aktivér din indbyggede VPN med en Mozilla-konto
 fxa-description-6c54afca = Nu er din browser snart klar til at beskytte dit privatliv endnu bedre.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Bekræft din konto for at bruge Firefox' indbyggede VPN
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Opret en konto
 # Description for Verify Login Code Email
