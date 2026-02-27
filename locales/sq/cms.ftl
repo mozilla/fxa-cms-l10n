@@ -4,10 +4,14 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-0b815ba1 = Duhet vetëm një sekondë për të hyrë në një llogari Mozilla, ose për të krijuar një të tillë.
 # Headline for Email First Page
 fxa-headline-a20eb81e = Hyni ose regjistrohuni
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Stemë Firefox-i
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-10ac3d04 = Pasuesja
 # Description for New Device Login Email
 fxa-description-a0671d4a = Pati një hyrje të re në llogarinë tuaj Mozilla:
 # Headline for New Device Login Email
@@ -146,6 +150,8 @@ fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tu
 
 # Headline for Email First Page
 fxa-headline-a4b1427f = Që të vazhdohet, përdorni email-in tuaj
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Llogari Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
@@ -169,6 +175,10 @@ fxa-headline-2322b41f = Që të përdorni maska email, ripohoni llogarinë tuaj
 
 ## l10n-19 - VPN (Settings)
 
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, duke miratuar hyrjen në:
 
@@ -250,3 +260,13 @@ fxa-description-811350a6 = Edhe një që të merrni përfitimet nga Firefox VPN.
 fxa-description-861f2d28 = Kopjeruani fjalëkalimet, skedat dhe faqerojtësit tuaj, që të jeni gati për në një pajisje të re.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = njëkohësim firefox
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Hyni ose krijoni një llogari
+
+## legal-notice-label-subs-services - CMS Entry
+
+# Label for Terms
+fxa-label-14c5faa0 = Shërbime Pajtimesh Mozilla
