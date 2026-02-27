@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Eike térã emoheñói mba’ete ereko hag̃ua ojuehete ne ñemboheko ha mba’ekuaarã.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Eiporu ñanduti veve eku’e jey hag̃ua
 # Page Title for Email First Page
