@@ -169,7 +169,7 @@ fxa-logoAltText-c4b14a5b = fox jumping
 # Description for Email First Page
 fxa-description-607e9f0f = Email-et e dërguar te maskat tuaja do të përcillen te kjo adresë.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Që të mbroni email-in tuaj nga mesazhe të padëshiruar, regjistrohuni, ose bëni hyrjen në llogari>
+fxa-headline-30fd7c55 = Që të mbroni email-in tuaj nga mesazhe të padëshiruar, regjistrohuni, ose bëni hyrjen në llogari
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = maskë email-i
 # Page Title for Email First Page
@@ -184,17 +184,45 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Që të mbroni email-in tuaj nga mesazhe të padëshiruar, regjistrohuni.
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Kjo krijon llogarinë tuaj Mozilla, që kështu të mund të përdorni dhe administroni maska email-i.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Krijoni një fjalëkalim, që të mbroni email-in tuaj nga mesazhe të padëshiruar
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Mbajeni llogarinë tuaj të parrezik, duke miratuar hyrjen tuaj me kodin e autorizimit më poshtë.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Përdorni kodin e ripohimit më poshtë, që të përfundoni ujdisjen e llogarisë tuaj.
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = Që të përdorni maska email, ripohoni llogarinë tuaj
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Që të përdorni maska email, ripohoni llogarinë tuaj
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktivizoni VPN-në tuaj të brendshme me një llogari Mozilla
+# Description for New Device Login Email
+fxa-description-6c54afca = Jeni thuajse gati të përforconi privatësinë e shfletuesit tuaj.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Llogaria juaj Mozilla u përdor për të bërë hyrje në llogari Firefox
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Që të përdorni VPN-në e brendshme të Firefox-it, ripohoni llogarinë tuaj
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Regjistrohuni për një llogari
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, duke miratuar hyrjen në:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = A bëtë hyrjen në llogari Firefox me llogarinë tuaj Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Miratoni hyrje në Mozilla
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Që të përdorni VPN-në e brendshme të Firefox-it, ripohoni llogarinë tuaj
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -277,6 +305,8 @@ fxa-logoAltText-164ffc49 = njëkohësim firefox
 
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-50988cb8 = Mbani gjithçka të njëkohësuar, qoftë kur keni një llogari Mozilla, qoftë kur jeni i ri këtu.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = Hyni ose krijoni një llogari
 
