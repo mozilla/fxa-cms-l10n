@@ -149,13 +149,23 @@ fxa-headline-a4b1427f = Që të vazhdohet, përdorni email-in tuaj
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Headline for Email First Page
+fxa-headline-73fe011e = Bëni hyrjen, ose krijoni një llogari  Mozilla
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = maskë email-i
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Që të përdorni maska email, ripohoni llogarinë tuaj
 
 ## l10n-19 - VPN (Settings)
 
