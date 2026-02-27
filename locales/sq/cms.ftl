@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-98e60975 = Bëni hyrjen në llogari, ose krijoni një të tillë, që të mbani të njëkohësuara rregullimet dhe të dhënat tuaja.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Që të vazhdohet, përdorni email-in tuaj
 # Page Title for Email First Page
@@ -155,6 +157,8 @@ fxa-pageTitle-001bb150 = Llogari Mozilla
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Description for Email First Page
+fxa-description-edee250c = Që të bëhet njëkohësimi me llogarinë tuaj Mozillam bëni hyrjen. Nëse s’keni të tillë, duhet vetëm një sekondë për ta krijuar.
 # Headline for Email First Page
 fxa-headline-73fe011e = Bëni hyrjen, ose krijoni një llogari  Mozilla
 # Logo Alt Text for Signup Set Password Page
@@ -162,8 +166,18 @@ fxa-logoAltText-c4b14a5b = fox jumping
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = Email-et e dërguar te maskat tuaja do të përcillen te kjo adresë.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Që të mbroni email-in tuaj nga mesazhe të padëshiruar, regjistrohuni, ose bëni hyrjen në llogari>
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = maskë email-i
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Mbroni email-in tuaj nga mesazhe të padëshiruar | Llogari Mozilla
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Llogaria juaj u përdor për të bërë hyrjen
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox-i do të provojë t’ju dërgojë te përdorimi i një maske email pasi të keni bërë hyrjen në llogari.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
