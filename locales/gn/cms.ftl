@@ -186,8 +186,14 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Eñemboheraguapy emo’ã hag̃ua ne ñe’ẽmondo g̃uahẽha spam-gui
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Kóva omoheñói ne mba’ete Mozilla-gua eiporu ha eñangareko hag̃ua ñanduti veve rovamo’ãháre.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Ejapo ñe’ẽñemi emo’ã hag̃ua ne ñanduti veve spam
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Ereko ne mba’ete tekorosãme emoneĩvo nde jeike ayvu ñemoneĩha upeigua ndive.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Eiporu ayvu ñemoneĩha upeigua embohekopaite hag̃ua ne mba’ete.
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = Emoneĩ ne mba’ete eiporu hag̃ua ñanduti veve rovamo’ãha
 # Subject for Verify Short Code Email
