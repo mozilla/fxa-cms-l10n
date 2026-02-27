@@ -142,6 +142,11 @@ fxa-headline-ef1fb997 = Ripohoni llogarinë tuaj
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tuaj
 
+## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Headline for Email First Page
+fxa-headline-a4b1427f = Që të vazhdohet, përdorni email-in tuaj
+
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Logo Alt Text for Signup Set Password Page
