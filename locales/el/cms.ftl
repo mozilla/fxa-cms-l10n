@@ -146,6 +146,8 @@ fxa-subject-10e5b452 = Επιβεβαιώστε τον λογαριασμό σα
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Συνδεθείτε ή δημιουργήστε έναν λογαριασμό για να διατηρήσετε τα πάντα συγχρονισμένα.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Χρησιμοποιήστε το email σας για να συνεχίσετε
 # Page Title for Email First Page

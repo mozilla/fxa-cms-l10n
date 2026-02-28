@@ -146,6 +146,8 @@ fxa-subject-10e5b452 = Bestätigen Sie Ihr Konto, um sich bei Firefox anzumelden
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Melden Sie sich an oder erstellen Sie ein Konto, um alles synchron zu halten.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Ihre E-Mail-Adresse verwenden, um fortzufahren
 # Page Title for Email First Page

@@ -146,6 +146,8 @@ fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezés
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Jelentkezzen be, vagy hozzon létre egy fiókot, hogy minden szinkronban legyen.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Használja az e-mail-címét a folytatáshoz
 # Page Title for Email First Page
