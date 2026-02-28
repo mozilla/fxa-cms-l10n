@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Det tar bara en sekund att logga in eller skapa ett Mozilla-konto.
+fxa-description-50988cb8 = Håll allt synkroniserat, oavsett om du har ett Mozilla-konto eller är ny här.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Registrera dig eller logga in
+fxa-headline-7b9deb3b = Logga in eller skapa ett konto
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox logotyp
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Nästa
+fxa-primaryButtonText-a0bfb8e5 = Fortsätt
 # Description for New Device Login Email
 fxa-description-a0671d4a = Det skedde en ny inloggning till ditt Mozilla-konto:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Hjälp oss att se till att det är du som loggar in.
 fxa-headline-d076f12b = Ange bekräftelsekod
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Bekräfta
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Fortsätt
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Hjälp oss att se till att det är du som skapar ett konto.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Bekräfta ditt konto för att logga in till Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Logga in eller skapa ett konto för att hålla dina inställningar och data synkroniserade.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Använd din e-postadress för att fortsätta
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Ange lösenordet för att fortsätta till ditt Mozill
 fxa-description-87881780 = Ange bekräftelsekoden för ditt Mozilla-konto
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara ett steg kvar. Ange koden från ditt mejl för att aktivera ditt Mozilla-konto.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrera dig eller logga in
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Bekräfta ditt konto
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Ytterligare ett steg för att få tillgång till för
 fxa-description-861f2d28 = Säkerhetskopiera dina lösenord, flikar och bokmärken så att du är redo för en ny enhet.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Synkronisera med räven
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Håll allt synkroniserat, oavsett om du har ett Mozilla-konto eller är ny här.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Logga in eller skapa ett konto
 
 ## legal-notice-label-subs-services - CMS Entry
 
