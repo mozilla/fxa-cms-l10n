@@ -95,7 +95,7 @@ fxa-headline-0dffe504 = შექმენით პაროლი თქვე
 # Description for Verify Short Code Email
 fxa-description-bb7998da = დაადასტურეთ თქვენი ანგარიში და დაასინქრონეთ თქვენი პაროლები ყველგან, სადაც კი გიყენიათ Firefox შესული ანგარიშით, დასაწყისისთვის თუნდაც:
 # Headline for Verify Short Code Email
-fxa-headline-8e3fb023 = დაგვეხმარეთ დავადასტუროთ, რომ ნამვილად თქვენ შეხვედით.
+fxa-headline-8e3fb023 = დაგვეხმარეთ დავადასტუროთ, რომ ნამდვილად თქვენ შეხვედით.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = დაადასტურეთ თქვენი Mozilla-ანგარიში დასინქრონებისთვის
 
