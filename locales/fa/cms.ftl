@@ -1,13 +1,13 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = نام‌نویسی یا ورود
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = نشان‌واره Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = ادامه
 # Description for New Device Login Email
 fxa-description-a0671d4a = یک ورود جدید به حساب کاربری Mozilla شما انجام شده است:
 # Headline for New Device Login Email
@@ -28,8 +28,6 @@ fxa-description-8e3fb023 = به ما کمک کنید که مطمئن شویم، 
 fxa-headline-d076f12b = کد تأیید را وارد کنید
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = تایید
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = ادامه
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = برای اطمینان از اینکه خود شما در حال ایجاد حساب کاربری هستید، لطفا رایانامه خود را تأیید کنید.
 # Primary Button Text for Signup Confirm Code Page
@@ -169,6 +167,8 @@ fxa-description-1d4ba9f5 = برای ادامه به حساب‌کاربری Mozi
 fxa-description-87881780 = کد تأیید را برای حساب‌کاربری Mozilla خود وارد کنید
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = فقط یک مرحله سریع. کد ارسال‌شده به رایانامه خودتان را وارد کنید تا حساب کاربری Mozilla شما فعال شود.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = نام‌نویسی یا ورود
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = تأیید حساب کاربری خود
 # Headline for Verify Short Code Email

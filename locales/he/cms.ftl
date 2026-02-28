@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = לוקח רק שנייה להתחבר או ליצור חשבון Mozilla.
+fxa-description-50988cb8 = לשמור על סנכרון של הכול - בין אם יש לך חשבון Mozilla או שזו הפעם הראשונה שלך כאן.
 # Headline for Email First Page
-fxa-headline-a20eb81e = הרשמה או התחברות
+fxa-headline-7b9deb3b = כניסה או יצירת חשבון
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = הסמל של Firefox
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = הבא
+fxa-primaryButtonText-a0bfb8e5 = המשך
 # Description for New Device Login Email
 fxa-description-a0671d4a = בוצעה כניסה חדשה לחשבון ה־Mozilla שלך:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = נא לעזור לנו לוודא שההתחברות 
 fxa-headline-d076f12b = נא להכניס את קוד האימות
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = אישור
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = המשך
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = נא לעזור לנו לוודא שיצירת החשבון מתבצעת על ידך.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Fi
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = ניתן להיכנס או ליצור חשבון כדי לסנכרן את ההגדרות והנתונים שלך.
 # Headline for Email First Page
 fxa-headline-a4b1427f = יש להשתמש בדוא״ל שלך כדי להמשיך
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = נא להכניס את הססמה כדי להמשיך
 fxa-description-87881780 = נא להכניס קוד אימות עבור חשבון ה־Mozilla שלך
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = צעד אחד קצר בלבד. נא להכניס את הקוד מהדוא״ל שלך כדי להפעיל את חשבון ה־Mozilla שלך.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = הרשמה או התחברות
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = אימות החשבון שלך
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = רק צעד אחד נוסף להשגת היתרונו
 fxa-description-861f2d28 = ניתן לגבות את הססמאות, הלשוניות והסימניות שלך כדי שהכל יהיה מוכן לקראת המעבר למכשיר חדש.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = שועל מסנכרן
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = לשמור על סנכרון של הכול - בין אם יש לך חשבון Mozilla או שזו הפעם הראשונה שלך כאן.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = כניסה או יצירת חשבון
 
 ## legal-notice-label-subs-services - CMS Entry
 

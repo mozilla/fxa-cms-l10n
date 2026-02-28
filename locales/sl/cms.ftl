@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Prijava ali ustvarjanje računa Mozilla vzame le sekundo.
+fxa-description-50988cb8 = Naj bo vse sinhronizirano, ne glede na to, ali imate račun Mozilla ali pa ste nov.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Registracija ali prijava
+fxa-headline-7b9deb3b = Prijavite se ali ustvarite račun
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logotip Firefoxa
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Naprej
+fxa-primaryButtonText-a0bfb8e5 = Nadaljuj
 # Description for New Device Login Email
 fxa-description-a0671d4a = Prišlo je do nove prijave v vaš račun Mozilla:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Pomagajte se nam prepričati, da se prijavljate vi.
 fxa-headline-d076f12b = Vnesite potrditveno kodo
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potrdi
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Nadaljuj
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Pomagajte se nam prepričati, da račun ustvarjate vi.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Potrdite račun za prijavo v Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Prijavite se ali ustvarite račun, da ohranite sinhronizacijo nastavitev in podatkov.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Za nadaljevanje uporabite e-poštni naslov
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Vnesite geslo za nadaljevanje v račun Mozilla
 fxa-description-87881780 = Vnesite potrditveno kodo za svoj račun Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Samo en hiter korak. Vnesite kodo iz e-poštnega naslova za aktiviranje vašega Mozillinega računa.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registracija ali prijava
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Potrdite račun
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Še en korak več do ugodnosti Firefox VPN. Pojdite n
 fxa-description-861f2d28 = Varnostno kopirajte gesla, zavihke in zaznamke, da boste pripravljeni na novo napravo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = lisica in sinhronizacija
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Naj bo vse sinhronizirano, ne glede na to, ali imate račun Mozilla ali pa ste nov.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Prijavite se ali ustvarite račun
 
 ## legal-notice-label-subs-services - CMS Entry
 

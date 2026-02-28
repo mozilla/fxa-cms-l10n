@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Oanmelde of in Mozilla-account oanmeitsje duorret mar efkes.
+fxa-description-50988cb8 = Hâld alles syngronisearre, oft jo no in Mozilla-account hawwe of hjir nij binne.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Registrearje of oanmelde
+fxa-headline-7b9deb3b = Oanmelde of in account oanmeitsje
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-logo
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Folgjende
+fxa-primaryButtonText-a0bfb8e5 = Trochgean
 # Description for New Device Login Email
 fxa-description-a0671d4a = Der is in nije oanmelding op jo Mozilla-account:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Help ús der wis fan te wêzen dat jo it binne dy’t
 fxa-headline-d076f12b = Fier befêstigingskoade yn
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Befêstigje
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Trochgean
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Help ús der wis fan te wêzen dat jo it binne dy’t in account oanmakket.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Meld jo oan of meitsje in account oan om jo ynstellingen en gegevens syngronisearre te hâlden.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Brûk jo e-mailadres om troch te gean
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Fier jo wachtwurd yn om troch te gean nei jo Mozilla-
 fxa-description-87881780 = Fier befêstigingskoade foar jo Mozilla-account yn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Noch ien flugge stap. Fier de koade út jo e-mailberjocht yn om jo Mozilla-account te aktivearjen.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrearje of oanmelde
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Befêstigje jo account
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Noch ien stap om de foardielen fan Firefox VPN te ûn
 fxa-description-861f2d28 = Meitsje in reservekopy fan jo wachtwurden, ljepblêden en blêdwizers, sadat jo klear binne foar in nij apparaat.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = foks-syngronisaasje
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Hâld alles syngronisearre, oft jo no in Mozilla-account hawwe of hjir nij binne.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Oanmelde of in account oanmeitsje
 
 ## legal-notice-label-subs-services - CMS Entry
 

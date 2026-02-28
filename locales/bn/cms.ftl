@@ -1,13 +1,13 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox লোগো
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = চালিয়ে যান
 # Description for New Device Login Email
 fxa-description-a0671d4a = আপনার Mozilla অ্যাকাউন্টে একটি নতুন সাইন-ইন হয়েছে:
 # Headline for New Device Login Email
@@ -28,8 +28,6 @@ fxa-description-8e3fb023 = আপনি যে সাইন ইন করছে�
 fxa-headline-d076f12b = কনফার্মেশন কোড লিখুন
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = নিশ্চিত করুন
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = চালিয়ে যান
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = আপনি যে একটি অ্যাকাউন্ট তৈরি করছেন তা নিশ্চিত করতে আমাদের সাহায্য করুন।
 # Primary Button Text for Signup Confirm Code Page
@@ -163,6 +161,8 @@ fxa-description-0a9e868b = Firefox এ নতুন সাইন ইন
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = মাত্র এক ধাপ বাকি। আপনার ইমেইল থেকে কোডটি লিখুন এবং আপনার Mozilla অ্যাকাউন্ট সক্রিয় করুন।
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = আপনার অ্যাকাউন্ট নিশ্চিত করুন
 # Headline for Verify Short Code Email

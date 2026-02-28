@@ -1,13 +1,13 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Лагатып Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Працягнуць
 # Description for New Device Login Email
 fxa-description-a0671d4a = У ваш уліковы запіс Mozilla быў выкананы новы ўваход:
 # Headline for New Device Login Email
@@ -24,8 +24,6 @@ fxa-description-8e3fb023 = Дапамажыце нам упэўніцца, шт�
 fxa-headline-d076f12b = Увядзіце код пацверджання
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Пацвердзіць
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Працягнуць
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Дапамажыце нам упэўніцца, што гэта вы ствараеце ўліковы запіс.
 # Primary Button Text for Signup Confirm Code Page
@@ -76,5 +74,7 @@ fxa-emailFromName-763f7f1a = Firefox
 
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Пацвердзіце свой уліковы запіс

@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Trajo jano sekundu, aby wy se pśizjawił abo konto Mozilla załožył.
+fxa-description-50988cb8 = Synchronizěrujśo wšykno, wšojadno, lěc maśo konto Mozilla abo sćo how nowy.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
+fxa-headline-7b9deb3b = Pśizjawiś abo konto załožyś
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Dalej
+fxa-primaryButtonText-a0bfb8e5 = Dalej
 # Description for New Device Login Email
 fxa-description-a0671d4a = Dajo nowe pśizjawjenje pla wašogo konta Mozilla:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Pomagajśo nam zawěsćiś, až se wy pśizjawjaśo.
 fxa-headline-d076f12b = Wobkšuśeński kod zapódaś
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Wobkšuśiś
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Dalej
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Pomagajśo nam zawěsćiś, až wy konto załožujośo.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Wobkšuśćo swójo konto, aby se pla Firefox pśizjawił
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Pśizjawśo se abo załožćo konto, aby waše nastajenja a daty synchronizěrowane wóstali.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Wužywajśo swóju e-mailowu adresu, aby pókšacował
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Zapódajśo gronidło, aby k swójomu kontoju Mozilla
 fxa-description-87881780 = Zapódajśo wobkšuśeński kod za swójo konto Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jano jaden malsny kšac. Zapódajśo kod ze swójeje mejlki, aby swójo konto Mozilla aktiwěrował.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Wobkšuśćo swójo konto
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Dalšny kšac za dostawanje lěpšynow Firefox VPN. P
 fxa-description-861f2d28 = Zawěsććo swóje gronidła, rejtariki a cytańske znamjenja, aby za nowy rěd gótowy był.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizacija z lišku
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Synchronizěrujśo wšykno, wšojadno, lěc maśo konto Mozilla abo sćo how nowy.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Pśizjawiś abo konto załožyś
 
 ## legal-notice-label-subs-services - CMS Entry
 

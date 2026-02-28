@@ -1,4 +1,4 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
@@ -6,10 +6,10 @@
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo di Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Continue
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Conferme
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Continue
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Scomence la sincronizazion
 # Headline for Signup Confirmed Sync Page

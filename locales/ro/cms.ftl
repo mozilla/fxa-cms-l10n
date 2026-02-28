@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Durează doar o secundă să intri în cont sau să îți faci un cont Mozilla.
+fxa-description-50988cb8 = Păstrează totul sincronizat, indiferent dacă ai un cont Mozilla sau ești nou pe aici.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
+fxa-headline-7b9deb3b = Intră în cont sau fă-ți un cont
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Înainte
+fxa-primaryButtonText-a0bfb8e5 = Continuă
 # Description for New Device Login Email
 fxa-description-a0671d4a = Am depistat o autentificare nouă în contul tău Mozilla:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Ajută-ne să ne asigurăm că tu ești cel/cea care 
 fxa-headline-d076f12b = Introdu codul de verificare
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirmă
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Continuă
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Ajută-ne să ne asigurăm că tu ești cel/cea care creează un cont.
 # Primary Button Text for Signup Confirm Code Page
@@ -222,6 +220,8 @@ fxa-description-1d4ba9f5 = Introdu parola ca să intri în contul Mozilla
 fxa-description-87881780 = Introdu codul de confirmare pentru contul tău Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Doar un pas rapid. Introdu codul din mesajul primit pe e-mail pentru a-ți activa contul Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirmă-ți contul
 # Headline for Verify Short Code Email
@@ -288,13 +288,6 @@ fxa-description-811350a6 = Încă un pas pentru a obține beneficiile VPN Firefo
 fxa-description-861f2d28 = Fă-ți copii de rezervă cu parolele, filele și marcajele ca să fii gata să treci pe alt dispozitiv.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronizare
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Păstrează totul sincronizat, indiferent dacă ai un cont Mozilla sau ești nou pe aici.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Intră în cont sau fă-ți un cont
 
 ## legal-notice-label-subs-services - CMS Entry
 

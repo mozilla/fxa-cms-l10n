@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Hanya perlu beberapa detik untuk masuk atau membuat akun Mozilla.
+fxa-description-50988cb8 = Tetap sinkronkan, baik Anda memiliki akun Mozilla atau baru di sini.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Daftar atau masuk
+fxa-headline-7b9deb3b = Masuk atau buat akun
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Selanjutnya
+fxa-primaryButtonText-a0bfb8e5 = Lanjutkan
 # Description for New Device Login Email
 fxa-description-a0671d4a = Ada kejadian masuk baru ke akun Mozilla Anda:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Bantu kami memastikan yang masuk adalah Anda.
 fxa-headline-d076f12b = Masukkan kode konfirmasi
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Konfirmasi
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Lanjutkan
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Bantu kami memastikan bahwa Andalah yang membuat akun.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Konfirmasi akun Anda untuk masuk ke Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Masuk atau buat akun untuk menjaga pengaturan dan data Anda tetap sinkron.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Gunakan surel Anda untuk melanjutkan
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Masukkan sandi untuk melanjutkan ke akun Mozilla Anda
 fxa-description-87881780 = Masukkan kode konfirmasi untuk akun Mozilla Anda
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Hanya satu langkah cepat. Masukkan kode dari surel Anda untuk mengaktifkan akun Mozilla Anda.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Daftar atau masuk
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Konfirmasikan akun Anda
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Satu langkah lagi untuk mendapatkan manfaat Firefox V
 fxa-description-861f2d28 = Cadangkan kata sandi, tab, dan markah Anda sehingga Anda siap untuk perangkat baru.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sinkronisasi rubah
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Tetap sinkronkan, baik Anda memiliki akun Mozilla atau baru di sini.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Masuk atau buat akun
 
 ## legal-notice-label-subs-services - CMS Entry
 

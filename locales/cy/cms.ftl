@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Dim ond eiliad mae'n ei gymryd i fewngofnodi neu greu cyfrif Mozilla.
+fxa-description-50988cb8 = Cadwch bopeth wedi'i gydweddu, p'un a oes gennych gyfrif Mozilla neu os ydych yn newydd yma.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Cofrestrwch neu fewngofnodi
+fxa-headline-7b9deb3b = Mewngofnodi neu greu cyfrif
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefox
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Nesaf
+fxa-primaryButtonText-a0bfb8e5 = Parhau
 # Description for New Device Login Email
 fxa-description-a0671d4a = Roedd mewngofnodi newydd i'ch cyfrif Mozilla:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Helpwch ni i wneud yn siŵr mai chi sy'n mewngofnodi.
 fxa-headline-d076f12b = Rhowch y cod dilysu
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Cadarnhau
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Parhau
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Helpwch ni i sicrhau mai chi sy'n creu cyfrif.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Mewngofnodwch neu greu cyfrif i gadw'ch gosodiadau a'ch data wedi'u cydweddu.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Defnyddiwch eich e-bost i barhau
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Rhowch gyfrinair i barhau i'ch cyfrif Mozilla
 fxa-description-87881780 = Rhowch god cadarnhau ar gyfer eich cyfrif Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Dim ond un cam cyflym. Rhowch y cod o'ch e-bost i weithredu eich cyfrif Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Cofrestrwch neu fewngofnodi
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Cadarnhau eich cyfrif
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Un cam arall i gael buddion Firefox VPN. Ewch i'r pan
 fxa-description-861f2d28 = Gwnewch gopi wrth gefn o'ch cyfrineiriau, tabiau a nodau tudalen fel eich bod chi'n barod am ddyfais newydd.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = cydweddu llwynog
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Cadwch bopeth wedi'i gydweddu, p'un a oes gennych gyfrif Mozilla neu os ydych yn newydd yma.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Mewngofnodi neu greu cyfrif
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,13 +1,13 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Kcem neɣ qqen
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Alugu n Firefox
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Kemmel
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Tuqqna niḍen ɣer Firefox
 # Headline for Signin Page
@@ -18,8 +18,6 @@ fxa-primaryButtonText-b6d4223e = Kcem
 fxa-headline-d076f12b = Sekcem tangalt n usentem
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Sentem
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Kemmel
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Bdu amtawi
 # Headline for Signup Confirmed Sync Page
@@ -69,6 +67,8 @@ fxa-emailFromName-763f7f1a = Firefox
 
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Kcem neɣ qqen
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Sentem amiḍan-ik⋅im
 

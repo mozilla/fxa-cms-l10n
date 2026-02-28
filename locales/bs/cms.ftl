@@ -1,4 +1,4 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
@@ -6,6 +6,8 @@
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox logo
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Nastavi
 # Description for New Device Login Email
 fxa-description-a0671d4a = Došlo je do nove prijave na vaš Mozilla račun:
 # Headline for New Device Login Email
@@ -26,8 +28,6 @@ fxa-description-8e3fb023 = Pomozite nam da se uvjerimo da se zaista vi prijavlju
 fxa-headline-d076f12b = Unesite potvrdni kod
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potvrdi
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Nastavi
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Pomozite nam da se uvjerimo da ste to vi koji kreirate račun.
 # Primary Button Text for Signup Confirm Code Page

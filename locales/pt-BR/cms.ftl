@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Leva apenas um segundo para entrar ou criar uma conta Mozilla.
+fxa-description-50988cb8 = Mantenha tudo sincronizado, tenha uma conta Mozilla ou seja novo aqui.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Entrar na sua conta ou criar uma
+fxa-headline-7b9deb3b = Entrar ou criar uma conta
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logotipo do Firefox
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Próximo
+fxa-primaryButtonText-a0bfb8e5 = Continuar
 # Description for New Device Login Email
 fxa-description-a0671d4a = Houve um novo acesso na sua conta Mozilla:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Ajude-nos a ter certeza que é você que está entran
 fxa-headline-d076f12b = Digite o código de confirmação
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirmar
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Continuar
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Ajude-nos a ter certeza que é você que está criando uma conta.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Confirme sua conta para entrar no Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Entre ou crie uma conta para sincronizar suas configurações e dados.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Use seu email para continuar
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Digite a senha para continuar para sua conta Mozilla
 fxa-description-87881780 = Digite o código de confirmação da sua conta Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Apenas uma etapa rápida. Digite o código recebido por email para ativar sua conta Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Entrar na sua conta ou criar uma
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirme sua conta
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Mais uma etapa para obter os benefícios do Firefox V
 fxa-description-861f2d28 = Faça backup de suas senhas, abas e favoritos para estar pronto para um novo dispositivo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronização da raposa
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Mantenha tudo sincronizado, tenha uma conta Mozilla ou seja novo aqui.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Entrar ou criar uma conta
 
 ## legal-notice-label-subs-services - CMS Entry
 

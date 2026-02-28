@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Zalogowanie się lub utworzenie konta Mozilli zajmie tylko chwilę.
+fxa-description-50988cb8 = Synchronizuj wszystkie dane, niezależnie od tego, czy posiadasz konto Mozilli, czy jesteś nowym użytkownikiem.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
+fxa-headline-7b9deb3b = Zaloguj się lub utwórz konto
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefoksa
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Dalej
+fxa-primaryButtonText-a0bfb8e5 = Kontynuuj
 # Description for New Device Login Email
 fxa-description-a0671d4a = Nastąpiło nowe logowanie na Twoje konto Mozilli:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Pomóż nam upewnić się, że to Ty się logujesz.
 fxa-headline-d076f12b = Wpisz kod potwierdzenia
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potwierdź
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Kontynuuj
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Pomóż nam upewnić się, że to Ty tworzysz konto
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Potwierdź swoje konto, aby zalogować się do przegląda
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Zaloguj się lub utwórz konto, aby synchronizować ustawienia i dane.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Użyj swojego e-maila, aby kontynuować
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Wprowadź hasło, aby przejść do konta Mozilli
 fxa-description-87881780 = Wprowadź kod potwierdzenia dla swojego konta Mozilli
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Potwierdź konto
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Jeszcze tylko krok do korzystania z zalet Firefox VP
 fxa-description-861f2d28 = Zrób kopię zapasową swoich haseł, kart i zakładek, aby być gotowym na nowe urządzenie.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Lisowa synchronizacja
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Synchronizuj wszystkie dane, niezależnie od tego, czy posiadasz konto Mozilli, czy jesteś nowym użytkownikiem.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Zaloguj się lub utwórz konto
 
 ## legal-notice-label-subs-services - CMS Entry
 

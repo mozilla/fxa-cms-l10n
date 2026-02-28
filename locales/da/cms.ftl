@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Det tager kun et øjeblik at logge ind eller oprette en Mozilla-konto.
+fxa-description-50988cb8 = Hold alt synkroniseret, uanset om du har en Mozilla-konto eller er ny her.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Tilmeld dig eller log ind
+fxa-headline-7b9deb3b = Log ind eller opret en konto
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-logo
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Næste
+fxa-primaryButtonText-a0bfb8e5 = Fortsæt
 # Description for New Device Login Email
 fxa-description-a0671d4a = Der var et nyt login på din Mozilla-konto:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Hjælp os med at sikre, at det er dig, der logger ind
 fxa-headline-d076f12b = Indtast bekræftelseskode
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Bekræft
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Fortsæt
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Hjælp os med at sikre, at det er dig, der opretter en konto.
 # Primary Button Text for Signup Confirm Code Page
@@ -226,6 +224,8 @@ fxa-description-1d4ba9f5 = Indtast adgangskoden for at fortsætte til din Mozill
 fxa-description-87881780 = Indtast bekræftelseskoden til din Mozilla-konto
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bare et hurtigt trin. Indtast koden fra din mail for at aktivere din Mozilla-konto
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Tilmeld dig eller log ind
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Bekræft din konto
 # Headline for Verify Short Code Email
@@ -292,13 +292,6 @@ fxa-description-811350a6 = Et trin mere for at få fordelene af Firefox VPN. Gå
 fxa-description-861f2d28 = Sikkerhedskopier dine adgangskoder, faneblade og bogmærker, så du er klar til en ny enhed.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ræv synkroniserer
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Hold alt synkroniseret, uanset om du har en Mozilla-konto eller er ny her.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Log ind eller opret en konto
 
 ## legal-notice-label-subs-services - CMS Entry
 

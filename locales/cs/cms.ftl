@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Přihlášení nebo vytvoření účtu Mozilla trvá jen sekundu.
+fxa-description-50988cb8 = Mějte vše synchronizované, ať už máte účet Mozilla založený, nebo jste zde nový.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Zaregistrujte se nebo se přihlaste
+fxa-headline-7b9deb3b = Přihlaste se nebo si vytvořte účet
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Logo Firefoxu
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Další
+fxa-primaryButtonText-a0bfb8e5 = Pokračovat
 # Description for New Device Login Email
 fxa-description-a0671d4a = Došlo k novému přihlášení do vašeho účtu Mozilla:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Pomozte nám ujistit se, že se přihlašujete práv�
 fxa-headline-d076f12b = Zadejte potvrzovací kód
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potvrdit
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Pokračovat
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Pomozte nám ujistit se, že jste to vy, kdo si vytváří účet.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Potvrďte svůj účet pro přihlášení do Firefoxu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Pro synchronizaci svých nastavení a dat si vytvořte účet.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Pro pokračování použijte svůj e-mail
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Pro pokračování zadejte heslo ke svému účtu Moz
 fxa-description-87881780 = Zadejte potvrzovací kód pro svůj účet Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jen jeden rychlý krok. Pro aktivaci účtu Mozilla vložte kód z vašeho e-mailu.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Zaregistrujte se nebo se přihlaste
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Potvrďte svůj účet
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Další krok k získání výhod Firefox VPN. Přejd�
 fxa-description-861f2d28 = Zálohujte svá hesla, panely a záložky, abyste byli připraveni na nové zařízení.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizace lišky
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Mějte vše synchronizované, ať už máte účet Mozilla založený, nebo jste zde nový.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Přihlaste se nebo si vytvořte účet
 
 ## legal-notice-label-subs-services - CMS Entry
 

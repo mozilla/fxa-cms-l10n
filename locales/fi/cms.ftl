@@ -1,17 +1,17 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-0b815ba1 = Mozilla-tilille kirjautuminen tai uuden tilin luominen vie vain hetken.
+fxa-description-50988cb8 = Pidä kaikki synkronoituna, oletpa sitten Mozilla-tilin käyttäjä tai uusi käyttäjä täällä.
 # Headline for Email First Page
-fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
+fxa-headline-7b9deb3b = Kirjaudu sisään tai luo tili
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-logo
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-10ac3d04 = Seuraava
+fxa-primaryButtonText-a0bfb8e5 = Jatka
 # Description for New Device Login Email
 fxa-description-a0671d4a = Uusi kirjautuminen Mozilla-tilillesi:
 # Headline for New Device Login Email
@@ -32,8 +32,6 @@ fxa-description-8e3fb023 = Auta meitä varmistamaan, että sinä kirjaudut sisä
 fxa-headline-d076f12b = Kirjoita vahvistuskoodi
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Vahvista
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Jatka
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Auta meitä varmistamaan, että sinä olet luomassa tiliä.
 # Primary Button Text for Signup Confirm Code Page
@@ -148,8 +146,6 @@ fxa-subject-10e5b452 = Vahvista tilisi kirjautuaksesi Firefoxiin
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-98e60975 = Kirjaudu sisään tai luo tili pitääksesi asetuksesi ja tietosi synkronoituina.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Käytä sähköpostiosoitettasi jatkaaksesi
 # Page Title for Email First Page
@@ -236,6 +232,8 @@ fxa-description-1d4ba9f5 = Anna salasana jatkaaksesi Mozilla-tilillesi
 fxa-description-87881780 = Anna Mozilla-tilisi vahvistuskoodi
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Yksi nopea vaihe. Syötä sähköpostitse saamasi koodi aktivoidaksesi Mozilla-tilisi.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Vahvista tilisi
 # Headline for Verify Short Code Email
@@ -302,13 +300,6 @@ fxa-description-811350a6 = Vielä yksi vaihe Firefox VPN:n hyödyntämiseksi. Si
 fxa-description-861f2d28 = Varmuuskopioi salasanasi, välilehtesi ja kirjanmerkkisi, jotta olet valmiina uutta laitetta varten.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ketun synkronointi
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-50988cb8 = Pidä kaikki synkronoituna, oletpa sitten Mozilla-tilin käyttäjä tai uusi käyttäjä täällä.
-# Headline for Email First Page
-fxa-headline-7b9deb3b = Kirjaudu sisään tai luo tili
 
 ## legal-notice-label-subs-services - CMS Entry
 

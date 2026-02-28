@@ -1,13 +1,13 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Registriraj se ili se prijavi
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox logotip
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Nastavi
 # Description for New Device Login Email
 fxa-description-a0671d4a = Tvoj Mozilla račun je korišten za novu prijavu:
 # Headline for New Device Login Email
@@ -28,8 +28,6 @@ fxa-description-8e3fb023 = Pomogni nam osigurati da se ti želiš prijaviti.
 fxa-headline-d076f12b = Upiši potvrdni kod
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Potvrdi
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Nastavi
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Pomogni nam osigurati da ti želiš stvoriti račun.
 # Primary Button Text for Signup Confirm Code Page
@@ -176,6 +174,8 @@ fxa-description-1d4ba9f5 = Upiši lozinku za nastavak pristupa tvom Mozilla rač
 fxa-description-87881780 = Upiši potvrdni kod za tvoj Mozilla račun
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Samo jedan brzi korak. Upiši kod iz e-maila za aktiviranje tvog Mozilla računa.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registriraj se ili se prijavi
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Potvrdi svoj račun
 # Headline for Verify Short Code Email

@@ -1,13 +1,13 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Sign up or sign in
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox logo
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Continue
 # Description for New Device Login Email
 fxa-description-a0671d4a = There was a new sign-in to your Mozilla account:
 # Headline for New Device Login Email
@@ -28,8 +28,6 @@ fxa-description-8e3fb023 = Help us make sure it’s you signing in.
 fxa-headline-d076f12b = Enter confirmation code
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirm
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Continue
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Help us make sure it’s you creating an account.
 # Primary Button Text for Signup Confirm Code Page
@@ -206,6 +204,8 @@ fxa-description-1d4ba9f5 = Enter password to continue to your Mozilla account
 fxa-description-87881780 = Enter confirmation code for your Mozilla account
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Just one quick step. Enter the code from your email to activate your Mozilla account.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Sign up or sign in
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirm your account
 # Headline for Verify Short Code Email

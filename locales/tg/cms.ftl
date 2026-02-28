@@ -1,13 +1,13 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Ангораи браузери «Firefox»
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Идома додан
 # Description for New Device Login Email
 fxa-description-a0671d4a = Ба ҳисоби «Mozilla»-и шумо воридшавии нав иҷро шуд:
 # Headline for New Device Login Email
@@ -28,8 +28,6 @@ fxa-description-8e3fb023 = Ба мо ёрӣ диҳед, то мутмаин ша
 fxa-headline-d076f12b = Рамзи тасдиқкунандаро ворид намоед
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Тасдиқ кардан
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Идома додан
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Ба мо ёрӣ диҳед, то мутмаин шавем, ки ин дар ҳақиқат шумо ҳисобро эҷод карда истодаед.
 # Primary Button Text for Signup Confirm Code Page
@@ -174,6 +172,8 @@ fxa-description-1d4ba9f5 = Барои ворид шудан ба ҳисоби «
 fxa-description-87881780 = Рамзи тасдиқкунандаро барои ҳисоби «Mozilla»-и худ ворид намоед
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Танҳо як қадами дигар боқӣ мондааст. Барои фаъолсозии ҳисоби худ дар «Mozilla», лутфан, рамзеро, ки мо ба почтаи электронии шумо ирсол кардем, ворид намоед.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Ҳисоби худро тасдиқ кунед
 # Headline for Verify Short Code Email

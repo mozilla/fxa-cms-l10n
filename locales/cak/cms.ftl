@@ -1,4 +1,4 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
@@ -6,6 +6,8 @@
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox wachib'äl
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Titikïr chik el
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = K'ak'a' rutikirisaxik molojri'ïl pa Firefox
 # Headline for Signin Page
@@ -14,8 +16,6 @@ fxa-headline-e8d28194 = Tatz'ib'aj ri ewan atzij
 fxa-primaryButtonText-b6d4223e = Titikirisäx molojri'ïl
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Tijikib'äx
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Titikïr chik el
 # Primary Button Text for Signup Set Password Page
 fxa-primaryButtonText-42369faa = Titz'uk rub'i' taqoya'l
 # Subject for Verify Short Code Email

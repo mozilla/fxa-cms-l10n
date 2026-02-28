@@ -1,13 +1,13 @@
-### Generated on 2026-02-18T00:42:51.160Z
+### Generated on 2026-02-27T21:52:29.800Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox-táknmerki
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a0bfb8e5 = Halda áfram
 # Description for New Device Login Email
 fxa-description-a0671d4a = Ný innskráning var gerð á Mozilla-reikninginn þinn:
 # Headline for New Device Login Email
@@ -28,8 +28,6 @@ fxa-description-8e3fb023 = Hjálpaðu okkur að ganga úr skugga um að það s�
 fxa-headline-d076f12b = Settu inn staðfestingarkóða
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Staðfesta
-# Primary Button Text for Signin Unblock Code Page
-fxa-primaryButtonText-a0bfb8e5 = Halda áfram
 # Description for Signup Confirm Code Page
 fxa-description-da2a8a91 = Hjálpaðu okkur að ganga úr skugga um að það sért þú sem ert að stofna aðgang.
 # Primary Button Text for Signup Confirm Code Page
@@ -169,6 +167,8 @@ fxa-description-1d4ba9f5 = Settu inn lykilorð til að halda áfram á Mozilla-r
 fxa-description-87881780 = Settu inn staðfestingarkóða fyrir Mozilla-reikninginn þinn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara eitt fljótlegt skref. Settu inn kóðann úr tölvupóstinum þínum til að virkja Mozilla-reikninginn þinn.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Staðfestu reikninginn þinn
 # Headline for Verify Short Code Email
