@@ -5,7 +5,7 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = დატოვეთ ყველაფერი დასინქრონებული, მიუხედავად იმისა, გაქვთ Mozilla-ს ანგარიში თუ ახალი ხართ.
+fxa-description-50988cb8 = დატოვეთ ყველაფერი დასინქრონებული, არ აქვს მნიშვნელობა, უკვე გაქვთ Mozilla-ანგარიში, თუ ახალი ხართ.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = შედით ან შექმენით ანგარიში
 # Logo Alt Text for Email First Page
