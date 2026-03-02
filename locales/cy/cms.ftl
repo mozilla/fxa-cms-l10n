@@ -13,7 +13,7 @@ fxa-logoAltText-96e4284e = Logo Firefox
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Parhau
 # Description for New Device Login Email
-fxa-description-a0671d4a = Roedd mewngofnodi newydd i'ch cyfrif Mozilla:
+fxa-description-a0671d4a = Bu mewngofnodi newydd i'ch cyfrif Mozilla:
 # Headline for New Device Login Email
 fxa-headline-7315250e = Defnyddiwyd eich cyfrif Mozilla i fewngofnodi
 # Subject for New Device Login Email
@@ -147,7 +147,7 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-34db8966 = Mewngofnodwch neu crëwch gyfrif i gadw popeth wedi'i gysoni.
+fxa-description-34db8966 = Mewngofnodwch neu crëwch gyfrif i gadw popeth wedi'i gydweddu.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Defnyddiwch eich e-bost i barhau
 # Page Title for Email First Page
