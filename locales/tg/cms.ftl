@@ -144,6 +144,8 @@ fxa-subject-10e5b452 = Барои ворид шудан ба «Firefox», ҳис
 
 # Headline for Email First Page
 fxa-headline-a4b1427f = Барои идома додан, лутфан, аз почтаи электронии худ истифода баред
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Ҳисоби «Mozilla»
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
@@ -152,13 +154,25 @@ fxa-logoAltText-c4b14a5b = рӯбоҳи ҷаста
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = ниқоби почтаи электронӣ
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
 
 ## l10n-19 - VPN (Settings)
 
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Тасдиқи воридшавӣ ба «Mozilla»
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
