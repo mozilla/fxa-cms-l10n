@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-50988cb8 = Održi sve sinkronizirano, bez obzira je li imaš Mozilla račun ili si ovdje nov/nova.
 # Headline for Email First Page
 fxa-headline-7b9deb3b = Prijavi se ili stvori račun
 # Logo Alt Text for Email First Page
@@ -201,6 +203,10 @@ fxa-subject-2322b41f = Potvrdi svoj račun za korištenje maski e-mail adrese
 fxa-headline-21296b0d = Aktiviraj ugrađeni VPN s Mozilla računom
 # Description for New Device Login Email
 fxa-description-6c54afca = Gotovo si spreman/na poboljšati privatnost tvog preglednika.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Tvoj je Mozilla račun korišten za prijavu u Firefox
+# Subject for New Device Login Email
+fxa-subject-9627bd4a = Potvrdi svoj račun za korištenje ugrađenog VPN-a Firefoxa
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -213,6 +219,8 @@ fxa-description-6bc52850 = Pomogni nam zaštiti tvoj račun odobravanjem tvoje p
 fxa-headline-b9c2e03a = Jesi li se prijavio/la u Firefox sa svojim Mozilla računom?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Odobri prijavu u Mozilla
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Potvrdi svoj račun za korištenje ugrađenog VPN-a Firefoxa
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
