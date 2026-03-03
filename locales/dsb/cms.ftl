@@ -146,6 +146,8 @@ fxa-subject-10e5b452 = Wobkšuśćo swójo konto, aby se pla Firefox pśizjawił
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Pśizjawśo se abo załožćo konto, aby wšykno synchronizěrowane wóstało.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Wužywajśo swóju e-mailowu adresu, aby pókšacował
 # Page Title for Email First Page
