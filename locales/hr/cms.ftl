@@ -164,6 +164,8 @@ fxa-logoAltText-c4b14a5b = skakuća lisica
 
 # Description for Email First Page
 fxa-description-607e9f0f = E-mail poruke poslane na tvoje maske će se proslijediti na ovu adresu.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Registriraj se ili se prijavi, te zaštiti svoju dolaznu poštu od neželjene pošte
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = maska e-mail adrese
 # Page Title for Email First Page
@@ -178,13 +180,33 @@ fxa-emailFromName-763f7f1a = Firefox
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Registriraj se, te zaštiti svoj sandučić dolazne pošte od neželjene pošte
+# Description for Signup Set Password Page
+fxa-description-e45e7923 = Ovo stvara tvoj Mozilla račun i omogućuje ti korištenje i upravljanje maskama e-mail adrese.
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Stvori lozinku za zaštitu tvog sandučića dolazne pošte od neželjene pošte
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = Zaštiti svoj račun odobravanjem prijave pomoću dolje navedenog autorizacijskog koda.
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = Koristi dolje navedeni potvrdni kod za završavanje postavljanja računa.
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Potvrdi svoj račun za korištenje maski e-mail adrese
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Potvrdi svoj račun za korištenje maski e-mail adrese
 
 ## l10n-19 - VPN (Settings)
 
+# Headline for Email First Page
+fxa-headline-21296b0d = Aktiviraj ugrađeni VPN s Mozilla računom
+# Description for New Device Login Email
+fxa-description-6c54afca = Gotovo si spreman/na poboljšati privatnost tvog preglednika.
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla – Registriraj se za račun
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomogni nam zaštiti tvoj račun odobravanjem tvoje prijave na:
 # Headline for Verify Login Code Email
