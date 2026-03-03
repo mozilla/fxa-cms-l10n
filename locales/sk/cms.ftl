@@ -146,6 +146,8 @@ fxa-subject-10e5b452 = Potvrďte svoj účet pre prihlásenie do Firefoxu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Prihláste sa alebo si vytvorte účet, aby ste mali všetko synchronizované.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Ak chcete pokračovať, použite svoj e‑mail
 # Page Title for Email First Page
