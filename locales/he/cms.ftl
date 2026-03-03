@@ -146,6 +146,8 @@ fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Fi
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = ניתן להיכנס או ליצור חשבון כדי שכל הנתונים שלך יהיו מסונכרנים.
 # Headline for Email First Page
 fxa-headline-a4b1427f = יש להשתמש בדוא״ל שלך כדי להמשיך
 # Page Title for Email First Page
