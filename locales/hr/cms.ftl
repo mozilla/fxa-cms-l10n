@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Headline for Email First Page
+fxa-headline-7b9deb3b = Prijavi se ili stvori račun
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox logotip
 # Primary Button Text for Email First Page
@@ -142,25 +144,53 @@ fxa-subject-10e5b452 = Potvrdi svoj račun za prijavu u Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Prijavi se ili stvori račun kako bi sve bilo sinkronizirano.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Koristi svoju e-mail adresu za nastavljanje
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla račun
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
 fxa-description-edee250c = Prijavi se za sinkronizaciju s tvojim Mozilla računom. Ako ga nemaš, stvori ga u samo par sekunda.
+# Headline for Email First Page
+fxa-headline-73fe011e = Prijavi se ili stvori Mozilla račun
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = skakuća lisica
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = E-mail poruke poslane na tvoje maske će se proslijediti na ovu adresu.
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = maska e-mail adrese
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Zaštiti svoju dolaznu poštu od neželjene pošte | Mozilla računi
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Tvoj je račun korišten za prijavu
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox će te pokušati vratiti na korištenje maske e-mail adrese nakon što se prijaviš.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
 
 ## l10n-19 - VPN (Settings)
 
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomogni nam zaštiti tvoj račun odobravanjem tvoje prijave na:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Jesi li se prijavio/la u Firefox sa svojim Mozilla računom?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Odobri prijavu u Mozilla
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
