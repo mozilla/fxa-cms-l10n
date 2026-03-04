@@ -1,4 +1,4 @@
-### Generated on 2026-03-02T23:53:47.332Z
+### Generated on 2026-03-04T04:15:59.921Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -237,6 +237,16 @@ fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
 
+## l10n-22 - Firefox Desktop - Password Manager
+# Description for Email First Page
+fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Get saved passwords everywhere
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Create a Mozilla account to securely sync to another device.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirm your account to sync
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 # Description for Email First Page
 fxa-description-4766f222 = A Mozilla Account is needed to use Mozilla Monitor.
@@ -268,16 +278,6 @@ fxa-headline-461a0bbf = Confirm your account to use Mozilla Monitor
 fxa-subject-461a0bbf = Confirm your account to use Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Confirm your account to use Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-# Description for Email First Page
-fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Get saved passwords everywhere
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Create a Mozilla account to securely sync to another device.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Confirm your account to sync
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 # Description for Email First Page
