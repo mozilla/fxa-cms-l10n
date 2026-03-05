@@ -146,6 +146,8 @@ fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Bëni hyrjen në llogari, ose krijoni një të tillë, që të mbani të njëkohësuar gjithçka.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Që të vazhdohet, përdorni email-in tuaj
 # Page Title for Email First Page
