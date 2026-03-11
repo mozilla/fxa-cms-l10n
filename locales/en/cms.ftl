@@ -1,4 +1,4 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-11T23:11:00.394Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -16,6 +16,8 @@ fxa-description-a0671d4a = There was a new sign-in to your Mozilla account:
 fxa-headline-7315250e = Your Mozilla account was used to sign in
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = New sign-in to Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Set up Firefox sync
 # Description for Signin Page
@@ -142,6 +144,8 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 fxa-description-34db8966 = Sign in or create an account to keep everything in sync.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Use your email to continue
+# Logo Alt Text for Email First Page
+fxa-logoAltText-64ceab91 = firefox logo
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
 
@@ -150,6 +154,8 @@ fxa-pageTitle-001bb150 = Mozilla account
 fxa-description-edee250c = Sign in to sync with your Mozilla account. If you don’t have one, it only takes a sec to create it.
 # Headline for Email First Page
 fxa-headline-73fe011e = Sign in or create a Mozilla account
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -170,6 +176,8 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox will try sending you back to 
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
@@ -231,6 +239,16 @@ fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
 
+## l10n-22 - Firefox Desktop - Password Manager
+# Description for Email First Page
+fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Get saved passwords everywhere
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Create a Mozilla account to securely sync to another device.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirm your account to sync
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 # Description for Email First Page
 fxa-description-4766f222 = A Mozilla Account is needed to use Mozilla Monitor.
@@ -263,16 +281,6 @@ fxa-subject-461a0bbf = Confirm your account to use Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Confirm your account to use Mozilla Monitor.
 
-## l10n-6 - Firefox Desktop - Password Manager
-# Description for Email First Page
-fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Get saved passwords everywhere
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Create a Mozilla account to securely sync to another device.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Confirm your account to sync
-
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 # Description for Email First Page
 fxa-description-6591d2a0 = An account unlocks access to VPN and syncs your Firefox data across devices.
@@ -288,6 +296,8 @@ fxa-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’
 fxa-logoAltText-164ffc49 = fox syncing
 
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
+# Headline Font Size for Shared
+fxa-headlineFontSize-afacdb0a = large
 
 ## legal-notice-label-subs-services - CMS Entry
 # Label for Terms
