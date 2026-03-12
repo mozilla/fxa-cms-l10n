@@ -1,11 +1,11 @@
-### Generated on 2026-03-12T22:44:55.240Z
+### Generated on 2026-03-12T22:47:57.002Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 # Description for Email First Page
-fxa-description-50988cb8 = Keep everything in sync, whether you have a Mozilla account or are new here.
+fxa-description-34db8966 = Sign in or create an account to keep everything in sync.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Sign in or create an account
+fxa-headline-a4b1427f = Use your email to continue
 # Logo Alt Text for Email First Page
 fxa-logoAltText-96e4284e = Firefox logo
 # Primary Button Text for Email First Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Your passwords, payment methods, addresses, bookmarks
 fxa-headline-3ed2d228 = Sync is turned on
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Add another device
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sync your passwords, payment methods, bookmarks, and more everywhere you use Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Create a password
 # Primary Button Text for Signup Set Password Page
@@ -70,6 +68,8 @@ fxa-headline-33e9f42d = Continue to your Mozilla account
 fxa-primaryButtonText-a20eb81e = Sign up or sign in
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox logo
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sync your passwords, payment methods, bookmarks, and more everywhere you use Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 # Description for Email First Page
@@ -140,10 +140,6 @@ fxa-headline-ef1fb997 = Confirm your account
 fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
-# Description for Email First Page
-fxa-description-34db8966 = Sign in or create an account to keep everything in sync.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Use your email to continue
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
 # Logo Alt Text for Shared
