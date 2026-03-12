@@ -1,4 +1,4 @@
-### Generated on 2026-03-11T23:14:27.757Z
+### Generated on 2026-03-12T22:44:55.240Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -294,10 +294,6 @@ fxa-description-811350a6 = One more step to obtaining the benefits of Firefox VP
 fxa-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’re ready for a new device.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox syncing
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-# Headline Font Size for Shared
-fxa-headlineFontSize-afacdb0a = large
 
 ## legal-notice-label-subs-services - CMS Entry
 # Label for Terms
