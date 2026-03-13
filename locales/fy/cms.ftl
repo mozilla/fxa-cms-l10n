@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Hâld alles syngronisearre, oft jo no in Mozilla-account hawwe of hjir nij binne.
+fxa-description-34db8966 = Meld jo oan of meitsje in account oan om alles syngronisearre te hâlden.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Oanmelde of in account oanmeitsje
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox-logo
+fxa-headline-a4b1427f = Brûk jo e-mailadres om troch te gean
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Trochgean
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = Der is in nije oanmelding op jo Mozilla-account:
 fxa-headline-7315250e = Jo Mozilla-account is brûkt om jo oan te melden
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nije oanmelding by Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox-logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox Syngronisaasje ynstelle
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Jo wachtwurden, betellingsmetoaden, adressen, blêdwi
 fxa-headline-3ed2d228 = Syngronisaasje is ynskeakele
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Noch in apparaat tafoegje
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Syngronisearje jo wachtwurden, betellingsmetoaden, blêdwizers en mear, oeral wêr't jo Firefox brûke.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = In wachtwurd oanmeitsje
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Trochgean nei jo Mozilla-account
 fxa-primaryButtonText-a20eb81e = Registrearje of oanmelde
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-logo
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Syngronisearje jo wachtwurden, betellingsmetoaden, blêdwizers en mear, oeral wêr't jo Firefox brûke.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Meld jo oan of meitsje in account oan om alles syngronisearre te hâlden.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Brûk jo e-mailadres om troch te gean
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-account
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Brûk de opnommen koade om jo Mozilla-account te befêst
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Befêstigje jo account om Firefox-browser te brûken
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Brûk jo Mozilla-account om feilich te syngronisearjen mei in oar apparaat.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Haw oeral jo bewarre wachtwurden beskikber
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Meitsje in Mozilla-account oan om feilich te syngronisearjen mei in oar apparaat.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Befêstigje jo account om te syngronisearjen
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Befêstigje jo account om Mozilla Monitor te brûken
 fxa-subject-461a0bbf = Befêstigje jo account om Mozilla Monitor te brûken
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Befêstigje jo account om Mozilla Monitor te brûken.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Brûk jo Mozilla-account om feilich te syngronisearjen mei in oar apparaat.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Haw oeral jo bewarre wachtwurden beskikber
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Meitsje in Mozilla-account oan om feilich te syngronisearjen mei in oar apparaat.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Befêstigje jo account om te syngronisearjen
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
