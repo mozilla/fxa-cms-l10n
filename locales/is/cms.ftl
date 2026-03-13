@@ -1,11 +1,9 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox-táknmerki
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Halda áfram
 # Description for New Device Login Email
@@ -14,6 +12,8 @@ fxa-description-a0671d4a = Ný innskráning var gerð á Mozilla-reikninginn þi
 fxa-headline-7315250e = Mozilla-reikningurinn þinn var notaður til innskráningar
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Ný innskráning í Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox-táknmerki
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Setja upp Firefox-samstillingu
 # Description for Signin Page
@@ -38,8 +38,6 @@ fxa-description-2115ee89 = Lykilorð, greiðslumáta, netföng, bókamerki, vafu
 fxa-headline-3ed2d228 = Samstilling er virk
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Bæta við öðru tæki
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Samstilltu lykilorð, greiðslumáta, bókamerki og fleira, alls staðar þar sem þú notar Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Búa til lykilorð
 # Primary Button Text for Signup Set Password Page
@@ -67,6 +65,8 @@ fxa-headline-33e9f42d = Halda áfram í Mozilla-reikninginn þinn
 fxa-primaryButtonText-a20eb81e = Nýskráðu þig eða skráðu þig inn
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-táknmerki
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Samstilltu lykilorð, greiðslumáta, bókamerki og fleira, alls staðar þar sem þú notar Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -176,6 +176,17 @@ fxa-headline-f8578b7c = Notaðu meðfylgjandi kóða til að staðfesta Mozilla-
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Staðfestu aðganginn þinn til að nota Firefox-vafrann
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Notaðu Mozilla-reikninginn þinn til að samstilla á öruggan hátt við annað tæki.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Fáðu vistuðu lykilorðin þín alls staðar
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Stofnaðu Mozilla-reikning til að samstilla á öruggan hátt við annað tæki.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Staðfestu reikninginn þinn til að samstilla
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -208,17 +219,6 @@ fxa-headline-461a0bbf = Staðfestu aðganginn þinn til að nota Mozilla Monitor
 fxa-subject-461a0bbf = Staðfestu aðganginn þinn til að nota Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Staðfestu aðganginn þinn til að nota Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Notaðu Mozilla-reikninginn þinn til að samstilla á öruggan hátt við annað tæki.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Fáðu vistuðu lykilorðin þín alls staðar
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Stofnaðu Mozilla-reikning til að samstilla á öruggan hátt við annað tæki.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Staðfestu reikninginn þinn til að samstilla
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

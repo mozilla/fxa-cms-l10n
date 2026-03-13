@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Mbani gjithçka të njëkohësuar, qoftë kur keni një llogari Mozilla, qoftë kur jeni i ri këtu.
+fxa-description-34db8966 = Bëni hyrjen në llogari, ose krijoni një të tillë, që të mbani të njëkohësuar gjithçka.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Hyni ose krijoni një llogari
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Stemë Firefox-i
+fxa-headline-a4b1427f = Që të vazhdohet, përdorni email-in tuaj
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Vazhdo
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = Pati një hyrje të re në llogarinë tuaj Mozilla:
 fxa-headline-7315250e = Llogaria juaj Mozilla u përdor për të bërë hyrje
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Hyrje e re te Firefox-i
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Stemë Firefox-i
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Ujdisni njëkohësim Firefox-i
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Fjalëkalimet tuaj, metodat e pagesave, adresa, faqer
 fxa-headline-3ed2d228 = Njëkohësimi është i aktivizuar
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Shtoni pajisje tjetër
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Njëkohësoni fjalëkalimet tuaja, metoda pagesash, faqerojtës, etj, kudo që përdorni Firefox-in.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Krijoni fjalëkalim
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Vazhdoni te llogaria juaj Mozilla
 fxa-primaryButtonText-a20eb81e = Hyni ose regjistrohuni
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Stemë Firefox-i
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Njëkohësoni fjalëkalimet tuaja, metoda pagesash, faqerojtës, etj, kudo që përdorni Firefox-in.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Bëni hyrjen në llogari, ose krijoni një të tillë, që të mbani të njëkohësuar gjithçka.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Që të vazhdohet, përdorni email-in tuaj
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Llogari Mozilla
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Përdorni kodin e përfshirë, që të ripohoni  llogari
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Që të përdorni Shfletuesin Firefox, ripohoni llogarinë tuaj
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Përdoreni llogarinë tuaj Mozilla për të njëkohësuar në mënyrë të siguruar gjërat në një pajisje tjetër.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Merrini kudo fjalëkalimet e ruajtur
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Për të njëkohësuar në mënyrë të siguruar gjërat në një pajisje tjetër, krijoni një llogari Mozilla .
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Që të bëhet njëkohësimi, ripohoni llogarinë tuaj
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Që të përdorni Mozilla Monitor, ripohoni llogarinë t
 fxa-subject-461a0bbf = Që të përdorni Mozilla Monitor, ripohoni llogarinë tuaj
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Që të përdorni Mozilla Monitor, ripohoni llogarinë tuaj.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Përdoreni llogarinë tuaj Mozilla për të njëkohësuar në mënyrë të siguruar gjërat në një pajisje tjetër.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Merrini kudo fjalëkalimet e ruajtur
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Për të njëkohësuar në mënyrë të siguruar gjërat në një pajisje tjetër, krijoni një llogari Mozilla .
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Që të bëhet njëkohësimi, ripohoni llogarinë tuaj
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

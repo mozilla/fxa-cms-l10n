@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Hold alt synkronisert, enten du har en Mozilla-konto eller er ny her.
+fxa-description-34db8966 = Logg inn eller opprett en konto for å holde alt synkronisert.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Logg inn eller opprett en konto
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox-logo
+fxa-headline-a4b1427f = Bruk e-postadressen din for å fortsette
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Fortsett
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = Det var en ny pålogging til Mozilla-kontoen din:
 fxa-headline-7315250e = Mozilla-kontoen din ble brukt til å logge inn
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Ny innlogging på Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox-logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Konfigurer Firefox-synkronisering
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Passordene dine, betalingsmåtene, adressene, bokmerk
 fxa-headline-3ed2d228 = Synkronisering er slått på
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Legg til en annen enhet
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synkroniser passordene, betalingsmåte, bokmerkene og mer overalt hvor du bruker Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Opprett et passord
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Fortsett til Mozilla-kontoen din
 fxa-primaryButtonText-a20eb81e = Registrer deg eller logg inn
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-logo
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synkroniser passordene, betalingsmåte, bokmerkene og mer overalt hvor du bruker Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Bekreft kontoen din for å logge på Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Logg inn eller opprett en konto for å holde alt synkronisert.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Bruk e-postadressen din for å fortsette
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-konto
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Bruk den medfølgende koden for å bekrefte Mozilla-kont
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Bekreft kontoen din for å bruke Firefox-nettleser
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Bruk Mozilla-kontoen din for å synkronisere sikkert til en annen enhet.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Få tilgang til lagrede passord overalt
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Opprett en Mozilla-konto for å synkronisere sikkert til en annen enhet.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Bekreft din konto for å synkronisere
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Bekreft kontoen din for å bruke Mozilla Monitor
 fxa-subject-461a0bbf = Bekreft kontoen din for å bruke Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Bekreft kontoen din for å bruke Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Bruk Mozilla-kontoen din for å synkronisere sikkert til en annen enhet.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Få tilgang til lagrede passord overalt
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Opprett en Mozilla-konto for å synkronisere sikkert til en annen enhet.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Bekreft din konto for å synkronisere
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

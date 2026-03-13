@@ -1,15 +1,11 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-50988cb8 = Hold alt synkroniseret, uanset om du har en Mozilla-konto eller er ny her.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Log ind eller opret en konto
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox-logo
+fxa-headline-a4b1427f = Brug din mailadresse for at fortsætte
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Fortsæt
 # Description for New Device Login Email
@@ -18,6 +14,8 @@ fxa-description-a0671d4a = Der var et nyt login på din Mozilla-konto:
 fxa-headline-7315250e = Din Mozilla-konto blev brugt til at logge ind
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nyt login på Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox-logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Opsæt Firefox-synkronisering
 # Description for Signin Page
@@ -42,8 +40,6 @@ fxa-description-2115ee89 = Dine adgangskoder, betalingsmetoder, adresser, bogmæ
 fxa-headline-3ed2d228 = Synkronisering er slået til
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Tilføj en ny enhed
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synkroniser dine adgangskoder, betalingsmetoder, bogmærker og mere overalt, hvor du bruger Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Opret en adgangskode
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +67,8 @@ fxa-headline-33e9f42d = Fortsæt til din Mozilla-konto
 fxa-primaryButtonText-a20eb81e = Tilmeld dig eller log ind
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-logo
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synkroniser dine adgangskoder, betalingsmetoder, bogmærker og mere overalt, hvor du bruger Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,8 +144,6 @@ fxa-subject-10e5b452 = Bekræft din konto for at logge ind på Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a4b1427f = Brug din mailadresse for at fortsætte
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-konto
 
@@ -233,6 +229,17 @@ fxa-headline-f8578b7c = Brug den medfølgende kode til at bekræfte din Mozilla-
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Bekræft din konto for at bruge Firefox-browseren
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Brug din Mozilla-konto til sikkert at synkronisere med en anden enhed.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Tag dine gemte adgangskoder med overalt
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Opret en Mozilla-konto for at synkronisere sikkert med en anden enhed.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Bekræft din konto for at synkronisere
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -265,17 +272,6 @@ fxa-headline-461a0bbf = Bekræft din konto for at bruge Mozilla Monitor
 fxa-subject-461a0bbf = Bekræft din konto for at bruge Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Bekræft din konto for at bruge Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Brug din Mozilla-konto til sikkert at synkronisere med en anden enhed.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Tag dine gemte adgangskoder med overalt
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Opret en Mozilla-konto for at synkronisere sikkert med en anden enhed.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Bekræft din konto for at synkronisere
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

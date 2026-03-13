@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Cadwch bopeth wedi'i gydweddu, p'un a oes gennych gyfrif Mozilla neu os ydych yn newydd yma.
+fxa-description-34db8966 = Mewngofnodwch neu crëwch gyfrif i gadw popeth wedi'i gydweddu.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Mewngofnodi neu greu cyfrif
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Logo Firefox
+fxa-headline-a4b1427f = Defnyddiwch eich e-bost i barhau
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Parhau
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = Bu mewngofnodi newydd i'ch cyfrif Mozilla:
 fxa-headline-7315250e = Defnyddiwyd eich cyfrif Mozilla i fewngofnodi
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Mewngofnodi newydd i Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Gosod cydweddu Firefox
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Gall eich cyfrineiriau, dulliau talu, cyfeiriadau, no
 fxa-headline-3ed2d228 = Mae cydweddu wedi'i droi ymlaen
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Ychwanegu dyfais arall
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Cydweddwch eich cyfrineiriau, dulliau talu, nodau tudalen, a mwy ym mhob man rydych chi'n defnyddio Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Crëwch gyfrinair
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Ewch ymlaen i'ch cyfrif Mozilla
 fxa-primaryButtonText-a20eb81e = Cofrestrwch neu mewngofnodi
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo Firefox
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Cydweddwch eich cyfrineiriau, dulliau talu, nodau tudalen, a mwy ym mhob man rydych chi'n defnyddio Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Mewngofnodwch neu crëwch gyfrif i gadw popeth wedi'i gydweddu.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Defnyddiwch eich e-bost i barhau
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Cyfrif Mozilla
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Defnyddiwch y cod sydd wedi'i gynnwys i gadarnhau eich c
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Cadarnhewch eich cyfrif i ddefnyddio Porwr Firefox
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Defnyddiwch eich cyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Cael cyfrineiriau sydd wedi'u cadw ym mhobman
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Crëwch gyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Cadarnhewch eich cyfrif i gydweddu
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Cadarnhewch eich cyfrif i ddefnyddio Mozilla Monitor
 fxa-subject-461a0bbf = Cadarnhewch eich cyfrif i ddefnyddio Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Cadarnhewch eich cyfrif i ddefnyddio Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Defnyddiwch eich cyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Cael cyfrineiriau sydd wedi'u cadw ym mhobman
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Crëwch gyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Cadarnhewch eich cyfrif i gydweddu
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

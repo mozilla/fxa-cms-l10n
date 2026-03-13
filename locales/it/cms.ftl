@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Tieni tutto sincronizzato, sia che tu abbia già un account Mozilla o che tu sia appena arrivato.
+fxa-description-34db8966 = Accedi o crea un account per mantenere i tuoi dati sincronizzati.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Accedi o crea un account
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Logo di Firefox
+fxa-headline-a4b1427f = Utilizza la tua email per continuare
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Continua
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = È stato effettuato un nuovo accesso al tuo account M
 fxa-headline-7315250e = Il tuo account Mozilla è stato utilizzato per accedere
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nuovo accesso a Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo di Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configura sincronizzazione in Firefox
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = È possibile sincronizzare password, metodi di pagame
 fxa-headline-3ed2d228 = La sincronizzazione è attiva
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Aggiungi un altro dispositivo
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincronizza password, metodi di pagamento, segnalibri e altro ancora ovunque utilizzi Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Crea una password
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Continua con il tuo account Mozilla
 fxa-primaryButtonText-a20eb81e = Registrati o accedi
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo di Firefox
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sincronizza password, metodi di pagamento, segnalibri e altro ancora ovunque utilizzi Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Conferma il tuo account per accedere a Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Accedi o crea un account per mantenere i tuoi dati sincronizzati.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Utilizza la tua email per continuare
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Account Mozilla
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Utilizza il codice incluso per confermare il tuo account
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Conferma il tuo account per utilizzare Firefox
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Utilizza il tuo account Mozilla per sincronizzare in modo sicuro con un altro dispositivo.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Accedi ovunque alle password salvate
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Crea un account Mozilla per sincronizzare in modo sicuro con un altro dispositivo.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Conferma l’account per sincronizzare
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Conferma il tuo account per utilizzare Mozilla Monitor
 fxa-subject-461a0bbf = Conferma il tuo account per utilizzare Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Conferma il tuo account per utilizzare Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Utilizza il tuo account Mozilla per sincronizzare in modo sicuro con un altro dispositivo.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Accedi ovunque alle password salvate
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Crea un account Mozilla per sincronizzare in modo sicuro con un altro dispositivo.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Conferma l’account per sincronizzare
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

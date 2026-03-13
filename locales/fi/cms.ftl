@@ -1,15 +1,11 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-50988cb8 = Pidä kaikki synkronoituna, oletpa sitten Mozilla-tilin käyttäjä tai uusi käyttäjä täällä.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Kirjaudu sisään tai luo tili
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox-logo
+fxa-headline-a4b1427f = Käytä sähköpostiosoitettasi jatkaaksesi
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Jatka
 # Description for New Device Login Email
@@ -18,6 +14,8 @@ fxa-description-a0671d4a = Uusi kirjautuminen Mozilla-tilillesi:
 fxa-headline-7315250e = Mozilla-tiliäsi käytettiin sisäänkirjautumiseen
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Uusi kirjautuminen Firefoxiin
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox-logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Määritä Firefoxin synkronointi
 # Description for Signin Page
@@ -42,8 +40,6 @@ fxa-description-2115ee89 = Salasanat, maksutavat, osoitteet, kirjanmerkit, histo
 fxa-headline-3ed2d228 = Synkronointi on käytössä
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Lisää toinen laite
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synkronoi salasanat, maksutavat, kirjanmerkit ja paljon muuta, kaikkialla, missä käytät Firefoxia.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Luo salasana
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +67,8 @@ fxa-headline-33e9f42d = Jatka Mozilla-tilillesi
 fxa-primaryButtonText-a20eb81e = Rekisteröidy tai kirjaudu sisään
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox-logo
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synkronoi salasanat, maksutavat, kirjanmerkit ja paljon muuta, kaikkialla, missä käytät Firefoxia.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,8 +144,6 @@ fxa-subject-10e5b452 = Vahvista tilisi kirjautuaksesi Firefoxiin
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a4b1427f = Käytä sähköpostiosoitettasi jatkaaksesi
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-tili
 
@@ -241,6 +237,17 @@ fxa-headline-f8578b7c = Käytä mukana tulevaa koodia vahvistaaksesi Mozilla-til
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Vahvista tilisi käyttääksesi Firefox-selainta
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Käytä Mozilla-tiliä synkronoidaksesi turvallisesti toiseen laitteeseen.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Käytä tallennettuja salasanoja kaikkialla
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Luo Mozilla-tili synkronoidaksesi turvallisesti toiseen laitteeseen.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Vahvista tilisi synkronointia varten
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -273,17 +280,6 @@ fxa-headline-461a0bbf = Vahvista tilisi käyttääksesi Mozilla Monitoria
 fxa-subject-461a0bbf = Vahvista tilisi käyttääksesi Mozilla Monitoria
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Vahvista tilisi käyttääksesi Mozilla Monitoria.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Käytä Mozilla-tiliä synkronoidaksesi turvallisesti toiseen laitteeseen.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Käytä tallennettuja salasanoja kaikkialla
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Luo Mozilla-tili synkronoidaksesi turvallisesti toiseen laitteeseen.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Vahvista tilisi synkronointia varten
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

@@ -1,15 +1,15 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox wachib'äl
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Titikïr chik el
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = K'ak'a' rutikirisaxik molojri'ïl pa Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox wachib'äl
 # Headline for Signin Page
 fxa-headline-e8d28194 = Tatz'ib'aj ri ewan atzij
 # Primary Button Text for Signin Page

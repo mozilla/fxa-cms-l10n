@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = לשמור על סנכרון של הכול - בין אם יש לך חשבון Mozilla או שזו הפעם הראשונה שלך כאן.
+fxa-description-34db8966 = ניתן להיכנס או ליצור חשבון כדי שכל הנתונים שלך יהיו מסונכרנים.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = כניסה או יצירת חשבון
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = הסמל של Firefox
+fxa-headline-a4b1427f = יש להשתמש בדוא״ל שלך כדי להמשיך
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = המשך
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = בוצעה כניסה חדשה לחשבון ה־Mozil
 fxa-headline-7315250e = נעשה שימוש בחשבון ה־Mozilla שלך להתחברות
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = כניסה חדשה ל־Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = הסמל של Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = הגדרת סנכרון ב־Firefox
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = ניתן לסנכרן את הססמאות, אמצעי
 fxa-headline-3ed2d228 = הסנכרון מופעל
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = הוספת מכשיר נוסף
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = סנכרון הססמאות, אמצעי התשלום, הסימניות ועוד, בכל מקום בו יש לך את Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = יצירת ססמה
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = המשך אל חשבון ה־Mozilla שלך
 fxa-primaryButtonText-a20eb81e = הרשמה או התחברות
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = הסמל של Firefox
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = סנכרון הססמאות, אמצעי התשלום, הסימניות ועוד, בכל מקום בו יש לך את Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Fi
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = ניתן להיכנס או ליצור חשבון כדי שכל הנתונים שלך יהיו מסונכרנים.
-# Headline for Email First Page
-fxa-headline-a4b1427f = יש להשתמש בדוא״ל שלך כדי להמשיך
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = חשבון Mozilla
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = יש להשתמש בקוד הכלול כדי לאמת א
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = אימות החשבון שלך לשימוש בדפדפן Firefox
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = יש להשתמש בחשבון ה־Mozilla שלך כדי לסנכרן באופן מאובטח עם מכשיר אחר.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = קבלת הססמאות השמורות בכל מקום
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = יש ליצור חשבון Mozilla כדי לסנכרן באופן מאובטח עם מכשיר אחר.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = אימות החשבון שלך כדי לסנכרן
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = אימות החשבון שלך לשימוש ב־Mozilla 
 fxa-subject-461a0bbf = אימות החשבון שלך לשימוש ב־Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = אימות החשבון שלך לשימוש ב־Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = יש להשתמש בחשבון ה־Mozilla שלך כדי לסנכרן באופן מאובטח עם מכשיר אחר.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = קבלת הססמאות השמורות בכל מקום
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = יש ליצור חשבון Mozilla כדי לסנכרן באופן מאובטח עם מכשיר אחר.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = אימות החשבון שלך כדי לסנכרן
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

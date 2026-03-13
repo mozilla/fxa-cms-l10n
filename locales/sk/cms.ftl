@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Udržujte všetko synchronizované, či už máte účet Mozilla alebo ste tu noví.
+fxa-description-34db8966 = Prihláste sa alebo si vytvorte účet, aby ste mali všetko synchronizované.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Prihlásiť sa alebo vytvoriť účet
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Logo Firefoxu
+fxa-headline-a4b1427f = Ak chcete pokračovať, použite svoj e‑mail
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Pokračovať
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = Došlo k novému prihláseniu do vášho účtu Mozil
 fxa-headline-7315250e = Na prihlásenie bol použitý váš účet Mozilla
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nové prihlásenie k Firefoxu
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefoxu
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Nastavenie synchronizácie Firefoxu
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Vaše heslá, platobné metódy, adresy, záložky, h
 fxa-headline-3ed2d228 = Synchronizácia je zapnutá
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Pridať ďalšie zariadenie
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synchronizujte svoje heslá, spôsoby platby, záložky a ďalšie údaje všade, kde používate Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Vytvoriť heslo
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Pokračujte do svojho účtu Mozilla
 fxa-primaryButtonText-a20eb81e = Zaregistrujte sa alebo sa prihláste
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo Firefoxu
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronizujte svoje heslá, spôsoby platby, záložky a ďalšie údaje všade, kde používate Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Potvrďte svoj účet pre prihlásenie do Firefoxu
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Prihláste sa alebo si vytvorte účet, aby ste mali všetko synchronizované.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Ak chcete pokračovať, použite svoj e‑mail
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Účet Mozilla
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Použite priložený kód na potvrdenie vášho účtu M
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Potvrďte svoj účet, aby ste mohli používať prehliadač Firefox
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Použite svoj účet Mozilla na bezpečnú synchronizáciu s iným zariadením.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Získajte uložené heslá všade
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Vytvorte si účet Mozilla pre bezpečnú synchronizáciu s iným zariadením.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Potvrďte svoj účet pre synchronizáciu
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Potvrďte svoj účet, aby ste mohli používať Mozilla
 fxa-subject-461a0bbf = Potvrďte svoj účet, aby ste mohli používať Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Potvrďte svoj účet, aby ste mohli používať Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Použite svoj účet Mozilla na bezpečnú synchronizáciu s iným zariadením.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Získajte uložené heslá všade
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Vytvorte si účet Mozilla pre bezpečnú synchronizáciu s iným zariadením.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Potvrďte svoj účet pre synchronizáciu
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

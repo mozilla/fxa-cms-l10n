@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Tetap sinkronkan, baik Anda memiliki akun Mozilla atau baru di sini.
+fxa-description-34db8966 = Masuk atau buat akun untuk menjaga semuanya tetap sinkron.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Masuk atau buat akun
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Logo Firefox
+fxa-headline-a4b1427f = Gunakan surel Anda untuk melanjutkan
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Lanjutkan
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = Ada kejadian masuk baru ke akun Mozilla Anda:
 fxa-headline-7315250e = Akun Mozilla Anda digunakan untuk masuk
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Masuk yang baru ke Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Siapkan sinkronisasi Firefox
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Sandi, metode pembayaran, alamat, markah, riwayat, da
 fxa-headline-3ed2d228 = Sinkronisasi diaktifkan
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Tambahkan perangkat lain
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sinkronkan kata sandi, metode pembayaran, markah, dan lainnya di mana pun Anda menggunakan Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Buat kata sandi
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Lanjutkan ke akun Mozilla Anda
 fxa-primaryButtonText-a20eb81e = Daftar atau masuk
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo Firefox
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sinkronkan kata sandi, metode pembayaran, markah, dan lainnya di mana pun Anda menggunakan Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Konfirmasi akun Anda untuk masuk ke Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Masuk atau buat akun untuk menjaga semuanya tetap sinkron.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Gunakan surel Anda untuk melanjutkan
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Akun Mozilla
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Gunakan kode yang disertakan untuk mengonfirmasi akun Mo
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Konfirmasikan akun Anda untuk menggunakan Peramban Firefox
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Gunakan akun Mozilla Anda untuk menyinkronkan dengan aman ke perangkat lain.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Dapatkan sandi tersimpan di mana saja
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Buat akun Mozilla untuk menyinkronkan ke perangkat lain dengan aman.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Konfirmasi akun Anda untuk disinkronkan
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Konfirmasikan akun Anda untuk menggunakan Mozilla Monito
 fxa-subject-461a0bbf = Konfirmasikan akun Anda untuk menggunakan Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Konfirmasikan akun Anda untuk menggunakan Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Gunakan akun Mozilla Anda untuk menyinkronkan dengan aman ke perangkat lain.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Dapatkan sandi tersimpan di mana saja
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Buat akun Mozilla untuk menyinkronkan ke perangkat lain dengan aman.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Konfirmasi akun Anda untuk disinkronkan
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

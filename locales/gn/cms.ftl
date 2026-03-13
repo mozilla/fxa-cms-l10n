@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Eime moñondipyrépe, taha’e eguerekórõ mba’ete Mozilla térã nde pyahu ko’ápe.
+fxa-description-34db8966 = Eike térã emoheñói mba’ete ereko hag̃ua ojuehete.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Eike térã emoheñói mba’ete
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox ra’ãnga’i
+fxa-headline-a4b1427f = Eiporu ñanduti veve eku’e jey hag̃ua
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Eku’ejey
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = Oĩ oike pyahúva ne mba’ete Mozilla peguápe:
 fxa-headline-7315250e = Ne mba’ete Mozilla-gua ojeporu ojeike hag̃ua
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Eike pyahu Firefox-pe
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox ra’ãnga’i
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Emboheko Firefox ñembojuehe
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Ñe ñe’ẽñemi, jepagarã, kundaharape, techaukah
 fxa-headline-3ed2d228 = Ñembojuehe hendýma
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Embojuaju ambue mba’e’oka
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Embojuehe ñe’ẽñemi, jepagarã, techaukaha ha hetave oimeraẽva tenda eiporuhápe Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Emoheñói ñe’ẽñemi
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Eku’ejey Mozilla mba’ete ndive
 fxa-primaryButtonText-a20eb81e = Eike térã eñemboheraguapy
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox ra’ãnga’i
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Embojuehe ñe’ẽñemi, jepagarã, techaukaha ha hetave oimeraẽva tenda eiporuhápe Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Eike térã emoheñói mba’ete ereko hag̃ua ojuehete.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Eiporu ñanduti veve eku’e jey hag̃ua
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla mba’ete
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Eiporu ayvu reheve emoneĩ hag̃ua ne mba’ete Mozilla-
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Emoneĩ ne mba’ete eiporu hag̃ua Firefox kundahára
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Eiporu ne Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’oka ndive.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Eraha ne ñe’ẽñemi ñongatupyre opárupi
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Ejapo Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’okáre.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Emoneĩ ne mba’ete embojuehe hag̃ua
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Emoneĩ ne mba’ete eiporu hag̃ua Mozilla Monitor
 fxa-subject-461a0bbf = Emoneĩ ne mba’ete eiporu hag̃ua Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Emoneĩ ne mba’ete eiporu hag̃ua Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Eiporu ne Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’oka ndive.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Eraha ne ñe’ẽñemi ñongatupyre opárupi
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Ejapo Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’okáre.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Emoneĩ ne mba’ete embojuehe hag̃ua
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

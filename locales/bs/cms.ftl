@@ -1,11 +1,9 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox logo
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Nastavi
 # Description for New Device Login Email
@@ -14,6 +12,8 @@ fxa-description-a0671d4a = Došlo je do nove prijave na vaš Mozilla račun:
 fxa-headline-7315250e = Vaš Mozilla račun je korišten za prijavu
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nova prijava na Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Postavite sinhronizaciju Firefoxa
 # Description for Signin Page
@@ -38,8 +38,6 @@ fxa-description-2115ee89 = Vaše lozinke, načini plaćanja, adrese, zabilješke
 fxa-headline-3ed2d228 = Sinhronizacija je uključena
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Dodaj još jedan uređaj
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sinhronizujte svoje lozinke, načine plaćanja, zabilješke i još mnogo toga svugdje gdje koristite Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Napravite novu lozinku
 # Primary Button Text for Signup Set Password Page
@@ -67,6 +65,8 @@ fxa-headline-33e9f42d = Nastavite na svoj Mozilla račun
 fxa-primaryButtonText-a20eb81e = Registrujte se ili prijavite se
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox logo
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sinhronizujte svoje lozinke, načine plaćanja, zabilješke i još mnogo toga svugdje gdje koristite Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

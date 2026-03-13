@@ -1,11 +1,9 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Logotip del Firefox
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Continua
 # Description for New Device Login Email
@@ -14,6 +12,8 @@ fxa-description-a0671d4a = Hi ha hagut un inici de sessió nou al vostre compte 
 fxa-headline-7315250e = S'ha utilitzat el vostre compte de Mozilla per a iniciar la sessió
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Inici de sessió nou al Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logotip del Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configura la sincronització del Firefox
 # Description for Signin Page
@@ -38,8 +38,6 @@ fxa-description-2115ee89 = Podeu sincronitzar les contrasenyes, els mètodes de 
 fxa-headline-3ed2d228 = La sincronització està activada
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Afegeix un altre dispositiu
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincronitzeu les contrasenyes, els mètodes de pagament, les adreces d’interès i molt més a tot arreu on feu servir el Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Creeu una contrasenya
 # Primary Button Text for Signup Set Password Page
@@ -65,6 +63,8 @@ fxa-headline-33e9f42d = Continueu al vostre compte de Mozilla
 fxa-primaryButtonText-a20eb81e = Inici de sessió o registre
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logotip del Firefox
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sincronitzeu les contrasenyes, els mètodes de pagament, les adreces d’interès i molt més a tot arreu on feu servir el Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

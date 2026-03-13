@@ -1,11 +1,9 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Лагатып Firefox
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Працягнуць
 # Description for New Device Login Email
@@ -14,6 +12,8 @@ fxa-description-a0671d4a = У ваш уліковы запіс Mozilla быў в
 fxa-headline-7315250e = Ваш уліковы запіс Mozilla быў выкарыстаны для ўваходу
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Новы ўваход у Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Лагатып Firefox
 # Headline for Signin Page
 fxa-headline-e8d28194 = Увядзіце ваш пароль
 # Primary Button Text for Signin Page
@@ -34,8 +34,6 @@ fxa-description-2115ee89 = Вашы паролі, спосабы аплаты, �
 fxa-headline-3ed2d228 = Сінхранізацыя ўключана
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Дадаць яшчэ адну прыладу
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Сінхранізуйце свае паролі, спосабы аплаты, закладкі і многае іншае ўсюды, дзе вы карыстаецеся Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Стварыць пароль
 # Primary Button Text for Signup Set Password Page
@@ -57,6 +55,8 @@ fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mo
 fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвайсці
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Лагатып Firefox
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Сінхранізуйце свае паролі, спосабы аплаты, закладкі і многае іншае ўсюды, дзе вы карыстаецеся Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

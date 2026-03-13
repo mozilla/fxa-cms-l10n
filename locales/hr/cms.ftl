@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = Održi sve sinkronizirano, bez obzira je li imaš Mozilla račun ili si ovdje nov/nova.
+fxa-description-34db8966 = Prijavi se ili stvori račun kako bi sve bilo sinkronizirano.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Prijavi se ili stvori račun
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Firefox logotip
+fxa-headline-a4b1427f = Koristi svoju e-mail adresu za nastavljanje
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Nastavi
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = Tvoj Mozilla račun je korišten za novu prijavu:
 fxa-headline-7315250e = Tvoj Mozilla račun je korišten za prijavu
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nova prijava na Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Firefox logotip
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Postavi sinkronizaciju Firefoxa
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = Tvoje lozinke, načini plaćanja, adrese, zabilješke
 fxa-headline-3ed2d228 = Sinkronizacija je uključena
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Dodaj još jedan uređaj
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sinkroniziraj svoje lozinke, načine plaćanja, zabilješke i još više gdje god koristiš Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Stvori lozinku
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = Nastavi sa svojim Mozilla računom
 fxa-primaryButtonText-a20eb81e = Registriraj se ili se prijavi
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox logotip
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sinkroniziraj svoje lozinke, načine plaćanja, zabilješke i još više gdje god koristiš Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = Potvrdi svoj račun za prijavu u Firefox
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = Prijavi se ili stvori račun kako bi sve bilo sinkronizirano.
-# Headline for Email First Page
-fxa-headline-a4b1427f = Koristi svoju e-mail adresu za nastavljanje
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla račun
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = Koristi priloženi kod za potvrđivanje tvog Mozilla ra�
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Potvrdi svoj račun za korištenje preglednika Firefox
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Koristi svoj Mozilla račun za sigurnu sinkronizaciju s drugim uređajem.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Nabavi spremljene lozinke gdje god
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Stvori Mozilla račun za sigurnu sinkronizaciju s drugim uređajem.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Potvrdi svoj račun za sinkronizaciju
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = Potvrdi svoj račun za korištenje Mozilla Monitora
 fxa-subject-461a0bbf = Potvrdi svoj račun za korištenje Mozilla Monitora
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Potvrdi svoj račun za korištenje Mozilla Monitora.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Koristi svoj Mozilla račun za sigurnu sinkronizaciju s drugim uređajem.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Nabavi spremljene lozinke gdje god
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Stvori Mozilla račun za sigurnu sinkronizaciju s drugim uređajem.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Potvrdi svoj račun za sinkronizaciju
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

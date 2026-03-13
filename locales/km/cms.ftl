@@ -1,15 +1,13 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-50988cb8 = រក្សាអ្វីៗគ្រប់យ៉ាងឱ្យធ្វើសមកាលកម្ម មិនថាអ្នកមានគណនី Mozilla ឬថ្មីនៅទីនេះទេ។
+fxa-description-34db8966 = ចូល ឬបង្កើតគណនី ដើម្បីរក្សាអ្វីៗគ្រប់យ៉ាង ក្នុងសមកាលកម្ម។
 # Headline for Email First Page
-fxa-headline-7b9deb3b = ចូល ឬបង្កើតគណនី
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = ឡូហ្គោ Firefox
+fxa-headline-a4b1427f = ប្រើប្រាស់អ៊ីមែលរបស់អ្នកដើម្បីបន្ត
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = បន្ត
 # Description for New Device Login Email
@@ -18,6 +16,8 @@ fxa-description-a0671d4a = មានការចូលគណនី Mozilla ថ�
 fxa-headline-7315250e = គណនី Mozilla របស់អ្នកត្រូវបានប្រើដើម្បីចូល
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = ការ​ចូល​ថ្មី​ទៅ Firefox
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = ឡូហ្គោ Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = រៀបចំការធ្វើសមកាលកម្ម Firefox
 # Description for Signin Page
@@ -42,8 +42,6 @@ fxa-description-2115ee89 = ពាក្យសម្ងាត់ វិធីស�
 fxa-headline-3ed2d228 = ការធ្វើសមកាលកម្មត្រូវបានបើក
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = បន្ថែមឧបករណ៍មួយផ្សេងទៀត
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ វិធីសាស្ត្រទូទាត់ ចំណាំ និងច្រើនទៀតរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = បង្កើតពាក្យសម្ងាត់
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +69,8 @@ fxa-headline-33e9f42d = បន្តទៅគណនី Mozilla របស់អ�
 fxa-primaryButtonText-a20eb81e = ចុះឈ្មោះ ឬចូល
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = ឡូហ្គោ Firefox
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ វិធីសាស្ត្រទូទាត់ ចំណាំ និងច្រើនទៀតរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,10 +146,6 @@ fxa-subject-10e5b452 = បញ្ជាក់គណនីរបស់អ្នក
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-34db8966 = ចូល ឬបង្កើតគណនី ដើម្បីរក្សាអ្វីៗគ្រប់យ៉ាង ក្នុងសមកាលកម្ម។
-# Headline for Email First Page
-fxa-headline-a4b1427f = ប្រើប្រាស់អ៊ីមែលរបស់អ្នកដើម្បីបន្ត
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = គណនី Mozilla
 
@@ -243,6 +239,17 @@ fxa-headline-f8578b7c = ប្រើលេខកូដដែលភ្ជាប�
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើកម្មវិធីរុករក Firefox
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = ប្រើគណនី Mozilla របស់អ្នកដើម្បីធ្វើសមកាលកម្មដោយសុវត្ថិភាពទៅឧបករណ៍ផ្សេងទៀត។
+# Headline for Email First Page
+fxa-headline-0ec7d798 = ទទួលបានពាក្យសម្ងាត់ដែលបានរក្សាទុកគ្រប់ទីកន្លែង
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = បង្កើតគណនី Mozilla ដើម្បីធ្វើសមកាលកម្ម ដោយសុវត្ថិភាពទៅឧបករណ៍ផ្សេងទៀត។
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = បញ្ជាក់គណនីរបស់អ្នក ដើម្បីធ្វើសមកាលកម្ម
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -275,17 +282,6 @@ fxa-headline-461a0bbf = បញ្ជាក់គណនីរបស់អ្ន�
 fxa-subject-461a0bbf = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើ Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = បញ្ជាក់គណនីរបស់អ្នកដើម្បីប្រើ Mozilla Monitor
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = ប្រើគណនី Mozilla របស់អ្នកដើម្បីធ្វើសមកាលកម្មដោយសុវត្ថិភាពទៅឧបករណ៍ផ្សេងទៀត។
-# Headline for Email First Page
-fxa-headline-0ec7d798 = ទទួលបានពាក្យសម្ងាត់ដែលបានរក្សាទុកគ្រប់ទីកន្លែង
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = បង្កើតគណនី Mozilla ដើម្បីធ្វើសមកាលកម្ម ដោយសុវត្ថិភាពទៅឧបករណ៍ផ្សេងទៀត។
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = បញ្ជាក់គណនីរបស់អ្នក ដើម្បីធ្វើសមកាលកម្ម
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 

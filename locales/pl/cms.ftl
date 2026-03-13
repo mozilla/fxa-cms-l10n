@@ -1,15 +1,11 @@
-### Generated on 2026-02-27T21:52:29.800Z
+### Generated on 2026-03-12T22:51:42.347Z
 ### FTL file for CMS localization
 
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Description for Email First Page
-fxa-description-50988cb8 = Synchronizuj wszystkie dane, niezależnie od tego, czy posiadasz konto Mozilli, czy jesteś nowym użytkownikiem.
 # Headline for Email First Page
-fxa-headline-7b9deb3b = Zaloguj się lub utwórz konto
-# Logo Alt Text for Email First Page
-fxa-logoAltText-96e4284e = Logo Firefoksa
+fxa-headline-a4b1427f = Użyj swojego e-maila, aby kontynuować
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Kontynuuj
 # Description for New Device Login Email
@@ -18,6 +14,8 @@ fxa-description-a0671d4a = Nastąpiło nowe logowanie na Twoje konto Mozilli:
 fxa-headline-7315250e = Twoje konto Mozilli zostało użyte do zalogowania
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nowe logowanie do Firefoksa
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo Firefoksa
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Skonfiguruj synchronizację Firefoksa
 # Description for Signin Page
@@ -42,8 +40,6 @@ fxa-description-2115ee89 = Twoje hasła, metody płatności, adresy, zakładki, 
 fxa-headline-3ed2d228 = Synchronizacja jest włączona
 # Primary Button Text for Signup Confirmed Sync Page
 fxa-primaryButtonText-598649e6 = Dodaj następne urządzenie
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i inne dane wszędzie tam, gdzie używasz Firefoksa.
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Utwórz hasło
 # Primary Button Text for Signup Set Password Page
@@ -71,6 +67,8 @@ fxa-headline-33e9f42d = Przejdź do konta Mozilli
 fxa-primaryButtonText-a20eb81e = Zarejestruj się lub zaloguj
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo Firefoksa
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i inne dane wszędzie tam, gdzie używasz Firefoksa.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -146,8 +144,6 @@ fxa-subject-10e5b452 = Potwierdź swoje konto, aby zalogować się do przegląda
 
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 
-# Headline for Email First Page
-fxa-headline-a4b1427f = Użyj swojego e-maila, aby kontynuować
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Konto Mozilli
 
@@ -241,6 +237,17 @@ fxa-headline-f8578b7c = Użyj dołączonego kodu, aby potwierdzić konto Mozilli
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki Firefox
 
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Użyj konta Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Zabierz swoje hasła wszędzie
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Utwórz konto Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Potwierdź swoje konto, aby je zsynchronizować
+
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
 # Description for Email First Page
@@ -273,17 +280,6 @@ fxa-headline-461a0bbf = Potwierdź swoje konto, aby korzystać z Mozilla Monito
 fxa-subject-461a0bbf = Potwierdź swoje konto, aby korzystać z Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Potwierdź swoje konto, aby korzystać z Mozilla Monitor.
-
-## l10n-6 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Użyj konta Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Zabierz swoje hasła wszędzie
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Utwórz konto Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Potwierdź swoje konto, aby je zsynchronizować
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
