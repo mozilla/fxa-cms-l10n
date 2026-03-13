@@ -140,8 +140,6 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 ## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
-# Logo Alt Text for Shared
-fxa-logoAltText-64ceab91 = firefox logo
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 # Description for Email First Page
