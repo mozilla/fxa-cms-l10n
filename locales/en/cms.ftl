@@ -14,8 +14,6 @@ fxa-description-a0671d4a = There was a new sign-in to your Mozilla account:
 fxa-headline-7315250e = Your Mozilla account was used to sign in
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = New sign-in to Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox logo
 # Page Title for Shared
@@ -150,8 +148,6 @@ fxa-logoAltText-64ceab91 = firefox logo
 fxa-description-edee250c = Sign in to sync with your Mozilla account. If you don’t have one, it only takes a sec to create it.
 # Headline for Email First Page
 fxa-headline-73fe011e = Sign in or create a Mozilla account
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
@@ -172,8 +168,6 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox will try sending you back to 
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
