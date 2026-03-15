@@ -163,7 +163,7 @@ fxa-logoAltText-c4b14a5b = skákající liška
 # Description for Email First Page
 fxa-description-607e9f0f = E-maily zaslané na vaše masky budou přeposlány na tuto adresu.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Zaregistrujte se nebo se přihlaste a chraňte svou e-mailovou schránku před spamem
+fxa-headline-30fd7c55 = Zaregistrujte se nebo se přihlaste a chraňte svou e-mailovou schránku před nevyžádanou poštou
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = e-mailová maska
 # Page Title for Email First Page
