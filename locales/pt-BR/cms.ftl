@@ -163,15 +163,15 @@ fxa-logoAltText-c4b14a5b = salto da raposa
 # Description for Email First Page
 fxa-description-607e9f0f = Emails enviados para suas máscaras serão encaminhados para este endereço.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Cadastre-se ou entre para proteger sua caixa de entrada de spam
+fxa-headline-30fd7c55 = Cadastre-se ou entre na sua conta para proteger sua caixa de entrada de spam
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = máscara de email
 # Page Title for Email First Page
-fxa-pageTitle-8e453cea = Proteja sua caixa de entrada contra spam | contas Mozilla
+fxa-pageTitle-8e453cea = Proteja sua caixa de entrada contra spam | Contas Mozilla
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Sua conta foi usada para entrar
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = O Firefox tentará enviar você de volta para usar uma máscara de email após você entrar.
+fxa-additionalAccessibilityInfo-5deba5d1 = Após entrar na conta, o Firefox tentará retornar para a página original para você usar uma máscara de email.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
