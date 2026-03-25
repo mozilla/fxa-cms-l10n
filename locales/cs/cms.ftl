@@ -152,7 +152,7 @@ fxa-pageTitle-001bb150 = Účet Mozilla
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-edee250c = Přihlaste se k synchronizaci pomocí svého účtu Mozilla. Pokud žádné nemáte, jeho vytvoření trvá jenom sekundu.
+fxa-description-edee250c = Přihlaste se a synchronizujte data se svým účtem Mozilla. Pokud ještě žádný nemáte, jeho založení vám zabere jen chvilku.
 # Headline for Email First Page
 fxa-headline-73fe011e = Přihlaste se nebo si vytvořte účet Mozilla
 # Logo Alt Text for Signup Set Password Page
@@ -171,7 +171,7 @@ fxa-pageTitle-8e453cea = Chraňte svou e-mailovou schránku před nevyžádanou 
 # Headline for New Device Login Email
 fxa-headline-db70c503 = Na přihlášení byl použit váš účet
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Firefox se vás poté, co se přihlásíte, pokusí poslat e-mailovou masku.
+fxa-additionalAccessibilityInfo-5deba5d1 = Po přihlášení se Firefox pokusí přesměrovat vás zpět na stránku s maskováním e-mailové adresy.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -181,13 +181,13 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Přihlaste se a chraňte svou e-mailovou schránku před nevyžádanou poštou
 # Description for Signup Set Password Page
-fxa-description-e45e7923 = Tímto vytvoříte váš účet Mozilla, abyste mohli používat a spravovat e-mailové masky.
+fxa-description-e45e7923 = Tímto krokem si vytvoříte účet Mozilla, abyste mohli používat a spravovat e-mailové masky.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Nastavte si heslo pro ochranu své e-mailové schránky před nevyžádanou poštou
 # Description for Verify Login Code Email
-fxa-description-1048eab0 = Zabezpečte svůj účet schválením přihlášení pomocí autorizačního kódu níže.
+fxa-description-1048eab0 = Zajistěte bezpečnost svého účtu tím, že přihlášení potvrdíte pomocí níže uvedeného autorizačního kódu.
 # Description for Verify Short Code Email
-fxa-description-e5134d5c = Pro dokončení nastavení účtu použijte potvrzovací kód níže.
+fxa-description-e5134d5c = Pomocí níže uvedeného potvrzovacího kódu dokončete nastavení svého účtu.
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = Pro používání e-mailových masek potvrďte svůj účet
 # Subject for Verify Short Code Email
@@ -198,7 +198,7 @@ fxa-subject-2322b41f = Pro používání e-mailových masek potvrďte svůj úč
 # Headline for Email First Page
 fxa-headline-21296b0d = Aktivujte vestavěnou VPN pomocí účtu Mozilla
 # Description for New Device Login Email
-fxa-description-6c54afca = Jste téměř připraveni zlepšit soukromí svého prohlížeče.
+fxa-description-6c54afca = Už vám zbývá jen kousek k tomu, abyste zvýšili úroveň ochrany soukromí ve svém prohlížeči.
 # Headline for New Device Login Email
 fxa-headline-8b338d52 = Pro přihlášení do Firefoxu byl použit váš účet Mozilla
 # Subject for New Device Login Email
