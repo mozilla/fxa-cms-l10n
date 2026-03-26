@@ -200,9 +200,9 @@ fxa-headline-21296b0d = Aktivujte vestavěnou VPN pomocí účtu Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Už vám zbývá jen kousek k tomu, abyste zvýšili úroveň ochrany soukromí ve svém prohlížeči.
 # Headline for New Device Login Email
-fxa-headline-8b338d52 = Pro přihlášení do Firefoxu byl použit váš účet Mozilla
+fxa-headline-8b338d52 = K přihlášení do prohlížeče Firefox byl použit váš účet Mozilla
 # Subject for New Device Login Email
-fxa-subject-9627bd4a = Potvrďte svůj účet pro používání vestavěné VPN ve Firefoxu
+fxa-subject-9627bd4a = Ověřte svůj účet, abyste mohli využívat integrovanou VPN v prohlížeči Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -212,11 +212,11 @@ fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomozte nám udržet váš účet v bezpečí tím, že schválíte své přihlášení na zařízení:
 # Headline for Verify Login Code Email
-fxa-headline-b9c2e03a = Přihlásili jste se do Firefoxu pomocí svého účtu Mozilla?
+fxa-headline-b9c2e03a = Přihlásili jste se do prohlížeče Firefox pomocí svého účtu Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Schválit přihlášení do Mozilly
 # Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Potvrďte svůj účet pro používání vestavěné VPN ve Firefoxu
+fxa-headline-9627bd4a = Ověřte svůj účet, abyste mohli využívat integrovanou VPN v prohlížeči Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
