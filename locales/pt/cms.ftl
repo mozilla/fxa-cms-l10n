@@ -37,7 +37,7 @@ fxa-description-da2a8a91 = Ajude-nos a garantir que é você que está a criar u
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Iniciar sincronização
 # Description for Signup Confirmed Sync Page
-fxa-description-2115ee89 = As suas palavras-passe, métodos de pagamento, endereços, marcadores, histórico e muito mais podem ser sincronizados em qualquer lugar que utilize o Firefox.
+fxa-description-2115ee89 = As suas palavras-passe, métodos de pagamento, endereços, marcadores, histórico e muito mais podem ser sincronizados em todos os dispositivos em que utiliza o Firefox.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-3ed2d228 = A sincronização está ativada
 # Primary Button Text for Signup Confirmed Sync Page
@@ -70,7 +70,7 @@ fxa-primaryButtonText-a20eb81e = Criar conta ou iniciar sessão
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logótipo do Firefox
 # Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincronize as suas palavras-passe, métodos de pagamento, marcadores e muito mais em qualquer sítio em que utilize o Firefox.
+fxa-description-201c6fe1 = Sincronize as suas palavras-passe, métodos de pagamento, marcadores e muito mais onde quer que utilize o Firefox.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
