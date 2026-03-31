@@ -23,17 +23,17 @@ fxa-pageTitle-ffd8275e = Configurar a sincronização do Firefox
 # Description for Signin Page
 fxa-description-aedac88d = Sincronize palavras-passe e muito mais em todos os lugares em que estiver autenticado.
 # Headline for Signin Page
-fxa-headline-e8d28194 = Introduza a palavra-passe
+fxa-headline-e8d28194 = Introduza a sua palavra-passe
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Iniciar sessão
 # Description for Signin Token Code Page
-fxa-description-8e3fb023 = Ajude-nos a confirmar que é você que está a iniciar sessão.
+fxa-description-8e3fb023 = Ajude-nos a garantir que é você que está a iniciar a sessão.
 # Headline for Signin Token Code Page
-fxa-headline-d076f12b = Inserir código de confirmação
+fxa-headline-d076f12b = Insira o código de confirmação
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Confirmar
 # Description for Signup Confirm Code Page
-fxa-description-da2a8a91 = Ajude-nos a ter a certeza que é você ao criar uma conta.
+fxa-description-da2a8a91 = Ajude-nos a garantir que é você que está a criar uma conta.
 # Primary Button Text for Signup Confirm Code Page
 fxa-primaryButtonText-e4029ca4 = Iniciar sincronização
 # Description for Signup Confirmed Sync Page
@@ -62,7 +62,7 @@ fxa-subject-ef1fb997 = Confirmar a sua conta
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
 # Description for Email First Page
-fxa-description-4ac18cac = Sincronize as suas palavras-passe, separadores, marcadores, e muito mais em qualquer sítio em que utilize o Firefox.
+fxa-description-4ac18cac = Sincronize as suas palavras-passe, separadores e marcadores onde quer que utilize o Firefox.
 # Headline for Email First Page
 fxa-headline-33e9f42d = Continuar para a sua conta Mozilla
 # Primary Button Text for Email First Page
