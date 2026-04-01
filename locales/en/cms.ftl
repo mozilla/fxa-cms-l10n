@@ -1,4 +1,4 @@
-### Generated on 2026-03-27T20:10:07.598Z
+### Generated on 2026-04-01T21:26:05.584Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -139,15 +139,13 @@ fxa-headline-ef1fb997 = Confirm your account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
-## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla account
-
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 # Description for Email First Page
 fxa-description-edee250c = Sign in to sync with your Mozilla account. If you don’t have one, it only takes a sec to create it.
 # Headline for Email First Page
 fxa-headline-73fe011e = Sign in or create a Mozilla account
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla account
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
