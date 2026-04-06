@@ -183,7 +183,7 @@ fxa-pageTitle-d38aa094 = Cadastre-se para proteger sua caixa de entrada contra s
 # Description for Signup Set Password Page
 fxa-description-e45e7923 = Crie sua conta Mozilla para poder usar e gerenciar máscaras de email.
 # Page Title for Signup Set Password Page
-fxa-pageTitle-64718864 = Crie uma senha para proteger sua caixa de entrada de spam
+fxa-pageTitle-64718864 = Crie uma senha para proteger sua caixa de entrada contra spam
 # Description for Verify Login Code Email
 fxa-description-1048eab0 = Mantenha sua conta segura aprovando seu acesso com o código de autorização abaixo.
 # Description for Verify Short Code Email
