@@ -198,11 +198,11 @@ fxa-subject-2322b41f = Confirme sua conta para usar máscaras de email
 # Headline for Email First Page
 fxa-headline-21296b0d = Ative sua VPN integrada com uma conta Mozilla
 # Description for New Device Login Email
-fxa-description-6c54afca = Você está quase pronto para aumentar a privacidade do seu navegador.
+fxa-description-6c54afca = Você está quase pronto para reforçar a privacidade do seu navegador.
 # Headline for New Device Login Email
 fxa-headline-8b338d52 = Sua conta Mozilla foi usada para entrar no Firefox
 # Subject for New Device Login Email
-fxa-subject-9627bd4a = Confirme sua conta para usar a VPN integrada do Firefox
+fxa-subject-9627bd4a = Confirme sua conta para usar a VPN integrada ao Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
