@@ -5,7 +5,7 @@
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
 # Description for Email First Page
-fxa-description-34db8966 = Entre ou crie uma conta para manter tudo sincronizado.
+fxa-description-34db8966 = Entre na sua conta ou crie uma para manter tudo sincronizado.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Use seu email para continuar
 # Primary Button Text for Email First Page
@@ -152,7 +152,7 @@ fxa-pageTitle-001bb150 = Conta Mozilla
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
-fxa-description-edee250c = Entre para sincronizar com sua conta Mozilla. Se você não tiver um, leva apenas um segundo para criar.
+fxa-description-edee250c = Entre para sincronizar com sua conta Mozilla. Se você não tiver, leva apenas um segundo para criar.
 # Headline for Email First Page
 fxa-headline-73fe011e = Entrar ou criar uma conta Mozilla
 # Logo Alt Text for Signup Set Password Page
@@ -161,7 +161,7 @@ fxa-logoAltText-c4b14a5b = salto da raposa
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
-fxa-description-607e9f0f = Emails enviados para suas máscaras serão encaminhados para este endereço.
+fxa-description-607e9f0f = Emails enviados para suas máscaras são encaminhados para este endereço.
 # Headline for Email First Page
 fxa-headline-30fd7c55 = Cadastre-se ou entre na sua conta para proteger sua caixa de entrada de spam
 # Logo Alt Text for Email First Page
@@ -179,9 +179,9 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
-fxa-pageTitle-d38aa094 = Cadastre-se para proteger sua caixa de entrada de spam
+fxa-pageTitle-d38aa094 = Cadastre-se para proteger sua caixa de entrada contra spam
 # Description for Signup Set Password Page
-fxa-description-e45e7923 = Crie sua conta Mozilla para que você possa usar e gerenciar máscaras de email.
+fxa-description-e45e7923 = Crie sua conta Mozilla para poder usar e gerenciar máscaras de email.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Crie uma senha para proteger sua caixa de entrada de spam
 # Description for Verify Login Code Email
@@ -214,9 +214,9 @@ fxa-description-6bc52850 = Ajude-nos a manter sua conta segura aprovando seu ace
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Você entrou no Firefox com sua conta Mozilla?
 # Subject for Verify Login Code Email
-fxa-subject-72eba5e0 = Aprovar acesso à Mozilla
+fxa-subject-72eba5e0 = Aprovar acesso à conta Mozilla
 # Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Confirme sua conta para usar a VPN integrada do Firefox
+fxa-headline-9627bd4a = Confirme sua conta para usar a VPN integrada ao Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
