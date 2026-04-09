@@ -10,3 +10,9 @@ fxa-description-4ac18cac = Sincronisescha tes pleds-clav, tabs e segnapaginas da
 fxa-headline-33e9f42d = Vinavant tar tes conto Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Sa registrar u s’annunziar
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
