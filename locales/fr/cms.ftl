@@ -181,6 +181,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Connectez-vous pour protéger votre boîte de réception du courrier indésirable
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Inscrivez-vous pour protéger votre boîte de réception du spam
 # Description for Signup Set Password Page
