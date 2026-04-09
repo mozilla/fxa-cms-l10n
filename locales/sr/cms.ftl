@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -144,17 +144,14 @@ fxa-headline-ef1fb997 = Потврдите свој налог
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Потврдите свој налог да бисте се пријавили на Firefox
 
-## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
-
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla налог
-
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
 fxa-description-edee250c = Пријавите се да бисте се ускладили са својим Mozilla налогом. Ако га немате, потребно је само пар секунди да га направите.
 # Headline for Email First Page
 fxa-headline-73fe011e = Пријавите се или направите Mozilla налог
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla налог
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = лисица скаче
 

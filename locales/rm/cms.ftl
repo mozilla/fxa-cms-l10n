@@ -1,6 +1,11 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
+
+## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
+
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 
 ## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
 
@@ -10,9 +15,13 @@ fxa-description-4ac18cac = Sincronisescha tes pleds-clav, tabs e segnapaginas da
 fxa-headline-33e9f42d = Vinavant tar tes conto Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Sa registrar u s’annunziar
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
+
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+
+## l10n-18 - Firefox Desktop - Relay Integration
+
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px

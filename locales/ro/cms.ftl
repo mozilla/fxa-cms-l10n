@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -16,6 +16,8 @@ fxa-description-a0671d4a = Am depistat o autentificare nouă în contul tău Moz
 fxa-headline-7315250e = Contul tău Mozilla a fost folosit pentru autentificare
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Autentificare nouă în Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Logo Firefox
 # Page Title for Shared
@@ -144,17 +146,16 @@ fxa-headline-ef1fb997 = Confirmă-ți contul
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirmă-ți contul pentru autentificare în Firefox
 
-## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
-
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Cont Mozilla
-
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
 fxa-description-edee250c = Intră în cont ca să te sincronizezi cu contul Mozilla. Dacă nu ai cont, îți poți face unul într-o secundă.
 # Headline for Email First Page
 fxa-headline-73fe011e = Intră în cont sau fă-ți un cont Mozilla
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Cont Mozilla
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = salt
 
@@ -176,6 +177,8 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox va încerca să te trimită �
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
@@ -303,9 +306,3 @@ fxa-logoAltText-164ffc49 = sincronizare
 
 # Label for Terms
 fxa-label-14c5faa0 = Servicii de abonare Mozilla
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

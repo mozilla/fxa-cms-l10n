@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -8,6 +8,8 @@
 fxa-primaryButtonText-a0bfb8e5 = Kemmel
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Tuqqna niḍen ɣer Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Alugu n Firefox
 # Headline for Signin Page
@@ -58,10 +60,17 @@ fxa-headline-7e0aff4a = Sbadu awal-ik⋅im n uɛeddi
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Sentem amiḍan-ik⋅im
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -82,9 +91,3 @@ fxa-emailLogoAltText-ccc1a61b = Alugu n Mozilla Monitor
 fxa-logoAltText-ccc1a61b = Alugu n Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Sbadu Mozilla Monitor
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

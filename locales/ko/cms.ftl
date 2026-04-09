@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -16,6 +16,8 @@ fxa-description-a0671d4a = Mozilla 계정에 새로 로그인했습니다:
 fxa-headline-7315250e = 로그인에 귀하의 Mozilla 계정이 사용되었습니다.
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Firefox에 새롭게 로그인하기
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox 로고
 # Page Title for Shared
@@ -144,17 +146,16 @@ fxa-headline-ef1fb997 = 계정 확인
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox에 로그인하기 위해 계정을 확인하세요.
 
-## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
-
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla 계정
-
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
 fxa-description-edee250c = Mozilla 계정과 동기화하려면 로그인하세요. 계정이 없더라도 몇 초밖에 걸리지 않습니다.
 # Headline for Email First Page
 fxa-headline-73fe011e = Mozilla 계정 생성 또는 로그인
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla 계정
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = Fox jumping
 
@@ -176,6 +177,8 @@ fxa-additionalAccessibilityInfo-5deba5d1 = 로그인 후 이메일 마스크를 
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
@@ -303,9 +306,3 @@ fxa-logoAltText-164ffc49 = Fox sync
 
 # Label for Terms
 fxa-label-14c5faa0 = Mozilla 구독 서비스
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

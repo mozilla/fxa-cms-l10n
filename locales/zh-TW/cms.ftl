@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -16,6 +16,8 @@ fxa-description-a0671d4a = 您的 Mozilla 帳號有筆新的登入紀錄：
 fxa-headline-7315250e = 您的 Mozilla 帳號已用於登入
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = 新登入至 Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox 圖示
 # Page Title for Shared
@@ -144,17 +146,16 @@ fxa-headline-ef1fb997 = 確認您的帳號
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
 
-## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
-
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla 帳號
-
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
 fxa-description-edee250c = 登入後即可使用您的 Mozilla 帳號同步。若您還沒有帳號，只要花幾秒鐘即可註冊一組。
 # Headline for Email First Page
 fxa-headline-73fe011e = 登入或註冊 Mozilla 帳號
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla 帳號
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = 狐狸在跳躍
 
@@ -176,6 +177,8 @@ fxa-additionalAccessibilityInfo-5deba5d1 = 登入後，Firefox 將帶您回到�
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
@@ -303,9 +306,3 @@ fxa-logoAltText-164ffc49 = 狐狸在同步
 
 # Label for Terms
 fxa-label-14c5faa0 = Mozilla 訂閱服務
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -8,6 +8,8 @@
 fxa-primaryButtonText-a0bfb8e5 = Titikïr chik el
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = K'ak'a' rutikirisaxik molojri'ïl pa Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox wachib'äl
 # Headline for Signin Page
@@ -38,6 +40,16 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Tajikib'a' rub'i' ataqoya'l
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -46,9 +58,3 @@ fxa-description-0a9e868b = K'ak'a' rutikirisaxik molojri'ïl pa Firefox
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Tajikib'a' rub'i' ataqoya'l
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

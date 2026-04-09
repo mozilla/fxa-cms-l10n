@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -12,6 +12,8 @@ fxa-description-a0671d4a = У ваш уліковы запіс Mozilla быў в
 fxa-headline-7315250e = Ваш уліковы запіс Mozilla быў выкарыстаны для ўваходу
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Новы ўваход у Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Лагатып Firefox
 # Headline for Signin Page
@@ -65,10 +67,17 @@ fxa-primaryButtonText-be11c74c = Пачаць
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 
+## l10n-17 - Firefox Desktop Sync - Avatar Menu
+
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -78,9 +87,3 @@ fxa-emailFromName-502f1bd9 = Mozilla
 fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Пацвердзіце свой уліковы запіс
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

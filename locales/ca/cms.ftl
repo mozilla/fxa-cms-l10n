@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -12,6 +12,8 @@ fxa-description-a0671d4a = Hi ha hagut un inici de sessió nou al vostre compte 
 fxa-headline-7315250e = S'ha utilitzat el vostre compte de Mozilla per a iniciar la sessió
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Inici de sessió nou al Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Logotip del Firefox
 # Page Title for Shared
@@ -84,6 +86,8 @@ fxa-subject-10e5b452 = Confirmeu el vostre compte per iniciar la sessió al Fire
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = guineu que salta
 
@@ -91,6 +95,8 @@ fxa-logoAltText-c4b14a5b = guineu que salta
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-19 - VPN (Settings)
 
@@ -129,9 +135,3 @@ fxa-description-ab270ce7 = Inicieu la sessió al compte de Mozilla per utilitzar
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = guineu que sincronitza
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

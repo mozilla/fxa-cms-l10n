@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -14,6 +14,8 @@ fxa-description-a0671d4a = Der var et nyt login på din Mozilla-konto:
 fxa-headline-7315250e = Din Mozilla-konto blev brugt til at logge ind
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Nyt login på Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox-logo
 # Page Title for Shared
@@ -142,15 +144,14 @@ fxa-headline-ef1fb997 = Bekræft din konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Bekræft din konto for at logge ind på Firefox
 
-## l10n-16 - Firefox Desktop Sync - App Menu (Hamburger)
-
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla-konto
-
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
 # Description for Email First Page
 fxa-description-edee250c = Log ind for at synkronisere med din Mozilla-konto. Hvis du ikke har en konto, tager det kun et øjeblik at oprette en.
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-konto
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ræv springer
 
@@ -172,6 +173,8 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox vil forsøge at sende dig til
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page
@@ -293,9 +296,3 @@ fxa-logoAltText-164ffc49 = ræv synkroniserer
 
 # Label for Terms
 fxa-label-14c5faa0 = Mozillas abonnementstjenester
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

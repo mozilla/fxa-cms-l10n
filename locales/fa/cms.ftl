@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -12,6 +12,8 @@ fxa-description-a0671d4a = یک ورود جدید به حساب کاربری Moz
 fxa-headline-7315250e = از حساب کاربری Mozilla شما برای ورود استفاده شده است
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = ورود جدید به Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = نشان‌واره Firefox
 # Page Title for Shared
@@ -142,6 +144,8 @@ fxa-subject-10e5b452 = برای ورود به Firefox حساب کاربری خو
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox در حال جستن
 
@@ -149,6 +153,8 @@ fxa-logoAltText-c4b14a5b = fox در حال جستن
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-19 - VPN (Settings)
 
@@ -235,9 +241,3 @@ fxa-description-811350a6 = یک مرحله دیگر تا بهره‌مندی ا�
 fxa-description-861f2d28 = از گذرواژه‌ها، زبانه‌ها و نشانک‌های خود پشتیبان‌گیری کنید تا برای دستگاه جدید آماده باشید.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = همگام‌سازی fox
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

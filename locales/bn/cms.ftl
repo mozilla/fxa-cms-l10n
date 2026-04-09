@@ -1,4 +1,4 @@
-### Generated on 2026-03-12T22:51:42.347Z
+### Generated on 2026-04-08T19:08:09.466Z
 ### FTL file for CMS localization
 
 
@@ -12,6 +12,8 @@ fxa-description-a0671d4a = আপনার Mozilla অ্যাকাউন্�
 fxa-headline-7315250e = আপনার Mozilla অ্যাকাউন্ট সাইন ইন করার জন্য ব্যবহার করা হয়েছে
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Firefox এ নতুন সাইন-ইন
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox লোগো
 # Page Title for Shared
@@ -140,6 +142,8 @@ fxa-subject-10e5b452 = Firefox এ সাইন ইন করতে আপনা
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = ফক্স লাফাচ্ছে
 
@@ -147,6 +151,8 @@ fxa-logoAltText-c4b14a5b = ফক্স লাফাচ্ছে
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-19 - VPN (Settings)
 
@@ -227,9 +233,3 @@ fxa-description-811350a6 = Firefox VPN-এর সুবিধা পেতে �
 fxa-description-861f2d28 = আপনার পাসওয়ার্ড, ট্যাব এবং বুকমার্ক ব্যাকআপ করুন যাতে আপনি নতুন ডিভাইসের জন্য প্রস্তুত থাকেন।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ফক্স সিঙ্ক করছে
-# Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
