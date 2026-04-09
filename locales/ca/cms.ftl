@@ -129,3 +129,9 @@ fxa-description-ab270ce7 = Inicieu la sessió al compte de Mozilla per utilitzar
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = guineu que sincronitza
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px

@@ -46,3 +46,9 @@ fxa-description-0a9e868b = K'ak'a' rutikirisaxik molojri'ïl pa Firefox
 fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Tajikib'a' rub'i' ataqoya'l
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px

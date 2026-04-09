@@ -303,3 +303,9 @@ fxa-logoAltText-164ffc49 = synchronizacija z lišku
 
 # Label for Terms
 fxa-label-14c5faa0 = Abonementne słužby Mozilla
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
