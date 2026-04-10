@@ -1,4 +1,4 @@
-### Generated on 2026-04-08T19:08:09.466Z
+### Generated on 2026-04-10T20:05:48.221Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -190,8 +190,10 @@ fxa-headline-2322b41f = Confirm your account to use email masks
 fxa-subject-2322b41f = Confirm your account to use email masks
 
 ## l10n-19 - VPN (Settings)
+# Description for Email First Page
+fxa-description-0b19b103 = Use your Mozilla account to unlock VPN features like hiding your location.
 # Headline for Email First Page
-fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
+fxa-headline-b5af0708 = Activate Firefox's built-in VPN for extra privacy and protection
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
 # Headline for New Device Login Email
@@ -202,6 +204,8 @@ fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Continue with your Mozilla account to unlock VPN features like hiding your location.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
 # Description for Verify Login Code Email
@@ -232,6 +236,10 @@ fxa-description-ef1fb997 = Confirm your account
 fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
+
+## l10n-20 - VPN (Panel)
+# Headline for Email First Page
+fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
 
 ## l10n-22 - Firefox Desktop - Password Manager
 # Description for Email First Page
