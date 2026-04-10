@@ -1,4 +1,4 @@
-### Generated on 2026-04-08T19:08:09.466Z
+### Generated on 2026-04-10T20:40:19.158Z
 ### FTL file for CMS localization
 
 
@@ -198,8 +198,6 @@ fxa-subject-2322b41f = Xác mih tài khoản của bạn để sử dụng email
 
 ## l10n-19 - VPN (Settings)
 
-# Headline for Email First Page
-fxa-headline-21296b0d = Kích hoạt VPN tích hợp sẵn bằng tài khoản Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Bạn gần như đã sẵn sàng để tăng cường quyền riêng tư cho trình duyệt của mình.
 # Headline for New Device Login Email

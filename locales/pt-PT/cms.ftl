@@ -1,4 +1,4 @@
-### Generated on 2026-04-08T19:08:09.466Z
+### Generated on 2026-04-10T20:40:19.158Z
 ### FTL file for CMS localization
 
 
@@ -200,8 +200,6 @@ fxa-subject-2322b41f = Confirmar a sua conta para utilizar máscaras de e-mail
 
 ## l10n-19 - VPN (Settings)
 
-# Headline for Email First Page
-fxa-headline-21296b0d = Ative a sua VPN integrada com uma conta Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Está quase pronto para melhorar a privacidade do seu navegador.
 # Headline for New Device Login Email

@@ -1,4 +1,4 @@
-### Generated on 2026-04-08T19:08:09.466Z
+### Generated on 2026-04-10T20:40:19.158Z
 ### FTL file for CMS localization
 
 
@@ -200,8 +200,6 @@ fxa-subject-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 
 ## l10n-19 - VPN (Settings)
 
-# Headline for Email First Page
-fxa-headline-21296b0d = Aktifkan VPN bawaan Anda dengan akun Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Anda hampir siap untuk meningkatkan privasi peramban Anda.
 # Headline for New Device Login Email

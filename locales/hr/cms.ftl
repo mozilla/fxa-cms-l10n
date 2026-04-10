@@ -1,4 +1,4 @@
-### Generated on 2026-04-08T19:08:09.466Z
+### Generated on 2026-04-10T20:40:19.158Z
 ### FTL file for CMS localization
 
 
@@ -198,8 +198,6 @@ fxa-subject-2322b41f = Potvrdi svoj račun za korištenje maski e-mail adrese
 
 ## l10n-19 - VPN (Settings)
 
-# Headline for Email First Page
-fxa-headline-21296b0d = Aktiviraj ugrađeni VPN s Mozilla računom
 # Description for New Device Login Email
 fxa-description-6c54afca = Gotovo si spreman/na poboljšati privatnost tvog preglednika.
 # Headline for New Device Login Email
