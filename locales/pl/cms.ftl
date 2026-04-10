@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adres
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Użyj konta Mozilli, aby odblokować funkcje VPN, takie jak ukrywanie swojej lokalizacji.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktywuj wbudowany w Firefoksie VPN, aby zapewnić sobie dodatkową prywatność i ochronę
 # Description for New Device Login Email
 fxa-description-6c54afca = Twoja przeglądarka jest już prawie gotowa do zwiększenia poziomu prywatności.
 # Headline for New Device Login Email
