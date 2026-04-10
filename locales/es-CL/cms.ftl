@@ -181,8 +181,10 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Conéctate para proteger tu bandeja de entrada del spam
 # Page Title for Signup Confirm Code Page
-fxa-pageTitle-d38aa094 = Conéctate para proteger tu bandeja de entrada del spam
+fxa-pageTitle-d38aa094 = Regístrate para proteger tu bandeja de entrada del spam
 # Description for Signup Set Password Page
 fxa-description-e45e7923 = Esto crea tu cuenta Mozilla para que puedas usar y administrar máscaras de correo electrónico.
 # Page Title for Signup Set Password Page
