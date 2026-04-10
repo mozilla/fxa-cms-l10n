@@ -16,6 +16,8 @@ fxa-description-a0671d4a = Дошло је до нове пријаве на в�
 fxa-headline-7315250e = Ваш Mozilla налог је коришћен за пријаву
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Нова пријава на Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox логотип
 # Page Title for Shared
@@ -152,6 +154,8 @@ fxa-description-edee250c = Пријавите се да бисте се ускл
 fxa-headline-73fe011e = Пријавите се или направите Mozilla налог
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla налог
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = лисица скаче
 
@@ -173,8 +177,12 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox ће покушати да в
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Пријавите се да бисте заштитили пријемно сандуче од непожељне поште
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Пријавите се да заштитите своје пријемно сандуче од непожељних порука
 # Description for Signup Set Password Page
