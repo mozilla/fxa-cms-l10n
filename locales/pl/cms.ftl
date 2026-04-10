@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Zaloguj się lub utwórz konto, aby mieć wszystko zsynchronizowane.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Użyj swojego e-maila, aby kontynuować
 # Primary Button Text for Email First Page
@@ -179,6 +181,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Zaloguj się, aby chronić swoją skrzynkę odbiorczą przed spamem
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Zarejestruj się, aby chronić swoją skrzynkę odbiorczą przed spamem
 # Description for Signup Set Password Page
