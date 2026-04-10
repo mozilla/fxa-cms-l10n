@@ -182,7 +182,7 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
-fxa-headline-7631d75e = 로그인하여 스팸으로부터 받은 편지함을 보호하세요
+fxa-headline-7631d75e = 로그인하여 스팸으로부터 받은 편지함을 보호하세요.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = 가입하여 스팸으로부터 받은 편지함을 보호하세요
 # Description for Signup Set Password Page
