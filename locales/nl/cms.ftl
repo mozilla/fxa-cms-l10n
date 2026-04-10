@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Bevestig uw account om e-mailmaskers te gebruiken
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Gebruik uw Mozilla-account om VPN-functies te ontgrendelen, zoals het verbergen van uw locatie.
+# Headline for Email First Page
+fxa-headline-785c79ef = Activeer Firefox’ ingebouwde VPN voor extra privacy en bescherming
 # Description for New Device Login Email
 fxa-description-6c54afca = U bent bijna klaar om de privacy van uw browser een boost te geven.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Bevestig uw account om de ingebouwde VPN van Firefox te g
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Ga verder met uw Mozilla-account om VPN-functies te ontgrendelen, zoals het verbergen van uw locatie.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registreren voor een account
 # Description for Verify Login Code Email

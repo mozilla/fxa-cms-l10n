@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Conferma il tuo account per utilizzare gli alias di posta
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Utilizza il tuo account Mozilla per sbloccare funzionalità VPN come nascondere la tua posizione.
+# Headline for Email First Page
+fxa-headline-785c79ef = Attiva la VPN integrata in Firefox per una maggiore privacy e protezione
 # Description for New Device Login Email
 fxa-description-6c54afca = Sei quasi pronto per migliorare la privacy del tuo browser.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Conferma il tuo account per utilizzare la VPN integrata i
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Continua con il tuo account Mozilla per sbloccare funzionalità VPN come nascondere la tua posizione.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Crea un account
 # Description for Verify Login Code Email

@@ -200,6 +200,10 @@ fxa-subject-2322b41f = 确认您的账户以使用马甲邮箱
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = 使用 Mozilla 账户解锁隐藏位置等 VPN 功能。
+# Headline for Email First Page
+fxa-headline-785c79ef = 激活 Firefox 内置的 VPN 获得额外隐私和保护
 # Description for New Device Login Email
 fxa-description-6c54afca = 几乎所有准备好增强浏览器的隐私保护了。
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = 确认您的账户以使用 Firefox 内置的 VPN
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = 使用您的 Mozilla 账户继续解锁 VPN 功能例如隐藏您的位置。
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 注册账户
 # Description for Verify Login Code Email

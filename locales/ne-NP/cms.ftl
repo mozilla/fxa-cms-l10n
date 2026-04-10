@@ -200,6 +200,10 @@ fxa-subject-2322b41f = इमेल मास्क प्रयोग गर्
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = आफ्नो स्थान लुकाउने जस्ता VPN सुविधाहरू अनलक गर्न आफ्नो मोजिला खाता प्रयोग गर्नुहोस्।
+# Headline for Email First Page
+fxa-headline-785c79ef = थप गोपनीयता र सुरक्षाको लागि Firefox को निर्मित VPN सक्रिय गर्नुहोस्
 # Description for New Device Login Email
 fxa-description-6c54afca = तपाईं आफ्नो ब्राउजरको गोपनीयता बढाउन लगभग तयार हुनुहुन्छ।
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Firefox को बिल्ट-इन VPN प्रयो
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = आफ्नो स्थान लुकाउने जस्ता VPN सुविधाहरू अनलक गर्न आफ्नो मोजिला खातासँग जारी राख्नुहोस्।
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = मोजिला - खाताको लागि साइन अप गर्नुहोस्
 # Description for Verify Login Code Email

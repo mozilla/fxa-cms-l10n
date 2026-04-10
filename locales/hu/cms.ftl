@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatáho
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Használja Mozilla-fiókját a VPN funkcióinak kinyitására, például a tartózkodási helyének elrejtésére.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktiválja a Firefox beépített VPN-jét a fokozott adatvédelem és védelem érdekében
 # Description for New Device Login Email
 fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Folytassa a Mozilla-fiókjával, hogy feloldja a VPN-funkciókat, például a tartózkodási helyének elrejtését.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Regisztráljon egy fiókot
 # Description for Verify Login Code Email

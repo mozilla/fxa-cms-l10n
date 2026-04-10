@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Bestätigen Sie Ihr Konto, um E-Mail-Masken zu verwenden
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Verwenden Sie Ihr Mozilla-Konto, um VPN-Funktionen wie das Verbergen Ihres Standorts freizuschalten.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktiviere das integrierte VPN von Firefox für mehr Privatsphäre und Schutz
 # Description for New Device Login Email
 fxa-description-6c54afca = Sie sind fast soweit, die Privatsphäre Ihres Browsers zu erhöhen.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Bestätigen Sie Ihr Konto, um das integrierte VPN von Fir
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Fahren Sie mit Ihrem Mozilla-Konto fort, um VPN-Funktionen wie das Verstecken Ihres Standorts freizuschalten.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Erstellen Sie ein Konto
 # Description for Verify Login Code Email

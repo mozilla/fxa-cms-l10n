@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Confirmez votre compte pour utiliser des alias de message
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Utilisez votre compte Mozilla pour débloquer des fonctionnalités VPN comme masquer votre localisation.
+# Headline for Email First Page
+fxa-headline-785c79ef = Activez le VPN intégré de Firefox pour plus de confidentialité et de protection
 # Description for New Device Login Email
 fxa-description-6c54afca = Vous êtes presque prêt·e à renforcer la vie privée de votre navigateur.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré à 
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Continuez avec votre compte Mozilla pour déverrouiller des fonctionnalités VPN telles que le masquage de votre localisation.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Créer un compte
 # Description for Verify Login Code Email

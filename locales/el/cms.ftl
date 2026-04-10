@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Επιβεβαιώστε τον λογαριασμό σα
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Χρησιμοποιήστε τον λογαριασμό Mozilla σας για να ξεκλειδώσετε λειτουργίες του VPN, όπως η απόκρυψη της τοποθεσίας σας.
+# Headline for Email First Page
+fxa-headline-785c79ef = Ενεργοποιήστε το ενσωματωμένο VPN του Firefox για επιπλέον απόρρητο και προστασία
 # Description for New Device Login Email
 fxa-description-6c54afca = Όλα είναι σχεδόν έτοιμα για να ενισχύσετε το απόρρητο του προγράμματος περιήγησής σας.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Επιβεβαιώστε τον λογαριασμό σα
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Συνεχίστε με τον λογαριασμό Mozilla σας για να ξεκλειδώσετε λειτουργίες του VPN, όπως η απόκρυψη της τοποθεσίας σας.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Δημιουργία λογαριασμού
 # Description for Verify Login Code Email
