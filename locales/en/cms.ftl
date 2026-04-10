@@ -1,4 +1,4 @@
-### Generated on 2026-04-10T20:37:40.058Z
+### Generated on 2026-04-10T20:40:19.158Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -193,7 +193,7 @@ fxa-subject-2322b41f = Confirm your account to use email masks
 # Description for Email First Page
 fxa-description-0b19b103 = Use your Mozilla account to unlock VPN features like hiding your location.
 # Headline for Email First Page
-fxa-headline-b5af0708 = Activate Firefox's built-in VPN for extra privacy and protection
+fxa-headline-785c79ef = Activate Firefox’s built-in VPN for extra privacy and protection
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
 # Headline for New Device Login Email
@@ -236,10 +236,6 @@ fxa-description-ef1fb997 = Confirm your account
 fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
-
-## l10n-20 - VPN (Panel)
-# Headline for Email First Page
-fxa-headline-785c79ef = Activate Firefox’s built-in VPN for extra privacy and protection
 
 ## l10n-22 - Firefox Desktop - Password Manager
 # Description for Email First Page
