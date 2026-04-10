@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio arallenwau e-byst
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Defnyddiwch eich cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
+# Headline for Email First Page
+fxa-headline-785c79ef = Ysgogi VPN adeiledig Firefox i gael preifatrwydd ac amddiffyniad ychwanegol
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Parhewch â'ch cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
 # Description for Verify Login Code Email
