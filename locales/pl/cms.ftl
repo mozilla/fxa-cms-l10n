@@ -214,6 +214,8 @@ fxa-subject-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Wykorzystaj konto Mozilli, aby odblokować funkcje VPN, takie jak ukrywanie swojej lokalizacji.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – załóż konto
 # Description for Verify Login Code Email
