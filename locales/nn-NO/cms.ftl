@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Stadfest kontoen din for å bruke e-postalias
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Bruk Mozilla-kontoen din til å låse opp VPN-funksjonar som å skjule plasseringa di.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktiver det innebygde VPN-et i Firefox for ekstra personvern og beskyttelse
 # Description for New Device Login Email
 fxa-description-6c54afca = Du er nesten klar til å gi nettlesaren din eit personvernløft.
 # Headline for New Device Login Email
