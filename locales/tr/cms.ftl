@@ -201,7 +201,7 @@ fxa-subject-2322b41f = E-posta maskelerini kullanmak için hesabınızı onaylay
 ## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
-fxa-description-0b19b103 = Konumunuzu gizleme gibi VPN özelliklerinin kilidini açmak için Mozilla hesabınızı kullanın.
+fxa-description-0b19b103 = Konumunuzu gizleme gibi VPN özelliklerini açmak için Mozilla hesabınızı kullanabilirsiniz.
 # Headline for Email First Page
 fxa-headline-785c79ef = Ekstra gizlilik ve koruma için Firefox’ta yerleşik VPN’i etkinleştirin
 # Description for New Device Login Email
