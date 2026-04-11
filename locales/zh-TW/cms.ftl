@@ -203,7 +203,7 @@ fxa-subject-2322b41f = 確認您的帳號後即可使用轉寄信箱
 # Description for Email First Page
 fxa-description-0b19b103 = 使用您的 Mozilla 帳號來解鎖隱藏您的所在位置等 VPN 功能。
 # Headline for Email First Page
-fxa-headline-785c79ef = 啟用 Firefox 內建的 VPN讓您獲得更多隱私保護
+fxa-headline-785c79ef = 啟用 Firefox 內建的 VPN，讓您獲得更多隱私保護
 # Description for New Device Login Email
 fxa-description-6c54afca = 您快要可以加強瀏覽器的隱私保護了。
 # Headline for New Device Login Email
@@ -215,7 +215,7 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
-fxa-description-1745f244 = 使用您的 Mozilla 帳號繼續即可解鎖隱藏您的所在位置等 VPN 功能。
+fxa-description-1745f244 = 使用您的 Mozilla 帳號繼續，即可解鎖隱藏您的所在位置等 VPN 功能。
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 註冊帳號
 # Description for Verify Login Code Email
