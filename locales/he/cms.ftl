@@ -181,6 +181,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = יש להתחבר כדי להגן על תיבת הדואר שלך מפני דואר זבל
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = יש להירשם כדי להגן על תיבת הדואר שלך מפני דואר זבל
 # Description for Signup Set Password Page
@@ -198,6 +200,10 @@ fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמ�
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = ניתן להשתמש בחשבון ה־Mozilla שלך כדי לאפשר שימוש ביכולות של VPN כגון הסתרת המיקום שלך.
+# Headline for Email First Page
+fxa-headline-785c79ef = ניתן להפעיל את ה־VPN המובנה של Firefox לפרטיות והגנה נוספות
 # Description for New Device Login Email
 fxa-description-6c54afca = כמעט הכל מוכן לשדרוג הפרטיות בדפדפן שלך.
 # Headline for New Device Login Email
@@ -208,6 +214,8 @@ fxa-subject-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המ�
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = ניתן להמשיך עם חשבון ה־Mozilla שלך כדי לאפשר שימוש ביכולות של VPN כגון הסתרת המיקום שלך.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = ‏Mozilla - הרשמה לחשבון
 # Description for Verify Login Code Email
