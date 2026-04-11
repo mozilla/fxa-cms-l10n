@@ -181,6 +181,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Logg inn for å verne innboksen din mot søppelpost (spam)
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Registrer deg for å beskytte innboksen din mot søppelpost (spam)
 # Description for Signup Set Password Page
@@ -208,6 +210,8 @@ fxa-subject-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde 
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Fortset med Mozilla-kontoen din for å låse opp VPN-funksjonar som å skjule plasseringa di.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registrer deg for ein konto
 # Description for Verify Login Code Email
