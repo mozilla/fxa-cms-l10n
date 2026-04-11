@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Potvrďte svoj účet, aby ste mohli používať e‑mail
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Použite svoj účet Mozilla a odomknete funkcie VPN, ako je napríklad skrytie vašej polohy.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktivujte si vstavanú VPN vo Firefoxe a získate väčšie súkromie a ochranu
 # Description for New Device Login Email
 fxa-description-6c54afca = Ste takmer pripravení zvýšiť súkromie vášho prehliadača.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Potvrďte svoj účet, aby ste mohli používať VPN vsta
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Pokračujte so svojím účtom Mozilla a odomknite funkcie VPN, ako je napríklad skrytie vašej polohy.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
 # Description for Verify Login Code Email
