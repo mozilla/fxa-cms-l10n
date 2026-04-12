@@ -182,7 +182,7 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
-fxa-headline-7631d75e = Přihlaste se a chraňte svou doručenou poštu před spamem
+fxa-headline-7631d75e = Přihlaste se a chraňte svou schránku před nevyžádanou poštou
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Přihlaste se a chraňte svou e-mailovou schránku před nevyžádanou poštou
 # Description for Signup Set Password Page
@@ -201,9 +201,9 @@ fxa-subject-2322b41f = Pro používání e-mailových masek potvrďte svůj úč
 ## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
-fxa-description-0b19b103 = Použijte svůj účet Mozilla pro odemčení funkcí VPN, jako je skrytí vaší polohy.
+fxa-description-0b19b103 = Pomocí svého účtu Mozilla si odemkněte funkce VPN, jako je skrytí vaší polohy.
 # Headline for Email First Page
-fxa-headline-785c79ef = Zapněte ve Firefoxu zabudovanou síť VPN pro větší soukromí a ochranu
+fxa-headline-785c79ef = Aktivujte vestavěnou VPN ve Firefoxu a zajistěte si tak větší soukromí a lepší ochranu
 # Description for New Device Login Email
 fxa-description-6c54afca = Už vám zbývá jen kousek k tomu, abyste zvýšili úroveň ochrany soukromí ve svém prohlížeči.
 # Headline for New Device Login Email
@@ -215,7 +215,7 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
-fxa-description-1745f244 = Pokračujte s účtem Mozilla a odemkněte funkce VPN, jako je skrytí vaší polohy.
+fxa-description-1745f244 = Pokračujte pomocí svého účtu Mozilla a odemkněte funkce VPN, jako je skrytí vaší polohy.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
 # Description for Verify Login Code Email
