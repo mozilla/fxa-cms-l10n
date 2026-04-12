@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Wobkšuśćo swójo konto, aby e-mailowe maski wužywał
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Wužywajśo swójo konto Mozilla, aby funkcije VPN kaž chowanje swójogo stojnišća zmóžnił.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktiwěrujśo zatwarjony VPN Firefox za pśidatnu priwatnosć a pśidatny šćit
 # Description for New Device Login Email
 fxa-description-6c54afca = Sćo pśisamem gótowy, aby priwatnosć swójogo wobglědowaka pówušył.
 # Headline for New Device Login Email
@@ -210,6 +214,8 @@ fxa-subject-9627bd4a = Wobkšuśćo swójo konto, aby zatwarjony VPN Firefox wu�
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Pókšacujśo ze swójim kontom Mozilla, aby funkcije VPN kaž chowanje swójogo stojnišća zmóžnił.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – registrěrujśo se za konto
 # Description for Verify Login Code Email
