@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Kirjaudu sisään tai luo tili pitääksesi kaiken synkronoituna.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Käytä sähköpostiosoitettasi jatkaaksesi
 # Primary Button Text for Email First Page
@@ -179,6 +181,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Kirjaudu sisään suojataksesi postilaatikkosi roskapostilta
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Rekisteröidy suojataksesi postilaatikkosi roskapostilta
 # Description for Signup Set Password Page
@@ -196,6 +200,10 @@ fxa-subject-2322b41f = Vahvista tilisi käyttääksesi sähköpostimaskeja
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Käytä Mozilla-tiliäsi avataksesi VPN-ominaisuuksia, kuten sijaintisi piilottamisen.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktivoi Firefoxin sisäänrakennettu VPN saadaksesi lisää yksityisyyttä ja suojausta
 # Description for New Device Login Email
 fxa-description-6c54afca = Olet melkein valmis tehostaaksesi selaimesi yksityisyyttä.
 # Headline for New Device Login Email
@@ -206,6 +214,8 @@ fxa-subject-9627bd4a = Vahvista tilisi käyttääksesi Firefoxin sisäänrakenne
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Jatka Mozilla-tililläsi avataksesi VPN-ominaisuuksia, kuten sijainnin piilottamisen.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Rekisteröi tili
 # Description for Verify Login Code Email
