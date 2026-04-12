@@ -181,6 +181,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Prijavi se i zaštiti svoju dolaznu poštu od neželjene pošte
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Registriraj se, te zaštiti svoj sandučić dolazne pošte od neželjene pošte
 # Description for Signup Set Password Page
@@ -198,6 +200,8 @@ fxa-subject-2322b41f = Potvrdi svoj račun za korištenje maski e-mail adrese
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Koristi svoj Mozilla račun za otključavanje VPN funkcija poput skrivanja lokacije.
 # Description for New Device Login Email
 fxa-description-6c54afca = Gotovo si spreman/na poboljšati privatnost tvog preglednika.
 # Headline for New Device Login Email
