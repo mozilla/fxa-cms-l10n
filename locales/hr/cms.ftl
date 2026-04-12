@@ -202,6 +202,8 @@ fxa-subject-2322b41f = Potvrdi svoj račun za korištenje maski e-mail adrese
 
 # Description for Email First Page
 fxa-description-0b19b103 = Koristi svoj Mozilla račun za otključavanje VPN funkcija poput skrivanja lokacije.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktiviraj Firefoxov ugrađeni VPN za dodatnu privatnost i zaštitu
 # Description for New Device Login Email
 fxa-description-6c54afca = Gotovo si spreman/na poboljšati privatnost tvog preglednika.
 # Headline for New Device Login Email
@@ -212,6 +214,8 @@ fxa-subject-9627bd4a = Potvrdi svoj račun za korištenje ugrađenog VPN-a Firef
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Nastavi sa svojim Mozilla računom za otključavanje VPN funkcija poput skrivanja lokacije.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registriraj se za račun
 # Description for Verify Login Code Email
