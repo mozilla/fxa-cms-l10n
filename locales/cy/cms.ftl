@@ -182,7 +182,7 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
-fxa-headline-7631d75e = Mewngofnodwch i amddiffyn eich mewnflwch rhag sbam
+fxa-headline-7631d75e = Mewngofnodwch i ddiogelu eich blwch derbyn rhag sbam
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Cofrestrwch i ddiogelu eich blwch derbyn rhag sbam
 # Description for Signup Set Password Page
@@ -203,7 +203,7 @@ fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio arallenwau e-byst
 # Description for Email First Page
 fxa-description-0b19b103 = Defnyddiwch eich cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
 # Headline for Email First Page
-fxa-headline-785c79ef = Ysgogi VPN adeiledig Firefox i gael preifatrwydd ac amddiffyniad ychwanegol
+fxa-headline-785c79ef = Cychwynnwch y VPN mewnol yn Firefox i gael preifatrwydd a diogelwch ychwanegol
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
 # Headline for New Device Login Email
