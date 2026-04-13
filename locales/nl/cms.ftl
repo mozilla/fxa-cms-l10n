@@ -203,7 +203,7 @@ fxa-subject-2322b41f = Bevestig uw account om e-mailmaskers te gebruiken
 # Description for Email First Page
 fxa-description-0b19b103 = Gebruik uw Mozilla-account om VPN-functies te ontgrendelen, zoals het verbergen van uw locatie.
 # Headline for Email First Page
-fxa-headline-785c79ef = Activeer Firefox’ ingebouwde VPN voor extra privacy en bescherming
+fxa-headline-785c79ef = Activeer de ingebouwde VPN van Firefox voor extra privacy en bescherming
 # Description for New Device Login Email
 fxa-description-6c54afca = U bent bijna klaar om de privacy van uw browser een boost te geven.
 # Headline for New Device Login Email
