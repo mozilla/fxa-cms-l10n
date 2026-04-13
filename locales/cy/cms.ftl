@@ -215,7 +215,7 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
-fxa-description-1745f244 = Parhewch â'ch cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
+fxa-description-1745f244 = Ymlaen i'ch cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
 # Description for Verify Login Code Email
