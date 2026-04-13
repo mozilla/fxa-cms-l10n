@@ -201,9 +201,9 @@ fxa-subject-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatáho
 ## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
-fxa-description-0b19b103 = Használja Mozilla-fiókját a VPN funkcióinak kinyitására, például a tartózkodási helyének elrejtésére.
+fxa-description-0b19b103 = Használja Mozilla-fiókját, hogy feloldja a VPN-funkciókat, például a tartózkodási helyének elrejtését.
 # Headline for Email First Page
-fxa-headline-785c79ef = Aktiválja a Firefox beépített VPN-jét a fokozott adatvédelem és védelem érdekében
+fxa-headline-785c79ef = Aktiválja a Firefox beépített VPN-jét a fokozott adatvédelem és biztonság érdekében
 # Description for New Device Login Email
 fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
 # Headline for New Device Login Email

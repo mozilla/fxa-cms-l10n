@@ -214,6 +214,8 @@ fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’ap
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Eiporu Mozilla ejokua’o hag̃ua upe VPN rembiapoite ikatúva ne rendaite ñemokañy.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Eñemboheraguapy ereko hag̃ua mba’ete
 # Description for Verify Login Code Email
