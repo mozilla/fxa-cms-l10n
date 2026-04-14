@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Bekräfta ditt konto för att använda webbläsaren Firef
 fxa-description-78fd76ac = Använd ditt Mozilla-konto för att säkert synkronisera till en annan enhet.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Få sparade lösenord överallt
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Skapa ett Mozilla-konto för att säkert synkronisera till en annan enhet.
 # Subject for Verify Short Code Email

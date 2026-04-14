@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Wobkšuśćo swójo konto, aby wobglědowak Firefox wužy
 fxa-description-78fd76ac = Wužywajśo swójo konto Mozilla, aby z drugim rědom wěsće synchronizěrował.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Wzejśo swóje skłaźone gronidła wšuźi sobu
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Napórajśo konto Mozilla, aby z drugim rědom wěsće synchronizěrował.
 # Subject for Verify Short Code Email

@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki F
 fxa-description-78fd76ac = Użyj konta Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Zabierz swoje hasła wszędzie
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Utwórz konto Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
 # Subject for Verify Short Code Email

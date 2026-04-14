@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = 确认您的账户以使用 Firefox 浏览器
 fxa-description-78fd76ac = 使用您的 Mozilla 账户，与其他设备安全同步。
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 随时随地获取已保存的密码
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = 创建 Mozilla 账户，与其他设备安全同步。
 # Subject for Verify Short Code Email

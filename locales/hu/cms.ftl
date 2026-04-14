@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Erősítse meg fiókját a Firefox böngésző használat
 fxa-description-78fd76ac = Használja Mozilla-fiókját, hogy biztonságosan szinkronizáljon egy másik eszközre.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Mentett jelszavak mindenhol
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Hozzon létre egy Mozilla-fiókot, hogy biztonságosan szinkronizáljon egy másik eszközre.
 # Subject for Verify Short Code Email

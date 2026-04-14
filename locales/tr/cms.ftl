@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Firefox tarayıcısını kullanmak için hesabınızı on
 fxa-description-78fd76ac = Başka bir cihazla güvenli bir şekilde eşitleme yapmak için Mozilla hesabınızı kullanın.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Kayıtlı parolalarınızı yanınızda taşıyın
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Başka bir cihazla güvenli bir şekilde eşitleme yapmak için Mozilla hesabı açın.
 # Subject for Verify Short Code Email

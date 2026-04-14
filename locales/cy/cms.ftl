@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Cadarnhewch eich cyfrif i ddefnyddio Porwr Firefox
 fxa-description-78fd76ac = Defnyddiwch eich cyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Cael cyfrineiriau sydd wedi'u cadw ym mhobman
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Crëwch gyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
 # Subject for Verify Short Code Email

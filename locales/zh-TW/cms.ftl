@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = 確認您的帳號即可使用 Firefox 瀏覽器
 fxa-description-78fd76ac = 使用您的 Mozilla 帳號即可安全地同步到另一台裝置。
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 隨時隨地使用儲存的密碼
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = 註冊 Mozilla 帳號即可安全地同步到另一台裝置。
 # Subject for Verify Short Code Email

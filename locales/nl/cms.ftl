@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Bevestig uw account om Firefox Browser te gebruiken
 fxa-description-78fd76ac = Gebruik uw Mozilla-account om veilig met een ander apparaat te synchroniseren.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Haal uw opgeslagen wachtwoorden overal op
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Maak een Mozilla-account aan om veilig met een ander apparaat te synchroniseren.
 # Subject for Verify Short Code Email

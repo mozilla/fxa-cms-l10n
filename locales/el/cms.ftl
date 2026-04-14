@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Επιβεβαιώστε τον λογαριασμό σα
 fxa-description-78fd76ac = Χρησιμοποιήστε τον λογαριασμό Mozilla σας για ασφαλή συγχρονισμό με άλλη συσκευή.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Αποκτήστε πρόσβαση στους αποθηκευμένους σας κωδικούς πρόσβασης από παντού
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Δημιουργήστε έναν λογαριασμό Mozilla για ασφαλή συγχρονισμό με άλλες συσκευές.
 # Subject for Verify Short Code Email

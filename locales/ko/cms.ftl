@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Firefox 브라우저를 사용하기 위해 계정을 확
 fxa-description-78fd76ac = Mozilla 계정을 사용하여 다른 기기와 안전하게 동기화하세요.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = 어디에서나 저장된 비밀번호 받기
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = 다른 기기와 안전하게 동기화하려면 Mozilla 계정을 만드세요.
 # Subject for Verify Short Code Email

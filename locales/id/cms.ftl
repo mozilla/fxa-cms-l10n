@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Konfirmasikan akun Anda untuk menggunakan Peramban Firefo
 fxa-description-78fd76ac = Gunakan akun Mozilla Anda untuk menyinkronkan dengan aman ke perangkat lain.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Dapatkan sandi tersimpan di mana saja
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Buat akun Mozilla untuk menyinkronkan ke perangkat lain dengan aman.
 # Subject for Verify Short Code Email

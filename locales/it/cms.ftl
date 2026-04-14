@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Conferma il tuo account per utilizzare Firefox
 fxa-description-78fd76ac = Utilizza il tuo account Mozilla per sincronizzare in modo sicuro con un altro dispositivo.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Accedi ovunque alle password salvate
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Crea un account Mozilla per sincronizzare in modo sicuro con un altro dispositivo.
 # Subject for Verify Short Code Email
