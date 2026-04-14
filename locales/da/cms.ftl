@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Log ind eller opret en konto for at holde alt synkroniseret.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Brug din mailadresse for at fortsætte
 # Primary Button Text for Email First Page
@@ -148,6 +150,8 @@ fxa-subject-10e5b452 = Bekræft din konto for at logge ind på Firefox
 
 # Description for Email First Page
 fxa-description-edee250c = Log ind for at synkronisere med din Mozilla-konto. Hvis du ikke har en konto, tager det kun et øjeblik at oprette en.
+# Headline for Email First Page
+fxa-headline-73fe011e = Log ind eller opret en Mozilla-konto
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-konto
 # Headline Font Size for Shared
@@ -177,6 +181,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Log ind for at beskytte din indbakke mod spam
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Tilmeld dig for at beskytte din indbakke mod spam
 # Description for Signup Set Password Page
@@ -194,18 +200,30 @@ fxa-subject-2322b41f = Bekræft din konto for at bruge mail-masker
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Brug din Mozilla-konto for at få adgang til VPN-funktioner som fx at skjule din placering.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktivér Firefox' indbyggede VPN for ekstra privatliv og beskyttelse
 # Description for New Device Login Email
 fxa-description-6c54afca = Nu er din browser snart klar til at beskytte dit privatliv endnu bedre.
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Din Mozilla-konto blev brugt til at logge ind på Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Bekræft din konto for at bruge Firefox' indbyggede VPN
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Fortsæt med din Mozilla-konto for at få adgang til VPN-funktioner som fx at skjule din placering.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Opret en konto
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hold din konto sikker ved at bekræfte dit login på:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Har du logget ind på Firefox med din Mozilla-konto?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Godkend login til Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Bekræft din konto for at bruge Firefox' indbyggede VPN
 
