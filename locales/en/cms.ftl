@@ -1,4 +1,4 @@
-### Generated on 2026-04-10T20:40:19.158Z
+### Generated on 2026-04-13T20:27:30.679Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -242,6 +242,8 @@ fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
 fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Get saved passwords everywhere
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Create a Mozilla account to securely sync to another device.
 # Subject for Verify Short Code Email
