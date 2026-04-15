@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Firefox браузерін пайдалану үшін т
 fxa-description-78fd76ac = Басқа құрылғымен қауіпсіз синхрондау үшін Mozilla тіркелгіңізді пайдаланыңыз.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Сақталған парольдеріңізді кез келген жерде алыңыз
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Басқа құрылғымен қауіпсіз синхрондау үшін Mozilla тіркелгісін жасаңыз.
 # Subject for Verify Short Code Email
