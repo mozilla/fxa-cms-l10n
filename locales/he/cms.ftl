@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = אימות החשבון שלך לשימוש בדפדפן 
 fxa-description-78fd76ac = יש להשתמש בחשבון ה־Mozilla שלך כדי לסנכרן באופן מאובטח עם מכשיר אחר.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = קבלת הססמאות השמורות בכל מקום
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = יש ליצור חשבון Mozilla כדי לסנכרן באופן מאובטח עם מכשיר אחר.
 # Subject for Verify Short Code Email
