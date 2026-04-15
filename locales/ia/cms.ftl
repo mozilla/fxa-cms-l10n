@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Confirma tu conto pro usar le navigator Firefox
 fxa-description-78fd76ac = Usa tu conto Mozilla a con securitate synchronisa a un altere apparato.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Obtener contrasignos reservate ubique
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Crea un conto Mozilla pro con securitate synchronisar a un altere apparato.
 # Subject for Verify Short Code Email
