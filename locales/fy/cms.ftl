@@ -201,7 +201,7 @@ fxa-subject-2322b41f = Befêstigje jo account om e-mailmaskers te brûken
 ## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
-fxa-description-0b19b103 = Brûk jo Mozilla-account om VPN-funksjes te ûntskoateljen, lykas it ferbergjen fan jo lokaasje.
+fxa-description-0b19b103 = Brûk jo Mozilla-account om VPN-funksjes te ûntskoatteljen, lykas it ferbergjen fan jo lokaasje.
 # Headline for Email First Page
 fxa-headline-785c79ef = Aktivearje de ynboude VPN fan Firefox foar ekstra privacy en beskerming
 # Description for New Device Login Email
@@ -214,6 +214,8 @@ fxa-subject-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te b
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Gean troch mei jo Mozilla-account om VPN-funksjes te ûntskoatteljen, lykas it ferbergjen fan jo lokaasje.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registrearje foar in account
 # Description for Verify Login Code Email
@@ -252,6 +254,8 @@ fxa-subject-f3d09e03 = Befêstigje jo account om Firefox-browser te brûken
 fxa-description-78fd76ac = Brûk jo Mozilla-account om feilich te syngronisearjen mei in oar apparaat.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Haw oeral jo bewarre wachtwurden beskikber
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Meitsje in Mozilla-account oan om feilich te syngronisearjen mei in oar apparaat.
 # Subject for Verify Short Code Email
