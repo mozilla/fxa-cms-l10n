@@ -200,6 +200,10 @@ fxa-subject-2322b41f = Befêstigje jo account om e-mailmaskers te brûken
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Brûk jo Mozilla-account om VPN-funksjes te ûntskoateljen, lykas it ferbergjen fan jo lokaasje.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktivearje de ynboude VPN fan Firefox foar ekstra privacy en beskerming
 # Description for New Device Login Email
 fxa-description-6c54afca = Jo binne hast klear om de privacy fan jo browser te ferbetterjen.
 # Headline for New Device Login Email
