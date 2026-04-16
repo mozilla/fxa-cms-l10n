@@ -181,6 +181,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Đăng nhập để bảo vệ hộp thư đến của bạn khỏi thư rác
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Đăng ký để bảo vệ hộp thư đến của bạn khỏi thư rác
 # Description for Signup Set Password Page
@@ -198,6 +200,10 @@ fxa-subject-2322b41f = Xác mih tài khoản của bạn để sử dụng email
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Sử dụng tài khoản Mozilla của bạn để mở khoá các tính năng VPN, chẳng hạn như ẩn vị trí của bạn.
+# Headline for Email First Page
+fxa-headline-785c79ef = Kích hoạt VPN tích hợp sẵn của Firefox để tăng cường quyền riêng tư và bảo mật.
 # Description for New Device Login Email
 fxa-description-6c54afca = Bạn gần như đã sẵn sàng để tăng cường quyền riêng tư cho trình duyệt của mình.
 # Headline for New Device Login Email
@@ -208,6 +214,8 @@ fxa-subject-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN 
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Tiếp tục với tài khoản Mozilla của bạn để mở khoá các tính năng VPN như ẩn vị trí.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Đăng ký tài khoản
 # Description for Verify Login Code Email
@@ -246,6 +254,8 @@ fxa-subject-f3d09e03 = Xác minh tài khoản của bạn để sử dụng Trì
 fxa-description-78fd76ac = Sử dụng tài khoản Mozilla của bạn để đồng bộ hóa an toàn với thiết bị khác.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Lấy mật khẩu đã lưu ở mọi nơi
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Tạo tài khoản Mozilla để đồng bộ hóa an toàn với thiết bị khác.
 # Subject for Verify Short Code Email
