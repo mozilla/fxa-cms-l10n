@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = Hapni internetin me Mozilla-n
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Ripohoni llogarinë tuaj
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Njëkohësoni fjalëkalimet, skedat dhe faqerojtësit tuaj, kudo që përdorni Firefox-in.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Vazhdoni te llogaria juaj Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Hyni ose regjistrohuni
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Stemë Firefox-i
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Njëkohësoni fjalëkalimet tuaja, metoda pagesash, faqerojtës, etj, kudo që përdorni Firefox-in.
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = Fillojani
 fxa-headline-d0511570 = Llogaria juaj Mozilla u përdor për të bërë hyrje.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Stemë Firefox-i
 # Description for Signin Page
 fxa-description-5649263e = Që të kopjeruani në këtë pajisje, hyni në llogari.
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = Që të bëhet njëkohësim, ripohoni llogarinë tuaj Moz
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = Njëkohësoni fjalëkalimet, skedat dhe faqerojtësit tuaj, kudo që përdorni Firefox-in.
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Që të fillojë njëkohësimi, jepni email
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Hyni ose regjistrohuni
 # Headline for Signin Page
 fxa-headline-c2b34227 = Që të fillojë njëkohësimi, jepni fjalëkalim
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Njëkohësoni fjalëkalimet tuaja, metoda pagesash, faqerojtës, etj, kudo që përdorni Firefox-in.
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Që të fillojë njëkohësimi, krijoni një fjalëkalim
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = Përfundoni ujdisjen e njëkohësimeve
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Vazhdoni te llogaria juaj Mozilla
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Mbron fjalëkalimet, faqerojtësit dhe të dhëna Firefox të njëkohësuara me fshehtëzim, kudo ku keni bërë hyrjen në llogari.
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = Ripohoni llogarinë tuaj
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tuaj
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = Që të bëhet njëkohësimi me llogarinë tuaj Mozillam bëni hyrjen. Nëse s’keni të tillë, duhet vetëm një sekondë për ta krijuar.
-# Headline for Email First Page
-fxa-headline-73fe011e = Bëni hyrjen, ose krijoni një llogari  Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Llogari Mozilla
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = fox jumping
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Që të mbroni email-in tuaj nga mesazhe të padëshiruar, regjistrohuni.
 # Description for Signup Set Password Page
@@ -198,6 +184,8 @@ fxa-subject-2322b41f = Që të përdorni maska email, ripohoni llogarinë tuaj
 
 ## l10n-19 - VPN (Settings)
 
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Llogari Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Jeni thuajse gati të përforconi privatësinë e shfletuesit tuaj.
 # Headline for New Device Login Email
@@ -299,6 +287,11 @@ fxa-description-811350a6 = Edhe një që të merrni përfitimet nga Firefox VPN.
 fxa-description-861f2d28 = Kopjeruani fjalëkalimet, skedat dhe faqerojtësit tuaj, që të jeni gati për në një pajisje të re.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = njëkohësim firefox
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = fox jumping
 
 ## legal-notice-label-subs-services - CMS Entry
 

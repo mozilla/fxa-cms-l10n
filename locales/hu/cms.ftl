@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = Nyissa ki az internetet a Mozillával
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Fiók jóváhagyása
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Szinkronizálja jelszavait, lapjait és könyvjelzőit mindenütt, ahol csak Firefoxot használ.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Tovább a Mozilla-fiókjához
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Regisztráljon vagy jelentkezzen be
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Firefox logó
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Szinkronizálja jelszavait, fizetési módjait, könyvjelzőit és egyebeket mindenhol, ahol a Firefoxot használja.
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = Kezdő lépések
 fxa-headline-d0511570 = Bejelentkezéshez használták a Mozilla-fiókját.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox logó
 # Description for Signin Page
 fxa-description-5649263e = Jelentkezzen be az eszköz biztonsági mentéséhez.
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = Erősítse meg a Mozilla-fiókját a szinkronizáláshoz
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = Szinkronizálja jelszavait, lapjait és könyvjelzőit mindenütt, ahol csak Firefoxot használ.
 # Headline for Email First Page
 fxa-headline-b36f2b05 = A szinkronizálás megkezdéséhez adja meg az e-mail-címét
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Regisztráljon vagy jelentkezzen be
 # Headline for Signin Page
 fxa-headline-c2b34227 = Adjon meg egy jelszót a szinkronizálás megkezdéséhez
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Szinkronizálja jelszavait, fizetési módjait, könyvjelzőit és egyebeket mindenhol, ahol a Firefoxot használja.
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Hozzon létre egy jelszót a szinkronizálás megkezdéséhez
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = Szinkronizálás beállításának befejezése
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Tovább a Mozilla-fiókjához
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Titkosítással védi jelszavait, könyvjelzőit és szinkronizált Firefox-adatait mindenhol, ahol be van jelentkezve.
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = Erősítse meg a fiókját
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezéshez
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = Jelentkezzen be a Mozilla-fiókjával történő szinkronizáláshoz. Ha nincs ilyenje, akkor egy pillanat alatt létrehozhat egyet.
-# Headline for Email First Page
-fxa-headline-73fe011e = Jelentkezzen be vagy hozzon létre Mozilla-fiókot
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla-fiók
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = ugró róka
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Jelentkezzen be, hogy megvédje postafiókját a levélszeméttől
 # Page Title for Signup Confirm Code Page
@@ -204,6 +190,8 @@ fxa-subject-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatáho
 fxa-description-0b19b103 = Használja Mozilla-fiókját, hogy feloldja a VPN-funkciókat, például a tartózkodási helyének elrejtését.
 # Headline for Email First Page
 fxa-headline-785c79ef = Aktiválja a Firefox beépített VPN-jét a fokozott adatvédelem és biztonság érdekében
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-fiók
 # Description for New Device Login Email
 fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
 # Headline for New Device Login Email
@@ -309,6 +297,11 @@ fxa-description-811350a6 = Még egy lépés a Firefox VPN előnyeinek megszerzé
 fxa-description-861f2d28 = Készítsen biztonsági mentést a jelszavairól, lapjairól és könyvjelzőiről, hogy készen álljon az új eszköz használatára.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = szinkronizáló róka
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = ugró róka
 
 ## legal-notice-label-subs-services - CMS Entry
 

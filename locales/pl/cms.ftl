@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = Otwórz internet z Mozillą
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Potwierdź konto
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Synchronizuj hasła, karty i zakładki wszędzie tam, gdzie używasz Firefoksa.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Przejdź do konta Mozilli
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Zarejestruj się lub zaloguj
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Logo Firefoksa
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i inne dane wszędzie tam, gdzie używasz Firefoksa.
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = Zacznij teraz
 fxa-headline-d0511570 = Twoje konto Mozilli zostało użyte do zalogowania.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefoksa
 # Description for Signin Page
 fxa-description-5649263e = Zaloguj się, aby wykonać kopię zapasową tego urządzenia.
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = Potwierdź swoje konto Mozilli, aby zsynchronizować dane
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = Synchronizuj hasła, karty i zakładki wszędzie tam, gdzie używasz Firefoksa.
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Wprowadź adres e-mail, aby rozpocząć synchronizację
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Zarejestruj się lub zaloguj
 # Headline for Signin Page
 fxa-headline-c2b34227 = Wpisz hasło, aby rozpocząć synchronizację
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i inne dane wszędzie tam, gdzie używasz Firefoksa.
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Utwórz hasło, aby rozpocząć synchronizację
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = Dokończ konfigurację synchronizacji
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Przejdź do konta Mozilli
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Chroni Twoje hasła, zakładki i zsynchronizowane dane przeglądarki Firefox za pomocą szyfrowania wszędzie tam, gdzie jesteś zalogowany.
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = Potwierdź konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Potwierdź swoje konto, aby zalogować się do przeglądarki Firefox
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = Zaloguj się, aby zsynchronizować swoje konto Mozilli. Jeśli nie masz konta, jego utworzenie zajmie tylko chwilę.
-# Headline for Email First Page
-fxa-headline-73fe011e = Zaloguj się lub utwórz konto Mozilli
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Konto Mozilli
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = skaczący lis
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Zaloguj się, aby chronić swoją skrzynkę odbiorczą przed spamem
 # Page Title for Signup Confirm Code Page
@@ -204,6 +190,8 @@ fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adres
 fxa-description-0b19b103 = Użyj konta Mozilli, aby odblokować funkcje VPN, takie jak ukrywanie swojej lokalizacji.
 # Headline for Email First Page
 fxa-headline-785c79ef = Aktywuj wbudowany w Firefoksie VPN, aby zapewnić sobie dodatkową prywatność i ochronę
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Konto Mozilli
 # Description for New Device Login Email
 fxa-description-6c54afca = Twoja przeglądarka jest już prawie gotowa do zwiększenia poziomu prywatności.
 # Headline for New Device Login Email
@@ -309,6 +297,11 @@ fxa-description-811350a6 = Jeszcze tylko krok do korzystania z zalet Firefox VP
 fxa-description-861f2d28 = Zrób kopię zapasową swoich haseł, kart i zakładek, aby być gotowym na nowe urządzenie.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = Lisowa synchronizacja
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = skaczący lis
 
 ## legal-notice-label-subs-services - CMS Entry
 

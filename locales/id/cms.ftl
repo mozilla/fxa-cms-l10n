@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = Buka internet dengan Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Konfirmasikan akun Anda
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan markah Anda di mana pun Anda menggunakan Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Lanjutkan ke akun Mozilla Anda
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Daftar atau masuk
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Logo Firefox
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sinkronkan kata sandi, metode pembayaran, markah, dan lainnya di mana pun Anda menggunakan Firefox.
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = Memulai
 fxa-headline-d0511570 = Akun Mozilla Anda digunakan untuk masuk.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefox
 # Description for Signin Page
 fxa-description-5649263e = Masuk untuk mencadangkan perangkat ini.
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = Konfirmasikan akun Mozilla Anda untuk menyinkronkan
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan markah Anda di mana pun Anda menggunakan Firefox.
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Masukkan surel untuk mulai menyinkronkan
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Daftar atau masuk
 # Headline for Signin Page
 fxa-headline-c2b34227 = Masukkan sandi untuk mulai menyinkronkan
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sinkronkan kata sandi, metode pembayaran, markah, dan lainnya di mana pun Anda menggunakan Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Buat sandi untuk mulai menyinkronkan
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = Selesaikan penyiapan sinkronisasi
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Lanjutkan ke akun Mozilla Anda
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Lindungi kata sandi, markah, dan data Firefox yang disinkronkan dengan enkripsi di mana pun Anda masuk.
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = Konfirmasikan akun Anda
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Konfirmasi akun Anda untuk masuk ke Firefox
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = Masuk untuk menyinkronkan dengan akun Mozilla Anda. Jika Anda tidak memilikinya, hanya perlu beberapa detik untuk membuatnya.
-# Headline for Email First Page
-fxa-headline-73fe011e = Masuk atau buat akun Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Akun Mozilla
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = rubah melompat
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Masuk untuk melindungi kotak masuk Anda dari spam
 # Page Title for Signup Confirm Code Page
@@ -204,6 +190,8 @@ fxa-subject-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 fxa-description-0b19b103 = Gunakan akun Mozilla Anda untuk membuka fitur VPN seperti menyembunyikan lokasi Anda.
 # Headline for Email First Page
 fxa-headline-785c79ef = Aktifkan VPN bawaan Firefox untuk privasi dan perlindungan ekstra
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Akun Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Anda hampir siap untuk meningkatkan privasi peramban Anda.
 # Headline for New Device Login Email
@@ -309,6 +297,11 @@ fxa-description-811350a6 = Satu langkah lagi untuk mendapatkan manfaat Firefox V
 fxa-description-861f2d28 = Cadangkan kata sandi, tab, dan markah Anda sehingga Anda siap untuk perangkat baru.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sinkronisasi rubah
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = rubah melompat
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -23,32 +23,26 @@ fxa-primaryButtonText-42369faa = Titz'uk rub'i' taqoya'l
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Tajikib'a' rub'i' ataqoya'l
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Firefox wachib'äl
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Titikirisäx
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox wachib'äl
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Tajikib'a' rub'i' ataqoya'l
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

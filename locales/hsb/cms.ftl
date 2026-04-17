@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = Wočińće internet z Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Wobkrućće swoje konto
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Synchronizujće swoje hesła, rajtarki a zapołožki wšudźe, hdźež Firefox wužiwaće.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Dale ke kontu Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Registrować abo přizjewić
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Logo Firefox
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synchronizujće swoje hesła, płaćenske metody, zapołožki a wjace wšudźe, hdźež Firefox wužiwaće.
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = Prěnje kroki
 fxa-headline-d0511570 = Waše konto Mozilla je so za přizjewjenje wužiło
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefox
 # Description for Signin Page
 fxa-description-5649263e = Přizjewće so, zo byšće tutón grat zawěsćił.
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = Wobkrućće swoje konto Mozilla za synchronizaciju
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = Synchronizujće swoje hesła, rajtarki a zapołožki wšudźe, hdźež Firefox wužiwaće.
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Zapodajće e-mejlowu adresu, zo byšće synchronizaciju započał
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Registrować abo přizjewić
 # Headline for Signin Page
 fxa-headline-c2b34227 = Zapodajće hesło, zo byšće synchronizaciju započał
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronizujće swoje hesła, płaćenske metody, zapołožki a wjace wšudźe, hdźež Firefox wužiwaće.
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Wutworće hesło, zo byšće synchronizaciju započał
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = Konfiguraciju synchronizacije dokónčić
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Dale ke kontu Mozilla
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Škita waše hesła, zapołožki a synchronizowane daty Firefox ze zaklučowanjom, wšudźe, hdźež sće přizjewjeny.
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = Wobkrućće swoje konto
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Wobkrućće swoje konto, zo byšće so pola Firefox přizjewił
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = Přizjewće so za synchronizaciju ze swojim kontom Mozilla. Jeli konto nimaće, traje jenož sekundu, zo byšće jo załožił.
-# Headline for Email First Page
-fxa-headline-73fe011e = Přizjewić abo konto Mozilla załožić
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Konto Mozilla
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = skakaca liška
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Přizjewće so, zo byšće swój póstowy dochad před spamom škitał
 # Page Title for Signup Confirm Code Page
@@ -204,6 +190,8 @@ fxa-subject-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wuži
 fxa-description-0b19b103 = Wužiwajće swoje konto Mozilla, zo byšće funkcije VPN kaž chowanje swojeho stejnišća zmóžnił.
 # Headline for Email First Page
 fxa-headline-785c79ef = Aktiwizujće zatwarjeny VPN Firefox za přidatnu priwatnosć a přidatny škit
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Konto Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Sće nimale hotowy, zo byšće priwatnosć swojeho wobhladowaka powyšił.
 # Headline for New Device Login Email
@@ -309,6 +297,11 @@ fxa-description-811350a6 = Dalši krok za dóstawanje lěpšinow Firefox VPN. P�
 fxa-description-861f2d28 = Zawěsćće swoje hesła, rajtarki a zapołožki, zo byšće za nowy grat hotowy był.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchronizacija z lišku
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = skakaca liška
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = បើកអ៊ីនធឺណិតជាមួយ Mozi
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = បញ្ជាក់គណនីរបស់អ្នក
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
-# Headline for Email First Page
-fxa-headline-33e9f42d = បន្តទៅគណនី Mozilla របស់អ្នក
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = ចុះឈ្មោះ ឬចូល
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = ឡូហ្គោ Firefox
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ វិធីសាស្ត្រទូទាត់ ចំណាំ និងច្រើនទៀតរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = ចាប់ផ្ដើម
 fxa-headline-d0511570 = គណនី Mozilla របស់អ្នកត្រូវបានប្រើដើម្បីចូល។
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = ឡូហ្គោ Firefox
 # Description for Signin Page
 fxa-description-5649263e = ចូលដើម្បីបម្រុងទុកឧបករណ៍នេះ។
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = បញ្ជាក់គណនី Mozilla របស់អ
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
 # Headline for Email First Page
 fxa-headline-b36f2b05 = បញ្ចូលអ៊ីមែលដើម្បីចាប់ផ្តើមធ្វើសមកាលកម្ម
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = ចុះឈ្មោះ ឬចូល
 # Headline for Signin Page
 fxa-headline-c2b34227 = បញ្ចូលពាក្យសម្ងាត់ដើម្បីចាប់ផ្តើមធ្វើសមកាលកម្ម
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ វិធីសាស្ត្រទូទាត់ ចំណាំ និងច្រើនទៀតរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = បង្កើតពាក្យសម្ងាត់ដើម្បីចាប់ផ្តើមធ្វើសមកាលកម្ម
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = បញ្ចប់ការដំឡើងសមកា�
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = បន្តទៅគណនី Mozilla របស់អ្នក
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = ការពារពាក្យសម្ងាត់ ចំណាំ និងទិន្នន័យ Firefox ដែលបានធ្វើសមកាលកម្មរបស់អ្នកជាមួយនឹងការអ៊ិនគ្រីបគ្រប់ទីកន្លែងដែលអ្នកចូល។
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = បញ្ជាក់គណនីរបស់អ្ន�
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = បញ្ជាក់គណនីរបស់អ្នកដើម្បីចូលទៅក្នុង Firefox
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = ចូលដើម្បីធ្វើសមកាលកម្មជាមួយគណនី Mozilla របស់អ្នក។ ប្រសិនបើអ្នកមិនមានទេ វាត្រូវការពេលត្រឹមតែមួយវិនាទីប៉ុណ្ណោះដើម្បីបង្កើតវា។
-# Headline for Email First Page
-fxa-headline-73fe011e = ចូល ឬបង្កើតគណនី Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = គណនី Mozilla
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = កញ្ជ្រោងលោត
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = ចុះឈ្មោះដើម្បីការពារប្រអប់សំបុត្ររបស់អ្នកពីសារឥតបានការ
 # Description for Signup Set Password Page
@@ -198,6 +184,8 @@ fxa-subject-2322b41f = បញ្ជាក់គណនីរបស់អ្នក
 
 ## l10n-19 - VPN (Settings)
 
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = គណនី Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = អ្នកជិតរួចរាល់ហើយក្នុងការបង្កើនភាពឯកជននៃកម្មវិធីរុករកតាមអ៊ីនធឺណិតរបស់អ្នក។
 # Headline for New Device Login Email
@@ -299,6 +287,11 @@ fxa-description-811350a6 = ជំហានមួយទៀតដើម្បី�
 fxa-description-861f2d28 = បម្រុងទុកពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នក ដើម្បីឱ្យអ្នកត្រៀមខ្លួនសម្រាប់ឧបករណ៍ថ្មី។
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ការ​ធ្វើ​សម​កាល​កម្ម​កញ្ជ្រោង
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = កញ្ជ្រោងលោត
 
 ## legal-notice-label-subs-services - CMS Entry
 

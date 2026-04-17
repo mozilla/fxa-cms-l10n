@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -35,21 +35,24 @@ fxa-subject-450ba359 = Sentem anekcum ɣer Firefox
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Sentem amiḍan-ik⋅im
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = Kemmel ɣer umiḍan-ik ⋅im Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Kcem neɣ qqen
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Alugu Firefox
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Bdu
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Alugu Firefox
+
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Kcem neɣ qqen
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Kemmel ɣer umiḍan-ik ⋅im Mozilla
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -60,17 +63,14 @@ fxa-headline-7e0aff4a = Sbadu awal-ik⋅im n uɛeddi
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Sentem amiḍan-ik⋅im
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

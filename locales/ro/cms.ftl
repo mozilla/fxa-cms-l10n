@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = Intră pe internet cu Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirmă-ți contul
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Sincronizează-ți parolele, filele și marcajele oriunde folosești Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Continuă către contul tău Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Fă-ți un cont sau intră în cont
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Logo Firefox
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincronizează-ți parolele, metodele de plată, marcajele și multe altele oriunde folosești Firefox.
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = Începe
 fxa-headline-d0511570 = Contul tău Mozilla a fost folosit pentru conectare.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefox
 # Description for Signin Page
 fxa-description-5649263e = Intră în cont ca să faci o copie de rezervă de pe acest dispozitiv.
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = Confirmă-ți contul Mozilla ca să sincronizezi
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = Sincronizează-ți parolele, filele și marcajele oriunde folosești Firefox.
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Introdu adresa de e-mail pentru a începe sincronizarea
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Fă-ți un cont sau intră în cont
 # Headline for Signin Page
 fxa-headline-c2b34227 = Introdu parola pentru a începe sincronizarea
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sincronizează-ți parolele, metodele de plată, marcajele și multe altele oriunde folosești Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Creează o parolă pentru a începe sincronizarea
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = Finalizează configurarea sincronizării
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continuă către contul tău Mozilla
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Protejează-ți cu criptare parolele, marcajele și datele Firefox sincronizate oriunde ești autentificat(ă).
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = Confirmă-ți contul
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirmă-ți contul pentru autentificare în Firefox
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = Intră în cont ca să te sincronizezi cu contul Mozilla. Dacă nu ai cont, îți poți face unul într-o secundă.
-# Headline for Email First Page
-fxa-headline-73fe011e = Intră în cont sau fă-ți un cont Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Cont Mozilla
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = salt
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Fă-ți un cont ca să-ți protejezi căsuța poștală de spam
 # Description for Signup Set Password Page
@@ -198,6 +184,8 @@ fxa-subject-2322b41f = Confirmă-ți contul ca să folosești măști de e-mail
 
 ## l10n-19 - VPN (Settings)
 
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Cont Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Ești aproape gata să îmbunătățești confidențialitatea browserului.
 # Headline for New Device Login Email
@@ -299,6 +287,11 @@ fxa-description-811350a6 = Încă un pas pentru a obține beneficiile VPN Firefo
 fxa-description-861f2d28 = Fă-ți copii de rezervă cu parolele, filele și marcajele ca să fii gata să treci pe alt dispozitiv.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronizare
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = salt
 
 ## legal-notice-label-subs-services - CMS Entry
 

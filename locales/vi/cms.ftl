@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = Thế giới Internet với Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Xác minh tài khoản của bạn
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Đồng bộ hóa mật khẩu, thẻ và dấu trang của bạn ở mọi nơi bạn sử dụng Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Tiếp tục với tài khoản Mozilla của bạn
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Đăng ký hoặc đăng nhập
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Logo Firefox
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Đồng bộ hóa mật khẩu, phương thức thanh toán, dấu trang và nhiều thông tin khác ở mọi nơi bạn sử dụng Firefox.
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = Bắt đầu
 fxa-headline-d0511570 = Tài khoản Mozilla của bạn đã được sử dụng để đăng nhập.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo Firefox
 # Description for Signin Page
 fxa-description-5649263e = Đăng nhập để sao lưu thiết bị này.
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = Xác minh tài khoản Mozilla của bạn để đồng 
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = Đồng bộ hóa mật khẩu, thẻ và dấu trang của bạn ở mọi nơi bạn sử dụng Firefox.
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Nhập email để bắt đầu đồng bộ hóa
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Đăng ký hoặc đăng nhập
 # Headline for Signin Page
 fxa-headline-c2b34227 = Nhập mật khẩu để bắt đầu đồng bộ hóa
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Đồng bộ hóa mật khẩu, phương thức thanh toán, dấu trang và nhiều thông tin khác ở mọi nơi bạn sử dụng Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Tạo mật khẩu để bắt đầu đồng bộ hóa
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = Hoàn tất thiết lập đồng bộ hoá
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Tiếp tục với tài khoản Mozilla của bạn
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Bảo vệ mật khẩu, dấu trang và dữ liệu Firefox được đồng bộ hóa bằng mã hóa ở mọi nơi bạn đăng nhập.
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = Xác minh tài khoản của bạn
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Xác minh tài khoản của bạn để đăng nhập vào Firefox
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = Đăng nhập để đồng bộ hoá với tài khoản Mozilla của bạn. Nếu bạn chưa có tài khoản, chỉ mất vài giây để tạo.
-# Headline for Email First Page
-fxa-headline-73fe011e = Đăng nhập hoặc tạo tài khoản Mozilla
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Tài khoản Mozilla
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = fox nhảy
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Đăng nhập để bảo vệ hộp thư đến của bạn khỏi thư rác
 # Page Title for Signup Confirm Code Page
@@ -204,6 +190,8 @@ fxa-subject-2322b41f = Xác mih tài khoản của bạn để sử dụng email
 fxa-description-0b19b103 = Sử dụng tài khoản Mozilla của bạn để mở khoá các tính năng VPN, chẳng hạn như ẩn vị trí của bạn.
 # Headline for Email First Page
 fxa-headline-785c79ef = Kích hoạt VPN tích hợp sẵn của Firefox để tăng cường quyền riêng tư và bảo mật.
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Tài khoản Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Bạn gần như đã sẵn sàng để tăng cường quyền riêng tư cho trình duyệt của mình.
 # Headline for New Device Login Email
@@ -309,6 +297,11 @@ fxa-description-811350a6 = Thêm một bước nữa để tận dụng lợi í
 fxa-description-861f2d28 = Sao lưu mật khẩu, thẻ và dấu trang để bạn sẵn sàng sử dụng thiết bị mới.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = đồng bộ hoá fox
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = fox nhảy
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -25,30 +25,30 @@ fxa-primaryButtonText-42369faa = Cree un account
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Conferme il to account
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Sincronize passwords, schedis e segnelibris dapardut là che tu dopris Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Continue su to account Mozilla
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Regjistriti o jentre
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Logo di Firefox
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Scomence
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo di Firefox
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
+# Description for Email First Page
+fxa-description-4ac18cac = Sincronize passwords, schedis e segnelibris dapardut là che tu dopris Firefox.
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Regjistriti o jentre
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continue su to account Mozilla
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default

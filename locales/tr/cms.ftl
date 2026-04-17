@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -61,19 +61,6 @@ fxa-headline-f827216f = İnterneti Mozilla ile açın
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Hesabınızı onaylayın
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = Firefox’u kullandığınız her yerde parolalarınızı, sekmelerinizi ve yer imlerinizi eşitleyin.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Mozilla hesabınıza devam edin
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Kaydol veya giriş yap
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Firefox logosu
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Firefox’u kullandığınız her yerde parolalarınızı, ödeme yöntemlerinizi, yer imlerinizi ve daha fazlasını eşitleyin.
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -88,6 +75,8 @@ fxa-primaryButtonText-be11c74c = Başla
 fxa-headline-d0511570 = Mozilla hesabınız giriş yapmak için kullanıldı.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox logosu
 # Description for Signin Page
 fxa-description-5649263e = Bu cihazı yedeklemek için giriş yapın.
 # Description for Signup Set Password Page
@@ -103,10 +92,16 @@ fxa-subject-c9fd4b52 = Eşitleme için Mozilla hesabınızı onaylayın
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = Firefox’u kullandığınız her yerde parolalarınızı, sekmelerinizi ve yer imlerinizi eşitleyin.
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Eşitlemeyi başlatmak için e-postanızı yazın
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Kaydol veya giriş yap
 # Headline for Signin Page
 fxa-headline-c2b34227 = Eşitlemeyi başlatmak için parolanızı yazın
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Firefox’u kullandığınız her yerde parolalarınızı, ödeme yöntemlerinizi, yer imlerinizi ve daha fazlasını eşitleyin.
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = Eşitlemeyi başlatmak için parola oluşturun
 # Headline for Verify Short Code Email
@@ -114,6 +109,8 @@ fxa-headline-929376b4 = Eşitleme kurulumunu tamamlayın
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = Mozilla hesabınıza devam edin
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Giriş yaptığınız her yerde parolalarınızı, yer imlerinizi ve eşitlenmiş Firefox verilerinizi şifreleyerek korur.
 # Headline for Signup Set Password Page
@@ -146,19 +143,6 @@ fxa-headline-ef1fb997 = Hesabınızı onaylayın
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Description for Email First Page
-fxa-description-edee250c = Mozilla hesabınızla eşitleme yapmak için giriş yapın. Hesabınız yoksa birkaç saniyede hesap açabilirsiniz.
-# Headline for Email First Page
-fxa-headline-73fe011e = Giriş yapın veya Mozilla hesabı açın
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla hesabı
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = zıplayan tilki
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -181,6 +165,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Gelen kutunuzu spam’den korumak için giriş yapın
 # Page Title for Signup Confirm Code Page
@@ -204,6 +190,8 @@ fxa-subject-2322b41f = E-posta maskelerini kullanmak için hesabınızı onaylay
 fxa-description-0b19b103 = Konumunuzu gizleme gibi VPN özelliklerini açmak için Mozilla hesabınızı kullanabilirsiniz.
 # Headline for Email First Page
 fxa-headline-785c79ef = Ekstra gizlilik ve koruma için Firefox’ta yerleşik VPN’i etkinleştirin
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla hesabı
 # Description for New Device Login Email
 fxa-description-6c54afca = Tarayıcınızın gizliliğini artırmaya neredeyse hazırsınız.
 # Headline for New Device Login Email
@@ -309,6 +297,11 @@ fxa-description-811350a6 = Firefox VPN avantajlarından yararlanmaya bir adım k
 fxa-description-861f2d28 = Yeni cihazınıza geçerken hazırlıksız yakalanmamak için parolalarınızı, sekmelerinizi ve yer imlerinizi yedekleyin.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = eşitleme yapan tilki
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = zıplayan tilki
 
 ## legal-notice-label-subs-services - CMS Entry
 

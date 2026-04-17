@@ -1,4 +1,4 @@
-### Generated on 2026-04-13T20:27:30.679Z
+### Generated on 2026-04-17T20:22:59.109Z
 ### FTL file for CMS localization
 
 
@@ -59,19 +59,6 @@ fxa-headline-f827216f = ਇੰਟਰਨੈੱਟ ਨੂੰ Mozilla ਨਾਲ ਖ
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = ਆਪਣੇ ਖਾਤੇ ਦੀ ਤਸਦੀਕ
 
-## l10n-11 - Firefox Desktop Sync - Preferences (Sync settings)
-
-# Description for Email First Page
-fxa-description-4ac18cac = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਆਪਣੇ ਪਾਸਵਰਡ, ਟੈਬਾਂ ਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
-# Headline for Email First Page
-fxa-headline-33e9f42d = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-96e4284e = Firefox ਲੋਗੋ
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਉੱਥੇ ਆਪਣੇ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਢੰਗਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
-
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -86,6 +73,8 @@ fxa-primaryButtonText-be11c74c = ਸ਼ੁਰੂ ਕਰੀਏ
 fxa-headline-d0511570 = ਤੁਹਾਡਾ Mozilla ਖਾਤੇ ਨੂੰ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ।
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Firefox ਲੋਗੋ
 # Description for Signin Page
 fxa-description-5649263e = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਬੈਕਅੱਪ ਲੈਣ ਲਈ ਸਾਈਨ-ਇਨ ਕਰੋ।
 # Description for Signup Set Password Page
@@ -99,10 +88,16 @@ fxa-subject-c9fd4b52 = ਸਿੰਕ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ Mozil
 
 ## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
+# Description for Email First Page
+fxa-description-4ac18cac = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਆਪਣੇ ਪਾਸਵਰਡ, ਟੈਬਾਂ ਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 # Headline for Email First Page
 fxa-headline-b36f2b05 = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਈਮੇਲ ਦਿਓ
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 # Headline for Signin Page
 fxa-headline-c2b34227 = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਦਿਓ
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਉੱਥੇ ਆਪਣੇ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਢੰਗਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 # Headline for Signup Set Password Page
 fxa-headline-7a6bf86a = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
 # Headline for Verify Short Code Email
@@ -110,6 +105,8 @@ fxa-headline-929376b4 = ਸਿੰਕ ਸੈਟਅੱਪ ਪੂਰਾ
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
+# Headline for Email First Page
+fxa-headline-33e9f42d = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
 
@@ -136,13 +133,6 @@ fxa-headline-ef1fb997 = ਖਾਤੇ ਦੀ ਤਸਦੀਕ
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਨ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
-## l10n-17 - Firefox Desktop Sync - Avatar Menu
-
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
-
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Logo Alt Text for Email First Page
@@ -159,6 +149,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-19 - VPN (Settings)
 
@@ -237,6 +229,11 @@ fxa-headline-6aca2436 = Mozilla ਖਾਤੇ ਨਾਲ ਆਪਣੇ ਮੁਫ਼
 fxa-description-861f2d28 = ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਜਾਣ ਲਈ ਤਿਆਰੀ ਵਾਸਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਟੈਬਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਬੈਕਅੱਪ ਲੈ ਲਵੋ।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ਸਿੰਕ ਕਰਨਾ ਲੂੰਬੜ
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
 
 ## legal-notice-label-subs-services - CMS Entry
 
