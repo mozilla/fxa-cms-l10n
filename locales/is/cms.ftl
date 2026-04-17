@@ -148,6 +148,8 @@ fxa-subject-10e5b452 = Staðfestu reikninginn þinn til að skrá þig inn í Fi
 
 # Headline for Email First Page
 fxa-headline-73fe011e = Skráðu þig inn eða stofnaðu Mozilla-reikning
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-reikningur
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
@@ -155,6 +157,8 @@ fxa-logoAltText-c4b14a5b = firefox hoppar
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Nýskráðu þig eða skráðu inn til að vernda pósthólfið þitt gegn ruslpósti
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = tölvupósthula
 # Page Title for Email First Page
@@ -175,11 +179,21 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 fxa-headline-7631d75e = Skráðu þig inn til að vernda pósthólfið þitt gegn ruslpósti
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Nýskráðu þig til að vernda pósthólfið þitt gegn ruslpósti
+# Subject for Verify Short Code Email
+fxa-subject-2322b41f = Staðfestu aðganginn þinn til að nota tölvupósthulur
 
 ## l10n-19 - VPN (Settings)
 
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Skráðu þig fyrir reikningi
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjálpaðu okkur að halda reikningnum þínum öruggum með því að staðfesta innskráninguna þína á:
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Staðfestu aðganginn þinn til að nota innbyggða VPN-tengingu Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -208,6 +222,8 @@ fxa-subject-f3d09e03 = Staðfestu aðganginn þinn til að nota Firefox-vafrann
 fxa-description-78fd76ac = Notaðu Mozilla-reikninginn þinn til að samstilla á öruggan hátt við annað tæki.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Fáðu vistuðu lykilorðin þín alls staðar
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Stofnaðu Mozilla-reikning til að samstilla á öruggan hátt við annað tæki.
 # Subject for Verify Short Code Email
