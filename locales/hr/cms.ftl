@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Potvrdi svoj račun za korištenje preglednika Firefox
 fxa-description-78fd76ac = Koristi svoj Mozilla račun za sigurnu sinkronizaciju s drugim uređajem.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Nabavi spremljene lozinke gdje god
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Stvori Mozilla račun za sigurnu sinkronizaciju s drugim uređajem.
 # Subject for Verify Short Code Email
