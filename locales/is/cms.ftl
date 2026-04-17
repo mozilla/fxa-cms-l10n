@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Headline for Email First Page
+fxa-headline-a4b1427f = Notaðu tölvupóstfangið þitt til að halda áfram
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Halda áfram
 # Description for New Device Login Email
@@ -144,6 +146,8 @@ fxa-subject-10e5b452 = Staðfestu reikninginn þinn til að skrá þig inn í Fi
 
 ## l10n-17 - Firefox Desktop Sync - Avatar Menu
 
+# Headline for Email First Page
+fxa-headline-73fe011e = Skráðu þig inn eða stofnaðu Mozilla-reikning
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Logo Alt Text for Signup Set Password Page
@@ -151,10 +155,26 @@ fxa-logoAltText-c4b14a5b = firefox hoppar
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = tölvupósthula
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Verndaðu pósthólfið þitt gegn ruslpósti | Mozilla-reikningar
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Reikningurinn þinn var notaður til innskráningar
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox mun reyna að senda þig til baka til að nota tölvupósthulu eftir að þú skráir þig inn.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Skráðu þig inn til að vernda pósthólfið þitt gegn ruslpósti
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-d38aa094 = Nýskráðu þig til að vernda pósthólfið þitt gegn ruslpósti
 
 ## l10n-19 - VPN (Settings)
 
