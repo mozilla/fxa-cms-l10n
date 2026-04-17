@@ -254,6 +254,8 @@ fxa-subject-f3d09e03 = Потврдите свој налог да бисте к
 fxa-description-78fd76ac = Користите свој Mozilla налог за безбедно усклађивање са другим уређајем.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Приступите сачуваним лозинкама свуда
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Направите Mozilla налог за безбедно усклађивање са другим уређајем.
 # Subject for Verify Short Code Email
