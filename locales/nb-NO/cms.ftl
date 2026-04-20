@@ -167,6 +167,8 @@ fxa-emailLogoWidth-ca27b150 = 120px
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Logg inn for å beskytte innboksen din mot søppelpost (spam)
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Registrer deg for å beskytte innboksen din mot søppelpost (spam)
 # Description for Signup Set Password Page
@@ -184,6 +186,10 @@ fxa-subject-2322b41f = Bekreft kontoen din for å bruke e-postalias
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Bruk Mozilla-kontoen din til å låse opp VPN-funksjoner som å skjule posisjonen din.
+# Headline for Email First Page
+fxa-headline-785c79ef = Aktiver den innebygde VPN-en i Firefox for ekstra personvern og beskyttelse
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-konto
 # Description for New Device Login Email
@@ -196,6 +202,8 @@ fxa-subject-9627bd4a = Bekreft kontoen din for å bruke Firefox sin innebygde VP
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Fortsett med Mozilla-kontoen din for å låse opp VPN-funksjoner som å skjule plasseringen din.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registrer deg for en konto
 # Description for Verify Login Code Email
@@ -234,6 +242,8 @@ fxa-subject-f3d09e03 = Bekreft kontoen din for å bruke Firefox-nettleser
 fxa-description-78fd76ac = Bruk Mozilla-kontoen din for å synkronisere sikkert til en annen enhet.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Få tilgang til lagrede passord overalt
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Opprett en Mozilla-konto for å synkronisere sikkert til en annen enhet.
 # Subject for Verify Short Code Email
