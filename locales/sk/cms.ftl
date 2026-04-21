@@ -242,6 +242,8 @@ fxa-subject-f3d09e03 = Potvrďte svoj účet, aby ste mohli používať prehliad
 fxa-description-78fd76ac = Použite svoj účet Mozilla na bezpečnú synchronizáciu s iným zariadením.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Získajte uložené heslá všade
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Vytvorte si účet Mozilla pre bezpečnú synchronizáciu s iným zariadením.
 # Subject for Verify Short Code Email
