@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Logo Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Siapkan sinkronisasi Firefox
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Jaga agar sandi, markah, dan lainnya tetap sinkron.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Lanjutkan sinkronisasi
 # Description for Signin Page
 fxa-description-aedac88d = Sinkronkan sandi dan lainnya di mana pun Anda masuk.
 # Headline for Signin Page

@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Logo Firefoxu
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Nastavení synchronizace Firefoxu
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Mějte svá hesla, záložky a další data synchronizovaná.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Pokračovat k synchronizaci
 # Description for Signin Page
 fxa-description-aedac88d = Synchronizujte hesla a další data všude, kde jste přihlášeni.
 # Headline for Signin Page

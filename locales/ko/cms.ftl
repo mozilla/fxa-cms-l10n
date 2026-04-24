@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox 로고
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox Sync 설정
+# Description for Signin Cached Page
+fxa-description-406f5ceb = 비밀번호, 북마크 등을 동기화된 상태로 유지하세요.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = 이어서 동기화
 # Description for Signin Page
 fxa-description-aedac88d = 로그인한 모든 곳에서 비밀번호 등을 동기화하세요.
 # Headline for Signin Page

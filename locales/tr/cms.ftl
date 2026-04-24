@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox logosu
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox eşitlemeyi ayarla
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Parolalarınızı, yer imlerinizi ve daha fazlasını senkronize tutun.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Eşitlemeye devam et
 # Description for Signin Page
 fxa-description-aedac88d = Parolaları ve daha fazlasını giriş yaptığınız her yerde eşitleyin.
 # Headline for Signin Page

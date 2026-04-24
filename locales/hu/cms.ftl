@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox logó
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Állítsa be a Firefox szinkronizálását
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Tartsa szinkronban jelszavait, könyvjelzőit és egyebeket.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Tovább a szinkronizáláshoz
 # Description for Signin Page
 fxa-description-aedac88d = Szinkronizálja a jelszavait és egyebeit mindenhol, ahol be van jelentkezve.
 # Headline for Signin Page

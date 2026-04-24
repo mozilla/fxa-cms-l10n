@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox को लोगो
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox सिङ्क सेट अप गर्नुहोस्
+# Description for Signin Cached Page
+fxa-description-406f5ceb = आफ्नो पासवर्ड, बुकमार्क, र थप सिङ्कमा राख्नुहोस्।
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = सिङ्क गर्न जारी राख्नुहोस्
 # Description for Signin Page
 fxa-description-aedac88d = आफू साइन इन भएको ठाउँमा पासवर्डहरू र थप कुराहरू सिङ्क गर्नुहोस्।
 # Headline for Signin Page

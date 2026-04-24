@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox 徽标
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = 设置 Firefox 同步
+# Description for Signin Cached Page
+fxa-description-406f5ceb = 同步您的密码、书签等数据。
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = 继续同步
 # Description for Signin Page
 fxa-description-aedac88d = 在您已登录的各设备间同步密码等数据。
 # Headline for Signin Page
