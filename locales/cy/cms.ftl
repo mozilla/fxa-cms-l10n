@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Logo Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Gosod cydweddu Firefox
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Cadwch eich cyfrineiriau, nodau tudalen, a mwy yn gyson.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Parhau i gydweddu
 # Description for Signin Page
 fxa-description-aedac88d = Cydweddu cyfrineiriau a mwy ym mhob man rydych chi wedi mewngofnodi.
 # Headline for Signin Page
