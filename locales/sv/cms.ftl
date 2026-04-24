@@ -25,7 +25,7 @@ fxa-pageTitle-ffd8275e = Konfigurera Firefox synkronisering
 # Description for Signin Cached Page
 fxa-description-406f5ceb = Håll dina lösenord, bokmärken och mer synkroniserade.
 # Headline for Signin Cached Page
-fxa-headline-3e321300 = Fortsätt till synkronisering
+fxa-headline-3e321300 = Fortsätt för att synkronisera
 # Description for Signin Page
 fxa-description-aedac88d = Synkronisera lösenord och mer överallt där du är inloggad.
 # Headline for Signin Page
