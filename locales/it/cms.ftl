@@ -23,7 +23,7 @@ fxa-logoAltText-96e4284e = Logo di Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configura sincronizzazione in Firefox
 # Description for Signin Cached Page
-fxa-description-406f5ceb = Mantieni sincronizzate password, segnalibri e altro ancora.
+fxa-description-406f5ceb = Mantieni sincronizzati password, segnalibri e altro ancora.
 # Headline for Signin Cached Page
 fxa-headline-3e321300 = Continua la sincronizzazione
 # Description for Signin Page
