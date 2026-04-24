@@ -1,4 +1,4 @@
-### Generated on 2026-04-17T20:22:59.109Z
+### Generated on 2026-04-24T01:14:53.101Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -20,6 +20,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Set up Firefox sync
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Keep your passwords, bookmarks, and more in sync.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Continue to sync
 # Description for Signin Page
 fxa-description-aedac88d = Sync passwords and more everywhere you’re signed in.
 # Headline for Signin Page
