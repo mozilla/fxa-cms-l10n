@@ -1,4 +1,4 @@
-### Generated on 2026-04-23T20:03:08.517Z
+### Generated on 2026-04-24T00:51:45.752Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -286,6 +286,10 @@ fxa-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’
 fxa-logoAltText-164ffc49 = fox syncing
 
 ## l10n-9 - Firefox Desktop Sync - Avatar Menu
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Keep your passwords, bookmarks, and more in sync.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Continue to sync
 # Logo Alt Text for Signup Set Password Page
 fxa-logoAltText-c4b14a5b = fox jumping
 
