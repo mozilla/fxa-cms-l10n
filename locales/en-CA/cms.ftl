@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Set up Firefox sync
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Keep your passwords, bookmarks, and more in sync.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Continue to sync
 # Description for Signin Page
 fxa-description-aedac88d = Sync passwords and more everywhere you’re signed in.
 # Headline for Signin Page
@@ -167,6 +171,8 @@ fxa-emailLogoWidth-ca27b150 = 120px
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Sign in to protect your inbox from spam
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Sign up to protect your inbox from spam
 # Description for Signup Set Password Page
@@ -184,6 +190,10 @@ fxa-subject-2322b41f = Confirm your account to use email masks
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Use your Mozilla account to unlock VPN features like hiding your location.
+# Headline for Email First Page
+fxa-headline-785c79ef = Activate Firefox’s built-in VPN for extra privacy and protection
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
 # Description for New Device Login Email
@@ -196,6 +206,8 @@ fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Continue with your Mozilla account to unlock VPN features like hiding your location.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
 # Description for Verify Login Code Email
@@ -234,6 +246,8 @@ fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
 fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Get saved passwords everywhere
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Create a Mozilla account to securely sync to another device.
 # Subject for Verify Short Code Email
