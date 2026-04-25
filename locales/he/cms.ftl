@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = הסמל של Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = הגדרת סנכרון ב־Firefox
+# Description for Signin Cached Page
+fxa-description-406f5ceb = לשמור על הססמאות, הסימניות שלך ועוד מסונכרנים.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = המשך לסנכרון
 # Description for Signin Page
 fxa-description-aedac88d = סנכרון ססמאות ועוד, בכל מקום בו נכנסת לחשבון.
 # Headline for Signin Page
