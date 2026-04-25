@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox логотипі
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox синхрондауын баптау
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Парольдер, бетбелгілер және т.б. синхрондалған күйде сақтаңыз.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Синхрондауға жалғастыру
 # Description for Signin Page
 fxa-description-aedac88d = Жүйеге кірген барлық жерде парольдер және басқа да деректерді синхрондаңыз.
 # Headline for Signin Page
