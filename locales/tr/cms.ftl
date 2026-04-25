@@ -23,7 +23,7 @@ fxa-logoAltText-96e4284e = Firefox logosu
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox eşitlemeyi ayarla
 # Description for Signin Cached Page
-fxa-description-406f5ceb = Parolalarınızı, yer imlerinizi ve daha fazlasını senkronize tutun.
+fxa-description-406f5ceb = Parolalarınızı, yer imlerinizi ve daha fazlasını eşitlenmiş halde tutun.
 # Headline for Signin Cached Page
 fxa-headline-3e321300 = Eşitlemeye devam et
 # Description for Signin Page
