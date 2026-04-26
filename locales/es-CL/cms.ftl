@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Logo de Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configurar la sincronización de Firefox
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Mantén tus contraseñas, marcadores y demás sincronizados.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Continuar para sincronizar
 # Description for Signin Page
 fxa-description-aedac88d = Sincroniza contraseñas y más en cualquier lugar donde te hayas conectado.
 # Headline for Signin Page
