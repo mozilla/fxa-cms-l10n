@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Logo Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Thiết lập đồng bộ hoá Firefox
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Giữ cho mật khẩu, dấu trang và nhiều thứ khác của bạn luôn được đồng bộ.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Tiếp tục đồng bộ hoá
 # Description for Signin Page
 fxa-description-aedac88d = Đồng bộ hóa mật khẩu và nhiều thông tin khác ở mọi nơi bạn đăng nhập.
 # Headline for Signin Page
