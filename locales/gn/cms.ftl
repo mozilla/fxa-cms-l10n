@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox ra’ãnga’i
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Emboheko Firefox ñembojuehe
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Ereko ne ñe’ẽñemi, techaukaha ha hetave mbojuehépe.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Eku’ejey embojuehe hag̃ua
 # Description for Signin Page
 fxa-description-aedac88d = Embojuehe ñe’ẽñemi ha hetave mba’e opaite tenda reikehápe.
 # Headline for Signin Page
