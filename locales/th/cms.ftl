@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = ลงชื่อเข้าหรือสร้างบัญชีเพื่อเก็บทุกอย่างให้อยู่ในซิงค์
 # Headline for Email First Page
 fxa-headline-a4b1427f = ใช้อีเมลของคุณเพื่อดำเนินการต่อ
 # Primary Button Text for Email First Page
@@ -20,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = โลโก้ Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = ตั้งค่า Firefox Sync
+# Description for Signin Cached Page
+fxa-description-406f5ceb = เก็บรหัสผ่าน ที่คั่นหน้า และอีกมากมายให้อยู่ในการซิงค์
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = ซิงค์ต่อไป
 # Description for Signin Page
 fxa-description-aedac88d = ซิงค์รหัสผ่านและอื่น ๆ ได้ทุกที่ที่คุณลงชื่อเข้า
 # Headline for Signin Page
@@ -165,12 +171,18 @@ fxa-emailLogoWidth-ca27b150 = 120px
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = ลงชื่อเข้าเพื่อป้องกันกล่องจดหมายของคุณจากสแปม
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = ลงทะเบียนเพื่อป้องกันกล่องจดหมายของคุณจากสแปม
 # Description for Signup Set Password Page
 fxa-description-e45e7923 = ขั้นตอนนี้จะสร้างบัญชี Mozilla ของคุณ เพื่อให้คุณสามารถใช้งานและจัดการตัวปกปิดอีเมลได้
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = สร้างหัสผ่านเพื่อป้องกันกล่องจดหมายของคุณจากสแปม
+# Description for Verify Login Code Email
+fxa-description-1048eab0 = รักษาบัญชีของคุณให้ปลอดภัยโดยการอนุมัติการลงชื่อเข้าของคุณด้วยรหัสอนุญาตด้านล่างนี้
+# Description for Verify Short Code Email
+fxa-description-e5134d5c = ใช้รหัสยืนยันด้านล่างเพื่อตั้งค่าบัญชีของคุณให้เสร็จสิ้น
 # Headline for Verify Short Code Email
 fxa-headline-2322b41f = ยืนยันบัญชีของคุณเพื่อใช้ตัวปกปิดอีเมล
 # Subject for Verify Short Code Email
@@ -178,12 +190,32 @@ fxa-subject-2322b41f = ยืนยันบัญชีของคุณเพ
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = ใช้บัญชี Mozilla ของคุณเพื่อปลดล็อกคุณลักษณะ VPN เช่น การซ่อนตำแหน่งที่ตั้งของคุณ
+# Headline for Email First Page
+fxa-headline-785c79ef = เปิดใช้งาน VPN ในตัวของ Firefox เพื่อความเป็นส่วนตัวและการปกป้องที่มากขึ้น
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = บัญชี Mozilla
+# Description for New Device Login Email
+fxa-description-6c54afca = คุณเกือบพร้อมที่จะเพิ่มความเป็นส่วนตัวให้กับเบราว์เซอร์ของคุณแล้ว
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = บัญชี Mozilla ของคุณถูกใช้ในการลงชื่อเข้าสู่ Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = ยืนยันบัญชีของคุณเพื่อใช้งาน VPN ในตัวของ Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = ดำเนินการต่อด้วยบัญชี Mozilla ของคุณเพื่อปลดล็อกคุณลักษณะ VPN เช่น การซ่อนตำแหน่งที่ตั้งของคุณ
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - ลงทะเบียนบัญชี
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = ช่วยเรารักษาบัญชีของคุณให้ปลอดภัยโดยอนุมัติการลงชื่อเข้าใน:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = คุณได้ลงชื่อเข้าสู่ Firefox ด้วยบัญชี Mozilla ของคุณหรือไม่?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = อนุมัติการลงชื่อเข้าสู่ Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = ยืนยันบัญชีของคุณเพื่อใช้งาน VPN ในตัวของ Firefox
 
@@ -214,6 +246,8 @@ fxa-subject-f3d09e03 = ยืนยันบัญชีของคุณเพ
 fxa-description-78fd76ac = ใช้บัญชี Mozilla ของคุณเพื่อซิงค์ข้อมูลไปยังอุปกรณ์อื่นอย่างปลอดภัย
 # Headline for Email First Page
 fxa-headline-0ec7d798 = ดึงรหัสผ่านที่บันทึกได้ทุกที่
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = สร้างบัญชี Mozilla เพื่อซิงค์ข้อมูลไปยังอุปกรณ์อื่นอย่างปลอดภัย
 # Subject for Verify Short Code Email
