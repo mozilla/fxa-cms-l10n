@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox-logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox Syngronisaasje ynstelle
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Hâld jo wachtwurden, blêdwizers en mear syngronisearre.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Trochgean om te syngronisearjen
 # Description for Signin Page
 fxa-description-aedac88d = Syngronisearje wachtwurden en mear oeral wêr’t jo oanmeld binne.
 # Headline for Signin Page
