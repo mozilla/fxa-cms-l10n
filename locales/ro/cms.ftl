@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Logo Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configurează sincronizarea în Firefox
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Păstrează-ți parolele, marcajele și multe altele sincronizate.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Continuă cu sincronizarea
 # Description for Signin Page
 fxa-description-aedac88d = Sincronizează parolele și multe altele oriunde ești autentificat(ă).
 # Headline for Signin Page
@@ -167,6 +171,8 @@ fxa-emailLogoWidth-ca27b150 = 120px
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = Intră în cont ca să îți protejezi căsuța poștală de spam
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Fă-ți un cont ca să-ți protejezi căsuța poștală de spam
 # Description for Signup Set Password Page
@@ -184,6 +190,10 @@ fxa-subject-2322b41f = Confirmă-ți contul ca să folosești măști de e-mail
 
 ## l10n-19 - VPN (Settings)
 
+# Description for Email First Page
+fxa-description-0b19b103 = Folosește-ți contul Mozilla ca să deblochezi funcționalități VPN, cum ar fi ascunderea locației.
+# Headline for Email First Page
+fxa-headline-785c79ef = Activează VPN-ul încorporat în Firefox pentru confidențialitate și protecție suplimentară
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Cont Mozilla
 # Description for New Device Login Email
@@ -196,6 +206,8 @@ fxa-subject-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat 
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Continuă cu contul Mozilla ca să deblochezi funcționalități VPN, cum ar fi ascunderea locației.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Fă-ți un cont
 # Description for Verify Login Code Email
@@ -234,6 +246,8 @@ fxa-subject-f3d09e03 = Confirmă-ți contul pentru a utiliza browserul Firefox
 fxa-description-78fd76ac = Folosește-ți contul Mozilla pentru sincronizare în siguranță cu un alt dispozitiv.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Iei cu tine parolele salvate peste tot
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Fă-ți un cont Mozilla pentru a sincroniza în siguranță cu un alt dispozitiv.
 # Subject for Verify Short Code Email
