@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox-logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Määritä Firefoxin synkronointi
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Pidä salasanasi, kirjanmerkkisi ja muut synkronoituna.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Jatka synkronointiin
 # Description for Signin Page
 fxa-description-aedac88d = Synkronoi salasanat ja paljon muuta, kaikkialla, missä olet kirjautuneena sisään.
 # Headline for Signin Page
@@ -242,6 +246,8 @@ fxa-subject-f3d09e03 = Vahvista tilisi käyttääksesi Firefox-selainta
 fxa-description-78fd76ac = Käytä Mozilla-tiliä synkronoidaksesi turvallisesti toiseen laitteeseen.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Käytä tallennettuja salasanoja kaikkialla
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
 fxa-description-32c1f240 = Luo Mozilla-tili synkronoidaksesi turvallisesti toiseen laitteeseen.
 # Subject for Verify Short Code Email
