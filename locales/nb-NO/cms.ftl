@@ -22,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox-logo
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Konfigurer Firefox-synkronisering
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Hold passord, bokmerker og mer synkronisert.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Fortsett til synkronisering
 # Description for Signin Page
 fxa-description-aedac88d = Synkroniser passord og mer overalt hvor du er logget på.
 # Headline for Signin Page
