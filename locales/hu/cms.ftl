@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = Szinkronizálja jelszavait, lapjait és könyvjelzői
 fxa-headline-b36f2b05 = A szinkronizálás megkezdéséhez adja meg az e-mail-címét
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Regisztráljon vagy jelentkezzen be
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Adjon meg egy jelszót a szinkronizálás megkezdéséhez
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = Erősítse meg a fiókját, hogy a Firefox beépített V
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Új bejelentkezés a Firefoxba
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Adja meg a jelszót, hogy a Mozilla-fiókjába lépjen
 # Description for Signin Token Code Page

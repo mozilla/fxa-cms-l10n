@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = जहाँजहाँ फायरफक्स च
 fxa-headline-b36f2b05 = सिङ्क गर्न सुरु गर्न इमेल प्रविष्ट गर्नुहोस्
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = साइन अप वा साइन इन गर्नुहोस्
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = सिङ्क गर्न सुरु गर्न पासवर्ड प्रविष्ट गर्नुहोस्
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = Firefox को बिल्ट-इन VPN प्रय�
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox मा नयाँ साइन इन
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = आफ्नो मोजिला खातामा जान पासवर्ड हाल्नुहोस्
 # Description for Signin Token Code Page

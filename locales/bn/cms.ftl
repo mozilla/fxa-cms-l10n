@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -92,6 +92,8 @@ fxa-description-4ac18cac = আপনার পাসওয়ার্ড, ট�
 fxa-headline-b36f2b05 = সিঙ্ক শুরু করতে ইমেইল লিখুন
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = সিঙ্ক শুরু করতে পাসওয়ার্ড লিখুন
 # Description for Signup Set Password Page
@@ -155,8 +157,6 @@ fxa-description-6bc52850 = আপনার সাইন ইন অনুমো�
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox এ নতুন সাইন ইন
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = মাত্র এক ধাপ বাকি। আপনার ইমেইল থেকে কোডটি লিখুন এবং আপনার Mozilla অ্যাকাউন্ট সক্রিয় করুন।
 # Headline for Signup Set Password Page

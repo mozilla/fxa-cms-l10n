@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = დაასინქრონეთ სანიშ�
 fxa-headline-b36f2b05 = შეიყვანეთ ელფოსტა სინქრონიზაციის დასაწყებად
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = შედით ან შექმენით ანგარიში
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = მიუთითეთ პაროლი სინქრონიზაციის დასაწყებად
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = დაადასტურეთ თქვენი ა
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = ახალი შემოსვლა Firefox-ზე
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = მიუთითეთ პაროლი თქვენს Mozilla-ანგარიშზე გადასასვლელად
 # Description for Signin Token Code Page

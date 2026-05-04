@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -98,6 +98,8 @@ fxa-description-4ac18cac = Synchronizuj hasła, karty i zakładki wszędzie tam
 fxa-headline-b36f2b05 = Wprowadź adres e-mail, aby rozpocząć synchronizację
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Zarejestruj się lub zaloguj
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Wpisz hasło, aby rozpocząć synchronizację
 # Description for Signup Set Password Page
@@ -219,8 +221,6 @@ fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VP
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nowe logowanie do Firefoksa
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Wprowadź hasło, aby przejść do konta Mozilli
 # Description for Signin Token Code Page

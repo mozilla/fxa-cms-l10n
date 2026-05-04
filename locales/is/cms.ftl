@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -96,6 +96,8 @@ fxa-description-4ac18cac = Samstilltu lykilorðin þín, flipa og bókamerki all
 fxa-headline-b36f2b05 = Settu inn netfang til að hefja samstillingu
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Nýskráðu þig eða skráðu þig inn
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Settu inn lykilorð til að hefja samstillingu
 # Description for Signup Set Password Page
@@ -189,8 +191,6 @@ fxa-headline-9627bd4a = Staðfestu aðganginn þinn til að nota innbyggða VPN-
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Ný innskráning í Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Settu inn lykilorð til að halda áfram á Mozilla-reikninginn þinn
 # Description for Signin Token Code Page

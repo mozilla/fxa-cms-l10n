@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -62,6 +62,8 @@ fxa-emailLogoAltText-96e4284e = Лагатып Firefox
 fxa-description-4ac18cac = Сінхранізуйце свае паролі, карткі і закладкі ўсюды, дзе вы карыстаецеся Firefox.
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвайсці
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Сінхранізуйце свае паролі, спосабы аплаты, закладкі і многае іншае ўсюды, дзе вы карыстаецеся Firefox.
 
@@ -81,8 +83,6 @@ fxa-headlineFontSize-c21f969b = default
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
 # Description for Verify Short Code Email

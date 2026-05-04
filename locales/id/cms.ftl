@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan markah Anda di mana p
 fxa-headline-b36f2b05 = Masukkan surel untuk mulai menyinkronkan
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Daftar atau masuk
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Masukkan sandi untuk mulai menyinkronkan
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Fir
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Masuk baru ke Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Masukkan sandi untuk melanjutkan ke akun Mozilla Anda
 # Description for Signin Token Code Page

@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -72,6 +72,8 @@ fxa-emailLogoAltText-96e4284e = Logotip del Firefox
 fxa-description-4ac18cac = Sincronitzeu les contrasenyes, les pestanyes i les adreces d'interès a tot arreu on feu servir el Firefox.
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Inici de sessió o registre
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincronitzeu les contrasenyes, els mètodes de pagament, les adreces d’interès i molt més a tot arreu on feu servir el Firefox.
 
@@ -105,8 +107,6 @@ fxa-description-6bc52850 = Ajudeu-nos a protegir el vostre compte aprovant l'ini
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Inici de sessió nou al Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Inici de sessió o registre
 # Description for Verify Short Code Email

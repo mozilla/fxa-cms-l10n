@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -96,6 +96,8 @@ fxa-description-4ac18cac = Firefox を使用しているすべての端末で、
 fxa-headline-b36f2b05 = 同期を開始するためのメールアドレスを入力
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = ログインまたはアカウント登録
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = 同期を開始するためのパスワードを入力
 # Description for Signup Set Password Page
@@ -173,8 +175,6 @@ fxa-subject-72eba5e0 = Mozilla へのログインを承認してください
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox への新しいログイン
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = パスワードを入力して Mozilla アカウントへ進みます
 # Description for Signin Token Code Page

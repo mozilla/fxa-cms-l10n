@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = Synkroniser passordene, fanene og bokmerkene dine ove
 fxa-headline-b36f2b05 = Skriv inn e-post for å begynne å synkronisere
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrer deg eller logg inn
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Skriv inn passord for å begynne å synkronisere
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = Bekreft kontoen din for å bruke Firefox sin innebygde V
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Ny innlogging på Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Skriv inn passordet for å fortsette til Mozilla-kontoen din
 # Description for Signin Token Code Page

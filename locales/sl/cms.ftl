@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = Sinhronizirajte gesla, zavihke in zaznamke na vseh me
 fxa-headline-b36f2b05 = Vnesite e-poštni naslov za začetek sinhronizacije
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registracija ali prijava
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Vnesite geslo za začetek sinhronizacije
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite raču
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nova prijava v Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Vnesite geslo za nadaljevanje v račun Mozilla
 # Description for Signin Token Code Page

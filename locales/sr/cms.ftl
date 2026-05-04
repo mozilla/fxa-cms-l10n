@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -98,6 +98,8 @@ fxa-description-4ac18cac = Ускладите своје лозинке, јез�
 fxa-headline-b36f2b05 = Унесите е-пошту да бисте започели усклађивање
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Региструјте се или се пријавите
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Унесите лозинку да бисте започели усклађивање
 # Description for Signup Set Password Page
@@ -219,8 +221,6 @@ fxa-headline-9627bd4a = Потврдите свој налог да бисте �
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Нова пријава на Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Унесите лозинку да бисте наставили на свој Mozilla налог
 # Description for Signin Token Code Page

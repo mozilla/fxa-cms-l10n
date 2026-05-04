@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = Cydweddwch eich cyfrineiriau, tabiau, a nodau tudalen
 fxa-headline-b36f2b05 = Rhoi e-bost i ddechrau cydweddu
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Cofrestrwch neu mewngofnodi
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Rhoi cyfrinair i ddechrau cydweddu
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Mewngofnodi newydd i Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Rhowch gyfrinair i barhau i'ch cyfrif Mozilla
 # Description for Signin Token Code Page

@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = Синхронизирайте своите паро�
 fxa-headline-b36f2b05 = Въвеждане на имейл за започване на синхронизирането
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Вписване или регистриране
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Въвждане на парола за започване на синхронизирането
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = Потвърдете профила си, за да из
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Ново вписване във Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Въведете парола, за да продължите към вашия Mozilla профил
 # Description for Signin Token Code Page

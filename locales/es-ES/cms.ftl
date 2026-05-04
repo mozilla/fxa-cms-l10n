@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -98,6 +98,8 @@ fxa-description-4ac18cac = Sincroniza tus contraseñas, pestañas y marcadores d
 fxa-headline-b36f2b05 = Introduce tu correo electrónico para comenzar la sincronización.
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Regístrate o inicia sesión
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Introduce tu contraseña para comenzar la sincronización
 # Description for Signup Set Password Page
@@ -211,8 +213,6 @@ fxa-headline-9627bd4a = Confirma tu cuenta para usar la VPN integrada en Firefox
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nuevo inicio de sesión en Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Introduce la contraseña para acceder a tu cuenta de Mozilla
 # Description for Signin Token Code Page

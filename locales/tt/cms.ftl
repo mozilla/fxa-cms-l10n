@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -32,6 +32,8 @@ fxa-emailLogoAltText-96e4284e = Firefox логотибы
 
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Теркәлү яки керү
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -66,8 +68,6 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox-ка яңа керү
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Теркәлү яки керү
 

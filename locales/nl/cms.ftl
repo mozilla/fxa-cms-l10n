@@ -1,4 +1,4 @@
-### Generated on 2026-04-24T01:14:53.101Z
+### Generated on 2026-05-02T01:42:10.562Z
 ### FTL file for CMS localization
 
 
@@ -102,6 +102,8 @@ fxa-description-4ac18cac = Synchroniseer uw wachtwoorden, tabbladen en bladwijze
 fxa-headline-b36f2b05 = Voer e-mailadres in om te beginnen met synchroniseren
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registreren of aanmelden
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
 fxa-headline-c2b34227 = Voer wachtwoord in om te beginnen met synchroniseren
 # Description for Signup Set Password Page
@@ -223,8 +225,6 @@ fxa-headline-9627bd4a = Bevestig uw account om de ingebouwde VPN van Firefox te 
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nieuwe aanmelding bij Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Voer uw wachtwoord in om door te gaan naar uw Mozilla-account
 # Description for Signin Token Code Page
