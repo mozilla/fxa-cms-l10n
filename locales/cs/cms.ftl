@@ -135,7 +135,7 @@ fxa-headline-a0a749e1 = Nové přihlášení k Firefoxu
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = Nastavení Firefox VPN
 # Description for Signin Page
-fxa-description-427b83de = Přihlaste se ke svému účtu Mozilla.
+fxa-description-427b83de = Přihlaste se do svého účtu Mozilla.
 # Description for Signup Confirmed Sync Page
 fxa-description-68ca3526 = Synchronizace je povolena a jste připraveni na Firefox VPN. Přejděte do nástrojové lišty a zapněte ji.
 # Headline for Signup Confirmed Sync Page
@@ -258,7 +258,7 @@ fxa-subject-9235d479 = Pro synchronizaci potvrďte svůj účet
 # Description for Email First Page
 fxa-description-4766f222 = K používání Mozilla Monitor je potřeba účet Mozilla.
 # Headline for Email First Page
-fxa-headline-de41db80 = Zaregistrujte se nebo se přihlaste ke svému účtu Mozilla
+fxa-headline-de41db80 = Zaregistrujte se nebo se přihlaste do svého účtu Mozilla
 # Description for New Device Login Email
 fxa-description-4e3d5811 = Došlo k novému přihlášení do služby Mozilla Monitor. Pokud to nejste vy, změňte si prosím své heslo.
 # Headline for New Device Login Email
@@ -274,7 +274,7 @@ fxa-logoAltText-ccc1a61b = Logo Mozilla Monitor
 # Page Title for Shared
 fxa-pageTitle-924eac9f = Nastavení služby Mozilla Monitor
 # Description for Signin Page
-fxa-description-ab270ce7 = Přihlaste se ke svému účtu Mozilla a používejte Mozilla Monitor.
+fxa-description-ab270ce7 = Přihlaste se do svého účtu Mozilla a používejte Mozilla Monitor.
 # Headline for Signup Confirmed Sync Page
 fxa-headline-74db8403 = Synchronizace potvrzena
 # Headline for Signup Set Password Page
