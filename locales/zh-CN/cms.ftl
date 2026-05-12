@@ -154,7 +154,7 @@ fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 # Description for Email First Page
 fxa-description-607e9f0f = 发送到您马甲的电子邮件将被转发到此地址。
 # Headline for Email First Page
-fxa-headline-30fd7c55 = 注册或登录以保护您的收件箱免受垃圾邮件
+fxa-headline-30fd7c55 = 注册或登录以保护您的收件箱远离垃圾邮件
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = 马甲邮箱
 # Page Title for Email First Page
@@ -172,7 +172,7 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
+fxa-headlineFontSize-c21f969b = 默认
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = 登录以保护您的收件箱免受垃圾邮件
 # Page Title for Signup Confirm Code Page
