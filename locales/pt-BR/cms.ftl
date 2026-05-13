@@ -174,7 +174,7 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
-fxa-headline-7631d75e = Entre para proteger sua caixa de entrada de spam
+fxa-headline-7631d75e = Entre para proteger sua caixa de entrada contra spam
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Cadastre-se para proteger sua caixa de entrada contra spam
 # Description for Signup Set Password Page
@@ -195,7 +195,7 @@ fxa-subject-2322b41f = Confirme sua conta para usar máscaras de email
 # Description for Email First Page
 fxa-description-0b19b103 = Use sua conta Mozilla para desbloquear recursos da VPN, como ocultar sua localização.
 # Headline for Email First Page
-fxa-headline-785c79ef = Ative a VPN integrada do Firefox para ter privacidade e proteção extra
+fxa-headline-785c79ef = Ative a VPN integrada no Firefox para ter privacidade e proteção extra
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Conta Mozilla
 # Description for New Device Login Email
