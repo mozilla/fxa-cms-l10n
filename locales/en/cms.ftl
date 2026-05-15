@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T19:28:07.298Z
+### Generated on 2026-05-15T19:29:12.115Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -143,6 +143,12 @@ fxa-headline-ef1fb997 = Confirm your account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
+## l10n-16 - Send Tab - Account Menu
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla account
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = fox jumping
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 # Description for Email First Page
 fxa-description-607e9f0f = Emails sent to your masks will be forwarded to this address.
@@ -188,8 +194,6 @@ fxa-subject-2322b41f = Confirm your account to use email masks
 fxa-description-0b19b103 = Use your Mozilla account to unlock VPN features like hiding your location.
 # Headline for Email First Page
 fxa-headline-785c79ef = Activate Firefox’s built-in VPN for extra privacy and protection
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla account
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
 # Headline for New Device Login Email
@@ -274,10 +278,6 @@ fxa-headline-461a0bbf = Confirm your account to use Mozilla Monitor
 fxa-subject-461a0bbf = Confirm your account to use Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Confirm your account to use Mozilla Monitor.
-
-## l10n-6 - Send Tab - Tab Context Menu
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = fox jumping
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 # Description for Email First Page
