@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:13:21.273Z
+### Generated on 2026-05-15T20:14:34.412Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -146,8 +146,6 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 ## l10n-16 - Send Tab - Account Menu
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = fox jumping
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 # Description for Email First Page
@@ -292,6 +290,10 @@ fxa-description-811350a6 = One more step to obtaining the benefits of Firefox VP
 fxa-description-861f2d28 = Back up your passwords, tabs, and bookmarks so you’re ready for a new device.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox syncing
+
+## l10n-9 - Firefox Desktop Sync - Avatar Menu
+# Logo Alt Text for Signup Set Password Page
+fxa-logoAltText-c4b14a5b = fox jumping
 
 ## legal-notice-label-subs-services - CMS Entry
 # Label for Terms
