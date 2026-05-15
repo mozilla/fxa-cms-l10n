@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -229,11 +229,6 @@ fxa-headline-6aca2436 = Mozilla ਖਾਤੇ ਨਾਲ ਆਪਣੇ ਮੁਫ਼
 fxa-description-861f2d28 = ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਜਾਣ ਲਈ ਤਿਆਰੀ ਵਾਸਤੇ ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਟੈਬਾਂ ਅਤੇ ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਬੈਕਅੱਪ ਲੈ ਲਵੋ।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ਸਿੰਕ ਕਰਨਾ ਲੂੰਬੜ
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = ਛਾਲਾਂ ਮਾਰਦਾ ਲੂੰਬੜ
 
 ## legal-notice-label-subs-services - CMS Entry
 

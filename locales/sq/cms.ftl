@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -145,6 +145,11 @@ fxa-headline-ef1fb997 = Ripohoni llogarinë tuaj
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Që të bëni hyrjen te Firefox-i, ripohoni llogarinë tuaj
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Llogari Mozilla
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -186,8 +191,6 @@ fxa-subject-2322b41f = Që të përdorni maska email, ripohoni llogarinë tuaj
 
 ## l10n-19 - VPN (Settings)
 
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Llogari Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Jeni thuajse gati të përforconi privatësinë e shfletuesit tuaj.
 # Headline for New Device Login Email
@@ -287,11 +290,6 @@ fxa-description-811350a6 = Edhe një që të merrni përfitimet nga Firefox VPN.
 fxa-description-861f2d28 = Kopjeruani fjalëkalimet, skedat dhe faqerojtësit tuaj, që të jeni gati për në një pajisje të re.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = njëkohësim firefox
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = fox jumping
 
 ## legal-notice-label-subs-services - CMS Entry
 

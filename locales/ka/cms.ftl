@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = დაადასტურეთ თქვენი ა
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = დაადასტურეთ თქვენი ანგარიში Firefox-ში შესასვლელად
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-ანგარიში
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = დაადასტურეთ თქვენი ა�
 fxa-description-0b19b103 = გამოიყენეთ Mozilla-ანგარიში VPN-შესაძლებლობებისთვის, მათ შორის მდებარეობის დასამალად.
 # Headline for Email First Page
 fxa-headline-785c79ef = ჩართეთ Firefox-ის ჩაშენებული VPN დამატებითი პირადულობისა და დაცულობისთვის
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla-ანგარიში
 # Description for New Device Login Email
 fxa-description-6c54afca = თითქმის მზად ხართ ბრაუზერის პირადულობის ასამაღლებლად.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = ერთი ნაბიჯიღა რჩება
 fxa-description-861f2d28 = დაამარქაფეთ პაროლები, ჩანართები და სანიშნები, რომ მზად იყოთ ახალი მოწყობილობისთვის.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = მელა ასინქრონებს
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = მელა დახტის
 
 ## legal-notice-label-subs-services - CMS Entry
 

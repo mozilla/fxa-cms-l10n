@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = Тіркелгіңізді растаңыз
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox-қа кіру үшін тіркелгіңізді растаңыз
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla тіркелгісі
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = Эл. пошта маскаларын пайдалану 
 fxa-description-0b19b103 = Орналасқан жеріңізді жасыру сияқты VPN мүмкіндіктерін ашу үшін Mozilla тіркелгіңізді пайдаланыңыз.
 # Headline for Email First Page
 fxa-headline-785c79ef = Қосымша жекелік пен қорғаныс үшін Firefox-тың кіріктірілген VPN қызметін іске қосыңыз
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla тіркелгісі
 # Description for New Device Login Email
 fxa-description-6c54afca = Браузеріңіздің жекелігін жақсартуға дайын болуға жақынсыз.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Firefox VPN мүмкіндіктерін пайдал
 fxa-description-861f2d28 = Жаңа құрылғыға көшуге дайын болу үшін парольдер, беттер мен бетбелгілеріңізді сақтық көшірмеге сақтаңыз.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = түлкі синхрондауы
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = түлкінің секіруі
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = אימות החשבון שלך
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = חשבון Mozilla
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמ�
 fxa-description-0b19b103 = ניתן להשתמש בחשבון ה־Mozilla שלך כדי לאפשר שימוש ביכולות של VPN כגון הסתרת המיקום שלך.
 # Headline for Email First Page
 fxa-headline-785c79ef = ניתן להפעיל את ה־VPN המובנה של Firefox לפרטיות והגנה נוספות
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = חשבון Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = כמעט הכל מוכן לשדרוג הפרטיות בדפדפן שלך.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = רק צעד אחד נוסף להשגת היתרונו
 fxa-description-861f2d28 = ניתן לגבות את הססמאות, הלשוניות והסימניות שלך כדי שהכל יהיה מוכן לקראת המעבר למכשיר חדש.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = שועל מסנכרן
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = שועל קופץ
 
 ## legal-notice-label-subs-services - CMS Entry
 

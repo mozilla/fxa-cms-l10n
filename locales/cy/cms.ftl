@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = Cadarnhau eich cyfrif
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Cyfrif Mozilla
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio arallenwau e-byst
 fxa-description-0b19b103 = Defnyddiwch eich cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
 # Headline for Email First Page
 fxa-headline-785c79ef = Cychwynnwch y VPN mewnol yn Firefox i gael preifatrwydd a diogelwch ychwanegol
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Cyfrif Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Un cam arall i gael buddion Firefox VPN. Ewch i'r pan
 fxa-description-861f2d28 = Gwnewch gopi wrth gefn o'ch cyfrineiriau, tabiau a nodau tudalen fel eich bod chi'n barod am ddyfais newydd.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = cydweddu llwynog
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = llwynog yn neidio
 
 ## legal-notice-label-subs-services - CMS Entry
 

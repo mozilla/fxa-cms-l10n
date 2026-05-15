@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -145,6 +145,11 @@ fxa-headline-ef1fb997 = បញ្ជាក់គណនីរបស់អ្ន�
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = បញ្ជាក់គណនីរបស់អ្នកដើម្បីចូលទៅក្នុង Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = គណនី Mozilla
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -186,8 +191,6 @@ fxa-subject-2322b41f = បញ្ជាក់គណនីរបស់អ្នក
 
 ## l10n-19 - VPN (Settings)
 
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = គណនី Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = អ្នកជិតរួចរាល់ហើយក្នុងការបង្កើនភាពឯកជននៃកម្មវិធីរុករកតាមអ៊ីនធឺណិតរបស់អ្នក។
 # Headline for New Device Login Email
@@ -287,11 +290,6 @@ fxa-description-811350a6 = ជំហានមួយទៀតដើម្បី�
 fxa-description-861f2d28 = បម្រុងទុកពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នក ដើម្បីឱ្យអ្នកត្រៀមខ្លួនសម្រាប់ឧបករណ៍ថ្មី។
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ការ​ធ្វើ​សម​កាល​កម្ម​កញ្ជ្រោង
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = កញ្ជ្រោងលោត
 
 ## legal-notice-label-subs-services - CMS Entry
 

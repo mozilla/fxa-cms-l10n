@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -225,8 +225,3 @@ fxa-description-811350a6 = Firefox VPN-এর সুবিধা পেতে �
 fxa-description-861f2d28 = আপনার পাসওয়ার্ড, ট্যাব এবং বুকমার্ক ব্যাকআপ করুন যাতে আপনি নতুন ডিভাইসের জন্য প্রস্তুত থাকেন।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ফক্স সিঙ্ক করছে
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = ফক্স লাফাচ্ছে

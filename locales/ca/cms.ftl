@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -133,8 +133,3 @@ fxa-description-ab270ce7 = Inicieu la sessió al compte de Mozilla per utilitzar
 
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = guineu que sincronitza
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = guineu que salta

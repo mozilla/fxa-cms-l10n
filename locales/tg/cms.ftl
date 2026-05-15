@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -143,6 +143,11 @@ fxa-headline-ef1fb997 = Ҳисоби худро тасдиқ кунед
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Барои ворид шудан ба «Firefox», ҳисоби худро тасдиқ кунед
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Ҳисоби «Mozilla»
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Logo Alt Text for Email First Page
@@ -160,8 +165,6 @@ fxa-headlineFontSize-c21f969b = default
 
 ## l10n-19 - VPN (Settings)
 
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Ҳисоби «Mozilla»
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -249,11 +252,6 @@ fxa-description-811350a6 = Барои ба даст овардани имтиё�
 fxa-description-861f2d28 = Барои ниҳонвожаҳо, варақаҳо ва хатбаракҳои худ нусхаи эҳтиётиро таҳия кунед, то шумо тавонед барои истифодаи дастгоҳи нав омода шавед.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = ҳамоҳангсозии рӯбоҳ
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = рӯбоҳи ҷаста
 
 ## legal-notice-label-subs-services - CMS Entry
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = Confirme sua conta
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirme sua conta para entrar no Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Conta Mozilla
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = Confirme sua conta para usar máscaras de email
 fxa-description-0b19b103 = Use sua conta Mozilla para desbloquear recursos da VPN, como ocultar sua localização.
 # Headline for Email First Page
 fxa-headline-785c79ef = Ative a VPN integrada no Firefox para ter privacidade e proteção extra
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Conta Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Você está quase pronto para reforçar a privacidade do seu navegador.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Mais uma etapa para obter os benefícios do Firefox V
 fxa-description-861f2d28 = Faça backup de suas senhas, abas e favoritos para estar pronto para um novo dispositivo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = sincronização da raposa
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = salto da raposa
 
 ## legal-notice-label-subs-services - CMS Entry
 

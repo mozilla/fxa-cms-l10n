@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = Bevestig uw account
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Bevestig uw account om u aan te melden bij Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-account
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = Bevestig uw account om e-mailmaskers te gebruiken
 fxa-description-0b19b103 = Gebruik uw Mozilla-account om VPN-functies te ontgrendelen, zoals het verbergen van uw locatie.
 # Headline for Email First Page
 fxa-headline-785c79ef = Activeer de ingebouwde VPN van Firefox voor extra privacy en bescherming
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla-account
 # Description for New Device Login Email
 fxa-description-6c54afca = U bent bijna klaar om de privacy van uw browser een boost te geven.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Nog een stap in het verkrijgen van de voordelen van F
 fxa-description-861f2d28 = Maak een reservekopie van uw wachtwoorden, tabbladen en bladwijzers, zodat u klaar bent voor een nieuw apparaat.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = synchoniserende vos
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = springende vos
 
 ## legal-notice-label-subs-services - CMS Entry
 

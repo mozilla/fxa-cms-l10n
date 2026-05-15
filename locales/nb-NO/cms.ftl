@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = Bekreft kontoen din
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Bekreft kontoen din for å logge på Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-konto
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = Bekreft kontoen din for å bruke e-postalias
 fxa-description-0b19b103 = Bruk Mozilla-kontoen din til å låse opp VPN-funksjoner som å skjule posisjonen din.
 # Headline for Email First Page
 fxa-headline-785c79ef = Aktiver den innebygde VPN-en i Firefox for ekstra personvern og beskyttelse
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla-konto
 # Description for New Device Login Email
 fxa-description-6c54afca = Du er nesten klar til å gi nettleseren din et personvernløft.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Ett steg igjen før du får fordelene med Firefox VPN
 fxa-description-861f2d28 = Sikkerhetskopier passordene, fanene og bokmerkene dine, slik at du er klar for en ny enhet.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = rev synkroniserer
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = rev hopper
 
 ## legal-notice-label-subs-services - CMS Entry
 

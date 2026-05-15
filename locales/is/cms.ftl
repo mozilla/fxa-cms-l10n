@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -143,6 +143,11 @@ fxa-headline-ef1fb997 = Staðfestu reikninginn þinn
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Staðfestu reikninginn þinn til að skrá þig inn í Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-reikningur
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Headline for Email First Page
@@ -174,8 +179,6 @@ fxa-subject-2322b41f = Staðfestu aðganginn þinn til að nota tölvupósthulur
 
 ## l10n-19 - VPN (Settings)
 
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla-reikningur
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -267,8 +270,3 @@ fxa-description-811350a6 = Eitt skref í viðbót til að nýta þér ávinningi
 fxa-description-861f2d28 = Taktu afrit af lykilorðum, flipum og bókamerkjum svo þú sért tilbúin/n fyrir nýtt tæki.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = firefox samstilling
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = firefox hoppar

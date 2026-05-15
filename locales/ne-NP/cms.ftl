@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = तपाईंको खाता पुष्टि �
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Firefox मा साइन इन गर्न आफ्नो खाता पुष्टि गर्नुहोस्
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = मोजिला खाता
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = इमेल मास्क प्रयोग गर्
 fxa-description-0b19b103 = आफ्नो स्थान लुकाउने जस्ता VPN सुविधाहरू अनलक गर्न आफ्नो मोजिला खाता प्रयोग गर्नुहोस्।
 # Headline for Email First Page
 fxa-headline-785c79ef = थप गोपनीयता र सुरक्षाको लागि Firefox को निर्मित VPN सक्रिय गर्नुहोस्
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = मोजिला खाता
 # Description for New Device Login Email
 fxa-description-6c54afca = तपाईं आफ्नो ब्राउजरको गोपनीयता बढाउन लगभग तयार हुनुहुन्छ।
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Firefox VPN का लाभहरू प्राप
 fxa-description-861f2d28 = नयाँ यन्त्र प्रयोग गर्न तयार हुँदा आफ्नो Firefox का पासवर्ड, बुकमार्क र ट्याबहरूको ब्याकअप लिनुहोस्
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = fox सिङ्क गर्दै
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = स्याल जम्प गर्दै
 
 ## legal-notice-label-subs-services - CMS Entry
 

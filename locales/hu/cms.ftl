@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = Erősítse meg a fiókját
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezéshez
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla-fiók
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatáho
 fxa-description-0b19b103 = Használja Mozilla-fiókját, hogy feloldja a VPN-funkciókat, például a tartózkodási helyének elrejtését.
 # Headline for Email First Page
 fxa-headline-785c79ef = Aktiválja a Firefox beépített VPN-jét a fokozott adatvédelem és biztonság érdekében
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Mozilla-fiók
 # Description for New Device Login Email
 fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Még egy lépés a Firefox VPN előnyeinek megszerzé
 fxa-description-861f2d28 = Készítsen biztonsági mentést a jelszavairól, lapjairól és könyvjelzőiről, hogy készen álljon az új eszköz használatára.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = szinkronizáló róka
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = ugró róka
 
 ## legal-notice-label-subs-services - CMS Entry
 

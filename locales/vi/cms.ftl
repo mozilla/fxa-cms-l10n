@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = Xác minh tài khoản của bạn
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Xác minh tài khoản của bạn để đăng nhập vào Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Tài khoản Mozilla
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = Xác mih tài khoản của bạn để sử dụng email
 fxa-description-0b19b103 = Sử dụng tài khoản Mozilla của bạn để mở khoá các tính năng VPN, chẳng hạn như ẩn vị trí của bạn.
 # Headline for Email First Page
 fxa-headline-785c79ef = Kích hoạt VPN tích hợp sẵn của Firefox để tăng cường quyền riêng tư và bảo mật.
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Tài khoản Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Bạn gần như đã sẵn sàng để tăng cường quyền riêng tư cho trình duyệt của mình.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Thêm một bước nữa để tận dụng lợi í
 fxa-description-861f2d28 = Sao lưu mật khẩu, thẻ và dấu trang để bạn sẵn sàng sử dụng thiết bị mới.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = đồng bộ hoá fox
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = fox nhảy
 
 ## legal-notice-label-subs-services - CMS Entry
 

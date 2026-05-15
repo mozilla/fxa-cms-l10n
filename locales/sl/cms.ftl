@@ -1,4 +1,4 @@
-### Generated on 2026-05-02T01:42:10.562Z
+### Generated on 2026-05-15T20:19:18.910Z
 ### FTL file for CMS localization
 
 
@@ -149,6 +149,11 @@ fxa-headline-ef1fb997 = Potrdite račun
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Potrdite račun za prijavo v Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Račun Mozilla
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
@@ -196,8 +201,6 @@ fxa-subject-2322b41f = Za uporabo e-poštnih mask potrdite račun
 fxa-description-0b19b103 = Uporabite svoj Mozillin račun za odklepanje funkcij VPN, kot je skrivanje lokacije.
 # Headline for Email First Page
 fxa-headline-785c79ef = Aktivirajte Firefoxov vgrajen VPN za dodatno zasebnost in zaščito
-# Page Title for Email First Page
-fxa-pageTitle-001bb150 = Račun Mozilla
 # Description for New Device Login Email
 fxa-description-6c54afca = Skoraj ste pripravljeni za izboljšanje zasebnosti vašega brskalnika.
 # Headline for New Device Login Email
@@ -301,11 +304,6 @@ fxa-description-811350a6 = Še en korak več do ugodnosti Firefox VPN. Pojdite n
 fxa-description-861f2d28 = Varnostno kopirajte gesla, zavihke in zaznamke, da boste pripravljeni na novo napravo.
 # Logo Alt Text for Email First Page
 fxa-logoAltText-164ffc49 = lisica in sinhronizacija
-
-## l10n-9 - Firefox Desktop Sync - Avatar Menu
-
-# Logo Alt Text for Signup Set Password Page
-fxa-logoAltText-c4b14a5b = skakajoča lisica
 
 ## legal-notice-label-subs-services - CMS Entry
 
