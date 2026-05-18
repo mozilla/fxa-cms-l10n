@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Konfirmasi akun Anda untuk menggunakan topeng surel
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Masuk baru ke Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Masukkan sandi untuk melanjutkan ke akun Mozilla Anda
+# Description for Signin Token Code Page
+fxa-description-87881780 = Masukkan kode konfirmasi untuk akun Mozilla Anda
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Hanya satu langkah cepat. Masukkan kode dari surel Anda untuk mengaktifkan akun Mozilla Anda.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Daftar atau masuk
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Konfirmasikan akun Anda
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Gunakan kode yang disertakan untuk mengonfirmasi akun Mozilla Anda.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Konfirmasikan akun Anda untuk menggunakan Peramban Firefox
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Gunakan akun Mozilla Anda untuk membuka fitur VPN seperti menyembunyikan lokasi Anda.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Lanjutkan dengan akun Mozilla Anda untuk membuka fitur VPN seperti menyembunyikan lokasi Anda.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Daftar untuk sebuah akun
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Apakah Anda masuk ke Firefox dengan akun Mozilla Anda?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Setujui masuk ke Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Masuk baru ke Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Masukkan sandi untuk melanjutkan ke akun Mozilla Anda
-# Description for Signin Token Code Page
-fxa-description-87881780 = Masukkan kode konfirmasi untuk akun Mozilla Anda
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Hanya satu langkah cepat. Masukkan kode dari surel Anda untuk mengaktifkan akun Mozilla Anda.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Daftar atau masuk
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Konfirmasikan akun Anda
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Gunakan kode yang disertakan untuk mengonfirmasi akun Mozilla Anda.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Konfirmasikan akun Anda untuk menggunakan Peramban Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

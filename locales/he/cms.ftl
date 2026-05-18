@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = יש לאמת את החשבון שלך כדי להשתמ
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = יש לאמת את החשבון שלך כדי להשתמש במסכות דוא״ל
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = כניסה חדשה ל־Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = נא להכניס את הססמה כדי להמשיך לחשבון ה־Mozilla שלך
+# Description for Signin Token Code Page
+fxa-description-87881780 = נא להכניס קוד אימות עבור חשבון ה־Mozilla שלך
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = צעד אחד קצר בלבד. נא להכניס את הקוד מהדוא״ל שלך כדי להפעיל את חשבון ה־Mozilla שלך.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = הרשמה או התחברות
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = אימות החשבון שלך
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = יש להשתמש בקוד הכלול כדי לאמת את חשבון ה־Mozilla שלך.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = אימות החשבון שלך לשימוש בדפדפן Firefox
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = ניתן להשתמש בחשבון ה־Mozilla שלך כדי לאפשר שימוש ביכולות של VPN כגון הסתרת המיקום שלך.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = ניתן להמשיך עם חשבון ה־Mozilla שלך כדי לאפשר שימוש ביכולות של VPN כגון הסתרת המיקום שלך.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = ‏Mozilla - הרשמה לחשבון
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = האם התחברת ל־Firefox עם חשבון ה־Mozilla שלך?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = אישור הכניסה ל־Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = כניסה חדשה ל־Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = נא להכניס את הססמה כדי להמשיך לחשבון ה־Mozilla שלך
-# Description for Signin Token Code Page
-fxa-description-87881780 = נא להכניס קוד אימות עבור חשבון ה־Mozilla שלך
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = צעד אחד קצר בלבד. נא להכניס את הקוד מהדוא״ל שלך כדי להפעיל את חשבון ה־Mozilla שלך.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = הרשמה או התחברות
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = אימות החשבון שלך
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = יש להשתמש בקוד הכלול כדי לאמת את חשבון ה־Mozilla שלך.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = אימות החשבון שלך לשימוש בדפדפן Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

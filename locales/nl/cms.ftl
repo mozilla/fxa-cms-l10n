@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = Bevestig uw account om e-mailmaskers te gebruiken
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Bevestig uw account om e-mailmaskers te gebruiken
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nieuwe aanmelding bij Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Voer uw wachtwoord in om door te gaan naar uw Mozilla-account
+# Description for Signin Token Code Page
+fxa-description-87881780 = Voer bevestigingscode voor uw Mozilla-account in
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Slechts één snelle stap. Voer de code uit het e-mailbericht in om uw Mozilla-account te activeren.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registreren of aanmelden
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Help ons uw account veilig te houden door uw aanmelding goed te keuren op:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Bevestig uw account
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Gebruik de bijgevoegde code om uw Mozilla-account te bevestigen.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Bevestig uw account om Firefox Browser te gebruiken
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Gebruik uw Mozilla-account om VPN-functies te ontgrendelen, zoals het verbergen van uw locatie.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Ga verder met uw Mozilla-account om VPN-functies te ontgrendelen, zoals het verbergen van uw locatie.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registreren voor een account
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Help ons uw account veilig te houden door uw aanmelding goed te keuren op:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Hebt u zich bij Firefox aangemeld met uw Mozilla-account?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Aanmelding bij Mozilla goedkeuren
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Bevestig uw account om de ingebouwde VPN van Firefox te gebruiken
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Nieuwe aanmelding bij Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Voer uw wachtwoord in om door te gaan naar uw Mozilla-account
-# Description for Signin Token Code Page
-fxa-description-87881780 = Voer bevestigingscode voor uw Mozilla-account in
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Slechts één snelle stap. Voer de code uit het e-mailbericht in om uw Mozilla-account te activeren.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registreren of aanmelden
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Bevestig uw account
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Gebruik de bijgevoegde code om uw Mozilla-account te bevestigen.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Bevestig uw account om Firefox Browser te gebruiken
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

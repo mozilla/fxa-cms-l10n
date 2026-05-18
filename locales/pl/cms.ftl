@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adre
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Potwierdź swoje konto, aby korzystać z masek dla adresu e-mail
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nowe logowanie do Firefoksa
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Wprowadź hasło, aby przejść do konta Mozilli
+# Description for Signin Token Code Page
+fxa-description-87881780 = Wprowadź kod potwierdzenia dla swojego konta Mozilli
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Potwierdź konto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Użyj dołączonego kodu, aby potwierdzić konto Mozilli.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki Firefox
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Użyj konta Mozilli, aby odblokować funkcje VPN, takie jak ukrywanie swojej lokalizacji.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Wykorzystaj konto Mozilli, aby odblokować funkcje VPN, takie jak ukrywanie swojej lokalizacji.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – załóż konto
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, zatwierdzając logowanie na:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Ktoś zalogował się do Firefoksa za pomocą Twojego konta Mozilli. To Ty?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Zatwierdź logowanie do Mozilli
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Nowe logowanie do Firefoksa
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Wprowadź hasło, aby przejść do konta Mozilli
-# Description for Signin Token Code Page
-fxa-description-87881780 = Wprowadź kod potwierdzenia dla swojego konta Mozilli
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Potwierdź konto
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Użyj dołączonego kodu, aby potwierdzić konto Mozilli.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

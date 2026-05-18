@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatáh
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Erősítse meg fiókját az e-mail-maszkok használatához
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Új bejelentkezés a Firefoxba
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Adja meg a jelszót, hogy a Mozilla-fiókjába lépjen
+# Description for Signin Token Code Page
+fxa-description-87881780 = Adja meg a Mozilla-fiókjához tartozó megerősítési kódot
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Csak egy gyors lépés. Adja meg az e-mailben kapott kódot, hogy aktiválja a Mozilla-fiókját.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Regisztráljon vagy jelentkezzen be
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Erősítse meg a fiókját
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Használja a mellékelt kódot a Mozilla-fiókja megerősítéséhez.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Erősítse meg fiókját a Firefox böngésző használatához
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Használja Mozilla-fiókját, hogy feloldja a VPN-funkciókat, például a tartózkodási helyének elrejtését.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Folytassa a Mozilla-fiókjával, hogy feloldja a VPN-funkciókat, például a tartózkodási helyének elrejtését.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Regisztráljon egy fiókot
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Bejelentkezett a Firefoxba a Mozilla-fiókjával?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Bejelentkezés jóváhagyása a Mozillába
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Erősítse meg a fiókját, hogy a Firefox beépített VPN-jét használja
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Új bejelentkezés a Firefoxba
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Adja meg a jelszót, hogy a Mozilla-fiókjába lépjen
-# Description for Signin Token Code Page
-fxa-description-87881780 = Adja meg a Mozilla-fiókjához tartozó megerősítési kódot
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Csak egy gyors lépés. Adja meg az e-mailben kapott kódot, hogy aktiválja a Mozilla-fiókját.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Regisztráljon vagy jelentkezzen be
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Erősítse meg a fiókját
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Használja a mellékelt kódot a Mozilla-fiókja megerősítéséhez.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Erősítse meg fiókját a Firefox böngésző használatához
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

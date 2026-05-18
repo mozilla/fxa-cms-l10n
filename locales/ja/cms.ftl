@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -163,17 +163,6 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 
-## l10n-19 - VPN (Settings)
-
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-502f1bd9 = Mozilla
-# Header Logo Alt Text for Shared
-fxa-headerLogoAltText-502f1bd9 = Mozilla
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = アカウントを安全に保つために、次の端末からのログインを承認してください:
-# Subject for Verify Login Code Email
-fxa-subject-72eba5e0 = Mozilla へのログインを承認してください
-
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -186,12 +175,23 @@ fxa-description-87881780 = Mozilla アカウントの確認コードを入力し
 fxa-description-daaed757 = たった １ つの簡単なステップ。メールに転送されたコードを入力して、Mozilla アカウントを有効にしてください。
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = ログインまたはアカウント登録
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = アカウントを安全に保つために、次の端末からのログインを承認してください:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = アカウントを確認してください
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = 含まれているコードを使用して Mozilla アカウントを確認してください
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox ブラウザーを使用するにはアカウントを確認してください
+
+## l10n-20 - VPN (Panel)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Mozilla へのログインを承認してください
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = Potvrďte svoj účet, aby ste mohli používať e‑mai
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Potvrďte svoj účet, aby ste mohli používať e‑mailové masky
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nové prihlásenie k Firefoxu
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Zadajte heslo pre pokračovanie do vášho účtu Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Zadajte potvrdzovací kód pre váš účet Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Len jeden rýchly krok. Zadajte kód z vášho e‑mailu a aktivujte si účet Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Zaregistrujte sa alebo sa prihláste
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Pomôžte nám zabezpečiť bezpečnosť vášho účtu schválením prihlásenia na zariadení:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Potvrďte svoj účet
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Použite priložený kód na potvrdenie vášho účtu Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Potvrďte svoj účet, aby ste mohli používať prehliadač Firefox
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Použite svoj účet Mozilla a odomknete funkcie VPN, ako je napríklad skrytie vašej polohy.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Pokračujte so svojím účtom Mozilla a odomknite funkcie VPN, ako je napríklad skrytie vašej polohy.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Pomôžte nám zabezpečiť bezpečnosť vášho účtu schválením prihlásenia na zariadení:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Prihlásili ste sa do Firefoxu pomocou svojho účtu Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Schválenie prihlásenia do Mozilly
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Potvrďte svoj účet, aby ste mohli používať VPN vstavanú vo Firefoxe
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Nové prihlásenie k Firefoxu
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Zadajte heslo pre pokračovanie do vášho účtu Mozilla
-# Description for Signin Token Code Page
-fxa-description-87881780 = Zadajte potvrdzovací kód pre váš účet Mozilla
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Len jeden rýchly krok. Zadajte kód z vášho e‑mailu a aktivujte si účet Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Zaregistrujte sa alebo sa prihláste
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Potvrďte svoj účet
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Použite priložený kód na potvrdenie vášho účtu Mozilla.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Potvrďte svoj účet, aby ste mohli používať prehliadač Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

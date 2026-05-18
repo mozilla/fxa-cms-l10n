@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -177,19 +177,6 @@ fxa-pageTitle-d38aa094 = Nýskráðu þig til að vernda pósthólfið þitt geg
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Staðfestu aðganginn þinn til að nota tölvupósthulur
 
-## l10n-19 - VPN (Settings)
-
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-502f1bd9 = Mozilla
-# Header Logo Alt Text for Shared
-fxa-headerLogoAltText-502f1bd9 = Mozilla
-# Page Title for Signup Confirm Code Page
-fxa-pageTitle-a8211ca7 = Mozilla - Skráðu þig fyrir reikningi
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Hjálpaðu okkur að halda reikningnum þínum öruggum með því að staðfesta innskráninguna þína á:
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Staðfestu aðganginn þinn til að nota innbyggða VPN-tengingu Firefox
-
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -202,12 +189,25 @@ fxa-description-87881780 = Settu inn staðfestingarkóða fyrir Mozilla-reikning
 fxa-description-daaed757 = Bara eitt fljótlegt skref. Settu inn kóðann úr tölvupóstinum þínum til að virkja Mozilla-reikninginn þinn.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Hjálpaðu okkur að halda reikningnum þínum öruggum með því að staðfesta innskráninguna þína á:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Staðfestu reikninginn þinn
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Notaðu meðfylgjandi kóða til að staðfesta Mozilla-reikninginn þinn.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Staðfestu aðganginn þinn til að nota Firefox-vafrann
+
+## l10n-20 - VPN (Panel)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Page Title for Signup Confirm Code Page
+fxa-pageTitle-a8211ca7 = Mozilla - Skráðu þig fyrir reikningi
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Staðfestu aðganginn þinn til að nota innbyggða VPN-tengingu Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

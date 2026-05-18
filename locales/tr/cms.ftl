@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = E-posta maskelerini kullanmak için hesabınızı onayla
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = E-posta maskelerini kullanmak için hesabınızı onaylayın
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Firefox’a yeni giriş
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Mozilla hesabınıza devam etmek için parolanızı yazın
+# Description for Signin Token Code Page
+fxa-description-87881780 = Mozilla hesabınız için onay kodunu girin
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Tek bir adım kaldı. Mozilla hesabınızı etkinleştirmek için e-postanıza gelen kodu yazın.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Kaydol veya giriş yap
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Girişinizi onaylayarak hesabınızı güvende tutmamıza yardımcı olun:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Hesabınızı onaylayın
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Mozilla hesabınızı onaylamak için bu kodu kullanın.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Firefox tarayıcısını kullanmak için hesabınızı onaylayın
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Konumunuzu gizleme gibi VPN özelliklerini açmak için Mozilla hesabınızı kullanabilirsiniz.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Konumunuzu gizleme gibi VPN özelliklerinin kilidini açmak için Mozilla hesabınızla devam edin.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Hesap açın
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Girişinizi onaylayarak hesabınızı güvende tutmamıza yardımcı olun:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Firefox’a Mozilla hesabınızla giriş yaptınız mı?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Mozilla’ya girişi onaylayın
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox’un yerleşik VPN’ini kullanmak için hesabınızı onaylayın
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Firefox’a yeni giriş
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Mozilla hesabınıza devam etmek için parolanızı yazın
-# Description for Signin Token Code Page
-fxa-description-87881780 = Mozilla hesabınız için onay kodunu girin
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Tek bir adım kaldı. Mozilla hesabınızı etkinleştirmek için e-postanıza gelen kodu yazın.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Kaydol veya giriş yap
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Hesabınızı onaylayın
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Mozilla hesabınızı onaylamak için bu kodu kullanın.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Firefox tarayıcısını kullanmak için hesabınızı onaylayın
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

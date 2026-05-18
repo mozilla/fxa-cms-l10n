@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = Za uporabo e-poštnih mask potrdite račun
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Za uporabo e-poštnih mask potrdite račun
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nova prijava v Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Vnesite geslo za nadaljevanje v račun Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Vnesite potrditveno kodo za svoj račun Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Samo en hiter korak. Vnesite kodo iz e-poštnega naslova za aktiviranje vašega Mozillinega računa.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registracija ali prijava
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobrite prijavo na naslednji napravi:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Potrdite račun
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = S priloženo kodo potrdite svoj račun Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Potrdite račun za uporabo brskalnika Firefox
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Uporabite svoj Mozillin račun za odklepanje funkcij VPN, kot je skrivanje lokacije.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Nadaljujte s svojim Mozillin računom in odklenite funkcije VPN, kot je skrivanje lokacije.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Ustvarite račun
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobrite prijavo na naslednji napravi:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Ste se v Firefox prijavili s svojim računom Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Odobri prijavo v Mozillo
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Nova prijava v Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Vnesite geslo za nadaljevanje v račun Mozilla
-# Description for Signin Token Code Page
-fxa-description-87881780 = Vnesite potrditveno kodo za svoj račun Mozilla
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Samo en hiter korak. Vnesite kodo iz e-poštnega naslova za aktiviranje vašega Mozillinega računa.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registracija ali prijava
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Potrdite račun
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = S priloženo kodo potrdite svoj račun Mozilla.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Potrdite račun za uporabo brskalnika Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

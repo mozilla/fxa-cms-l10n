@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = დაადასტურეთ თქვენს ა
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = დაადასტურეთ თქვენი ანგარიში ელფოსტის ნიღბების გამოსაყენებლად
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = ახალი შემოსვლა Firefox-ზე
+# Description for Signin Page
+fxa-description-1d4ba9f5 = მიუთითეთ პაროლი თქვენს Mozilla-ანგარიშზე გადასასვლელად
+# Description for Signin Token Code Page
+fxa-description-87881780 = შეიყვანეთ თქვენი Mozilla-ანგარიშის დამადასტურებელი კოდი
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = მხოლოდ ერთი სწრაფი ნაბიჯი. შეიყვანეთ კოდი ელფოსტიდან თქვენი Mozilla-ანგარიშის ასამოქმედებლად.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = დაადასტურეთ თქვენი ანგარიში
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = გამოიყენეთ თანდართული კოდი თქვენი Mozilla-ანგარიშის დასადასტურებლად.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = დაადასტურეთ თქვენი ანგარიში Firefox-ბრაუზერის გამოსაყენებლად
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = გამოიყენეთ Mozilla-ანგარიში VPN-შესაძლებლობებისთვის, მათ შორის მდებარეობის დასამალად.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = განაგრძეთ თქვენი Mozilla-ანგარიშით VPN-შესაძლებლობებისთვის, მათ შორის მდებარეობის დასამალად.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - შექმენით ანგარიში
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Firefox-ში თქვენ შეხვედით საკუთარი Mozilla-ანგარიშით?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Mozilla-ში შესვლის დამოწმება
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = დაადასტურეთ თქვენი ანგარიში Firefox-ის თანმომყოლი VPN-ის გამოსაყენებლად
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = ახალი შემოსვლა Firefox-ზე
-# Description for Signin Page
-fxa-description-1d4ba9f5 = მიუთითეთ პაროლი თქვენს Mozilla-ანგარიშზე გადასასვლელად
-# Description for Signin Token Code Page
-fxa-description-87881780 = შეიყვანეთ თქვენი Mozilla-ანგარიშის დამადასტურებელი კოდი
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = მხოლოდ ერთი სწრაფი ნაბიჯი. შეიყვანეთ კოდი ელფოსტიდან თქვენი Mozilla-ანგარიშის ასამოქმედებლად.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = დაადასტურეთ თქვენი ანგარიში
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = გამოიყენეთ თანდართული კოდი თქვენი Mozilla-ანგარიშის დასადასტურებლად.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = დაადასტურეთ თქვენი ანგარიში Firefox-ბრაუზერის გამოსაყენებლად
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

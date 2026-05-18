@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -57,19 +57,19 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 
-## l10n-19 - VPN (Settings)
-
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-502f1bd9 = Mozilla
-# Header Logo Alt Text for Shared
-fxa-headerLogoAltText-502f1bd9 = Mozilla
-
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox-ка яңа керү
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Теркәлү яки керү
+
+## l10n-20 - VPN (Panel)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -189,7 +189,28 @@ fxa-headline-2322b41f = Që të përdorni maska email, ripohoni llogarinë tuaj
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Që të përdorni maska email, ripohoni llogarinë tuaj
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Hyrje e re te Firefox-i
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Që të vazhdoni te llogaria juaj Mozilla, jepni fjalëkalimin
+# Description for Signin Token Code Page
+fxa-description-87881780 = Që të vazhdoni te llogaria juaj Mozilla, jepni kod ripohimi
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Thjesht një hap i shpejtë. Që të aktivizohet llogaria juaj Mozilla, jepni kodin që nga email-i juaj.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Hyni ose regjistrohuni
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, duke miratuar hyrjen në:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Ripohoni llogarinë tuaj
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Përdorni kodin e përfshirë, që të ripohoni  llogarinë tuaj Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Që të përdorni Shfletuesin Firefox, ripohoni llogarinë tuaj
+
+## l10n-20 - VPN (Panel)
 
 # Description for New Device Login Email
 fxa-description-6c54afca = Jeni thuajse gati të përforconi privatësinë e shfletuesit tuaj.
@@ -203,33 +224,12 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Regjistrohuni për një llogari
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Ndihmonani ta mbajmë llogarinë tuaj të parrezik, duke miratuar hyrjen në:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = A bëtë hyrjen në llogari Firefox me llogarinë tuaj Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Miratoni hyrje në Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Që të përdorni VPN-në e brendshme të Firefox-it, ripohoni llogarinë tuaj
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Hyrje e re te Firefox-i
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Që të vazhdoni te llogaria juaj Mozilla, jepni fjalëkalimin
-# Description for Signin Token Code Page
-fxa-description-87881780 = Që të vazhdoni te llogaria juaj Mozilla, jepni kod ripohimi
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Thjesht një hap i shpejtë. Që të aktivizohet llogaria juaj Mozilla, jepni kodin që nga email-i juaj.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Hyni ose regjistrohuni
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Ripohoni llogarinë tuaj
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Përdorni kodin e përfshirë, që të ripohoni  llogarinë tuaj Mozilla.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Që të përdorni Shfletuesin Firefox, ripohoni llogarinë tuaj
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

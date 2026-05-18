@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wuž
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Wobkrućće swoje konto, zo byšće e-mejlowe maski wužiwał
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nowe přizjewjenje pola Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Zapodajće hesło, zo byšće k swojemu kontu Mozilla pokročował
+# Description for Signin Token Code Page
+fxa-description-87881780 = Zapodajće wobkrućenski kod za swoje konto Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Jenož jedyn spěšny krok. Zapodajće kod ze swojeje mejlki, zo byšće swoje konto Mozilla aktiwizował.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrować abo přizjewić
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Schwalće swoje přizjewjenje, zo byšće nam pomhał, waše konto škitać.
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Wobkrućće swoje konto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Wužiwajće připołoženy kod, zo byšće swoje konto Mozilla wobkrućił.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Wobkrućće swoje konto, zo byšće wobhladowak Firefox wužiwał
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Wužiwajće swoje konto Mozilla, zo byšće funkcije VPN kaž chowanje swojeho stejnišća zmóžnił.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Pokročujće ze swojim kontom Mozilla, zo byšće funkcije VPN kaž chowanje swojeho stejnišća zmóžnił.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – registrujće so za konto
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Schwalće swoje přizjewjenje, zo byšće nam pomhał, waše konto škitać.
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Sće so pola Firefox ze swojim kontom Mozilla přizjewił?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Přizjewjenje pola Mozilla schwalić
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Nowe přizjewjenje pola Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Zapodajće hesło, zo byšće k swojemu kontu Mozilla pokročował
-# Description for Signin Token Code Page
-fxa-description-87881780 = Zapodajće wobkrućenski kod za swoje konto Mozilla
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Jenož jedyn spěšny krok. Zapodajće kod ze swojeje mejlki, zo byšće swoje konto Mozilla aktiwizował.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registrować abo přizjewić
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Wobkrućće swoje konto
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Wužiwajće připołoženy kod, zo byšće swoje konto Mozilla wobkrućił.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Wobkrućće swoje konto, zo byšće wobhladowak Firefox wužiwał
 
 ## l10n-22 - Firefox Desktop - Password Manager
 
