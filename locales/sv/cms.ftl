@@ -1,4 +1,4 @@
-### Generated on 2026-05-15T20:19:18.910Z
+### Generated on 2026-05-18T22:08:24.253Z
 ### FTL file for CMS localization
 
 
@@ -195,7 +195,28 @@ fxa-headline-2322b41f = Bekräfta ditt konto för att använda e-postalias
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Bekräfta ditt konto för att använda e-postalias
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Ny inloggning till Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Ange lösenordet för att fortsätta till ditt Mozilla-konto
+# Description for Signin Token Code Page
+fxa-description-87881780 = Ange bekräftelsekoden för ditt Mozilla-konto
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Bara ett steg kvar. Ange koden från ditt mejl för att aktivera ditt Mozilla-konto.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrera dig eller logga in
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Hjälp oss att hålla ditt konto säkert genom att godkänna din inloggning på:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Bekräfta ditt konto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Använd den medföljande koden för att bekräfta ditt Mozilla-konto.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Bekräfta ditt konto för att använda webbläsaren Firefox
+
+## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Använd ditt Mozilla-konto för att låsa upp VPN-funktioner som att dölja din plats.
@@ -215,33 +236,12 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Fortsätt med ditt Mozilla-konto för att låsa upp VPN-funktioner som att dölja din plats.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Registrera dig för ett konto
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Hjälp oss att hålla ditt konto säkert genom att godkänna din inloggning på:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Loggade du in på Firefox med ditt Mozilla-konto?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Godkänn inloggning till Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda VPN
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Ny inloggning till Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Ange lösenordet för att fortsätta till ditt Mozilla-konto
-# Description for Signin Token Code Page
-fxa-description-87881780 = Ange bekräftelsekoden för ditt Mozilla-konto
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Bara ett steg kvar. Ange koden från ditt mejl för att aktivera ditt Mozilla-konto.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registrera dig eller logga in
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Bekräfta ditt konto
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Använd den medföljande koden för att bekräfta ditt Mozilla-konto.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Bekräfta ditt konto för att använda webbläsaren Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 
