@@ -207,14 +207,32 @@ fxa-description-6c54afca = Sćo pśisamem gótowy, aby priwatnosć swójogo wobg
 fxa-headline-8b338d52 = Wašo konto Mozilla jo se wužyło za pśizjawjenje pla Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Wobkšuśćo swójo konto, aby zatwarjony VPN Firefox wužywał
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Toś ta e-mailowa adresa jo se wužywała za pśizjawjenje wót:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Dokóńcćo swójo pśizjawjenje, aby zatwarjony VPN w Firefox wužywał
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Wužywajśo toś ten kod, aby pśizjawjenje dokóńcył
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Z toś teju e-mailoweju adresu jo se konto załožyło wót:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Dokóńcćo swóju registraciju, aby zatwarjony VPN w Firefox wužywał
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Wužywajśo toś ten kod, aby registraciju dokóńcył
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Pókšacujśo ze swójim kontom Mozilla, aby funkcije VPN kaž chowanje swójogo stojnišća zmóžnił.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Hyšći jaden kšac k pśizjawjenjeju.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktiwěrujśo swój zatwarjony VPN z kontom Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – registrěrujśo se za konto
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Hyšći jaden kšac k załoženjeju wašogo konta a k pśizjawjenjeju.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
 # Headline for Verify Login Code Email

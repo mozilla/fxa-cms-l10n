@@ -231,6 +231,8 @@ fxa-description-ebf33c34 = Hišće jedyn krok k přizjewjenju.
 fxa-headline-21296b0d = Aktiwizujće swój zatwarjeny VPN z kontom Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – registrujće so za konto
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Hišće jedyn krok k załoženju wašeho konta a k přizjewjenju.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Schwalće swoje přizjewjenje, zo byšće nam pomhał, waše konto škitać.
 # Headline for Verify Login Code Email
