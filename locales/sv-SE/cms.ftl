@@ -210,13 +210,13 @@ fxa-subject-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda V
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Den här e-postadressen användes för att logga in från:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-08ad7263 = Avsluta din inloggning för att använda inbyggt VPN i Firefox
+fxa-headline-08ad7263 = Slutför din inloggning för att använda inbyggt VPN i Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Använd den här koden för att slutföra inloggningen
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Ett konto skapades med den här e-postadressen från:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-204eeb82 = Avsluta din registrering för att använda inbyggt VPN i Firefox
+fxa-headline-204eeb82 = Slutför din registrering för att använda inbyggt VPN i Firefox
 # Subject for Passwordless Signup Otp Email
 fxa-subject-de67b643 = Använd den här koden för att slutföra registreringen
 # Email Logo Alt Text for Shared
