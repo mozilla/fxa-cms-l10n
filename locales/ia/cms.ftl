@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = Confirma tu conto pro usar mascas de e-mail
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Confirma tu conto pro usar mascas de e-mail
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Nove accesso a Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Insere le contrasigno pro passar a tu conto Mozilla
-# Description for Signin Token Code Page
-fxa-description-87881780 = Insere le codice de confirmation pro tu conto Mozilla
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Solo un rapide passo. Insere le codice ab tu email pro activar tu conto Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Inscribe te o accede
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Confirma tu conto
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Usa le codice includite pro confirmar tu conto Mozilla.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Confirma tu conto pro usar le navigator Firefox
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Usa tu conto Mozilla pro disblocar functionalitates de VPN como celar tu position.
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Continua con tu conto Mozilla pro disblocar functionalitates de VPN como celar tu position.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla: registrar un conto
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Accedeva tu a Firefox con tu conto Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Approbar accesso a Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nove accesso a Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Insere le contrasigno pro passar a tu conto Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Insere le codice de confirmation pro tu conto Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Solo un rapide passo. Insere le codice ab tu email pro activar tu conto Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Inscribe te o accede
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Confirma tu conto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Usa le codice includite pro confirmar tu conto Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Confirma tu conto pro usar le navigator Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

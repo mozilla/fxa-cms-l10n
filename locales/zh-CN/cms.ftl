@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = 确认您的账户以使用马甲邮箱
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = 确认您的账户以使用马甲邮箱
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Firefox 有新的登录活动
-# Description for Signin Page
-fxa-description-1d4ba9f5 = 输入密码以继续使用您的 Mozilla 账户
-# Description for Signin Token Code Page
-fxa-description-87881780 = 输入 Mozilla 账户的确认码
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = 只差一小步了。请输入邮件中的验证码，激活您的 Mozilla 账户。
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = 注册或登录
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = 请确认您的登录活动，以确保账户安全：
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = 确认您的账户
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = 通过随附的验证码来确认 Mozilla 账户。
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = 确认您的账户以使用 Firefox 浏览器
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = 使用 Mozilla 账户解锁隐藏位置等 VPN 功能。
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = 使用您的 Mozilla 账户继续解锁 VPN 功能例如隐藏您的位置。
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 注册账户
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = 请确认您的登录活动，以确保账户安全：
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = 您是否使用 Mozilla 账户登录了 Firefox
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = 批准登录到 Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = 确认您的账户以使用 Firefox 内置的 VPN
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Firefox 有新的登录活动
+# Description for Signin Page
+fxa-description-1d4ba9f5 = 输入密码以继续使用您的 Mozilla 账户
+# Description for Signin Token Code Page
+fxa-description-87881780 = 输入 Mozilla 账户的确认码
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = 只差一小步了。请输入邮件中的验证码，激活您的 Mozilla 账户。
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = 注册或登录
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = 确认您的账户
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = 通过随附的验证码来确认 Mozilla 账户。
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = 确认您的账户以使用 Firefox 浏览器
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

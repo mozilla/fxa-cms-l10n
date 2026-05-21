@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -163,6 +163,17 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 
+## l10n-19 - VPN (Settings)
+
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Тасдиқи воридшавӣ ба «Mozilla»
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -175,23 +186,12 @@ fxa-description-87881780 = Рамзи тасдиқкунандаро барои 
 fxa-description-daaed757 = Танҳо як қадами дигар боқӣ мондааст. Барои фаъолсозии ҳисоби худ дар «Mozilla», лутфан, рамзеро, ки мо ба почтаи электронии шумо ирсол кардем, ворид намоед.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Сабти ном кунед ё ворид шавед
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Ҳисоби худро тасдиқ кунед
 # Headline for Verify Short Code Email
 fxa-headline-f8578b7c = Барои тасдиқ кардани ҳисоби «Mozilla»-и худ, аз рамзи дохилшуда истифода баред.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Барои истифодаи браузери «Firefox», ҳисоби худро тасдиқ кунед
-
-## l10n-20 - VPN (Panel)
-
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-502f1bd9 = Mozilla
-# Header Logo Alt Text for Shared
-fxa-headerLogoAltText-502f1bd9 = Mozilla
-# Subject for Verify Login Code Email
-fxa-subject-72eba5e0 = Тасдиқи воридшавӣ ба «Mozilla»
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

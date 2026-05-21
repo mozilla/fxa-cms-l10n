@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = Wobkšuśćo swójo konto, aby e-mailowe maski wužywał
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Wobkšuśćo swójo konto, aby e-mailowe maski wužywał
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Nowe pśizjawjenje pla Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Zapódajśo gronidło, aby k swójomu kontoju Mozilla pókšacował
-# Description for Signin Token Code Page
-fxa-description-87881780 = Zapódajśo wobkšuśeński kod za swójo konto Mozilla
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Jano jaden malsny kšac. Zapódajśo kod ze swójeje mejlki, aby swójo konto Mozilla aktiwěrował.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Wobkšuśćo swójo konto
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Wužywajśo pśipołožony kod, aby swójo konto Mozilla wobkšuśił.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Wobkšuśćo swójo konto, aby wobglědowak Firefox wužywał
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Wužywajśo swójo konto Mozilla, aby funkcije VPN kaž chowanje swójogo stojnišća zmóžnił.
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Pókšacujśo ze swójim kontom Mozilla, aby funkcije VPN kaž chowanje swójogo stojnišća zmóžnił.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – registrěrujśo se za konto
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Sćo se pla Firefox ze swójom kontom Mozilla pśizjawił?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Pśizjawjenje pla Mozilla pśizwóliś
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Wobkšuśćo swójo konto, aby zatwarjony VPN Firefox wužywał
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nowe pśizjawjenje pla Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Zapódajśo gronidło, aby k swójomu kontoju Mozilla pókšacował
+# Description for Signin Token Code Page
+fxa-description-87881780 = Zapódajśo wobkšuśeński kod za swójo konto Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Jano jaden malsny kšac. Zapódajśo kod ze swójeje mejlki, aby swójo konto Mozilla aktiwěrował.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Registrěrowaś abo pśizjawiś
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Wobkšuśćo swójo konto
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Wužywajśo pśipołožony kod, aby swójo konto Mozilla wobkšuśił.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Wobkšuśćo swójo konto, aby wobglědowak Firefox wužywał
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

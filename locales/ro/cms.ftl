@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = Confirmă-ți contul ca să folosești măști de e-mail
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Confirmă-ți contul ca să folosești măști de e-mail
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Autentificare nouă în Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Introdu parola ca să intri în contul Mozilla
-# Description for Signin Token Code Page
-fxa-description-87881780 = Introdu codul de confirmare pentru contul tău Mozilla
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Doar un pas rapid. Introdu codul din mesajul primit pe e-mail pentru a-ți activa contul Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Ajută-ne să îți protejăm contul aprobând autentificarea în:
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Confirmă-ți contul
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Folosește codul inclus pentru a-ți confirma contul Mozilla.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Confirmă-ți contul pentru a utiliza browserul Firefox
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Folosește-ți contul Mozilla ca să deblochezi funcționalități VPN, cum ar fi ascunderea locației.
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Continuă cu contul Mozilla ca să deblochezi funcționalități VPN, cum ar fi ascunderea locației.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Fă-ți un cont
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Ajută-ne să îți protejăm contul aprobând autentificarea în:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Te-ai autentificat în Firefox cu contul Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Aprobă autentificarea în Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Autentificare nouă în Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Introdu parola ca să intri în contul Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Introdu codul de confirmare pentru contul tău Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Doar un pas rapid. Introdu codul din mesajul primit pe e-mail pentru a-ți activa contul Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Confirmă-ți contul
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Folosește codul inclus pentru a-ți confirma contul Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Confirmă-ți contul pentru a utiliza browserul Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

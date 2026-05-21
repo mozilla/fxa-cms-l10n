@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = Эл. пошта маскаларын пайдалану
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Эл. пошта маскаларын пайдалану үшін тіркелгіңізді растаңыз
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Firefox-қа жаңа кіру
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Mozilla тіркелгіңізге жалғастыру үшін пароліңізді енгізіңіз
-# Description for Signin Token Code Page
-fxa-description-87881780 = Mozilla тіркелгіңіз үшін растау кодын енгізіңіз
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Соңғы қадам қалды. Mozilla тіркелгіңізді белсендіру үшін электрондық поштаңызға келген кодты енгізіңіз.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Тіркелгіңізді растаңыз
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Mozilla тіркелгіңізді растау үшін берілген кодты пайдаланыңыз.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Firefox браузерін пайдалану үшін тіркелгіңізді растаңыз
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Орналасқан жеріңізді жасыру сияқты VPN мүмкіндіктерін ашу үшін Mozilla тіркелгіңізді пайдаланыңыз.
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Орналасқан жеріңізді жасыру сияқты VPN мүмкіндіктерін ашу үшін Mozilla тіркелгіңізбен жалғастырыңыз.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Тіркелгі жасау
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Firefox ішіне Mozilla тіркелгіңізбен кірдіңіз бе?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Mozilla жүйесіне кіруді растау
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Firefox-қа жаңа кіру
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Mozilla тіркелгіңізге жалғастыру үшін пароліңізді енгізіңіз
+# Description for Signin Token Code Page
+fxa-description-87881780 = Mozilla тіркелгіңіз үшін растау кодын енгізіңіз
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Соңғы қадам қалды. Mozilla тіркелгіңізді белсендіру үшін электрондық поштаңызға келген кодты енгізіңіз.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Тіркелгіңізді растаңыз
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Mozilla тіркелгіңізді растау үшін берілген кодты пайдаланыңыз.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Firefox браузерін пайдалану үшін тіркелгіңізді растаңыз
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

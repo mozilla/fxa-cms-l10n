@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = Потвърдете профила си, за да из
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Потвърдете профила си, за да използвате имейл маски
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Ново вписване във Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Въведете парола, за да продължите към вашия Mozilla профил
-# Description for Signin Token Code Page
-fxa-description-87881780 = Въведете кода за потвърждение на профила ви в Mozilla
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Само още едно нещо: въведете кода от имейла си, за да активирате профила си в Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Регистриране или вписване
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Потвърдете своя профил
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Използвайте приложения код, за да потвърдите профила си в Mozilla.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Потвърдете профила си, за да използвате Firefox Browser
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Използвайте профила си в Mozilla, за да отключите VPN функции като скриване на местоположение.
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Продължете с профила си в Mozilla, за да отключите VPN функции като скриване на местоположение.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Регистриране на профил
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Помогнете ни да защитим профила ви, като одобрите вписване в:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Влязохте ли във Firefox с вашия Mozilla акаунт?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Одобряване вписването в Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Ново вписване във Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Въведете парола, за да продължите към вашия Mozilla профил
+# Description for Signin Token Code Page
+fxa-description-87881780 = Въведете кода за потвърждение на профила ви в Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Само още едно нещо: въведете кода от имейла си, за да активирате профила си в Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Регистриране или вписване
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Потвърдете своя профил
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Използвайте приложения код, за да потвърдите профила си в Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Потвърдете профила си, за да използвате Firefox Browser
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

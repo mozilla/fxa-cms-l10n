@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = Confirma tu cuenta para usar máscaras de correo electr�
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Confirma tu cuenta para usar máscaras de correo electrónico
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Nueva conexión a Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Ingresa la contraseña para continuar a tu cuenta de Mozilla
-# Description for Signin Token Code Page
-fxa-description-87881780 = Introduce el código de confirmación para tu cuenta de Mozilla
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Solo un paso rápido. Introduce el código de tu correo electrónico para activar tu cuenta de Mozilla.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Regístrate o conéctate
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu conexión en:
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Confirma tu cuenta
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Utiliza el código incluido para confirmar tu cuenta de Mozilla.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Confirma tu cuenta para usar el navegador Firefox
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Utiliza tu cuenta de Mozilla para desbloquear funciones de VPN como ocultar tu ubicación.
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Continúa con tu cuenta de Mozilla para desbloquear funciones de VPN como ocultar tu ubicación.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Regístrate para obtener una cuenta
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu conexión en:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = ¿Te conectaste en Firefox con tu cuenta de Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Aprobar conexión en a Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirma tu cuenta para usar la VPN integrada de Firefox
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Nueva conexión a Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Ingresa la contraseña para continuar a tu cuenta de Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Introduce el código de confirmación para tu cuenta de Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Solo un paso rápido. Introduce el código de tu correo electrónico para activar tu cuenta de Mozilla.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Regístrate o conéctate
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Confirma tu cuenta
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Utiliza el código incluido para confirmar tu cuenta de Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Confirma tu cuenta para usar el navegador Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

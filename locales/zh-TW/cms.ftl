@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = 確認您的帳號後即可使用轉寄信箱
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = 確認您的帳號後即可使用轉寄信箱
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = 新登入至 Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = 請輸入密碼，以繼續前往您的 Mozilla 帳號
-# Description for Signin Token Code Page
-fxa-description-87881780 = 請輸入您 Mozilla 帳號的確認碼
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = 只需一個快速步驟。請輸入郵件中的驗證碼來啟用您的 Mozilla 帳號。
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = 註冊或登入
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = 確認您的帳號
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = 使用當中的驗證碼來確認您的 Mozilla 帳號。
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = 確認您的帳號即可使用 Firefox 瀏覽器
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = 使用您的 Mozilla 帳號來解鎖隱藏您的所在位置等 VPN 功能。
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = 使用您的 Mozilla 帳號繼續，即可解鎖隱藏您的所在位置等 VPN 功能。
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 註冊帳號
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = 您使用 Mozilla 帳號登入 Firefox 了嗎？
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = 確認登入至 Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = 新登入至 Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = 請輸入密碼，以繼續前往您的 Mozilla 帳號
+# Description for Signin Token Code Page
+fxa-description-87881780 = 請輸入您 Mozilla 帳號的確認碼
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = 只需一個快速步驟。請輸入郵件中的驗證碼來啟用您的 Mozilla 帳號。
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = 註冊或登入
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = 確認您的帳號
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = 使用當中的驗證碼來確認您的 Mozilla 帳號。
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = 確認您的帳號即可使用 Firefox 瀏覽器
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

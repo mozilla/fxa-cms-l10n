@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -148,6 +148,11 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = আপনার সাইন ইন অনুমোদন করে আমাদের সাহায্য করুন যাতে আপনার অ্যাকাউন্ট নিরাপদ থাকে:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -156,8 +161,6 @@ fxa-description-0a9e868b = Firefox এ নতুন সাইন ইন
 fxa-description-daaed757 = মাত্র এক ধাপ বাকি। আপনার ইমেইল থেকে কোডটি লিখুন এবং আপনার Mozilla অ্যাকাউন্ট সক্রিয় করুন।
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = সাইন আপ করুন অথবা সাইন ইন করুন
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = আপনার সাইন ইন অনুমোদন করে আমাদের সাহায্য করুন যাতে আপনার অ্যাকাউন্ট নিরাপদ থাকে:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = আপনার অ্যাকাউন্ট নিশ্চিত করুন
 # Headline for Verify Short Code Email

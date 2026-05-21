@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -98,14 +98,17 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Ajudeu-nos a protegir el vostre compte aprovant l'inici de sessió a:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Inici de sessió nou al Firefox
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Inici de sessió o registre
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Ajudeu-nos a protegir el vostre compte aprovant l'inici de sessió a:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirmeu el compte
 

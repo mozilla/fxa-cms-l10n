@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -195,28 +195,7 @@ fxa-headline-2322b41f = Vahvista tilisi käyttääksesi sähköpostimaskeja
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Vahvista tilisi käyttääksesi sähköpostimaskeja
 
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for New Device Login Email
-fxa-description-0a9e868b = Uusi kirjautuminen Firefoxiin
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Anna salasana jatkaaksesi Mozilla-tilillesi
-# Description for Signin Token Code Page
-fxa-description-87881780 = Anna Mozilla-tilisi vahvistuskoodi
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Yksi nopea vaihe. Syötä sähköpostitse saamasi koodi aktivoidaksesi Mozilla-tilisi.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Auta meitä pitämään tilisi turvassa vahvistamalla, että kirjauduit sisään:
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Vahvista tilisi
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Käytä mukana tulevaa koodia vahvistaaksesi Mozilla-tilisi.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Vahvista tilisi käyttääksesi Firefox-selainta
-
-## l10n-20 - VPN (Panel)
+## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
 fxa-description-0b19b103 = Käytä Mozilla-tiliäsi avataksesi VPN-ominaisuuksia, kuten sijaintisi piilottamisen.
@@ -236,12 +215,33 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-1745f244 = Jatka Mozilla-tililläsi avataksesi VPN-ominaisuuksia, kuten sijainnin piilottamisen.
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Rekisteröi tili
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Auta meitä pitämään tilisi turvassa vahvistamalla, että kirjauduit sisään:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Kirjauduitko Firefoxiin Mozilla-tililläsi?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Hyväksy Mozillaan kirjautuminen
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Vahvista tilisi käyttääksesi Firefoxin sisäänrakennettua VPN:ää
+
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+
+# Description for New Device Login Email
+fxa-description-0a9e868b = Uusi kirjautuminen Firefoxiin
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Anna salasana jatkaaksesi Mozilla-tilillesi
+# Description for Signin Token Code Page
+fxa-description-87881780 = Anna Mozilla-tilisi vahvistuskoodi
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Yksi nopea vaihe. Syötä sähköpostitse saamasi koodi aktivoidaksesi Mozilla-tilisi.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Vahvista tilisi
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Käytä mukana tulevaa koodia vahvistaaksesi Mozilla-tilisi.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Vahvista tilisi käyttääksesi Firefox-selainta
 
 ## l10n-22 - Firefox Desktop - Password Manager
 

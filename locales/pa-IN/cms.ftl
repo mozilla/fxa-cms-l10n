@@ -1,4 +1,4 @@
-### Generated on 2026-05-18T22:08:24.253Z
+### Generated on 2026-05-20T19:55:20.229Z
 ### FTL file for CMS localization
 
 
@@ -154,6 +154,11 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 
+## l10n-19 - VPN (Settings)
+
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਵਾਸਤੇ ਆਪਣੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਇਸ ਤੋਂ ਮਨਜ਼ੂਰ ਕਰੋ:
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
 # Description for New Device Login Email
@@ -164,8 +169,6 @@ fxa-description-1d4ba9f5 = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰ
 fxa-description-87881780 = ਆਪਣੇ Mozilla ਖਾਤੇ ਲਈ ਤਸਦੀਕੀਕਰਨ ਕੋਡ ਦਿਓ
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਵਾਸਤੇ ਆਪਣੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਇਸ ਤੋਂ ਮਨਜ਼ੂਰ ਕਰੋ:
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਤਸਦੀਕ
 # Headline for Verify Short Code Email
