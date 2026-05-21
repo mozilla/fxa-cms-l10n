@@ -213,6 +213,8 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Fortset med Mozilla-kontoen din for å låse opp VPN-funksjonar som å skjule plasseringa di.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktiver den innebygde VPN-en din med ein Mozilla-konto
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registrer deg for ein konto
 # Description for Verify Login Code Email
