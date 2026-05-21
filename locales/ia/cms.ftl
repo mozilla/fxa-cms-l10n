@@ -207,14 +207,32 @@ fxa-description-6c54afca = Tu es quasi preste a augmentar le confidentialitate d
 fxa-headline-8b338d52 = Tu conto Mozilla era usate pro acceder a Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Iste email era usate pro acceder de:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Completa tu accesso pro usar le VPN integrate in Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Usa iste codice pro completar le accesso
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Un conto era create con iste adresse e-mail de:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Completa le registration pro usar le VPN integrate in Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Usa iste codice pro completar le registration
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continua con tu conto Mozilla pro disblocar functionalitates de VPN como celar tu position.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Un altere passo pro acceder.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Activa tu VPN integrate gratuite con un conto Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla: registrar un conto
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Un altere passo pro crear tu conto e acceder.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 # Headline for Verify Login Code Email
