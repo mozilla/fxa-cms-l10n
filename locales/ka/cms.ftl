@@ -203,9 +203,9 @@ fxa-subject-8e6d45cf = ეს კოდი გამოიყენეთ შე
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = ანგარიში შექმნილია ელფოსტის ამ მისამართით:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-204eeb82 = დაასრულეთ ანგარიშის რეგისტრაცია Firefox-ში ჩაშენებული VPN-ის გამოსაყენებლად
+fxa-headline-204eeb82 = დაასრულეთ ანგარიშის შექმნა Firefox-ში ჩაშენებული VPN-ის გამოსაყენებლად
 # Subject for Passwordless Signup Otp Email
-fxa-subject-de67b643 = გამოიყენეთ ეს კოდი ანგარიშის დასასრულებლად
+fxa-subject-de67b643 = გამოიყენეთ ეს კოდი ანგარიშის შექმნის დასასრულებლად
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -213,13 +213,13 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = განაგრძეთ თქვენი Mozilla-ანგარიშით VPN-შესაძლებლობებისთვის, მათ შორის მდებარეობის დასამალად.
 # Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = კიდევ ერთი ნაბიჯი, ანგარიშზე შესასვლელად.
+fxa-description-ebf33c34 = ერთი ნაბიჯია ანგარიშზე შესასვლელად.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = აამოქმედეთ თანმომყოლი VPN თქვენი Mozilla-ანგარიშით
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - შექმენით ანგარიში
 # Description for Signup Passwordless Code Page
-fxa-description-02723363 = კიდევ ერთი ნაბიჯი ანგარიშის შესაქმნელად და ანგარიშზე შესასვლელად.
+fxa-description-02723363 = ერთი ნაბიჯია ანგარიშის შესაქმნელად და ანგარიშზე შესასვლელად.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
 # Headline for Verify Login Code Email
