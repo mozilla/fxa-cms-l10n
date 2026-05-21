@@ -207,14 +207,30 @@ fxa-description-6c54afca = כמעט הכל מוכן לשדרוג הפרטיות 
 fxa-headline-8b338d52 = נעשה שימוש בחשבון ה־Mozilla שלך להתחברות ל־Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = כתובת דוא״ל זו שימשה להתחברות מ:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = יש לסיים את ההתחברות שלך כדי להשתמש ב־VPN המובנה ב־Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = יש להשתמש בקוד זה כדי לסיים את ההתחברות
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = יש לסיים את ההרשמה שלך כדי להשתמש ב־VPN המובנה ב־Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = יש להשתמש בקוד זה כדי לסיים את ההרשמה
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = ניתן להמשיך עם חשבון ה־Mozilla שלך כדי לאפשר שימוש ביכולות של VPN כגון הסתרת המיקום שלך.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = עוד שלב אחד להתחברות.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = הפעלת ה־VPN המובנה באמצעות חשבון Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = ‏Mozilla - הרשמה לחשבון
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = עוד שלב אחד ליצירת החשבון שלך והתחברות.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות החשבון שלך על־ידי אישור הכניסה שלך במכשיר:
 # Headline for Verify Login Code Email
