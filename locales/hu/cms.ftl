@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -94,33 +94,20 @@ fxa-headline-8e3fb023 = Segítsen meggyőződni arról, hogy Ön jelentkezik be.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Erősítse meg a Mozilla-fiókját a szinkronizáláshoz
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Szinkronizálja jelszavait, lapjait és könyvjelzőit mindenütt, ahol csak Firefoxot használ.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = A szinkronizálás megkezdéséhez adja meg az e-mail-címét
+fxa-headline-33e9f42d = Tovább a Mozilla-fiókjához
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Regisztráljon vagy jelentkezzen be
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signin Page
-fxa-headline-c2b34227 = Adjon meg egy jelszót a szinkronizálás megkezdéséhez
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Szinkronizálja jelszavait, fizetési módjait, könyvjelzőit és egyebeket mindenhol, ahol a Firefoxot használja.
-# Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Hozzon létre egy jelszót a szinkronizálás megkezdéséhez
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Szinkronizálás beállításának befejezése
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = Tovább a Mozilla-fiókjához
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Titkosítással védi jelszavait, könyvjelzőit és szinkronizált Firefox-adatait mindenhol, ahol be van jelentkezve.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Hozzon létre egy jelszót a biztonságos szinkronizáláshoz
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Szinkronizálás beállításának befejezése
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -246,12 +233,16 @@ fxa-headline-9627bd4a = Erősítse meg a fiókját, hogy a Firefox beépített V
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Új bejelentkezés a Firefoxba
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Adja meg a jelszót, hogy a Mozilla-fiókjába lépjen
 # Description for Signin Token Code Page
 fxa-description-87881780 = Adja meg a Mozilla-fiókjához tartozó megerősítési kódot
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Csak egy gyors lépés. Adja meg az e-mailben kapott kódot, hogy aktiválja a Mozilla-fiókját.
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Szinkronizálja jelszavait, fizetési módjait, könyvjelzőit és egyebeket mindenhol, ahol a Firefoxot használja.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Regisztráljon vagy jelentkezzen be
 # Description for Verify Short Code Email

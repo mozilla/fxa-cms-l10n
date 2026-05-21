@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -44,17 +44,12 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Alugu Firefox
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
-
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Kcem neɣ qqen
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Headline for Email First Page
 fxa-headline-33e9f42d = Kemmel ɣer umiḍan-ik ⋅im Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Kcem neɣ qqen
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -76,6 +71,8 @@ fxa-headlineFontSize-c21f969b = default
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Kcem neɣ qqen
 # Description for Verify Short Code Email

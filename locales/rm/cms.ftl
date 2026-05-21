@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -7,17 +7,14 @@
 # Headline Font Size for Shared
 fxa-headlineFontSize-075a3e36 = medium
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronisescha tes pleds-clav, tabs e segnapaginas dapertut là nua che ti utiliseschas Firefox.
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Sa registrar u s’annunziar
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
 # Headline for Email First Page
 fxa-headline-33e9f42d = Vinavant tar tes conto Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Sa registrar u s’annunziar
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -94,33 +94,20 @@ fxa-headline-8e3fb023 = Жүйеге кіріп жатқан сіз екенің
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Синхрондау үшін Mozilla тіркелгіңізді растаңыз
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Firefox қолданатын әр жерде парольдер, беттер, және бетбелгілерді синхрондаңыз.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Синхрондауды бастау үшін электрондық пошта адресін енгізіңіз
+fxa-headline-33e9f42d = Mozilla тіркелгіңізге жалғастыру
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Тіркелгіні жасау немесе кіру
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signin Page
-fxa-headline-c2b34227 = Синхрондауды бастау үшін парольді енгізіңіз
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Firefox қолданатын әр жеріңізде парольдер, төлем әдірстері, бетбелгілерді және т.б. синхрондаңыз.
-# Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Синхрондауды бастау үшін парольді жасаңыз
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Синхрондау орнатуын аяқтау
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = Mozilla тіркелгіңізге жалғастыру
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Сіз жүйеге кірген барлық жерде парольдер, бетбелгілер және синхрондалған Firefox деректеріңізді шифрлеу арқылы қорғайды.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Қауіпсіз синхрондау үшін пароль жасаңыз
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Синхрондау орнатуын аяқтау
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -228,12 +215,16 @@ fxa-headline-9627bd4a = Firefox құрамындағы VPN пайдалану ү
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox-қа жаңа кіру
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Mozilla тіркелгіңізге жалғастыру үшін пароліңізді енгізіңіз
 # Description for Signin Token Code Page
 fxa-description-87881780 = Mozilla тіркелгіңіз үшін растау кодын енгізіңіз
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Соңғы қадам қалды. Mozilla тіркелгіңізді белсендіру үшін электрондық поштаңызға келген кодты енгізіңіз.
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Firefox қолданатын әр жеріңізде парольдер, төлем әдірстері, бетбелгілерді және т.б. синхрондаңыз.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Тіркелгіні жасау немесе кіру
 # Description for Verify Short Code Email

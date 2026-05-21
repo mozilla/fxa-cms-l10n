@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -94,33 +94,20 @@ fxa-headline-8e3fb023 = 请协助确认是您本人在登录。
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = 确认您的 Mozilla 账户以同步
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = 在您使用 Firefox 的各设备间，同步密码、标签页、书签。
 # Headline for Email First Page
-fxa-headline-b36f2b05 = 输入邮箱地址以开始同步
+fxa-headline-33e9f42d = 继续登录 Mozilla 账户
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = 注册或登录
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signin Page
-fxa-headline-c2b34227 = 输入密码以开始同步
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = 在您使用 Firefox 的各设备间，同步密码、付款方式、书签等数据。
-# Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = 创建密码以开始同步
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = 完成同步设置
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = 继续登录 Mozilla 账户
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = 在您已登录的各设备上，加密保护密码、书签，以及同步的 Firefox 数据。
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = 创建密码以安全同步
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = 完成同步设置
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -246,12 +233,16 @@ fxa-headline-9627bd4a = 确认您的账户以使用 Firefox 内置的 VPN
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox 有新的登录活动
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = 输入密码以继续使用您的 Mozilla 账户
 # Description for Signin Token Code Page
 fxa-description-87881780 = 输入 Mozilla 账户的确认码
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 只差一小步了。请输入邮件中的验证码，激活您的 Mozilla 账户。
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = 在您使用 Firefox 的各设备间，同步密码、付款方式、书签等数据。
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = 注册或登录
 # Description for Verify Short Code Email

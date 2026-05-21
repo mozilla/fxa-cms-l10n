@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -94,33 +94,20 @@ fxa-headline-8e3fb023 = Eikuaauka oréve ndeteha upe oikéva.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Emoneĩ ne mba’ete Mozilla-pegua embojuehe hag̃ua
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Embojuehe ñe’ẽñemi, tendayke ha techaukaha oimeraẽva tenda eiporuhápe Firefox.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
+fxa-headline-33e9f42d = Eku’ejey Mozilla mba’ete ndive
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Eike térã eñemboheraguapy
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signin Page
-fxa-headline-c2b34227 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Embojuehe ñe’ẽñemi, jepagarã, techaukaha ha hetave oimeraẽva tenda eiporuhápe Firefox.
-# Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Ejapo ñe’ẽñemi embojuehe ñepyrũ hag̃ua
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Emohu’ã ñembojuehe ñemboheko
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = Eku’ejey Mozilla mba’ete ndive
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Emo’ã ne ñe’ẽñemi, techaukaha ha mba’ekuaarã mbojuehepyre Firefox rehegua ipapapýva opaite reikehaguépe.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Ejapo ñe’ẽñemi embojuehe hag̃ua tekorosãme
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Emohu’ã ñembojuehe ñemboheko
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -228,12 +215,16 @@ fxa-headline-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’a
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Eike pyahu Firefox-pe
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Ehai ñe’ẽñemi eike hag̃ua ne mba’ete Mozilla peguápe
 # Description for Signin Token Code Page
 fxa-description-87881780 = Ehai moneĩmby ayvu ne mba’ete Mozilla peg̃uarã
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jeku’e pya’e. Emoinge ayvu ne ñanduti vevegua emyandy hag̃ua ne mba’ete Mozilla-pegua.
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Embojuehe ñe’ẽñemi, jepagarã, techaukaha ha hetave oimeraẽva tenda eiporuhápe Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Eñemboheraguapy térã eike
 # Description for Verify Short Code Email

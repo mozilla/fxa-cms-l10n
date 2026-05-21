@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -94,33 +94,20 @@ fxa-headline-8e3fb023 = Ayudanos a asegurarnos de que sos vos el que inició ses
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirmá tu cuenta de Mozilla para sincronizar
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronizá tus contraseñas, pestañas y marcadores en cualquier lado que usés Firefox.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Ingresá el correo electrónico para comenzar la sincronización
+fxa-headline-33e9f42d = Continuar a tu cuenta de Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Ingresar o registrarse
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signin Page
-fxa-headline-c2b34227 = Ingresá la contraseña para comenzar a sincronizar
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincronizá tus contraseñas, métodos de pago, marcadores y más en cualquier lugar donde usés Firefox.
-# Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Creá una contraseña para comenzar a sincronizar
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Finalizar configuración de Sync
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = Continuar a tu cuenta de Mozilla
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Proteg tus contraseñas, marcadores y datos sincronizados de Firefox con cifrado en todos los lugares donde iniciaste sesión.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Creá una contraseña para sincronizar de forma segura
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Finalizar configuración de Sync
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -246,12 +233,16 @@ fxa-headline-9627bd4a = Confirmá tu cuenta para usar la VPN integrada de Firefo
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nuevo inicio de sesión en Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Ingresá la contraseña para continuar con tu cuenta de Mozilla
 # Description for Signin Token Code Page
 fxa-description-87881780 = Ingresá el código de confirmación para tu cuenta de Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Solo un paso rápido. Ingresá el código de tu correo electrónico para activar tu cuenta de Mozilla.
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sincronizá tus contraseñas, métodos de pago, marcadores y más en cualquier lugar donde usés Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Ingresar o registrarse
 # Description for Verify Short Code Email

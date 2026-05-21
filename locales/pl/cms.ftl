@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -94,33 +94,20 @@ fxa-headline-8e3fb023 = Pomóż nam upewnić się, że to Ty się logujesz.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Potwierdź swoje konto Mozilli, aby zsynchronizować dane
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizuj hasła, karty i zakładki wszędzie tam, gdzie używasz Firefoksa.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Wprowadź adres e-mail, aby rozpocząć synchronizację
+fxa-headline-33e9f42d = Przejdź do konta Mozilli
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Zarejestruj się lub zaloguj
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signin Page
-fxa-headline-c2b34227 = Wpisz hasło, aby rozpocząć synchronizację
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i inne dane wszędzie tam, gdzie używasz Firefoksa.
-# Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Utwórz hasło, aby rozpocząć synchronizację
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Dokończ konfigurację synchronizacji
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = Przejdź do konta Mozilli
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Chroni Twoje hasła, zakładki i zsynchronizowane dane przeglądarki Firefox za pomocą szyfrowania wszędzie tam, gdzie jesteś zalogowany.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Utwórz hasło, aby bezpiecznie synchronizować dane
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Dokończ konfigurację synchronizacji
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -228,12 +215,16 @@ fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VP
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nowe logowanie do Firefoksa
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Wprowadź hasło, aby przejść do konta Mozilli
 # Description for Signin Token Code Page
 fxa-description-87881780 = Wprowadź kod potwierdzenia dla swojego konta Mozilli
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jeszcze tylko jeden szybki krok. Wprowadź kod z wiadomości e-mail, aby aktywować konto Mozilli.
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i inne dane wszędzie tam, gdzie używasz Firefoksa.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Zarejestruj się lub zaloguj
 # Description for Verify Short Code Email

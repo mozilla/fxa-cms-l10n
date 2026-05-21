@@ -1,4 +1,4 @@
-### Generated on 2026-05-20T19:55:20.229Z
+### Generated on 2026-05-21T18:25:35.294Z
 ### FTL file for CMS localization
 
 
@@ -94,33 +94,20 @@ fxa-headline-8e3fb023 = Auta meitä varmistamaan, että sinä kirjaudut sisään
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Vahvista Mozilla-tilisi synkronointia varten
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synkronoi salasanat, välilehdet ja kirjanmerkit kaikkialla, missä käytät Firefoxia.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Kirjoita sähköpostiosoite aloittaaksesi synkronoinnin
+fxa-headline-33e9f42d = Jatka Mozilla-tilillesi
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Rekisteröidy tai kirjaudu sisään
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signin Page
-fxa-headline-c2b34227 = Kirjoita salasana aloittaaksesi synkronoinnin
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synkronoi salasanat, maksutavat, kirjanmerkit ja paljon muuta, kaikkialla, missä käytät Firefoxia.
-# Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Luo salasana aloittaaksesi synkronoinnin
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Viimeistele synkronoinnin määritys
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = Jatka Mozilla-tilillesi
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Suojaa salasanasi, kirjanmerkkisi ja synkronoidut Firefox-tietosi salauksella kaikkialla, missä olet kirjautuneena sisään.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Luo salasana synkronoidaksesi turvallisesti
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Viimeistele synkronoinnin määritys
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -228,12 +215,16 @@ fxa-headline-9627bd4a = Vahvista tilisi käyttääksesi Firefoxin sisäänrakenn
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Uusi kirjautuminen Firefoxiin
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Anna salasana jatkaaksesi Mozilla-tilillesi
 # Description for Signin Token Code Page
 fxa-description-87881780 = Anna Mozilla-tilisi vahvistuskoodi
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Yksi nopea vaihe. Syötä sähköpostitse saamasi koodi aktivoidaksesi Mozilla-tilisi.
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synkronoi salasanat, maksutavat, kirjanmerkit ja paljon muuta, kaikkialla, missä käytät Firefoxia.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Rekisteröidy tai kirjaudu sisään
 # Description for Verify Short Code Email
