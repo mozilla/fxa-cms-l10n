@@ -210,15 +210,15 @@ fxa-subject-9627bd4a = Bestätigen Sie Ihr Konto, um das integrierte VPN von Fir
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Diese E-Mail-Adresse wurde für die Anmeldung verwendet von:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-08ad7263 = Beenden Sie Ihre Anmeldung, um das integrierte VPN in Firefox zu verwenden
+fxa-headline-08ad7263 = Schließen Sie Ihre Anmeldung ab, um das integrierte VPN in Firefox zu verwenden
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Verwenden Sie diesen Code, um die Anmeldung abzuschließen
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Mit dieser E-Mail-Adresse wurde ein Konto erstellt von:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-204eeb82 = Schließen Sie Ihre Anmeldung ab, um das integrierte VPN in Firefox zu verwenden
+fxa-headline-204eeb82 = Schließen Sie Ihre Registrierung ab, um das integrierte VPN in Firefox zu verwenden
 # Subject for Passwordless Signup Otp Email
-fxa-subject-de67b643 = Verwenden Sie diesen Code, um die Anmeldung abzuschließen
+fxa-subject-de67b643 = Verwenden Sie diesen Code, um die Registrierung abzuschließen
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -226,13 +226,13 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Fahren Sie mit Ihrem Mozilla-Konto fort, um VPN-Funktionen wie das Verbergen Ihres Standorts freizuschalten.
 # Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Ein Schritt mehr zur Anmeldung.
+fxa-description-ebf33c34 = Noch ein Schritt zur Anmeldung.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktivieren Sie Ihr integriertes VPN mit einem Mozilla-Konto
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Erstellen Sie ein Konto
 # Description for Signup Passwordless Code Page
-fxa-description-02723363 = Ein weiterer Schritt, um Ihr Konto und die Anmeldung zu erstellen.
+fxa-description-02723363 = Noch ein Schritt, um Ihr Konto zu erstellen und sich anzumelden.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Helfen Sie uns, Ihr Konto zu schützen, indem Sie Ihre Anmeldung genehmigen:
 # Headline for Verify Login Code Email
