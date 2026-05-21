@@ -214,7 +214,7 @@ fxa-headline-08ad7263 = Завершите вход, чтобы использо
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Используйте этот код, чтобы завершить вход
 # Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = С использованием этого адреса электронной почты была создана учётная запись от:
+fxa-description-ea6cd8f8 = С использованием этого адреса электронной почты был создан аккаунт с:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Завершите регистрацию, чтобы использовать встроенный VPN в Firefox
 # Subject for Passwordless Signup Otp Email

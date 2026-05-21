@@ -207,12 +207,28 @@ fxa-description-6c54afca = Sće nimale hotowy, zo byšće priwatnosć swojeho wo
 fxa-headline-8b338d52 = Waše konto Mozilla je so za přizjewjenje pola Firefox wužiło
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Tuta e-mejlowa adresa je so wužiwała za přizjewjenje wot:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Dokónčće swoje přizjewjenje, zo byšće zatwarjeny VPN w Firefox wužiwał
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Wužiwajće tutón kod, zo byšće přizjewjenje dokónčił
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Z tutej e-mejlowej adresu je so konto załožiło wot:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Dokónčće swoju registraciju, zo byšće zatwarjeny VPN w Firefox wužiwał
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Wužiwajće tutón kod, zo byšće registraciju dokónčił
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Pokročujće ze swojim kontom Mozilla, zo byšće funkcije VPN kaž chowanje swojeho stejnišća zmóžnił.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Hišće jedyn krok k přizjewjenju.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktiwizujće swój zatwarjeny VPN z kontom Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – registrujće so za konto
 # Description for Verify Login Code Email
