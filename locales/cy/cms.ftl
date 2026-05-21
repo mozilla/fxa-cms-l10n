@@ -207,14 +207,32 @@ fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eic
 fxa-headline-8b338d52 = Defnyddiwyd eich cyfrif Mozilla i fewngofnodi i Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Defnyddiwyd yr e-bost hwn i fewngofnodi oddi wrth:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Gorffennwch eich mewngofnodi i ddefnyddio VPN adeiledig yn Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Defnyddiwch y cod hwn i orffen mewngofnodi
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Crëwyd cyfrif gan ddefnyddio'r cyfeiriad e-bost hwn oddi wrth:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Gorffennwch eich cofrestriad i ddefnyddio VPN adeiledig yn Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Defnyddiwch y cod hwn i orffen cofrestru
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Ymlaen i'ch cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Un cam arall i arwyddo i mewn.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Gweithredwch eich VPN mewnol gyda chyfrif Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Un cam arall i greu eich cyfrif a mewngofnodi.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Helpwch ni i gadw'ch cyfrif yn ddiogel trwy gymeradwyo eich mewngofnodi:
 # Headline for Verify Login Code Email

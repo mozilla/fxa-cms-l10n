@@ -207,14 +207,32 @@ fxa-description-6c54afca = U bent bijna klaar om de privacy van uw browser een b
 fxa-headline-8b338d52 = Uw Mozilla-account is gebruikt om bij Firefox aan te melden
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Bevestig uw account om de ingebouwde VPN van Firefox te gebruiken
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Dit e-mailadres is gebruikt om aan te melden vanaf:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Voltooi uw aanmelding om ingebouwde VPN in Firefox te gebruiken
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Gebruik deze code om uw aanmelding te voltooien
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Met dit e-mailadres is een account aangemaakt vanuit:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Voltooi uw registratie om de ingebouwde VPN in Firefox te gebruiken
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Gebruik deze code om uw inschrijving te voltooien
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Ga verder met uw Mozilla-account om VPN-functies te ontgrendelen, zoals het verbergen van uw locatie.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Nog één stap om u aan te melden.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Activeer uw ingebouwde VPN met een Mozilla-account
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registreren voor een account
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Nog één stap om uw account aan te maken en aan te melden.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Help ons uw account veilig te houden door uw aanmelding goed te keuren op:
 # Headline for Verify Login Code Email

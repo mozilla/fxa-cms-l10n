@@ -207,14 +207,32 @@ fxa-description-6c54afca = Tarayıcınızın gizliliğini artırmaya neredeyse h
 fxa-headline-8b338d52 = Firefox’a giriş yapmak için Mozilla hesabınız kullanıldı
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox’un yerleşik VPN’ini kullanmak için hesabınızı onaylayın
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Bu e-posta kaynağından giriş yapmak için kullanıldı:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Firefox’ta yerleşik VPN’i kullanmak için girişinizi tamamlayın
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Girişi tamamlamak için bu kodu kullanın
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Bu adreste bulunan e-posta adresiyle hesap oluşturuldu:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Firefox’ta yerleşik VPN’i kullanmak için kaydınızı tamamlayın
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Kaydolmayı tamamlamak için bu kodu kullanın
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Konumunuzu gizleme gibi VPN özelliklerinin kilidini açmak için Mozilla hesabınızla devam edin.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Giriş yapmak için bir adım daha.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Yerleşik VPN’inizi Mozilla hesabıyla etkinleştirin
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Hesap açın
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Hesabınızı oluşturmak ve giriş yapmak için bir adım daha.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Girişinizi onaylayarak hesabınızı güvende tutmamıza yardımcı olun:
 # Headline for Verify Login Code Email

@@ -207,14 +207,32 @@ fxa-description-6c54afca = Sei quasi pronto per migliorare la privacy del tuo br
 fxa-headline-8b338d52 = Il tuo account Mozilla è stato utilizzato per accedere a Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Conferma il tuo account per utilizzare la VPN integrata in Firefox
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Questo indirizzo email è stato utilizzato per accedere da:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Completa l’accesso per utilizzare la VPN integrata in Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Utilizza questo codice per completare l’accesso
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = È stato creato un account utilizzando questo indirizzo email da:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Completa la registrazione per utilizzare la VPN integrata in Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Utilizza questo codice per completare la registrazione
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continua con il tuo account Mozilla per sbloccare funzionalità VPN, come nascondere la tua posizione.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Ancora un passaggio per accedere.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Attiva la tua VPN integrata con un account Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Crea un account
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Ancora un passaggio per creare il tuo account e accedere.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Aiutaci a mantenere il tuo account al sicuro approvando il tuo accesso su:
 # Headline for Verify Login Code Email

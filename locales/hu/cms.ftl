@@ -207,14 +207,32 @@ fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmén
 fxa-headline-8b338d52 = A Firefoxba való bejelentkezéshez használták a Mozilla-fiókját
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Ezzel az e-mail címmel bejelentkezett innen:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Fejezze be a bejelentkezését, hogy használja a beépített VPN-t a Firefoxban
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Használja ezt a kódot a bejelentkezés befejezéséhez
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Létrehozott egy fiókot ezzel az e-mail-címmel a következőtől:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Fejezze be a feliratkozását a Firefox beépített VPN használatára
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Használja ezt a kódot a regisztráció befejezéséhez
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Folytassa a Mozilla-fiókjával, hogy feloldja a VPN-funkciókat, például a tartózkodási helyének elrejtését.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Még egy lépés a bejelentkezéshez.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktiválja a beépített VPN-jét Mozilla-fiókjával
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Regisztráljon egy fiókot
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Még egy lépés a fiók létrehozásához és a bejelentkezéshez.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
 # Headline for Verify Login Code Email

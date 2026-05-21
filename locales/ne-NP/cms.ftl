@@ -207,14 +207,32 @@ fxa-description-6c54afca = तपाईं आफ्नो ब्राउजर
 fxa-headline-8b338d52 = तपाईंको मोजिला खाता Firefox मा साइन इन गर्न प्रयोग गरिएको थियो
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = यो इमेल साइन इन गर्न प्रयोग गरिएको थियो बाट:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Firefox मा पहिले नै VPN प्रयोग गर्न आफ्नो साइन इन पूरा गर्नुहोस्
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = साइन इन पुरा गर्न यो कोड प्रयोग गर्नुहोस्
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = यो इमेल ठेगाना प्रयोग गरेर खाता सिर्जना गरियो:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Firefox मा पहिल्यै VPN प्रयोग गर्न आफ्नो साइन अप समाप्त गर्नुहोस्
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = साइन अप पुरा गर्न यो कोड प्रयोग गर्नुहोस्
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = आफ्नो स्थान लुकाउने जस्ता VPN सुविधाहरू अनलक गर्न आफ्नो मोजिला खातासँग जारी राख्नुहोस्।
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = साइन इन गर्नका लागि थप एक चरण।
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = मोजिला खाताबाट आफ्नो इनबिल्ट VPN सक्रिय गर्नुहोस्
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = मोजिला - खाताको लागि साइन अप गर्नुहोस्
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = आफ्नो खाता सिर्जना गर्न र साइन इन गर्न एक थप चरण।
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = हामीलाई तपाईँको साइन-इन अनुमोदन गरेर तपाईँको खाता सुरक्षित राख्न मद्दत गर्नुहोस्:
 # Headline for Verify Login Code Email

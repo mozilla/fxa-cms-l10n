@@ -207,14 +207,32 @@ fxa-description-6c54afca = Už vám zbývá jen kousek k tomu, abyste zvýšili 
 fxa-headline-8b338d52 = K přihlášení do prohlížeče Firefox byl použit váš účet Mozilla
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Ověřte svůj účet, abyste mohli využívat integrovanou VPN v prohlížeči Firefox
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Pro přihlášení z:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Pro použití vestavěné VPN ve Firefoxu se přihlaste
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Pomocí tohoto kódu dokončíte přihlašování
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Z této e-mailové adresy byl vytvořen účet:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Dokončete registraci k používání vestavěné VPN ve Firefoxu
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Použijte tento kód k dokončení registrace
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Pokračujte pomocí svého účtu Mozilla a odemkněte funkce VPN, jako je skrytí vaší polohy.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Ještě jeden krok k přihlášení.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktivujte vestavěnou VPN pomocí účtu Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Ještě jeden krok k vytvoření účtu a přihlášení.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomozte nám udržet váš účet v bezpečí tím, že schválíte své přihlášení na zařízení:
 # Headline for Verify Login Code Email

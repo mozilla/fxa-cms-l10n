@@ -207,14 +207,32 @@ fxa-description-6c54afca = Skoraj ste pripravljeni za izboljšanje zasebnosti va
 fxa-headline-8b338d52 = Vaš račun Mozilla je bil uporabljen za prijavo v Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Ta e-poštni naslov je bil uporabljen za prijavo iz:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Dokončajte prijavo za uporabo vgrajenega VPN-ja v Firefoxu
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Uporabite to kodo za dokončanje prijave
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Z uporabo tega e-poštnega naslova je bil ustvarjen račun z:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Dokončajte prijavo za uporabo vgrajenega VPN-ja
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Uporabite to kodo za dokončanje prijave
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Nadaljujte s svojim Mozillin računom in odklenite funkcije VPN, kot je skrivanje lokacije.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Še en korak do prijave.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktivirajte vgrajeni VPN z računom Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Ustvarite račun
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Še korak do ustvarjanja računa in prijave.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobrite prijavo na naslednji napravi:
 # Headline for Verify Login Code Email
