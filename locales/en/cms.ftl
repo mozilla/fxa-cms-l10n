@@ -1,4 +1,4 @@
-### Generated on 2026-05-22T05:16:33.754Z
+### Generated on 2026-05-22T05:17:11.613Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -144,8 +144,24 @@ fxa-headline-ef1fb997 = Confirm your account
 fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
 ## l10n-16 - Send Tab - Account Menu
+# Description for Email First Page
+fxa-description-dde35cf5 = Sign in or create an account to instantly share pages between devices.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Enter email to send a page
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Instantly share pages between devices everywhere you’re signed in.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continue to send a page
+# Headline for Signin Page
+fxa-headline-135116fc = Enter password to send a page
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Create a password to send a page
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirm your account and instantly share pages between devices everywhere you’re signed in.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 # Description for Email First Page
@@ -168,8 +184,6 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Sign in to protect your inbox from spam
 # Page Title for Signup Confirm Code Page
@@ -294,22 +308,6 @@ fxa-headline-461a0bbf = Confirm your account to use Mozilla Monitor
 fxa-subject-461a0bbf = Confirm your account to use Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Confirm your account to use Mozilla Monitor.
-
-## l10n-6 - Send Tab - Tab Context Menu
-# Description for Email First Page
-fxa-description-dde35cf5 = Sign in or create an account to instantly share pages between devices.
-# Headline for Email First Page
-fxa-headline-911c1b69 = Enter email to send a page
-# Description for Signin Cached Page
-fxa-description-12219a63 = Instantly share pages between devices everywhere you’re signed in.
-# Headline for Signin Cached Page
-fxa-headline-2242b561 = Continue to send a page
-# Headline for Signin Page
-fxa-headline-135116fc = Enter password to send a page
-# Headline for Signup Set Password Page
-fxa-headline-370f47b3 = Create a password to send a page
-# Description for Verify Short Code Email
-fxa-description-e8991369 = Confirm your account and instantly share pages between devices everywhere you’re signed in.
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 # Description for Email First Page
