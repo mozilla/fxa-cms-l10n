@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirm your Mozilla account to synchronise
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronise your passwords, tabs, and bookmarks everywhere you use Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Enter email to start synchronising
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Sign up or sign in
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Enter password to start synchronising
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronise your passwords, payment methods, bookmarks, and more everywhere you use Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Create a password to start synchronising
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Finish synchronisation setup
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Sign in or create an account to instantly share pages between devices.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Enter email to send a page
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Instantly share pages between devices everywhere you’re signed in.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continue to send a page
+# Headline for Signin Page
+fxa-headline-135116fc = Enter password to send a page
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Create a password to send a page
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirm your account and instantly share pages between devices everywhere you’re signed in.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
