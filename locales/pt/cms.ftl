@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirme a sua conta Mozilla a sincronizar
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronize as suas palavras-passe, separadores e marcadores onde quer que utilize o Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Insira o e-mail para iniciar a sincronização
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Criar conta ou iniciar sessão
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Digite a palavra-passe para iniciar a sincronização
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincronize as suas palavras-passe, métodos de pagamento, marcadores e muito mais onde quer que utilize o Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crie uma palavra-passe para iniciar a sincronização
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Concluir configuração da sincronização
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Confirme a sua conta para iniciar sessão no Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Inicie sessão ou crie uma conta para partilhar de forma instantânea páginas entre dispositivos.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Introduza o email para enviar uma página
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Conta Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Partilhe de forma instantânea páginas entre dispositivos em todos os lugares em que estiver autenticado.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continuar para enviar uma página
+# Headline for Signin Page
+fxa-headline-135116fc = Introduza a palavra-passe para enviar uma página
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Crie uma palavra-passe para enviar uma página
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirme a sua conta e partilhe de forma instantânea páginas entre dispositivos em todos os lugares em que estiver autenticado.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
