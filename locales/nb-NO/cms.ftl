@@ -196,6 +196,10 @@ fxa-headline-8b338d52 = Mozilla-kontoen din ble brukt til å logge på Firefox
 fxa-subject-9627bd4a = Bekreft kontoen din for å bruke Firefox sin innebygde VPN
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Denne e-postadressen ble brukt til å logge inn fra:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Fullfør innloggingen for å bruke innebygd VPN i Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Bruk denne koden for å fullføre innloggingen
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
