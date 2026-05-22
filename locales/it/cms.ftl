@@ -160,15 +160,15 @@ fxa-pageTitle-001bb150 = Account Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
-fxa-description-12219a63 = Condividi istantaneamente le pagine tra i tuoi dispositivi ovunque tu abbia effettuato l’accesso.
+fxa-description-12219a63 = Condividi subito le pagine tra tutti i dispositivi in cui hai effettuato l’accesso.
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Continua per inviare una pagina
 # Headline for Signin Page
-fxa-headline-135116fc = Inserire la password per inviare una pagina
+fxa-headline-135116fc = Inserisci la password per inviare una pagina
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = Crea una password per inviare una pagina
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Conferma il tuo account e condividi immediatamente le pagine tra i tuoi dispositivi ovunque tu abbia effettuato l’accesso.
+fxa-description-e8991369 = Verifica il tuo account e condividi subito le pagine tra tutti i dispositivi in cui hai effettuato l’accesso.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
