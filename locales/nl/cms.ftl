@@ -198,8 +198,10 @@ fxa-subject-9627bd4a = Bevestig uw account om de ingebouwde VPN van Firefox te g
 fxa-description-8c69b083 = Dit e-mailadres is gebruikt om aan te melden vanaf:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Voltooi uw aanmelding om ingebouwde VPN in Firefox te gebruiken
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Gebruik deze code om uw aanmelding te voltooien
 # Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Met dit e-mailadres is een account aangemaakt vanuit:
+fxa-description-ea6cd8f8 = Er is met dit e-mailadres een account aangemaakt vanaf:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Voltooi uw registratie om de ingebouwde VPN in Firefox te gebruiken
 # Subject for Passwordless Signup Otp Email
