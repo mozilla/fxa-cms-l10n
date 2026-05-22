@@ -151,10 +151,24 @@ fxa-subject-10e5b452 = Confirma tu conto pro acceder a Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Accede o crea un conto pro instantaneemente condivider paginas inter apparatos.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Insere e-mail pro inviar un pagina
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Conto Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Instantaneemente condivide paginas inter apparatos ubique tu ha accedite.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continuar a inviar un pagina
+# Headline for Signin Page
+fxa-headline-135116fc = Insere le contrasigno pro inviar un pagina
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Crear un contrasigno pro inviar un pagina
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirma tu conto e instantaneemente condivide paginas inter apparatos ubique tu ha accedite.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
