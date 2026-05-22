@@ -163,6 +163,12 @@ fxa-headlineFontSize-c21f969b = default
 fxa-description-12219a63 = Źělśo ned boki mjazy rědami wšuźi, źož sćo pśizjawjony.
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Dalej, aby bok pósłał
+# Headline for Signin Page
+fxa-headline-135116fc = Zapódajśo gronidło, aby bok pósłał
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Napórajśo gronidło, aby bok pósłał
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Wobkšuśćo swójo konto a źělśo ned boki mjazy rědami wšuźi, źož sćo pśizjawjony.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
