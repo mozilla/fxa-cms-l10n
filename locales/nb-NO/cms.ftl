@@ -200,14 +200,26 @@ fxa-description-8c69b083 = Denne e-postadressen ble brukt til å logge inn fra:
 fxa-headline-08ad7263 = Fullfør innloggingen for å bruke innebygd VPN i Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Bruk denne koden for å fullføre innloggingen
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = En konto ble opprettet med denne e-postadressen fra:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Fullfør registreringen for å bruke innebygd VPN i Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Bruk denne koden for å fullføre registreringen
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Fortsett med Mozilla-kontoen din for å låse opp VPN-funksjoner som å skjule plasseringen din.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Ett steg til for å logge inn.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktiver den innebygde VPN-en din med en Mozilla-konto
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registrer deg for en konto
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Ett steg til for å opprette kontoen din og logge inn.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjelp oss med å holde kontoen din trygg ved å godkjenne innloggingen din på:
 # Headline for Verify Login Code Email
