@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Potvrďte svoj účet Mozilla pre synchronizáciu
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizujte svoje heslá, karty a záložky všade, kde používate Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Zadajte e‑mail pre spustenie synchronizácie
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Zaregistrujte sa alebo sa prihláste
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Zadajte heslo pre spustenie synchronizácie
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronizujte svoje heslá, spôsoby platby, záložky a ďalšie údaje všade, kde používate Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Vytvorte heslo na spustenie synchronizácie
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Dokončiť nastavenie synchronizácie
 
@@ -145,6 +151,8 @@ fxa-subject-10e5b452 = Potvrďte svoj účet pre prihlásenie do Firefoxu
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Prihláste sa alebo si vytvorte účet a okamžite zdieľajte stránky medzi zariadeniami.
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Účet Mozilla
 # Headline Font Size for Shared

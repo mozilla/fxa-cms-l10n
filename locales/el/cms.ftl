@@ -160,15 +160,15 @@ fxa-pageTitle-001bb150 = Λογαριασμός Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
-fxa-description-12219a63 = Άμεση κοινή χρήση σελίδων μεταξύ συσκευών όπου κι αν έχετε συνδεθεί.
+fxa-description-12219a63 = Άμεση κοινή χρήση σελίδων μεταξύ των συσκευών σας, όπου κι αν έχετε συνδεθεί.
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Συνέχεια για αποστολή σελίδας
 # Headline for Signin Page
 fxa-headline-135116fc = Εισαγάγετε τον κωδικό πρόσβασής σας για αποστολή σελίδας
 # Headline for Signup Set Password Page
-fxa-headline-370f47b3 = Δημιουργήστε έναν κωδικό πρόσβασης για να στείλετε μια σελίδα
+fxa-headline-370f47b3 = Δημιουργήστε έναν κωδικό πρόσβασης για αποστολή σελίδας
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Επιβεβαιώστε τον λογαριασμό σας και μοιραστείτε άμεσα σελίδες με συσκευές όπου κι αν έχετε συνδεθεί.
+fxa-description-e8991369 = Επιβεβαιώστε τον λογαριασμό σας και μοιραστείτε άμεσα σελίδες με τις συσκευές σας, όπου κι αν έχετε συνδεθεί.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -240,13 +240,13 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Συνεχίστε με τον λογαριασμό Mozilla σας για να ξεκλειδώσετε λειτουργίες του VPN, όπως την απόκρυψη της τοποθεσίας σας.
 # Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Ένα ακόμα βήμα για σύνδεση.
+fxa-description-ebf33c34 = Απομένει ένα ακόμα βήμα για σύνδεση.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Ενεργοποιήστε το ενσωματωμένο VPN σας με έναν λογαριασμό Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Δημιουργία λογαριασμού
 # Description for Signup Passwordless Code Page
-fxa-description-02723363 = Ένα ακόμα βήμα για τη δημιουργία του λογαριασμού σας και τη σύνδεση.
+fxa-description-02723363 = Απομένει ένα ακόμα βήμα για τη δημιουργία του λογαριασμού σας και τη σύνδεση.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Βοηθήστε μας να προστατέψουμε τον λογαριασμό σας εγκρίνοντας τη σύνδεσή σας στο:
 # Headline for Verify Login Code Email
