@@ -1,4 +1,4 @@
-### Generated on 2026-05-21T18:25:35.294Z
+### Generated on 2026-05-22T05:18:27.035Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = Hjälp oss att se till att det är du som loggar in.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Bekräfta ditt Mozilla-konto för att synkronisera
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synkronisera dina lösenord, flikar och bokmärken överallt där du använder Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Fortsätt till ditt Mozilla-konto
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrera dig eller logga in
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synkronisera dina lösenord, betalningsmetoder, bokmärken och mer överallt där du använder Firefox.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Slutför konfigurationen av synkronisering
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Fortsätt till ditt Mozilla-konto
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Skyddar dina lösenord, bokmärken och synkroniserad Firefox-data med kryptering överallt där du är inloggad.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Skapa ett lösenord för säker synkronisering
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Slutför konfigurationen av synkronisering
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -140,6 +147,8 @@ fxa-subject-10e5b452 = Bekräfta ditt konto för att logga in till Firefox
 
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-konto
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -163,8 +172,6 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Logga in för att skydda din inkorg från skräppost
 # Page Title for Signup Confirm Code Page
@@ -233,16 +240,12 @@ fxa-headline-9627bd4a = Bekräfta ditt konto för att använda Firefox inbyggda 
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Ny inloggning till Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Ange lösenordet för att fortsätta till ditt Mozilla-konto
 # Description for Signin Token Code Page
 fxa-description-87881780 = Ange bekräftelsekoden för ditt Mozilla-konto
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara ett steg kvar. Ange koden från ditt mejl för att aktivera ditt Mozilla-konto.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synkronisera dina lösenord, betalningsmetoder, bokmärken och mer överallt där du använder Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Registrera dig eller logga in
 # Description for Verify Short Code Email
