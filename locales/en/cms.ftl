@@ -1,4 +1,4 @@
-### Generated on 2026-05-21T23:00:17.582Z
+### Generated on 2026-05-22T05:14:49.249Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -294,6 +294,22 @@ fxa-headline-461a0bbf = Confirm your account to use Mozilla Monitor
 fxa-subject-461a0bbf = Confirm your account to use Mozilla Monitor
 # Headline for Verify Short Code Email
 fxa-headline-74461a97 = Confirm your account to use Mozilla Monitor.
+
+## l10n-6 - Send Tab - Tab Context Menu
+# Description for Email First Page
+fxa-description-dde35cf5 = Sign in or create an account to instantly share pages between devices.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Enter email to send a page
+# Description for Signin Cached Page
+fxa-description-12219a63 = Instantly share pages between devices everywhere you’re signed in.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continue to send a page
+# Headline for Signin Page
+fxa-headline-135116fc = Enter password to send a page
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Create a password to send a page
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirm your account and instantly share pages between devices everywhere you’re signed in.
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 # Description for Email First Page
