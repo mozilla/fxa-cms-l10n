@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Bekreft Mozilla-kontoen din for å synkronisere
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synkroniser passordene, fanene og bokmerkene dine overalt hvor du bruker Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Skriv inn e-post for å begynne å synkronisere
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrer deg eller logg inn
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Skriv inn passord for å begynne å synkronisere
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synkroniser passordene, betalingsmåte, bokmerkene og mer overalt hvor du bruker Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Opprett et passord for å begynne å synkronisere
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Fullfør synkroniseringsoppsettet
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Bekreft kontoen din for å logge på Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Logg inn eller opprett en konto for å dele sider mellom enheter umiddelbart.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Skriv inn e-postadressen for å sende en side
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-konto
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Del sider umiddelbart mellom enheter overalt hvor du er logget inn.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Fortsett å sende en side
+# Headline for Signin Page
+fxa-headline-135116fc = Skriv inn passordet for å sende en side
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Opprett et passord for å sende en side
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Bekreft kontoen din og del sider umiddelbart mellom enheter overalt hvor du er logget inn.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
