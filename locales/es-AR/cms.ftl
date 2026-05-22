@@ -99,17 +99,17 @@ fxa-subject-c9fd4b52 = Confirmá tu cuenta de Mozilla para sincronizar
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronizá tus contraseñas, pestañas y marcadores en cualquier lado que usés Firefox.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Ingresá el correo electrónico para comenzar la sincronización
+fxa-headline-b36f2b05 = Ingresá el correo electrónico para empezar la sincronización
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Ingresar o registrarse
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
-fxa-headline-c2b34227 = Ingresá la contraseña para comenzar a sincronizar
+fxa-headline-c2b34227 = Ingresá la contraseña para empezar a sincronizar
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincronizá tus contraseñas, métodos de pago, marcadores y más en cualquier lugar donde usés Firefox.
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Creá una contraseña para comenzar a sincronizar
+fxa-headline-7a6bf86a = Creá una contraseña para empezar a sincronizar
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Finalizar configuración de Sync
 
@@ -154,21 +154,21 @@ fxa-subject-10e5b452 = Confirmá tu cuenta para iniciar sesión en Firefox
 # Description for Email First Page
 fxa-description-dde35cf5 = Iniciá sesión o creá una cuenta para compartir páginas entre dispositivos al instante.
 # Headline for Email First Page
-fxa-headline-911c1b69 = Ingresar correo electrónico para enviar una página
+fxa-headline-911c1b69 = Ingresá un correo electrónico para enviar una página
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Cuenta de Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
-fxa-description-12219a63 = Compartí páginas instantáneamente entre dispositivos en cualquier lugar donde haya iniciado sesión.
+fxa-description-12219a63 = Compartí páginas entre dispositivos instantáneamente en cualquier lugar donde hayas iniciado sesión.
 # Headline for Signin Cached Page
-fxa-headline-2242b561 = Continuar para enviar un mensaje
+fxa-headline-2242b561 = Continuar para enviar una página
 # Headline for Signin Page
-fxa-headline-135116fc = Ingresar contraseña para enviar un mensaje
+fxa-headline-135116fc = Ingresar contraseña para enviar una página
 # Headline for Signup Set Password Page
-fxa-headline-370f47b3 = Crear una contraseña para enviar un mensaje
+fxa-headline-370f47b3 = Crear una contraseña para enviar una página
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Confirmá tu cuenta y compartí instantáneamente páginas entre dispositivos en cualquier lugar donde haya iniciado sesión.
+fxa-description-e8991369 = Confirmá tu cuenta y compartí páginas entre dispositivos instantáneamente en cualquier lugar donde hayas iniciado sesión.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

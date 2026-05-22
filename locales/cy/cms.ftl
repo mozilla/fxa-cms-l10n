@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Cadarnhewch eich cyfrif Mozilla i gydweddu
 
 # Description for Email First Page
 fxa-description-4ac18cac = Cydweddwch eich cyfrineiriau, tabiau, a nodau tudalen ym mhob man rydych chi'n defnyddio Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Rhoi e-bost i ddechrau cydweddu
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Cofrestrwch neu mewngofnodi
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Rhoi cyfrinair i ddechrau cydweddu
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Cydweddwch eich cyfrineiriau, dulliau talu, nodau tudalen, a mwy ym mhob man rydych chi'n defnyddio Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Creu cyfrinair i ddechrau cydweddu
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Gorffen gosod cydweddu
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Mewngofnodwch neu crëwch gyfrif i rannu tudalennau ar unwaith rhwng dyfeisiau.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Rhowch e-bost i anfon tudalen
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Cyfrif Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Rhannwch dudalennau ar unwaith rhwng dyfeisiau ym mhob man rydych chi wedi mewngofnodi.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Parhewch i anfon tudalen
+# Headline for Signin Page
+fxa-headline-135116fc = Rhowch gyfrinair i anfon tudalen
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Creu cyfrinair i anfon tudalen
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Cadarnhewch eich cyfrif a rhannwch dudalennau ar unwaith rhwng dyfeisiau ym mhob man rydych chi wedi mewngofnodi.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

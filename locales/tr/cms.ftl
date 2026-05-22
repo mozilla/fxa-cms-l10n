@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Eşitleme için Mozilla hesabınızı onaylayın
 
 # Description for Email First Page
 fxa-description-4ac18cac = Firefox’u kullandığınız her yerde parolalarınızı, sekmelerinizi ve yer imlerinizi eşitleyin.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Eşitlemeyi başlatmak için e-postanızı yazın
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Kaydol veya giriş yap
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Eşitlemeyi başlatmak için parolanızı yazın
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Firefox’u kullandığınız her yerde parolalarınızı, ödeme yöntemlerinizi, yer imlerinizi ve daha fazlasını eşitleyin.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Eşitlemeyi başlatmak için parola oluşturun
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Eşitleme kurulumunu tamamlayın
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Sayfaları anında cihazlar arasında paylaşmak için giriş yapın veya hesap açın.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Bir sayfayı göndermek istediğiniz e-postayı yazın
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla hesabı
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Giriş yaptığınız her yerde cihazlarınız arasında anında sayfa paylaşın.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Sayfa göndermeye devam et
+# Headline for Signin Page
+fxa-headline-135116fc = Sayfa göndermek için parolanızı yazın
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Bir sayfa göndermek için parola oluşturun
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Hesabınızı onaylayın ve giriş yaptığınız her yerde cihazlarınız arasında anında sayfa paylaşın.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
