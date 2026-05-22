@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirma tu conto Mozilla pro synchronisar
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronisa tu contrasignos, schedas e marcapaginas ubique tu usa Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Insere email pro initiar a synchronisar
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Inscribe te o accede
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Insere contrasigno pro initiar a synchronisar
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronisa tu contrasignos, methodos de pagamento, marcapaginas e altero ubique tu usa Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crea un contrasigno pro initiar a synchronisar
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Completa le configuration de synchronisation
 
