@@ -1,4 +1,4 @@
-### Generated on 2026-05-21T18:25:35.294Z
+### Generated on 2026-05-22T05:18:27.035Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = Pomozte nám ujistit se, že se přihlašujete právě v
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Pro synchronizaci potvrďte svůj účet Mozilla
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizujte svá hesla, panely a záložky všude, kde používáte Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Pokračovat na účet Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Přihlásit nebo registrovat
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronizujte svá hesla, platební metody, záložky a další data všude, kde používáte Firefox.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Dokončit nastavení synchronizace
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Pokračovat na účet Mozilla
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Chrání vaše hesla, záložky a synchronizovaná data Firefoxu všude tam, kde jste přihlášeni.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Vytvořte si heslo pro bezpečnou synchronizaci
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Dokončit nastavení synchronizace
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -140,6 +147,8 @@ fxa-subject-10e5b452 = Potvrďte svůj účet pro přihlášení do Firefoxu
 
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Účet Mozilla
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -163,8 +172,6 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Přihlaste se a chraňte svou schránku před nevyžádanou poštou
 # Page Title for Signup Confirm Code Page
@@ -233,16 +240,12 @@ fxa-headline-9627bd4a = Ověřte svůj účet, abyste mohli využívat integrova
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nové přihlášení do Firefoxu
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Pro pokračování zadejte heslo ke svému účtu Mozilla
 # Description for Signin Token Code Page
 fxa-description-87881780 = Zadejte potvrzovací kód pro svůj účet Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Jen jeden rychlý krok. Pro aktivaci účtu Mozilla vložte kód z vašeho e-mailu.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synchronizujte svá hesla, platební metody, záložky a další data všude, kde používáte Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Zaregistrujte se nebo se přihlaste
 # Description for Verify Short Code Email

@@ -1,4 +1,4 @@
-### Generated on 2026-05-21T18:25:35.294Z
+### Generated on 2026-05-22T05:18:27.035Z
 ### FTL file for CMS localization
 
 
@@ -66,14 +66,21 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logotip del Firefox
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronitzeu les contrasenyes, les pestanyes i les adreces d'interès a tot arreu on feu servir el Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Continueu al vostre compte de Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Inici de sessió o registre
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sincronitzeu les contrasenyes, els mètodes de pagament, les adreces d’interès i molt més a tot arreu on feu servir el Firefox.
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continueu al vostre compte de Mozilla
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -82,14 +89,17 @@ fxa-headline-ef1fb997 = Confirmeu el compte
 # Subject for Verify Short Code Email
 fxa-subject-10e5b452 = Confirmeu el vostre compte per iniciar la sessió al Firefox
 
+## l10n-16 - Send Tab - Account Menu
+
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
+
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 
 ## l10n-19 - VPN (Settings)
 
@@ -100,10 +110,6 @@ fxa-description-6bc52850 = Ajudeu-nos a protegir el vostre compte aprovant l'ini
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Inici de sessió nou al Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincronitzeu les contrasenyes, els mètodes de pagament, les adreces d’interès i molt més a tot arreu on feu servir el Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Inici de sessió o registre
 # Description for Verify Short Code Email

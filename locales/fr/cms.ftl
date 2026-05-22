@@ -1,4 +1,4 @@
-### Generated on 2026-05-21T18:25:35.294Z
+### Generated on 2026-05-22T05:18:27.035Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = Aidez-nous à nous assurer que c’est bien vous qui vou
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirmez votre compte Mozilla pour synchroniser
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronisez vos onglets, mots de passe et marque-pages partout où vous utilisez Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Continuer vers votre compte Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Créer un compte ou se connecter
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronisez vos mots de passe, modes de paiement, marque-pages et bien d’autres choses partout où vous utilisez Firefox.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Terminez la configuration de la synchronisation
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continuer vers votre compte Mozilla
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Protégez de façon chiffrée vos mots de passe, marque-pages et données Firefox synchronisées partout où vous êtes connecté·e.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Définissez un mot de passe afin de synchroniser vos données en toute sécurité
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Terminez la configuration de la synchronisation
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -140,6 +147,8 @@ fxa-subject-10e5b452 = Confirmez votre compte pour vous connecter à Firefox
 
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Compte Mozilla
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -163,8 +172,6 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Connectez-vous pour protéger votre boîte de réception du spam
 # Page Title for Signup Confirm Code Page
@@ -233,16 +240,12 @@ fxa-headline-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré à
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nouvelle connexion via Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Saisissez votre mot de passe pour continuer vers votre compte Mozilla
 # Description for Signin Token Code Page
 fxa-description-87881780 = Saisissez le code de confirmation de votre compte Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Une seule petite étape : entrez le code reçu par e-mail pour activer votre compte Mozilla.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synchronisez vos mots de passe, modes de paiement, marque-pages et bien d’autres choses partout où vous utilisez Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Créer un compte ou se connecter
 # Description for Verify Short Code Email

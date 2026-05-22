@@ -1,4 +1,4 @@
-### Generated on 2026-05-21T18:25:35.294Z
+### Generated on 2026-05-22T05:18:27.035Z
 ### FTL file for CMS localization
 
 
@@ -28,10 +28,12 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox логотибы
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Теркәлү яки керү
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -39,6 +41,11 @@ fxa-primaryButtonText-a20eb81e = Теркәлү яки керү
 fxa-headline-a0a749e1 = Firefox-ка яңа керү
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Серсүз урнаштыру
+
+## l10n-16 - Send Tab - Account Menu
+
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -52,8 +59,6 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 
 ## l10n-19 - VPN (Settings)
 
@@ -66,8 +71,6 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox-ка яңа керү
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Теркәлү яки керү
 

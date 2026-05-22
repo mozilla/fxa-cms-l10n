@@ -1,4 +1,4 @@
-### Generated on 2026-05-21T18:25:35.294Z
+### Generated on 2026-05-22T05:18:27.035Z
 ### FTL file for CMS localization
 
 
@@ -56,14 +56,26 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Лагатып Firefox
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Сінхранізуйце свае паролі, карткі і закладкі ўсюды, дзе вы карыстаецеся Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвайсці
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Сінхранізуйце свае паролі, спосабы аплаты, закладкі і многае іншае ўсюды, дзе вы карыстаецеся Firefox.
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mozilla
+
+## l10n-16 - Send Tab - Account Menu
+
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -71,15 +83,9 @@ fxa-primaryButtonText-a20eb81e = Зарэгістравацца або ўвай�
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Сінхранізуйце свае паролі, спосабы аплаты, закладкі і многае іншае ўсюды, дзе вы карыстаецеся Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Зарэгістравацца або ўвайсці
 # Description for Verify Short Code Email

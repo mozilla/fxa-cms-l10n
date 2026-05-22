@@ -1,4 +1,4 @@
-### Generated on 2026-05-21T18:25:35.294Z
+### Generated on 2026-05-22T05:18:27.035Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = Giriş yapanın siz olduğunuzdan emin olalım.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Eşitleme için Mozilla hesabınızı onaylayın
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Firefox’u kullandığınız her yerde parolalarınızı, sekmelerinizi ve yer imlerinizi eşitleyin.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Mozilla hesabınıza devam edin
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Kaydol veya giriş yap
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Firefox’u kullandığınız her yerde parolalarınızı, ödeme yöntemlerinizi, yer imlerinizi ve daha fazlasını eşitleyin.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Eşitleme kurulumunu tamamlayın
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Mozilla hesabınıza devam edin
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Giriş yaptığınız her yerde parolalarınızı, yer imlerinizi ve eşitlenmiş Firefox verilerinizi şifreleyerek korur.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Güvenli bir şekilde eşitlemek için parola oluşturun
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Eşitleme kurulumunu tamamlayın
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -140,6 +147,8 @@ fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla hesabı
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = default
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -163,8 +172,6 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
-# Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
 # Headline for Signin Cached Page
 fxa-headline-7631d75e = Gelen kutunuzu spam’den korumak için giriş yapın
 # Page Title for Signup Confirm Code Page
@@ -233,16 +240,12 @@ fxa-headline-9627bd4a = Firefox’un yerleşik VPN’ini kullanmak için hesabı
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Firefox’a yeni giriş
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Mozilla hesabınıza devam etmek için parolanızı yazın
 # Description for Signin Token Code Page
 fxa-description-87881780 = Mozilla hesabınız için onay kodunu girin
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Tek bir adım kaldı. Mozilla hesabınızı etkinleştirmek için e-postanıza gelen kodu yazın.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Firefox’u kullandığınız her yerde parolalarınızı, ödeme yöntemlerinizi, yer imlerinizi ve daha fazlasını eşitleyin.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Kaydol veya giriş yap
 # Description for Verify Short Code Email
