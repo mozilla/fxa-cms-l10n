@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirme sua conta Mozilla a sincronizar
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronize senhas, abas e favoritos onde quer que use o Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Digite seu email para iniciar a sincronização
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Entrar na sua conta ou criar uma
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Digite a senha para iniciar a sincronização
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincronize suas senhas, métodos de pagamento, favoritos e muito mais onde quer que use o Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crie uma senha para iniciar a sincronização
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Concluir a configuração de sincronização
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Confirme sua conta para entrar no Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Entre ou crie uma conta para compartilhar páginas instantaneamente entre dispositivos.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Digite um email para enviar uma página
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Conta Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Compartilhe instantaneamente páginas entre dispositivos em todos os lugares em que estiver conectado.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continuar para enviar uma página
+# Headline for Signin Page
+fxa-headline-135116fc = Digite a senha para enviar uma página
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Crie uma senha para enviar uma página
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirme sua conta e compartilhe páginas imediatamente entre dispositivos em todos os lugares em que estiver conectado.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

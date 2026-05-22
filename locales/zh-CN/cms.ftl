@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = 确认您的 Mozilla 账户以同步
 
 # Description for Email First Page
 fxa-description-4ac18cac = 在您使用 Firefox 的各设备间，同步密码、标签页、书签。
+# Headline for Email First Page
+fxa-headline-b36f2b05 = 输入邮箱地址以开始同步
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = 注册或登录
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = 输入密码以开始同步
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = 在您使用 Firefox 的各设备间，同步密码、付款方式、书签等数据。
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = 创建密码以开始同步
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = 完成同步设置
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = 登录或创建账户即可即时跨设备共享网页。
+# Headline for Email First Page
+fxa-headline-911c1b69 = 输入电子邮件地址以发送页面
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla 账户
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = 默认
+# Description for Signin Cached Page
+fxa-description-12219a63 = 随时随地在设备间分享网页。
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = 继续发送页面
+# Headline for Signin Page
+fxa-headline-135116fc = 请输入密码以发送页面寻呼
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = 创建发送页面密码
+# Description for Verify Short Code Email
+fxa-description-e8991369 = 确认账户后即可在任何设备间即时分享网页。
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

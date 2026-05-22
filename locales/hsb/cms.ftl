@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Wobkrućće swoje konto Mozilla za synchronizaciju
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizujće swoje hesła, rajtarki a zapołožki wšudźe, hdźež Firefox wužiwaće.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Zapodajće e-mejlowu adresu, zo byšće synchronizaciju započał
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrować abo přizjewić
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Zapodajće hesło, zo byšće synchronizaciju započał
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronizujće swoje hesła, płaćenske metody, zapołožki a wjace wšudźe, hdźež Firefox wužiwaće.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Wutworće hesło, zo byšće synchronizaciju započał
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Konfiguraciju synchronizacije dokónčić
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Wobkrućće swoje konto, zo byšće so pola Firefox přiz
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Přizjewće so abo załožće konto, zo byšće strony hnydom mjez gratami dźělił.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Zapodajće e-mejlowu adresu, zo byšće stronu pósłał
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Konto Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Dźělće hnydom strony mjez gratami wšudźe, hdźež sće přizjewjeny.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Dale, zo byšće stronu pósłał
+# Headline for Signin Page
+fxa-headline-135116fc = Zapodajće hesło, zo byšće stronu pósłał
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Wutworće hesło, zo byšće stronu pósłał
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Wobkrućće swoje konto a dźělće hnydom strony mjez gratami, wšudźe, hdźež sće přizjewjeny.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

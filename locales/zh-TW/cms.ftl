@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = 確認您的 Mozilla 帳號後即可同步
 
 # Description for Email First Page
 fxa-description-4ac18cac = 在使用 Firefox 的所有地方同步您的密碼、分頁、書籤。
+# Headline for Email First Page
+fxa-headline-b36f2b05 = 輸入電子郵件地址即可開始同步
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = 註冊或登入
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = 請輸入密碼即可開始同步
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = 在使用 Firefox 的所有地方同步您的密碼、付款方式、書籤與更多資料。
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = 設定密碼即可開始同步
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = 完成同步設定
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = 註冊或登入帳號即可即時在不同裝置間分享頁面。
+# Headline for Email First Page
+fxa-headline-911c1b69 = 輸入電子郵件地址來傳送頁面
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla 帳號
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = 每次登入後立即在不同裝置間分享頁面。
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = 繼續傳送網頁
+# Headline for Signin Page
+fxa-headline-135116fc = 請輸入密碼以傳送頁面
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = 設定密碼以傳送網頁
+# Description for Verify Short Code Email
+fxa-description-e8991369 = 確認您的帳號並立即登入到不同裝置間分享頁面。
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

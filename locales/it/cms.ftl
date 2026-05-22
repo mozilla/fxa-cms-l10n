@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Conferma il tuo account Mozilla per sincronizzare
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronizza password, schede e segnalibri ovunque utilizzi Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Inserisci l’email per avviare la sincronizzazione
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrati o accedi
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Inserisci la password per avviare la sincronizzazione
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincronizza password, metodi di pagamento, segnalibri e altro ancora ovunque utilizzi Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crea una password per avviare la sincronizzazione
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Completa la configurazione della sincronizzazione
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Conferma il tuo account per accedere a Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Accedi o crea un account per condividere istantaneamente le pagine tra dispositivi.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Inserire l’email per inviare una pagina
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Account Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Condividi istantaneamente le pagine tra i tuoi dispositivi ovunque tu abbia effettuato l’accesso.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continua per inviare una pagina
+# Headline for Signin Page
+fxa-headline-135116fc = Inserire la password per inviare una pagina
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Crea una password per inviare una pagina
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Conferma il tuo account e condividi immediatamente le pagine tra i tuoi dispositivi ovunque tu abbia effettuato l’accesso.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

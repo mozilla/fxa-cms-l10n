@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Επιβεβαιώστε τον λογαριασμό Mozi
 
 # Description for Email First Page
 fxa-description-4ac18cac = Συγχρονίστε τους κωδικούς πρόσβασης, τις καρτέλες και τους σελιδοδείκτες σας οπουδήποτε χρησιμοποιείτε το Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Εισαγάγετε το email σας για έναρξη συγχρονισμού
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Εγγραφή ή σύνδεση
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Εισαγάγετε τον κωδικό πρόσβασής σας για έναρξη συγχρονισμού
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Συγχρονίστε τους κωδικούς πρόσβασης, τις μεθόδους πληρωμής, τους σελιδοδείκτες σας και πολλά άλλα οπουδήποτε χρησιμοποιείτε το Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Δημιουργήστε έναν κωδικό πρόσβασης για έναρξη συγχρονισμού
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Ολοκλήρωση ρύθμισης συγχρονισμού
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Επιβεβαιώστε τον λογαριασμό σα
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Συνδεθείτε ή δημιουργήστε ένα λογαριασμό για άμεση κοινή χρήση σελίδων μεταξύ συσκευών.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Εισάγετε το email για να στείλετε μια σελίδα
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Λογαριασμός Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Άμεση κοινή χρήση σελίδων μεταξύ συσκευών όπου κι αν έχετε συνδεθεί.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Συνέχεια για αποστολή σελίδας
+# Headline for Signin Page
+fxa-headline-135116fc = Εισαγάγετε κωδικό για αποστολή σελίδας
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Δημιουργήστε έναν κωδικό πρόσβασης για να στείλετε μια σελίδα
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Επιβεβαιώστε τον λογαριασμό σας και μοιραστείτε άμεσα σελίδες με συσκευές όπου κι αν έχετε συνδεθεί.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

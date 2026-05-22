@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Za sinhronizacijo potrdite svoj račun Mozilla
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sinhronizirajte gesla, zavihke in zaznamke na vseh mestih, kjer uporabljate Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Vnesite e-poštni naslov za začetek sinhronizacije
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registracija ali prijava
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Vnesite geslo za začetek sinhronizacije
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sinhronizirajte gesla, plačilna sredstva, zaznamke in ostale podatke povsod, kjer uporabljate Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Nastavite geslo za začetek sinhronizacije
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Dokončaj nastavitev sinhronizacije
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Potrdite račun za prijavo v Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Prijavite se ali ustvarite račun za takojšnjo deljenje strani med napravami.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Vnesite e-poštni naslov za pošiljanje strani
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Račun Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Takoj delite strani med napravami na vseh napravah, kjer ste prijavljeni.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Nadaljuj s pošiljanjem strani
+# Headline for Signin Page
+fxa-headline-135116fc = Vnesite geslo za pošiljanje strani
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Ustvarite geslo za pošiljanje strani
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Potrdite račun in takoj delite strani med napravami na vseh napravah, kjer ste prijavljeni.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

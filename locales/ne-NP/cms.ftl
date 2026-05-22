@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = मोजिला खातालाई सिङ्क 
 
 # Description for Email First Page
 fxa-description-4ac18cac = जहाँजहाँ फायरफक्स चलाउनुहुन्छ, त्यहाँ तपाईंका पासवर्ड, ट्याब र बुकमार्कहरू सिङ्क गर्नुहोस्
+# Headline for Email First Page
+fxa-headline-b36f2b05 = सिङ्क गर्न सुरु गर्न इमेल प्रविष्ट गर्नुहोस्
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = साइन अप वा साइन इन गर्नुहोस्
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = सिङ्क गर्न सुरु गर्न पासवर्ड प्रविष्ट गर्नुहोस्
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = तपाईंले Firefox प्रयोग गर्ने सबै ठाउँमा आफ्ना पासवर्डहरू, भुक्तानी विधिहरू, बुकमार्कहरू, र थप सिङ्क गर्नुहोस्।
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = सिङ्क गर्न सुरु गर्न पासवर्ड सिर्जना गर्नुहोस्
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = सिङ्क सेटअप समाप्त गर्नुहोस्
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Firefox मा साइन इन गर्न आफ्
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = उपकरणहरू बीच तुरुन्तै पृष्ठहरू साझेदारी गर्न साइन इन गर्नुहोस् वा खाता सिर्जना गर्नुहोस्।
+# Headline for Email First Page
+fxa-headline-911c1b69 = पृष्ठ पठाउन इमेल प्रविष्ट गर्नुहोस्
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = मोजिला खाता
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = तपाईं साइन इन हुनुभएको जताततै यन्त्रहरू बीच पृष्ठहरू तुरुन्तै साझेदारी गर्नुहोस्।
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = पृष्ठ पठाउन जारी राख्नुहोस्
+# Headline for Signin Page
+fxa-headline-135116fc = पृष्ठ पठाउन पासवर्ड प्रविष्ट गर्नुहोस्
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = एक पृष्ठ पठाउन पासवर्ड सिर्जना गर्नुहोस्
+# Description for Verify Short Code Email
+fxa-description-e8991369 = तपाईंको खाता पुष्टि गर्नुहोस् र तुरुन्तै तपाईं साइन इन हुनुभएको जताततै यन्त्रहरू बीच पृष्ठहरू साझेदारी गर्नुहोस्।
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 

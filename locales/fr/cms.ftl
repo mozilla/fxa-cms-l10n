@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirmez votre compte Mozilla pour synchroniser
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronisez vos onglets, mots de passe et marque-pages partout où vous utilisez Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Saisissez une adresse e-mail pour lancer la synchronisation
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Créer un compte ou se connecter
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Saisissez un mot de passe pour lancer la synchronisation
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronisez vos mots de passe, modes de paiement, marque-pages et bien d’autres choses partout où vous utilisez Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Créez un mot de passe pour lancer la synchronisation
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Terminez la configuration de la synchronisation
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Confirmez votre compte pour vous connecter à Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Connectez-vous ou créez un compte pour partager instantanément des pages entre vos appareils.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Saisissez votre adresse e-mail pour envoyer une page
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Compte Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Partagez instantanément des pages entre vos appareils partout où vous êtes connecté·e.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continuer pour envoyer une page
+# Headline for Signin Page
+fxa-headline-135116fc = Saisissez le mot de passe pour envoyer une page
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Créer un mot de passe pour envoyer une page
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirmez votre compte et partagez instantanément des pages entre vos appareils partout où vous êtes connecté·e.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
