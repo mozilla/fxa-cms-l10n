@@ -195,15 +195,15 @@ fxa-headline-8b338d52 = A Firefoxba való bejelentkezéshez használták a Mozil
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
 # Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Ezzel az e-mail címmel bejelentkezett innen:
+fxa-description-8c69b083 = Ezzel az e-mail-címmel bejelentkeztek innen:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-08ad7263 = Fejezze be a bejelentkezését, hogy használja a beépített VPN-t a Firefoxban
+fxa-headline-08ad7263 = Fejezze be a bejelentkezését, hogy használja a Firefoxba épített VPN-t
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Használja ezt a kódot a bejelentkezés befejezéséhez
 # Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Létrehozott egy fiókot ezzel az e-mail-címmel a következőtől:
+fxa-description-ea6cd8f8 = Létrejött egy fiók ezzel az e-mail-címmel innen:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-204eeb82 = Fejezze be a feliratkozását a Firefox beépített VPN használatára
+fxa-headline-204eeb82 = Fejezze be a regisztrációt, hogy használja a Firefoxba épített VPN-t
 # Subject for Passwordless Signup Otp Email
 fxa-subject-de67b643 = Használja ezt a kódot a regisztráció befejezéséhez
 # Email Logo Alt Text for Shared
