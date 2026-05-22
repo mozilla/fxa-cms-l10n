@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Wobkšuśćo swójo konto Mozilla za synchronizaciju
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizěrujśo swóje gronidła, rejtariki a cytańske znamjenja wšuźi, źož Firefox wužywaśo.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Zapódajśo e-mailowu adresu, aby synchronizaciju zachopił
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrěrowaś abo pśizjawiś
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Zapódajśo gronidło, aby synchronizaciju zachopił
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronizěrujśo swóje gronidła, płaśeńske metody, cytańske znamjenja a wěcej wšuźi, źož Firefox wužywaśo.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Napórajśo gronidło, aby synchronizaciju zachopił
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Konfiguraciju synchronizacije dokóńcyś
 
@@ -145,10 +151,18 @@ fxa-subject-10e5b452 = Wobkšuśćo swójo konto, aby se pla Firefox pśizjawił
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Pśizjawśo se abo załožćo konto, aby boki ned mjazy rědami źělił.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Zapódajśo e-mailowu adresu, aby bok pósłał
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Konto Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Źělśo ned boki mjazy rědami wšuźi, źož sćo pśizjawjony.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Dalej, aby bok pósłał
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
