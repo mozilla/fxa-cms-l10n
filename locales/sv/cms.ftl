@@ -99,7 +99,7 @@ fxa-subject-c9fd4b52 = Bekräfta ditt Mozilla-konto för att synkronisera
 # Description for Email First Page
 fxa-description-4ac18cac = Synkronisera dina lösenord, flikar och bokmärken överallt där du använder Firefox.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Ange e-post för att starta synkronisering
+fxa-headline-b36f2b05 = Ange e-postadress för att starta synkronisering
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrera dig eller logga in
 # Email From Name for Shared
@@ -160,7 +160,7 @@ fxa-pageTitle-001bb150 = Mozilla-konto
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
-fxa-description-12219a63 = Dela direkt sidor mellan enheter överallt där du är inloggad.
+fxa-description-12219a63 = Dela sidor direkt mellan enheter överallt där du är inloggad.
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Fortsätt för att skicka en sida
 # Headline for Signin Page
@@ -168,7 +168,7 @@ fxa-headline-135116fc = Ange lösenord för att skicka en sida
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = Skapa ett lösenord för att skicka en sida
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Bekräfta ditt konto och dela direkt sidor mellan enheter överallt där du är inloggad.
+fxa-description-e8991369 = Bekräfta ditt konto och dela sidor direkt mellan enheter överallt där du är inloggad.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
