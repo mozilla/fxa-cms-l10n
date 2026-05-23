@@ -152,21 +152,21 @@ fxa-subject-10e5b452 = Erősítse meg fiókját a Firefoxba való bejelentkezés
 ## l10n-16 - Send Tab - Account Menu
 
 # Description for Email First Page
-fxa-description-dde35cf5 = Jelentkezzen be vagy hozzon létre egy fiókot, hogy azonnal megosszon oldalakat az eszközök között.
+fxa-description-dde35cf5 = Jelentkezzen be vagy hozzon létre egy fiókot, hogy azonnal megoszthasson lapokat az eszközök között.
 # Headline for Email First Page
-fxa-headline-911c1b69 = Oldal küldéséhez adja meg az e-mail címét
+fxa-headline-911c1b69 = Lap küldéséhez adja meg az e-mail-címét
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-fiók
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
-fxa-description-12219a63 = Azonnal ossza meg a lapokat az eszközök között, bárhol is legyen bejelentkezve.
+fxa-description-12219a63 = Azonnal osszon meg lapokat az eszközök között, melyeken be van jelentkezve.
 # Headline for Signin Cached Page
-fxa-headline-2242b561 = Oldal küldésének folytatása
+fxa-headline-2242b561 = Lap küldésének folytatása
 # Headline for Signin Page
-fxa-headline-135116fc = Adjon meg jelszót az oldal elküldéséhez
+fxa-headline-135116fc = Adja meg a jelszót a lap elküldéséhez
 # Headline for Signup Set Password Page
-fxa-headline-370f47b3 = Hozzon létre egy jelszót az oldal küldéséhez
+fxa-headline-370f47b3 = Hozzon létre egy jelszót a lap küldéséhez
 # Description for Verify Short Code Email
 fxa-description-e8991369 = Erősítse meg fiókját, és azonnal ossza meg a lapokat az eszközök között, bárhol is legyen bejelentkezve.
 
