@@ -168,7 +168,7 @@ fxa-headline-135116fc = Adja meg a jelszót a lap elküldéséhez
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = Hozzon létre egy jelszót a lap küldéséhez
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Erősítse meg fiókját, és azonnal ossza meg a lapokat az eszközök között, bárhol is legyen bejelentkezve.
+fxa-description-e8991369 = Erősítse meg fiókját, és azonnal osszon meg lapokat az eszközök között, melyeken be van jelentkezve.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
