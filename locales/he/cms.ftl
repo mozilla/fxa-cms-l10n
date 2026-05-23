@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = אימות חשבון ה־Mozilla שלך כדי לסנכ�
 
 # Description for Email First Page
 fxa-description-4ac18cac = סנכרון הססמאות, הלשוניות פתוחות והסימניות שלך בכל מקום בו יש לך את Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = נא להכניס את הדוא״ל כדי להתחיל בסנכרון
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = הרשמה או התחברות
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = נא להכניס את הססמה כדי להתחיל בסנכרון
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = סנכרון הססמאות, אמצעי התשלום, הסימניות ועוד, בכל מקום בו יש לך את Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = יצירת ססמה להתחלה בסנכרון
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = סיום הגדרת הסנכרון
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = אימות החשבון שלך כדי להיכנס ל־Fi
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = יש להיכנס או ליצור חשבון כדי לשתף דפים באופן מיידי בין מכשירים.
+# Headline for Email First Page
+fxa-headline-911c1b69 = נא להכניס כתובת דוא״ל לשליחת דף
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = חשבון Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = שיתוף דפים באופן מיידי בין מכשירים בכל מקום שבו מחוברים לחשבון.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = המשיך לשליחת דף
+# Headline for Signin Page
+fxa-headline-135116fc = נא להכניס ססמה לשליחת דף
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = נא ליצור ססמה לשליחת דף
+# Description for Verify Short Code Email
+fxa-description-e8991369 = יש לאמת את החשבון שלך ולשתף דפים באופן מיידי בין מכשירים בכל מקום שבו מחוברים לחשבון.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
