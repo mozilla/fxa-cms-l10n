@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirma tu cuenta de Mozilla para sincronizar
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincroniza tus contraseñas, pestañas y marcadores donde sea que uses Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Ingresa tu correo electrónico para comenzar la sincronización
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Regístrate o conéctate
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Ingrese la contraseña para comenzar a sincronizar
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincroniza tus contraseñas, métodos de pago, marcadores y más donde sea que uses Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crea una contraseña para comenzar a sincronizar
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Finalizar la configuración de sincronización
 
