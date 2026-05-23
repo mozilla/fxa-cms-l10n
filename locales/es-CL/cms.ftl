@@ -151,10 +151,24 @@ fxa-subject-10e5b452 = Confirma tu cuenta para conectarte a Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Conéctate o crea una cuenta para compartir páginas al instante entre dispositivos.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Ingresa el correo electrónico para enviar una página
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Cuenta de Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Comparte páginas al instante entre dispositivos en todos los lugares donde te hayas conectado.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continua para enviar una página
+# Headline for Signin Page
+fxa-headline-135116fc = Ingresa la contraseña para enviar una página
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Crea una contraseña para enviar una página
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirma tu cuenta y comparte páginas al instante entre dispositivos en todos los lugares donde te hayas conectado.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -207,14 +221,32 @@ fxa-description-6c54afca = Estamos casi listos para mejorar la privacidad de tu 
 fxa-headline-8b338d52 = Tu cuenta de Mozilla fue utilizada para conectarse a Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirma tu cuenta para usar la VPN integrada de Firefox
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Este correo electrónico se utilizó para conectarse desde:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Termina de conectarte para usar la VPN integrada en Firefox.
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Utiliza este código para terminar de conectarte
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Una cuenta fue creada usando esta dirección de correo electrónico desde:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Termina de registrarte para usar la VPN integrada en Firefox.
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Utiliza este código para terminar de registrarte
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continúa con tu cuenta de Mozilla para desbloquear funciones de VPN como ocultar tu ubicación.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Un paso más para conectarte.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Activa tu VPN integrada con una cuenta de Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Regístrate para obtener una cuenta
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Un paso más para crear tu cuenta y conectarte.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu conexión en:
 # Headline for Verify Login Code Email
