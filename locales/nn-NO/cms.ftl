@@ -151,10 +151,16 @@ fxa-subject-10e5b452 = Stadfest kontoen din for å logge på Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Logg inn eller opprett ein konto for å dele sider mellom einingar med ein gong.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Skriv inn e-postadresse for å sende ei side
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-konto
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Del sider direkte mellom einingar overalt der du er logga inn.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -213,10 +219,14 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Fortset med Mozilla-kontoen din for å låse opp VPN-funksjonar som å skjule plasseringa di.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Eitt steg til for å logge inn.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktiver den innebygde VPN-en din med ein Mozilla-konto
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registrer deg for ein konto
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Eitt steg til for å opprette kontoen din og logge inn.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjelp oss med å halde kontoen din trygg ved å godkjenne innlogginga di på:
 # Headline for Verify Login Code Email
