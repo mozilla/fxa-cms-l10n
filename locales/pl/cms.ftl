@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Potwierdź swoje konto Mozilli, aby zsynchronizować dane
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizuj hasła, karty i zakładki wszędzie tam, gdzie używasz Firefoksa.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Wprowadź adres e-mail, aby rozpocząć synchronizację
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Zarejestruj się lub zaloguj
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Wpisz hasło, aby rozpocząć synchronizację
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i inne dane wszędzie tam, gdzie używasz Firefoksa.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Utwórz hasło, aby rozpocząć synchronizację
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Dokończ konfigurację synchronizacji
 
@@ -207,6 +213,8 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Wykorzystaj konto Mozilli, aby odblokować funkcje VPN, takie jak ukrywanie swojej lokalizacji.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktywuj wbudowany VPN za pomocą konta Mozilli
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – załóż konto
 # Description for Verify Login Code Email
