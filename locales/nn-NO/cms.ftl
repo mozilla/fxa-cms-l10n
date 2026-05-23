@@ -161,6 +161,14 @@ fxa-pageTitle-001bb150 = Mozilla-konto
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
 fxa-description-12219a63 = Del sider direkte mellom einingar overalt der du er logga inn.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Hald fram med å sende ei side
+# Headline for Signin Page
+fxa-headline-135116fc = Skriv inn passord for å sende ei side
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Opprett eit passord for å sende ei side
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Stadfest kontoen din og del sider direkte mellom einingar overalt der du er logga inn.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -213,6 +221,18 @@ fxa-description-6c54afca = Du er nesten klar til å gi nettlesaren din eit perso
 fxa-headline-8b338d52 = Mozilla-kontoen din vart brukt til å logge inn på Firefox.
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde VPN
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Denne e-postadressa vart brukt til å logge inn frå:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Fullfør innlogginga for å bruke innebygd VPN i Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Bruk denne koden for å fullføre innlogginga
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Ein konto vart oppretta med denne e-postadressa frå:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Fullfør registreringa for å bruke innebygd VPN i Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Bruk denne koden for å fullføre registreringa
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
