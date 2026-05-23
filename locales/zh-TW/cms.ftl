@@ -222,13 +222,13 @@ fxa-headline-8b338d52 = 您的 Mozilla 帳號已用於登入 Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
 # Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = 此電子郵件地址已用來登入:
+fxa-description-8c69b083 = 此電子郵件地址已從下列位置用來登入：
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = 完成登入即可使用 Firefox 內建的 VPN
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = 使用此驗證碼完成登入
 # Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = 有使用此電子郵件地址從下列位置建立帳號
+fxa-description-ea6cd8f8 = 有人使用此電子郵件地址，從下列位置建立帳號：
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = 完成註冊即可使用 Firefox 內建的 VPN
 # Subject for Passwordless Signup Otp Email
@@ -240,13 +240,13 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = 使用您的 Mozilla 帳號繼續，即可解鎖隱藏您的所在位置等 VPN 功能。
 # Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = 還需要一步登入。
+fxa-description-ebf33c34 = 還差一步即可登入。
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = 使用 Mozilla 帳號啟用內建的 VPN
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 註冊帳號
 # Description for Signup Passwordless Code Page
-fxa-description-02723363 = 還有一步讓您註冊帳號並登入。
+fxa-description-02723363 = 還差一步即可完成帳號註冊並登入。
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
 # Headline for Verify Login Code Email
