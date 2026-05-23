@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = ਹਰ ਚੀਜ਼ ਨੂੰ ਸਿੰਕ ਰੱਖਣ ਵਾਸਤੇ ਖਾਤੇ ਨਾਲ ਸਾਈਨ-ਇਨ ਕਰੋ ਜਾਂ ਖਾਤਾ ਬਣਾਓ।
 # Headline for Email First Page
 fxa-headline-a4b1427f = ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣਾ ਈਮੇਲ ਨੂੰ ਵਰਤੋਂ
 # Primary Button Text for Email First Page
@@ -20,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox ਲੋਗੋ
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Firefox ਸਿੰਕ ਸੈਟ ਅੱਪ ਕਰੋ
+# Description for Signin Cached Page
+fxa-description-406f5ceb = ਪਾਸਵਰਡ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਹੋਰਾਂ ਚੀਜ਼ਾਂ ਨੂੰ ਸਿੰਕ ਰੱਖੋ।
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = ਸਿੰਕ ਲਈ ਜਾਰੀ ਰੱਖੋ
 # Description for Signin Page
 fxa-description-aedac88d = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰੋ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
 # Headline for Signin Page
@@ -90,12 +96,18 @@ fxa-subject-c9fd4b52 = ਸਿੰਕ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ Mozil
 
 # Description for Email First Page
 fxa-description-4ac18cac = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਆਪਣੇ ਪਾਸਵਰਡ, ਟੈਬਾਂ ਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
+# Headline for Email First Page
+fxa-headline-b36f2b05 = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਈਮੇਲ ਦਿਓ
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਦਿਓ
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਉੱਥੇ ਆਪਣੇ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਢੰਗਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = ਸਿੰਕ ਸੈਟਅੱਪ ਪੂਰਾ
 
@@ -131,11 +143,21 @@ fxa-subject-10e5b452 = Firefox ਵਿੱਚ ਸਾਈਨ-ਇਨ ਕਰਨ ਲਈ
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Headline for Email First Page
+fxa-headline-911c1b69 = ਸਫ਼ਾ ਭੇਜਣ ਲਈ ਈਮੇਲ ਦਿਓ
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Headline for Signin Page
+fxa-headline-135116fc = ਸਫ਼ੇ ਨੂੰ ਭੇਜਣ ਲਈ ਪਾਸਵਰਡ ਦਿਓ
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = ਸਫ਼ੇ ਨੂੰ ਭੇਜਣ ਲਈ ਪਾਸਵਰਡ ਬਣਾਓ
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Description for Email First Page
+fxa-description-607e9f0f = ਤੁਹਾਡੇ ਮਾਸਕਾਂ ਉੱਤੇ ਭੇਜੀਆਂ ਗਈਆਂ ਈਮੇਲਾਂ ਨੂੰ ਇਸ ਸਿਰਨਾਵੇਂ ਉੱਤੇ ਅੱਗੇ ਭੇਜਿਆ ਜਾਵੇਗਾ।
+# Headline for Email First Page
+fxa-headline-30fd7c55 = ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸਪੈਮ ਤੋਂ ਬਚਾਉਣ ਵਾਸਤੇ ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ।
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = ਈਮੇਲ ਮਾਸਕ
 # Page Title for Email First Page
@@ -150,6 +172,8 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
+# Headline for Signin Cached Page
+fxa-headline-7631d75e = ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸਮੈਪ ਤੋਂ ਬਚਾਉਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 
 ## l10n-19 - VPN (Settings)
 
