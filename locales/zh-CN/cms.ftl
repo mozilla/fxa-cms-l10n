@@ -183,7 +183,7 @@ fxa-pageTitle-8e453cea = 保护您的收件箱免受垃圾邮件侵扰| Mozilla 
 # Headline for New Device Login Email
 fxa-headline-db70c503 = 您的账户有登录活动
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = Firefox 将在您登录后尝试将您退回以供使用马甲邮箱。
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox 将尝试在您登录后返回原页面，供您使用马甲邮箱。
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -193,15 +193,15 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
-fxa-headline-7631d75e = 登录以保护您的收件箱免受垃圾邮件
+fxa-headline-7631d75e = 登录以保护收件箱免受垃圾邮件侵扰
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = 注册以保护收件箱免受垃圾邮件侵扰
 # Description for Signup Set Password Page
 fxa-description-e45e7923 = 这将创建您的 Mozilla 账户以便您可以使用和管理马甲邮箱。
 # Page Title for Signup Set Password Page
-fxa-pageTitle-64718864 = 创建密码保护收件箱不受垃圾邮件侵扰
+fxa-pageTitle-64718864 = 创建密码以保护收件箱免受垃圾邮件侵扰
 # Description for Verify Login Code Email
-fxa-description-1048eab0 = 确保您的账户安全请使用下方的授权码批准您的登录活动。
+fxa-description-1048eab0 = 请使用下方的授权码确认登录，以保护账户安全。
 # Description for Verify Short Code Email
 fxa-description-e5134d5c = 请使用下面的确认码完成账户设置。
 # Headline for Verify Short Code Email
@@ -212,15 +212,15 @@ fxa-subject-2322b41f = 确认您的账户以使用马甲邮箱
 ## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
-fxa-description-0b19b103 = 使用 Mozilla 账户解锁隐藏位置等 VPN 功能。
+fxa-description-0b19b103 = 使用 Mozilla 账户，解锁 VPN 功能（例如隐藏真实位置）。
 # Headline for Email First Page
-fxa-headline-785c79ef = 激活 Firefox 内置的 VPN 获得额外隐私和保护
+fxa-headline-785c79ef = 启用 Firefox 的内置 VPN，获得额外的隐私及更多保护
 # Description for New Device Login Email
-fxa-description-6c54afca = 几乎所有准备好增强浏览器的隐私保护了。
+fxa-description-6c54afca = 只差一点，就能增强浏览器隐私保护。
 # Headline for New Device Login Email
 fxa-headline-8b338d52 = 您的 Mozilla 账户有登录 Firefox 的活动
 # Subject for New Device Login Email
-fxa-subject-9627bd4a = 确认您的账户以使用 Firefox 内置的 VPN
+fxa-subject-9627bd4a = 确认您的账户，以使用 Firefox 的内置 VPN
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = 此电子邮件地址用于登录从
 # Headline for Passwordless Signin Otp Email
@@ -232,29 +232,29 @@ fxa-description-ea6cd8f8 = 一个账户是使用此电子邮件地址创建的
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = 完成注册即可使用 Firefox 内置的 VPN
 # Subject for Passwordless Signup Otp Email
-fxa-subject-de67b643 = 使用此代码完成注册
+fxa-subject-de67b643 = 使用此验证码完成注册
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
-fxa-description-1745f244 = 使用您的 Mozilla 账户继续解锁 VPN 功能例如隐藏您的位置。
+fxa-description-1745f244 = 使用 Mozilla 账户，解锁 VPN 功能（例如隐藏真实位置）。
 # Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = 需完成登录步骤。
+fxa-description-ebf33c34 = 还差一步即可完成登录。
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = 使用 Mozilla 账户激活内置 VPN
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 注册账户
 # Description for Signup Passwordless Code Page
-fxa-description-02723363 = 请再次创建您的账户并登录。
+fxa-description-02723363 = 还差一步即可创建账户并登录。
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 请确认您的登录活动，以确保账户安全：
 # Headline for Verify Login Code Email
-fxa-headline-b9c2e03a = 您是否使用 Mozilla 账户登录了 Firefox
+fxa-headline-b9c2e03a = 您是否使用 Mozilla 账户登录了 Firefox？
 # Subject for Verify Login Code Email
-fxa-subject-72eba5e0 = 批准登录到 Mozilla
+fxa-subject-72eba5e0 = 确认登录 Mozilla
 # Headline for Verify Short Code Email
-fxa-headline-9627bd4a = 确认您的账户以使用 Firefox 内置的 VPN
+fxa-headline-9627bd4a = 确认您的账户，以使用 Firefox 的内置 VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
