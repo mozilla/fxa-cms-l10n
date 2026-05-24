@@ -152,9 +152,9 @@ fxa-subject-10e5b452 = Firefox’a giriş yapmak için hesabınızı onaylayın
 ## l10n-16 - Send Tab - Account Menu
 
 # Description for Email First Page
-fxa-description-dde35cf5 = Sayfaları anında cihazlar arasında paylaşmak için giriş yapın veya hesap açın.
+fxa-description-dde35cf5 = Sayfaları cihazlar arasında anında paylaşmak için giriş yapın veya hesap açın.
 # Headline for Email First Page
-fxa-headline-911c1b69 = Bir sayfayı göndermek istediğiniz e-postayı yazın
+fxa-headline-911c1b69 = Sayfayı göndermek istediğiniz e-postayı yazın
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla hesabı
 # Headline Font Size for Shared
@@ -166,9 +166,9 @@ fxa-headline-2242b561 = Sayfa göndermeye devam et
 # Headline for Signin Page
 fxa-headline-135116fc = Sayfa göndermek için parolanızı yazın
 # Headline for Signup Set Password Page
-fxa-headline-370f47b3 = Bir sayfa göndermek için parola oluşturun
+fxa-headline-370f47b3 = Sayfa göndermek için parola oluşturun
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Hesabınızı onaylayın ve giriş yaptığınız her yerde cihazlarınız arasında anında sayfa paylaşın.
+fxa-description-e8991369 = Hesabınızı doğrulayın, giriş yaptığınız her yerde cihazlarınız arasında anında sayfa paylaşın.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
