@@ -217,6 +217,10 @@ fxa-headline-8b338d52 = Mba’ete Mozilla-gua ojeporu ojeike hag̃ua Firefox-pe
 fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Emohu’ã mboheraguapy eiporu hag̃ua VPN ojuajúva Firefox ndive
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Eiporu ko ayvu eñemboheraguapy hag̃ua
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
