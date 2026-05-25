@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Emoneĩ ne mba’ete Mozilla-pegua embojuehe hag̃ua
 
 # Description for Email First Page
 fxa-description-4ac18cac = Embojuehe ñe’ẽñemi, tendayke ha techaukaha oimeraẽva tenda eiporuhápe Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Ehai ñanduti veve embojuehe hag̃ua
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Eike térã eñemboheraguapy
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Ehai ñe’ẽñemi embojuehe hag̃ua
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Embojuehe ñe’ẽñemi, jepagarã, techaukaha ha hetave oimeraẽva tenda eiporuhápe Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Emoheñói ñe’ẽñemi embojuehe hag̃ua
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Emohu’ã ñembojuehe ñemboheko
 
@@ -145,10 +151,18 @@ fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Headline for Email First Page
+fxa-headline-911c1b69 = Ehai ñanduti veve emondo hag̃ua kuatiarogue
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla mba’ete
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Eku’ejey emondo hag̃ua kuatiarogue
+# Headline for Signin Page
+fxa-headline-135116fc = Ehai ñanduti veve emondo hag̃ua kuatiarogue
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Emoheñói ñe’ẽñemi emondo hag̃ua kuatiarogue
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -201,6 +215,8 @@ fxa-description-6c54afca = Eime porãma emoporãve hag̃ua ne kundahára rekoñe
 fxa-headline-8b338d52 = Mba’ete Mozilla-gua ojeporu ojeike hag̃ua Firefox-pe
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
