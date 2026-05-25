@@ -159,12 +159,16 @@ fxa-headline-911c1b69 = Ehai ñanduti veve emondo hag̃ua kuatiarogue
 fxa-pageTitle-001bb150 = Mozilla mba’ete
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Emoherakuã kuatiarogue mba’e’oka pa’ũme oimeraẽva tenda eikehaguépe.
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Eku’ejey emondo hag̃ua kuatiarogue
 # Headline for Signin Page
 fxa-headline-135116fc = Ehai ñanduti veve emondo hag̃ua kuatiarogue
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = Emoheñói ñe’ẽñemi emondo hag̃ua kuatiarogue
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Emoneĩ ne mba’ete ha emoherakuã kuatiarogue mba’e’oka pa’ũme oimeraẽva tenda eikehaguépe.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
