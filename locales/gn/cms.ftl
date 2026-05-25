@@ -151,6 +151,8 @@ fxa-subject-10e5b452 = Emoneĩ ne mba’ete eike ñepyrũvo Firefox-pe
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Eike térã emoheñói mba’ete emoherakuã hag̃ua kuatiarogue mba’e’oka pa’ũme.
 # Headline for Email First Page
 fxa-headline-911c1b69 = Ehai ñanduti veve emondo hag̃ua kuatiarogue
 # Page Title for Email First Page
@@ -217,6 +219,10 @@ fxa-headline-8b338d52 = Mba’ete Mozilla-gua ojeporu ojeike hag̃ua Firefox-pe
 fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Emohu’ã jeikekue eiporu hag̃ua VPN ojuajúva Firefox ndive
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Eiporu ko ayvu eikekuaa hag̃ua
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Emohu’ã mboheraguapy eiporu hag̃ua VPN ojuajúva Firefox ndive
 # Subject for Passwordless Signup Otp Email
