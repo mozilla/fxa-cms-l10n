@@ -223,6 +223,8 @@ fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
 fxa-headline-08ad7263 = Emohu’ã jeikekue eiporu hag̃ua VPN ojuajúva Firefox ndive
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Eiporu ko ayvu eikekuaa hag̃ua
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Ojejapo mba’ete ojeporúvo ko ñanduti veve ko’a guive:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Emohu’ã mboheraguapy eiporu hag̃ua VPN ojuajúva Firefox ndive
 # Subject for Passwordless Signup Otp Email
@@ -233,8 +235,14 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Eiporu Mozilla ejokua’o hag̃ua upe VPN rembiapoite ikatúva ne rendaite ñemokañy.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Jeku’eve eikekuaa hag̃ua.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Emyandy nde VPN jehe’apyre ne mba’ete Mozilla-guándi
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Eñemboheraguapy ereko hag̃ua mba’ete
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Jeku’eve emoheñói hag̃ua ne mba’ete ha eike.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
 # Headline for Verify Login Code Email
