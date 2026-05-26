@@ -1,4 +1,4 @@
-### Generated on 2026-05-22T05:18:27.035Z
+### Generated on 2026-05-26T13:05:33.797Z
 ### FTL file for CMS localization
 
 
@@ -34,17 +34,14 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Logo di Firefox
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronize passwords, schedis e segnelibris dapardut là che tu dopris Firefox.
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Regjistriti o jentre
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
 # Headline for Email First Page
 fxa-headline-33e9f42d = Continue su to account Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Regjistriti o jentre
 
 ## l10n-16 - Send Tab - Account Menu
 

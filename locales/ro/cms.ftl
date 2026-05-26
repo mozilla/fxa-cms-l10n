@@ -1,4 +1,4 @@
-### Generated on 2026-05-22T05:18:27.035Z
+### Generated on 2026-05-26T13:05:33.797Z
 ### FTL file for CMS localization
 
 
@@ -94,27 +94,20 @@ fxa-headline-8e3fb023 = Ajută-ne să ne asigurăm că tu ești cel/cea care se 
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirmă-ți contul Mozilla ca să sincronizezi
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronizează-ți parolele, filele și marcajele oriunde folosești Firefox.
-# Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Fă-ți un cont sau intră în cont
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincronizează-ți parolele, metodele de plată, marcajele și multe altele oriunde folosești Firefox.
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Finalizează configurarea sincronizării
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
 # Headline for Email First Page
 fxa-headline-33e9f42d = Continuă către contul tău Mozilla
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-a20eb81e = Fă-ți un cont sau intră în cont
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Protejează-ți cu criptare parolele, marcajele și datele Firefox sincronizate oriunde ești autentificat(ă).
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Creează o parolă pentru sincronizare în siguranță
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Finalizează configurarea sincronizării
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -222,12 +215,16 @@ fxa-headline-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Autentificare nouă în Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Introdu parola ca să intri în contul Mozilla
 # Description for Signin Token Code Page
 fxa-description-87881780 = Introdu codul de confirmare pentru contul tău Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Doar un pas rapid. Introdu codul din mesajul primit pe e-mail pentru a-ți activa contul Mozilla.
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sincronizează-ți parolele, metodele de plată, marcajele și multe altele oriunde folosești Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Fă-ți un cont sau intră în cont
 # Description for Verify Short Code Email

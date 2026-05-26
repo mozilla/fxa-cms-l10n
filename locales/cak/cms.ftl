@@ -1,4 +1,4 @@
-### Generated on 2026-05-22T05:18:27.035Z
+### Generated on 2026-05-26T13:05:33.797Z
 ### FTL file for CMS localization
 
 
@@ -32,11 +32,6 @@ fxa-emailFromName-c70af508 = Mozilla Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-96e4284e = Firefox wachib'äl
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
-
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
 # Headline for Verify Short Code Email
@@ -56,5 +51,7 @@ fxa-emailLogoWidth-ca27b150 = 120px
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = K'ak'a' rutikirisaxik molojri'ïl pa Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Tajikib'a' rub'i' ataqoya'l

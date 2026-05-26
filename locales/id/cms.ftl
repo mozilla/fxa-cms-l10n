@@ -1,4 +1,4 @@
-### Generated on 2026-05-22T05:18:27.035Z
+### Generated on 2026-05-26T13:05:33.797Z
 ### FTL file for CMS localization
 
 
@@ -94,33 +94,20 @@ fxa-headline-8e3fb023 = Bantu kami memastikan yang masuk adalah Anda.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Konfirmasikan akun Mozilla Anda untuk menyinkronkan
 
-## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
+## l10n-14 - Firefox Desktop Sync - Fx View
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan markah Anda di mana pun Anda menggunakan Firefox.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Masukkan surel untuk mulai menyinkronkan
+fxa-headline-33e9f42d = Lanjutkan ke akun Mozilla Anda
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Daftar atau masuk
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
-# Headline for Signin Page
-fxa-headline-c2b34227 = Masukkan sandi untuk mulai menyinkronkan
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sinkronkan kata sandi, metode pembayaran, markah, dan lainnya di mana pun Anda menggunakan Firefox.
-# Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Buat sandi untuk mulai menyinkronkan
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Selesaikan penyiapan sinkronisasi
-
-## l10n-14 - Firefox Desktop Sync - Fx View
-
-# Headline for Email First Page
-fxa-headline-33e9f42d = Lanjutkan ke akun Mozilla Anda
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Lindungi kata sandi, markah, dan data Firefox yang disinkronkan dengan enkripsi di mana pun Anda masuk.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Buat sandi untuk menyinkronkan dengan aman
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Selesaikan penyiapan sinkronisasi
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -260,12 +247,16 @@ fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Fir
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Masuk baru ke Firefox
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Masukkan sandi untuk melanjutkan ke akun Mozilla Anda
 # Description for Signin Token Code Page
 fxa-description-87881780 = Masukkan kode konfirmasi untuk akun Mozilla Anda
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Hanya satu langkah cepat. Masukkan kode dari surel Anda untuk mengaktifkan akun Mozilla Anda.
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sinkronkan kata sandi, metode pembayaran, markah, dan lainnya di mana pun Anda menggunakan Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Daftar atau masuk
 # Description for Verify Short Code Email
