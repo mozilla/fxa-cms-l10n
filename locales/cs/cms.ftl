@@ -99,7 +99,7 @@ fxa-subject-c9fd4b52 = Pro synchronizaci potvrďte svůj účet Mozilla
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizujte svá hesla, panely a záložky všude, kde používáte Firefox.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = Zadejte e-mail pro zahájení synchronizace
+fxa-headline-b36f2b05 = Pro zahájení synchronizace zadejte e-mail
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Přihlásit nebo registrovat
 # Email From Name for Shared
