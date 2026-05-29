@@ -140,6 +140,8 @@ fxa-subject-10e5b452 = Bevestig uw account om u aan te melden bij Firefox
 
 # Description for Email First Page
 fxa-description-dde35cf5 = Meld u aan of maak een account aan om direct pagina’s tussen apparaten te delen.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Voer uw e-mailadres in om een pagina te verzenden
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-account
 # Headline Font Size for Shared
