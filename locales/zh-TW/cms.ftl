@@ -141,7 +141,7 @@ fxa-subject-10e5b452 = 確認您的帳號以登入 Firefox
 # Description for Email First Page
 fxa-description-dde35cf5 = 註冊或登入帳號，即可在不同裝置間即時分享頁面。
 # Headline for Email First Page
-fxa-headline-911c1b69 = 輸入電子郵件地址即可傳送頁面
+fxa-headline-911c1b69 = 使用電子郵件地址登入後，即可傳送頁面
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla 帳號
 # Headline Font Size for Shared
@@ -151,9 +151,9 @@ fxa-description-12219a63 = 在您登入的不同裝置間即時分享頁面。
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = 繼續傳送頁面
 # Headline for Signin Page
-fxa-headline-135116fc = 請輸入密碼即可傳送頁面
+fxa-headline-135116fc = 使用密碼登入後，即可傳送頁面
 # Headline for Signup Set Password Page
-fxa-headline-370f47b3 = 設定密碼即可傳送頁面
+fxa-headline-370f47b3 = 設定密碼後，即可傳送頁面
 # Description for Verify Short Code Email
 fxa-description-e8991369 = 確認您的帳號後，即可立即在登入的不同裝置間分享頁面。
 
