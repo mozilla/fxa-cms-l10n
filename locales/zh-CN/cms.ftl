@@ -139,7 +139,7 @@ fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 ## l10n-16 - Send Tab - Account Menu
 
 # Description for Email First Page
-fxa-description-dde35cf5 = 登录或创建账户即可立即在设备间分享页面。
+fxa-description-dde35cf5 = 登录或创建账户，在设备间即时分享页面。
 # Headline for Email First Page
 fxa-headline-911c1b69 = 输入邮箱地址以发送页面
 # Page Title for Email First Page
@@ -147,7 +147,7 @@ fxa-pageTitle-001bb150 = Mozilla 账户
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = 默认
 # Description for Signin Cached Page
-fxa-description-12219a63 = 随时在已登录的各设备间分享页面。
+fxa-description-12219a63 = 在已登录的各设备间即时分享页面。
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = 继续发送页面
 # Headline for Signin Page
@@ -155,7 +155,7 @@ fxa-headline-135116fc = 输入密码以发送页面
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = 创建密码以发送页面
 # Description for Verify Short Code Email
-fxa-description-e8991369 = 确认您的账户后，即可随时在已登录的各设备间分享页面。
+fxa-description-e8991369 = 确认您的账户后，就可在已登录的各设备间即时分享页面。
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
