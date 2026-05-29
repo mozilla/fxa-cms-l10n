@@ -139,7 +139,7 @@ fxa-subject-10e5b452 = 确认您的账户以登录 Firefox
 ## l10n-16 - Send Tab - Account Menu
 
 # Description for Email First Page
-fxa-description-dde35cf5 = 登录或创建账户即可随时在设备间分享页面。
+fxa-description-dde35cf5 = 登录或创建账户即可立即在设备间分享页面。
 # Headline for Email First Page
 fxa-headline-911c1b69 = 输入邮箱地址以发送页面
 # Page Title for Email First Page
