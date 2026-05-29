@@ -138,6 +138,10 @@ fxa-subject-10e5b452 = Befêstigje jo account om oan te melden by Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Meld jo oan of meitsje in account oan om direkt siden tusken apparaten te dielen.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Fier e-mailadres yn om in side te ferstjoeren
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-account
 # Headline Font Size for Shared
