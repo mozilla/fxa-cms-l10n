@@ -139,7 +139,7 @@ fxa-subject-10e5b452 = Potvrďte svůj účet pro přihlášení do Firefoxu
 ## l10n-16 - Send Tab - Account Menu
 
 # Description for Email First Page
-fxa-description-dde35cf5 = Pro okamžité sdílení stránek mezi zařízeními se přihlaste nebo si vytvořte účet.
+fxa-description-dde35cf5 = Přihlaste se nebo si vytvořte účet a můžete okamžitě sdílet stránky mezi zařízeními.
 # Headline for Email First Page
 fxa-headline-911c1b69 = Vložte e-mail pro odeslání stránky
 # Page Title for Email First Page
