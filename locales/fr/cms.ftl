@@ -151,9 +151,9 @@ fxa-description-12219a63 = Partagez instantanément des pages entre vos appareil
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Continuer pour envoyer une page
 # Headline for Signin Page
-fxa-headline-135116fc = Saisissez le mot de passe pour envoyer une page
+fxa-headline-135116fc = Saisissez votre mot de passe pour envoyer une page
 # Headline for Signup Set Password Page
-fxa-headline-370f47b3 = Créer un mot de passe pour envoyer une page
+fxa-headline-370f47b3 = Créez un mot de passe pour envoyer une page
 # Description for Verify Short Code Email
 fxa-description-e8991369 = Confirmez votre compte et partagez instantanément des pages entre vos appareils partout où vous êtes connecté·e.
 
