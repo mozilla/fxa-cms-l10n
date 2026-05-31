@@ -147,7 +147,7 @@ fxa-pageTitle-001bb150 = Účet Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
-fxa-description-12219a63 = Okamžitě sdílejte stránky mezi zařízeními, kde jste přihlášeni.
+fxa-description-12219a63 = Sdílejte stránky mezi zařízeními okamžitě, kdekoli jste přihlášeni.
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Pokračovat pro odeslání stránky
 # Headline for Signin Page
@@ -155,7 +155,7 @@ fxa-headline-135116fc = Pro odeslání stránky vložte heslo
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = Pro odeslání stránky si vytvořte heslo
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Potvrďte svůj účet a okamžitě sdílejte stránky mezi zařízeními, kde jste přihlášeni.
+fxa-description-e8991369 = Ověřte si svůj účet a okamžitě sdílejte stránky mezi zařízeními, kdekoli jste přihlášeni.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -213,13 +213,13 @@ fxa-description-8c69b083 = Tento e-mail byl použit k přihlášení z:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Dokončete přihlášení, abyste mohli využívat integrovanou VPN ve Firefoxu
 # Subject for Passwordless Signin Otp Email
-fxa-subject-8e6d45cf = Pomocí tohoto kódu dokončíte přihlašování
+fxa-subject-8e6d45cf = Pomocí tohoto kódu dokončete přihlášení
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Pomocí této e-mailové adresy byl vytvořen účet od:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-204eeb82 = Dokončete registraci k používání vestavěné VPN ve Firefoxu
+fxa-headline-204eeb82 = Dokončete registraci a začněte využívat integrovanou VPN ve Firefoxu
 # Subject for Passwordless Signup Otp Email
-fxa-subject-de67b643 = Použijte tento kód k dokončení registrace
+fxa-subject-de67b643 = Tento kód použijte k dokončení registrace
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -229,7 +229,7 @@ fxa-description-1745f244 = Pokračujte pomocí svého účtu Mozilla a odemknět
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Ještě jeden krok k přihlášení.
 # Headline for Signin Passwordless Code Page
-fxa-headline-21296b0d = Aktivujte vestavěnou VPN pomocí účtu Mozilla
+fxa-headline-21296b0d = Aktivujte svou integrovanou VPN pomocí účtu Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
 # Description for Signup Passwordless Code Page
