@@ -146,6 +146,16 @@ fxa-headline-911c1b69 = Fier e-mailadres yn om in side te ferstjoeren
 fxa-pageTitle-001bb150 = Mozilla-account
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Diel oeral wêr’t jo oanmeld binne daliks siden tusken apparaten.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Trochgean om in side te ferstjoeren
+# Headline for Signin Page
+fxa-headline-135116fc = Fier wachtwurd yn om in side te ferstjoeren
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Meitsje in wachtwurd oan om in side te ferstjoeren
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Befêstigje jo account en diel oeral wêr’t jo oanmeld binne daliks siden tusken apparaten.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -198,6 +208,18 @@ fxa-description-6c54afca = Jo binne hast klear om de privacy fan jo browser te f
 fxa-headline-8b338d52 = Jo Mozilla-account is brûkt om by Firefox oan te melden
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Dit e-mailadres is brûkt om oan te melden fanôf:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Foltôgje jo oanmelding om de ynboude VPN yn Firefox te brûken
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Brûk dizze koade om jo oanmelding te foltôgjen
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Der is mei dit e-mailadres in account oanmakke fanôf:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Foltôgje jo registraasje om de ynboude VPN yn Firefox te brûken
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Brûk dizze koade om jo ynskriuwing te foltôgjen
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
