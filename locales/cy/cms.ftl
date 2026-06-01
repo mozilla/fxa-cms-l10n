@@ -155,7 +155,7 @@ fxa-headline-135116fc = Rhowch gyfrinair i anfon tudalen
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = Crëwch gyfrinair i anfon tudalen
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Cadarnhewch eich cyfrif a rhannwch dudalennau ar unwaith rhwng dyfeisiau ym mhob man rydych chi wedi mewngofnodi.
+fxa-description-e8991369 = Cadarnhewch eich cyfrif a rhannu tudalennau ar unwaith rhwng dyfeisiau ym mhob man rydych chi wedi mewngofnodi.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -211,13 +211,13 @@ fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Defnyddiwyd yr e-bost hwn i fewngofnodi oddi wrth:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-08ad7263 = Gorffennwch eich mewngofnodi i ddefnyddio VPN adeiledig yn Firefox
+fxa-headline-08ad7263 = Gorffennwch eich mewngofnodi i ddefnyddio VPN mewnol Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Defnyddiwch y cod hwn i orffen mewngofnodi
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Crëwyd cyfrif gan ddefnyddio'r cyfeiriad e-bost hwn oddi wrth:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-204eeb82 = Gorffennwch eich cofrestriad i ddefnyddio VPN adeiledig yn Firefox
+fxa-headline-204eeb82 = Gorffennwch eich cofrestriad i ddefnyddio VPN mewnol Firefox
 # Subject for Passwordless Signup Otp Email
 fxa-subject-de67b643 = Defnyddiwch y cod hwn i orffen cofrestru
 # Email Logo Alt Text for Shared
@@ -227,9 +227,9 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Ymlaen i'ch cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
 # Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Un cam arall i arwyddo i mewn.
+fxa-description-ebf33c34 = Un cam arall i fewngofnodi.
 # Headline for Signin Passwordless Code Page
-fxa-headline-21296b0d = Gweithredwch eich VPN mewnol gyda chyfrif Mozilla
+fxa-headline-21296b0d = Agorwch eich VPN mewnol gyda chyfrif Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
 # Description for Signup Passwordless Code Page
