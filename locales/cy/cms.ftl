@@ -139,7 +139,7 @@ fxa-subject-10e5b452 = Cadarnhewch eich cyfrif i fewngofnodi i Firefox
 ## l10n-16 - Send Tab - Account Menu
 
 # Description for Email First Page
-fxa-description-dde35cf5 = Mewngofnodwch neu crëwch gyfrif i rannu tudalennau ar unwaith rhwng dyfeisiau.
+fxa-description-dde35cf5 = Mewngofnodwch neu greu cyfrif i rannu tudalennau ar unwaith rhwng dyfeisiau.
 # Headline for Email First Page
 fxa-headline-911c1b69 = Rhowch e-bost i anfon tudalen
 # Page Title for Email First Page
@@ -149,11 +149,11 @@ fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
 fxa-description-12219a63 = Rhannwch dudalennau ar unwaith rhwng dyfeisiau ym mhob man rydych chi wedi mewngofnodi.
 # Headline for Signin Cached Page
-fxa-headline-2242b561 = Parhewch i anfon tudalen
+fxa-headline-2242b561 = Ymlaen i anfon tudalen
 # Headline for Signin Page
 fxa-headline-135116fc = Rhowch gyfrinair i anfon tudalen
 # Headline for Signup Set Password Page
-fxa-headline-370f47b3 = Creu cyfrinair i anfon tudalen
+fxa-headline-370f47b3 = Crëwch gyfrinair i anfon tudalen
 # Description for Verify Short Code Email
 fxa-description-e8991369 = Cadarnhewch eich cyfrif a rhannwch dudalennau ar unwaith rhwng dyfeisiau ym mhob man rydych chi wedi mewngofnodi.
 
