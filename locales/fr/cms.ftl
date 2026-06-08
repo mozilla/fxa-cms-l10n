@@ -211,7 +211,7 @@ fxa-subject-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré à 
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Cette adresse e-mail a été utilisée pour se connecter depuis :
 # Headline for Passwordless Signin Otp Email
-fxa-headline-08ad7263 = Terminez votre connexion pour utiliser le VPN intégré dans Firefox
+fxa-headline-08ad7263 = Terminez la connexion pour utiliser le VPN intégré à Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Utiliser ce code pour terminer la connexion
 # Description for Passwordless Signup Otp Email
