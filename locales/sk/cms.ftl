@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Potvrďte svoj účet
 fxa-headline-f8578b7c = Použite priložený kód na potvrdenie vášho účtu Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Potvrďte svoj účet, aby ste mohli používať prehliadač Firefox
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Použite svoj účet Mozilla na bezpečnú synchronizáciu s iným zariadením.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Získajte uložené heslá všade
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Vytvorte si účet Mozilla pre bezpečnú synchronizáciu s iným zariadením.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Potvrďte svoj účet pre synchronizáciu
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

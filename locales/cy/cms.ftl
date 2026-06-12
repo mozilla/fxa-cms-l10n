@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Cadarnhau eich cyfrif
 fxa-headline-f8578b7c = Defnyddiwch y cod sydd wedi'i gynnwys i gadarnhau eich cyfrif Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Cadarnhewch eich cyfrif i ddefnyddio Porwr Firefox
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Defnyddiwch eich cyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Cael cyfrineiriau sydd wedi'u cadw ym mhobman
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Crëwch gyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Cadarnhewch eich cyfrif i gydweddu
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

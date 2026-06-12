@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = तपाईंको खाता पुष्टि
 fxa-headline-f8578b7c = आफ्नो मोजिला खाताको पुष्टि गर्न दिइएको कोड प्रयोग गर्नुहोस्।
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox ब्राउजर चलाउन आफ्नो खाता पुष्टि गर्नुहोस्
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = अर्को उपकरणमा सुरक्षित रूपमा सिङ्क गर्न आफ्नो मोजिला खाता प्रयोग गर्नुहोस्।
-# Headline for Email First Page
-fxa-headline-0ec7d798 = जताततै सुरक्षित पासवर्डहरू प्राप्त गर्नुहोस्
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = अर्को उपकरणमा सुरक्षित रूपमा सिङ्क गर्न मोजिला खाता सिर्जना गर्नुहोस्।
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = सिङ्क गर्नका लागि आफ्नो खाता पुष्टि गर्नुहोस्
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Stadfest kontoen din
 fxa-headline-f8578b7c = Bruk den medfølgjande koden for å stadfeste Mozilla-kontoen din.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Stadfest kontoen din for å bruke Firefox-nettlesaren
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Bruk Mozilla-kontoen din for å synkronisere sikkert til ei anna eining.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Få tilgang til lagra passord overalt
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Opprett ein Mozilla-konto for å synkronisere sikkert til ei anna eining.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Stadfest kontoen din for å synkronisere
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

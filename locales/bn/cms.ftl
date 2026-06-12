@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -161,17 +161,6 @@ fxa-description-ef1fb997 = আপনার অ্যাকাউন্ট নি
 fxa-headline-f8578b7c = আপনার Mozilla অ্যাকাউন্ট নিশ্চিত করতে অন্তর্ভুক্ত কোডটি ব্যবহার করুন।
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox ব্রাউজার ব্যবহার করার জন্য আপনার অ্যাকাউন্ট নিশ্চিত করুন
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = আরেকটি ডিভাইসে নিরাপদভাবে সিঙ্ক করতে আপনার Mozilla অ্যাকাউন্ট ব্যবহার করুন।
-# Headline for Email First Page
-fxa-headline-0ec7d798 = সংরক্ষিত পাসওয়ার্ড যেকোনো জায়গায় পান
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = আরেকটি ডিভাইসে নিরাপদভাবে সিঙ্ক করার জন্য একটি Mozilla অ্যাকাউন্ট তৈরি করুন।
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = সিঙ্ক করার জন্য আপনার অ্যাকাউন্ট নিশ্চিত করুন
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

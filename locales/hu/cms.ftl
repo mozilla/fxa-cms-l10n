@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Erősítse meg a fiókját
 fxa-headline-f8578b7c = Használja a mellékelt kódot a Mozilla-fiókja megerősítéséhez.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Erősítse meg fiókját a Firefox böngésző használatához
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Használja Mozilla-fiókját, hogy biztonságosan szinkronizáljon egy másik eszközre.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Mentett jelszavak mindenhol
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Hozzon létre egy Mozilla-fiókot, hogy biztonságosan szinkronizáljon egy másik eszközre.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Erősítse meg a fiókját a szinkronizáláshoz
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

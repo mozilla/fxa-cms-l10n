@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -221,17 +221,6 @@ fxa-description-ef1fb997 = Ripohoni llogarinë tuaj
 fxa-headline-f8578b7c = Përdorni kodin e përfshirë, që të ripohoni  llogarinë tuaj Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Që të përdorni Shfletuesin Firefox, ripohoni llogarinë tuaj
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Përdoreni llogarinë tuaj Mozilla për të njëkohësuar në mënyrë të siguruar gjërat në një pajisje tjetër.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Merrini kudo fjalëkalimet e ruajtur
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Për të njëkohësuar në mënyrë të siguruar gjërat në një pajisje tjetër, krijoni një llogari Mozilla .
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Që të bëhet njëkohësimi, ripohoni llogarinë tuaj
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

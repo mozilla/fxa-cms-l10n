@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -177,19 +177,6 @@ fxa-description-ef1fb997 = تأیید حساب کاربری خود
 fxa-headline-f8578b7c = برای تأیید حساب کاربری Mozilla خود، از این کد استفاده کنید.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = برای استفاده از مرورگر Firefox حساب کاربری خود را تأیید کنید
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = برای همگام‌سازی ایمن با یک دستگاه دیگر از حساب کاربری Mozilla خود استفاده کنید.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = گذرواژه‌های ذخیره‌شده را در همه‌جا دریافت کنید
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = برای همگام‌سازی ایمن با دستگاه دیگر یک حساب کاربری Mozilla ایجاد کنید.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = برای همگام‌سازی حساب کاربری خود را تأیید کنید
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

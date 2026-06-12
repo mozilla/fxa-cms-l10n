@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Emoneĩ ne mba’ete
 fxa-headline-f8578b7c = Eiporu ayvu reheve emoneĩ hag̃ua ne mba’ete Mozilla-pegua.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Emoneĩ ne mba’ete eiporu hag̃ua Firefox kundahára
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Eiporu ne Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’oka ndive.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Eraha ne ñe’ẽñemi ñongatupyre opárupi
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Ejapo Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’okáre.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Emoneĩ ne mba’ete embojuehe hag̃ua
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

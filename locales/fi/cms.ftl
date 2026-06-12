@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -233,19 +233,6 @@ fxa-description-ef1fb997 = Vahvista tilisi
 fxa-headline-f8578b7c = Käytä mukana tulevaa koodia vahvistaaksesi Mozilla-tilisi.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Vahvista tilisi käyttääksesi Firefox-selainta
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Käytä Mozilla-tiliä synkronoidaksesi turvallisesti toiseen laitteeseen.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Käytä tallennettuja salasanoja kaikkialla
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Luo Mozilla-tili synkronoidaksesi turvallisesti toiseen laitteeseen.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Vahvista tilisi synkronointia varten
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

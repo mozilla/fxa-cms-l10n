@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -183,17 +183,6 @@ fxa-description-ef1fb997 = Ҳисоби худро тасдиқ кунед
 fxa-headline-f8578b7c = Барои тасдиқ кардани ҳисоби «Mozilla»-и худ, аз рамзи дохилшуда истифода баред.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Барои истифодаи браузери «Firefox», ҳисоби худро тасдиқ кунед
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Барои ҳамоҳангсозии бехатар бо дастгоҳи дигар, аз ҳисоби «Mozilla»-и худ истифода баред.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Ниҳонвожаҳои нигоҳдошташударо аз ҷойи дилхоҳ ба даст оред
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Барои ҳамоҳангсозии бехатар бо дастгоҳи дигар, ҳисоби «Mozilla»-ро эҷод кунед.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Барои оғози ҳамоҳангсозӣ, ҳисоби худро тасдиқ кунед
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Conferma il tuo account
 fxa-headline-f8578b7c = Utilizza il codice incluso per confermare il tuo account Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Conferma il tuo account per utilizzare Firefox
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Utilizza il tuo account Mozilla per sincronizzare in modo sicuro con un altro dispositivo.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Accedi ovunque alle password salvate
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Crea un account Mozilla per sincronizzare in modo sicuro con un altro dispositivo.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Conferma l’account per sincronizzare
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

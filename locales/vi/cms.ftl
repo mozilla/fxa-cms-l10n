@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Xác minh tài khoản của bạn
 fxa-headline-f8578b7c = Sử dụng mã đi kèm để xác minh tài khoản Mozilla của bạn.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Xác minh tài khoản của bạn để sử dụng Trình duyệt Firefox
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Sử dụng tài khoản Mozilla của bạn để đồng bộ hóa an toàn với thiết bị khác.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Lấy mật khẩu đã lưu ở mọi nơi
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Tạo tài khoản Mozilla để đồng bộ hóa an toàn với thiết bị khác.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Xác minh tài khoản của bạn để đồng bộ hóa
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

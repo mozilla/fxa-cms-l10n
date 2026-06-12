@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = დაადასტურეთ თქვენი 
 fxa-headline-f8578b7c = გამოიყენეთ თანდართული კოდი თქვენი Mozilla-ანგარიშის დასადასტურებლად.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = დაადასტურეთ თქვენი ანგარიში Firefox-ბრაუზერის გამოსაყენებლად
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = გამოიყენეთ თქვენი Mozilla-ანგარიში სხვა მოწყობილობასთან უსაფრთხოდ სინქრონიზაციისთვის.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = მიიღეთ შენახული პაროლები ყველგან
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = შექმენით Mozilla-ანგარიში სხვა მოწყობილობასთან უსაფრთხოდ სინქრონიზაციისთვის.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = დაადასტურეთ თქვენი ანგარიში სინქრონიზაციისთვის
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

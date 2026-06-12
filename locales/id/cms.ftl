@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Konfirmasikan akun Anda
 fxa-headline-f8578b7c = Gunakan kode yang disertakan untuk mengonfirmasi akun Mozilla Anda.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Konfirmasikan akun Anda untuk menggunakan Peramban Firefox
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Gunakan akun Mozilla Anda untuk menyinkronkan dengan aman ke perangkat lain.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Dapatkan sandi tersimpan di mana saja
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Buat akun Mozilla untuk menyinkronkan ke perangkat lain dengan aman.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Konfirmasi akun Anda untuk disinkronkan
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

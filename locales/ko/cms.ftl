@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = 계정 확인
 fxa-headline-f8578b7c = 포함된 코드를 사용하여 Mozilla 계정을 확인하세요.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox 브라우저를 사용하기 위해 계정을 확인해주세요.
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Mozilla 계정을 사용하여 다른 기기와 안전하게 동기화하세요.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = 어디에서나 저장된 비밀번호 받기
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = 다른 기기와 안전하게 동기화하려면 Mozilla 계정을 만드세요.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = 동기화할 계정 확인
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -233,19 +233,6 @@ fxa-description-ef1fb997 = ยืนยันบัญชีของคุณ
 fxa-headline-f8578b7c = ใช้รหัสที่ให้มาเพื่อยืนยันบัญชี Mozilla ของคุณ
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = ยืนยันบัญชีของคุณเพื่อใช้งานเบราว์เซอร์ Firefox
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = ใช้บัญชี Mozilla ของคุณเพื่อซิงค์ข้อมูลไปยังอุปกรณ์อื่นอย่างปลอดภัย
-# Headline for Email First Page
-fxa-headline-0ec7d798 = ดึงรหัสผ่านที่บันทึกได้ทุกที่
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = สร้างบัญชี Mozilla เพื่อซิงค์ข้อมูลไปยังอุปกรณ์อื่นอย่างปลอดภัย
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = ยืนยันบัญชีของคุณเพื่อซิงค์
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

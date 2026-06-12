@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -199,19 +199,6 @@ fxa-description-ef1fb997 = Staðfestu reikninginn þinn
 fxa-headline-f8578b7c = Notaðu meðfylgjandi kóða til að staðfesta Mozilla-reikninginn þinn.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Staðfestu aðganginn þinn til að nota Firefox-vafrann
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Notaðu Mozilla-reikninginn þinn til að samstilla á öruggan hátt við annað tæki.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Fáðu vistuðu lykilorðin þín alls staðar
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Stofnaðu Mozilla-reikning til að samstilla á öruggan hátt við annað tæki.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Staðfestu reikninginn þinn til að samstilla
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Потвърдете своя профил
 fxa-headline-f8578b7c = Използвайте приложения код, за да потвърдите профила си в Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Потвърдете профила си, за да използвате Firefox Browser
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Използвайте профила си в Mozilla за сигурно синхронизиране с друго устройство.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Получавайте запазените си пароли навсякъде
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Създайте профил в Mozilla, за да синхронизирате данните си сигурно с друго устройство.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Потвърждаване на профила за синхронизиране
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

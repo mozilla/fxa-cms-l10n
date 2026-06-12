@@ -1,4 +1,4 @@
-### Generated on 2026-05-26T13:05:33.797Z
+### Generated on 2026-06-04T01:18:27.790Z
 ### FTL file for CMS localization
 
 
@@ -265,19 +265,6 @@ fxa-description-ef1fb997 = Επιβεβαίωση του λογαριασμού 
 fxa-headline-f8578b7c = Χρησιμοποιήστε τον παρεχόμενο κωδικό για να επιβεβαιώσετε τον λογαριασμό Mozilla σας.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Επιβεβαιώστε τον λογαριασμό σας για χρήση του προγράμματος περιήγησης Firefox
-
-## l10n-22 - Firefox Desktop - Password Manager
-
-# Description for Email First Page
-fxa-description-78fd76ac = Χρησιμοποιήστε τον λογαριασμό Mozilla σας για ασφαλή συγχρονισμό με άλλη συσκευή.
-# Headline for Email First Page
-fxa-headline-0ec7d798 = Αποκτήστε πρόσβαση στους αποθηκευμένους σας κωδικούς πρόσβασης από παντού
-# Logo Alt Text for Shared
-fxa-logoAltText-763f7f1a = Firefox
-# Description for Signup Set Password Page
-fxa-description-32c1f240 = Δημιουργήστε έναν λογαριασμό Mozilla για ασφαλή συγχρονισμό με άλλες συσκευές.
-# Subject for Verify Short Code Email
-fxa-subject-9235d479 = Επιβεβαιώστε τον λογαριασμό σας για συγχρονισμό
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
