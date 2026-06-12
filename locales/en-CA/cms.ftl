@@ -138,10 +138,24 @@ fxa-subject-10e5b452 = Confirm your account to sign in to Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Sign in or create an account to instantly share pages between devices.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Enter email to send a page
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla account
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Instantly share pages between devices everywhere you’re signed in.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continue to send a page
+# Headline for Signin Page
+fxa-headline-135116fc = Enter password to send a page
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Create a password to send a page
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirm your account and instantly share pages between devices everywhere you’re signed in.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -194,14 +208,32 @@ fxa-description-6c54afca = You’re almost ready to boost your browser’s priva
 fxa-headline-8b338d52 = Your Mozilla account was used to sign in to Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = This email was used to sign in from:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Finish your sign in to use built-in VPN in Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Use this code to finish signing in
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = An account was created using this email address from:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Finish your sign up to use built-in VPN in Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Use this code to finish signing up
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continue with your Mozilla account to unlock VPN features like hiding your location.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = One more step to sign in.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = One more step to create your account and sign in.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
 # Headline for Verify Login Code Email
