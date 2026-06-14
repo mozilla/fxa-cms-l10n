@@ -87,6 +87,8 @@ fxa-description-5649263e = Inicia sesión para respaldar este dispositivo.
 fxa-description-3db4ef62 = Respalda tus datos de Firefox de forma segura con una contraseña.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Crea una contraseña para proteger tus datos
+# Description for Verify Short Code Email
+fxa-description-bb7998da = Confirma tu cuenta y sincroniza tus contraseñas donde dejes abierta tu sesión de Firefox, empezando por:
 # Headline for Verify Short Code Email
 fxa-headline-8e3fb023 = Ayúdanos a verificar que eres tú quien inicia sesión.
 # Subject for Verify Short Code Email
@@ -111,6 +113,12 @@ fxa-headline-911c1b69 = Ingresa un correo electrónico para enviar una página
 fxa-pageTitle-001bb150 = Cuenta de Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = predeterminado
+# Description for Signin Cached Page
+fxa-description-12219a63 = Comparte páginas al instante entre los dispositivos donde hayas iniciado sesión.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continúa para enviar una página
+# Headline for Signin Page
+fxa-headline-135116fc = Ingresa tu contraseña para enviar una página
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -120,6 +128,12 @@ fxa-description-607e9f0f = Los correos enviados a tus máscaras se reenviarán a
 fxa-headline-30fd7c55 = Regístrate o inicia sesión para proteger tu bandeja de entrada del spam
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = máscara de correo electrónico
+# Page Title for Email First Page
+fxa-pageTitle-8e453cea = Protege tu bandeja de entrada del spam | Cuentas de Mozilla
+# Headline for New Device Login Email
+fxa-headline-db70c503 = Se usó tu cuenta para iniciar sesión
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox intentará redirigirte para usar una máscara de correo después de que inicies sesión.
 
 ## l10n-19 - VPN (Settings)
 
@@ -131,14 +145,22 @@ fxa-description-8c69b083 = Se usó este correo para iniciar sesión desde:
 fxa-headline-08ad7263 = Termina de iniciar sesión para usar la VPN integrada en Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Usa este código para terminar de iniciar sesión
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Se creó una cuenta con esta dirección de correo desde:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Termina de registrarte para usar la VPN integrada en Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Signin Cached Page
+fxa-description-1745f244 = Continúa con tu cuenta de Mozilla para desbloquear funciones de VPN como ocultar tu ubicación.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ayúdanos a proteger tu cuenta aprobando tu inicio de sesión en:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = ¿Iniciaste sesión en Firefox con tu cuenta de Mozilla?
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Aprueba el inicio de sesión en Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirma tu cuenta para usar la VPN integrada de Firefox
 
@@ -158,3 +180,12 @@ fxa-description-201c6fe1 = Sincroniza tus contraseñas, métodos de pago, marcad
 fxa-headline-a20eb81e = Regístrate o inicia sesión
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirma tu cuenta
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Usa el código adjunto para confirmar tu cuenta de Mozilla.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Confirma tu cuenta para usar el navegador Firefox
+
+## l10n-3 - Monitor-landingpage-experiment-v1
+
+# Description for Email First Page
+fxa-description-4766f222 = Se necesita una cuenta de Mozilla para usar Mozilla Monitor.
