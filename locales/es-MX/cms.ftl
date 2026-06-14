@@ -4,6 +4,10 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Inicia sesión o crea una cuenta para mantener todo en sincronía.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Usa tu correo electrónico para continuar
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Continuar
 # Description for New Device Login Email
@@ -97,7 +101,21 @@ fxa-headline-33e9f42d = Ir a tu cuenta de Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrarse o iniciar sesión
 
+## l10n-16 - Send Tab - Account Menu
+
+# Description for Email First Page
+fxa-description-dde35cf5 = Inicia sesión o crea una cuenta para compartir páginas al instante entre tus dispositivos.
+
+## l10n-18 - Firefox Desktop - Relay Integration
+
+# Description for Email First Page
+fxa-description-607e9f0f = Los correos enviados a tus máscaras se reenviarán a esta dirección.
+
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Ingresa tu contraseña para continuar a tu cuenta de Mozilla
+# Description for Signin Token Code Page
+fxa-description-87881780 = Ingresa el código de confirmación de tu cuenta de Mozilla
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincroniza tus contraseñas, métodos de pago, marcadores y más en cualquier lugar donde uses Firefox.
