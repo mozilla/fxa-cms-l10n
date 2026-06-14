@@ -105,17 +105,56 @@ fxa-primaryButtonText-a20eb81e = Registrarse o iniciar sesión
 
 # Description for Email First Page
 fxa-description-dde35cf5 = Inicia sesión o crea una cuenta para compartir páginas al instante entre tus dispositivos.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Ingresa un correo electrónico para enviar una página
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Cuenta de Mozilla
+# Headline Font Size for Shared
+fxa-headlineFontSize-c21f969b = predeterminado
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
 fxa-description-607e9f0f = Los correos enviados a tus máscaras se reenviarán a esta dirección.
+# Headline for Email First Page
+fxa-headline-30fd7c55 = Regístrate o inicia sesión para proteger tu bandeja de entrada del spam
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = máscara de correo electrónico
+
+## l10n-19 - VPN (Settings)
+
+# Headline for New Device Login Email
+fxa-headline-8b338d52 = Se usó tu cuenta de Mozilla para iniciar sesión en Firefox
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Se usó este correo para iniciar sesión desde:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Termina de iniciar sesión para usar la VPN integrada en Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Usa este código para terminar de iniciar sesión
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-502f1bd9 = Mozilla
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Ayúdanos a proteger tu cuenta aprobando tu inicio de sesión en:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = ¿Iniciaste sesión en Firefox con tu cuenta de Mozilla?
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Confirma tu cuenta para usar la VPN integrada de Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Ingresa tu contraseña para continuar a tu cuenta de Mozilla
 # Description for Signin Token Code Page
 fxa-description-87881780 = Ingresa el código de confirmación de tu cuenta de Mozilla
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Solo un paso rápido. Ingresa el código de tu correo para activar tu cuenta de Mozilla.
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincroniza tus contraseñas, métodos de pago, marcadores y más en cualquier lugar donde uses Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Regístrate o inicia sesión
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Confirma tu cuenta
