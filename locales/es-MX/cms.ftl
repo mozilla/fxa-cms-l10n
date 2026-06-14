@@ -14,6 +14,8 @@ fxa-headline-7315250e = Se usó tu cuenta de Mozilla para iniciar sesión
 fxa-subject-a0a749e1 = Nuevo inicio de sesión en Firefox
 # Headline Font Size for Shared
 fxa-headlineFontSize-075a3e36 = medium
+# Logo Alt Text for Shared
+fxa-logoAltText-96e4284e = Logo de Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configura Firefox Sync
 # Description for Signin Cached Page
@@ -52,6 +54,39 @@ fxa-description-38390134 = Ayúdanos a proteger tu cuenta aprobando tu inicio de
 fxa-headline-ed889b16 = ¿Iniciaste sesión en Firefox?
 # Subject for Verify Login Code Email
 fxa-subject-450ba359 = Aprobar inicio de sesión en Firefox
+# Description for Verify Short Code Email
+fxa-description-d28733a3 = Confirma tu cuenta y aprovecha Mozilla al máximo en cualquier lugar donde inicies sesión, empezando por:
+# Headline for Verify Short Code Email
+fxa-headline-f827216f = Abre el internet con Mozilla
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Confirma cuenta
+
+## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
+
+# Description for Email First Page
+fxa-description-0d2e3341 = Respalda tus contraseñas, marcadores y pestañas de Firefox cuando todo esté listo para cambiar de dispositivo.
+# Headline for Email First Page
+fxa-headline-cdd2faf6 = Crea un respaldo con una cuenta de Mozilla
+# Logo Alt Text for Email First Page
+fxa-logoAltText-b9228cb5 = respaldo de zorro
+# Primary Button Text for Email First Page
+fxa-primaryButtonText-be11c74c = Comenzar
+# Headline for New Device Login Email
+fxa-headline-d0511570 = Se usó tu cuenta de Mozilla para iniciar sesión.
+# Email From Name for Shared
+fxa-emailFromName-c70af508 = Mozilla Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-96e4284e = Logo de Firefox
+# Description for Signin Page
+fxa-description-5649263e = Inicia sesión para respaldar este dispositivo.
+# Description for Signup Set Password Page
+fxa-description-3db4ef62 = Respalda tus datos de Firefox de forma segura con una contraseña.
+# Headline for Signup Set Password Page
+fxa-headline-0dffe504 = Crea una contraseña para proteger tus datos
+# Headline for Verify Short Code Email
+fxa-headline-8e3fb023 = Ayúdanos a verificar que eres tú quien inicia sesión.
+# Subject for Verify Short Code Email
+fxa-subject-c9fd4b52 = Confirma tu cuenta de Mozilla para sincronizar
 
 ## l10n-14 - Firefox Desktop Sync - Fx View
 
