@@ -138,10 +138,22 @@ fxa-subject-10e5b452 = Confirmă-ți contul pentru autentificare în Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Intră în cont sau fă-ți un cont ca să partajezi instant pagini între dispozitive.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Introdu adresa de e-mail ca să trimiți o pagină
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Cont Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Partajează instantaneu pagini între dispozitive, oriunde ești conectat(ă).
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Continuă ca să trimiți o pagină
+# Headline for Signin Page
+fxa-headline-135116fc = Introdu parola pentru a trimite pagina
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Creează o parolă pentru a trimite pagina
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -194,12 +206,24 @@ fxa-description-6c54afca = Ești aproape gata să îmbunătățești confidenți
 fxa-headline-8b338d52 = Contul tău Mozilla a fost folosit pentru autentificarea în Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Folosește acest cod pentru a finaliza autentificarea în cont
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = A fost creat un cont folosind această adresă de e-mail din:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Finalizează înregistrarea pentru a utiliza VPN-ul încorporat în Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Folosește acest cod pentru a finaliza înregistrarea
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continuă cu contul Mozilla ca să deblochezi funcționalități VPN, cum ar fi ascunderea locației.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Încă un pas pentru a te conecta.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Activează VPN-ul încorporat cu un cont Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Fă-ți un cont
 # Description for Verify Login Code Email
