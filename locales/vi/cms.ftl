@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = Hãy giúp chúng tôi xác minh rằng chính bạn là
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Xác minh tài khoản Mozilla của bạn để đồng bộ hóa
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Đồng bộ hóa mật khẩu, thẻ và dấu trang của bạn ở mọi nơi bạn sử dụng Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Tiếp tục với tài khoản Mozilla của bạn
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Đăng ký hoặc đăng nhập
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Đồng bộ hóa mật khẩu, phương thức thanh toán, dấu trang và nhiều thông tin khác ở mọi nơi bạn sử dụng Firefox.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Hoàn tất thiết lập đồng bộ hoá
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Tiếp tục với tài khoản Mozilla của bạn
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Bảo vệ mật khẩu, dấu trang và dữ liệu Firefox được đồng bộ hóa bằng mã hóa ở mọi nơi bạn đăng nhập.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Tạo mật khẩu để đồng bộ hóa an toàn
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Hoàn tất thiết lập đồng bộ hoá
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -247,16 +254,12 @@ fxa-headline-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Đăng nhập mới vào Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Nhập mật khẩu để tiếp tục truy cập tài khoản Mozilla của bạn.
 # Description for Signin Token Code Page
 fxa-description-87881780 = Nhập mã xác minh cho tài khoản Mozilla của bạn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Chỉ cần một bước nhanh chóng. Nhập mã từ email của bạn để kích hoạt tài khoản Mozilla.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Đồng bộ hóa mật khẩu, phương thức thanh toán, dấu trang và nhiều thông tin khác ở mọi nơi bạn sử dụng Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Đăng ký hoặc đăng nhập
 # Description for Verify Short Code Email

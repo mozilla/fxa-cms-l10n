@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -88,20 +88,27 @@ fxa-headline-8e3fb023 = Hjálpaðu okkur að ganga úr skugga um að það sért
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Staðfestu Mozilla-reikninginn þinn til að samstilla
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Samstilltu lykilorðin þín, flipa og bókamerki alls staðar þar sem þú notar Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Halda áfram í Mozilla-reikninginn þinn
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Nýskráðu þig eða skráðu þig inn
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Samstilltu lykilorð, greiðslumáta, bókamerki og fleira, alls staðar þar sem þú notar Firefox.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Ljúka uppsetningu á samstillingu
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Halda áfram í Mozilla-reikninginn þinn
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Verndar lykilorð, bókamerki og samstillt Firefox-gögn með dulritun alls staðar þar sem þú ert skráð(ur) inn.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Búðu til lykilorð til að samstilla á öruggan máta
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Ljúka uppsetningu á samstillingu
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -181,16 +188,12 @@ fxa-headline-9627bd4a = Staðfestu aðganginn þinn til að nota innbyggða VPN-
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Ný innskráning í Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Settu inn lykilorð til að halda áfram á Mozilla-reikninginn þinn
 # Description for Signin Token Code Page
 fxa-description-87881780 = Settu inn staðfestingarkóða fyrir Mozilla-reikninginn þinn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Bara eitt fljótlegt skref. Settu inn kóðann úr tölvupóstinum þínum til að virkja Mozilla-reikninginn þinn.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Samstilltu lykilorð, greiðslumáta, bókamerki og fleira, alls staðar þar sem þú notar Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Nýskráðu þig eða skráðu þig inn
 # Description for Verify Short Code Email

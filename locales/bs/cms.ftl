@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -78,14 +78,19 @@ fxa-description-5649263e = Prijavite se da biste napravili sigurnosnu kopiju ovo
 # Description for Signup Set Password Page
 fxa-description-3db4ef62 = Sigurno napravite sigurnosnu kopiju svojih Firefox podataka pomoću lozinke.
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sinhronizujte svoje lozinke, tabove i zabilješke svugdje gdje koristite Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Nastavite na svoj Mozilla račun
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrujte se ili prijavite se
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sinhronizujte svoje lozinke, načine plaćanja, zabilješke i još mnogo toga svugdje gdje koristite Firefox.
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Nastavite na svoj Mozilla račun
 
 ## l10n-16 - Send Tab - Account Menu
 
@@ -96,8 +101,3 @@ fxa-headlineFontSize-c21f969b = default
 
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sinhronizujte svoje lozinke, načine plaćanja, zabilješke i još mnogo toga svugdje gdje koristite Firefox.

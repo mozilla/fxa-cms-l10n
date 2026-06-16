@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -90,20 +90,27 @@ fxa-headline-8e3fb023 = ជួយយើងធ្វើឱ្យប្រាក�
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = បញ្ជាក់គណនី Mozilla របស់អ្នកដើម្បីធ្វើសមកាលកម្ម
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ ផ្ទាំង និងចំណាំរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
-# Headline for Email First Page
-fxa-headline-33e9f42d = បន្តទៅគណនី Mozilla របស់អ្នក
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = ចុះឈ្មោះ ឬចូល
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ វិធីសាស្ត្រទូទាត់ ចំណាំ និងច្រើនទៀតរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = បញ្ចប់ការដំឡើងសមកាលកម្ម
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = បន្តទៅគណនី Mozilla របស់អ្នក
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = ការពារពាក្យសម្ងាត់ ចំណាំ និងទិន្នន័យ Firefox ដែលបានធ្វើសមកាលកម្មរបស់អ្នកជាមួយនឹងការអ៊ិនគ្រីបគ្រប់ទីកន្លែងដែលអ្នកចូល។
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = បង្កើតពាក្យសម្ងាត់ដើម្បីធ្វើសមកាលកម្មដោយសុវត្ថិភាព
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = បញ្ចប់ការដំឡើងសមកាលកម្ម
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -203,16 +210,12 @@ fxa-headline-9627bd4a = បញ្ជាក់គណនីរបស់អ្ន�
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = ចូលថ្មីទៅក្នុង Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = បញ្ចូលពាក្យសម្ងាត់ដើម្បីបន្តទៅគណនី Mozilla របស់អ្នក
 # Description for Signin Token Code Page
 fxa-description-87881780 = បញ្ចូលលេខកូដបញ្ជាក់សម្រាប់គណនី Mozilla របស់អ្នក
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = គ្រាន់តែជាជំហានរហ័សមួយប៉ុណ្ណោះ។ បញ្ចូលលេខកូដពីអ៊ីមែលរបស់អ្នក ដើម្បីធ្វើឱ្យគណនី Mozilla របស់អ្នកសកម្ម។
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = ធ្វើសមកាលកម្មពាក្យសម្ងាត់ វិធីសាស្ត្រទូទាត់ ចំណាំ និងច្រើនទៀតរបស់អ្នកនៅគ្រប់ទីកន្លែងដែលអ្នកប្រើ Firefox។
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = ចុះឈ្មោះ ឬចូល
 # Description for Verify Short Code Email

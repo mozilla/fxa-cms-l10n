@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = Adjuta nos a nos assecurar que es tu qui te connecte.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirma tu conto Mozilla pro synchronisar
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronisa tu contrasignos, schedas e marcapaginas ubique tu usa Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Continua verso tu conto Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Inscribe te o accede
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Synchronisa tu contrasignos, methodos de pagamento, marcapaginas e altero ubique tu usa Firefox.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Completa le configuration de synchronisation
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Continua verso tu conto Mozilla
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Protege tu contrasignos, marcapaginas, e datos synchronisate de Firefox con cryptation ubique tu ha accedite.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Crea un contrasigno pro securmente synchronisar
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Completa le configuration de synchronisation
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -247,16 +254,12 @@ fxa-headline-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nove accesso a Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Insere le contrasigno pro passar a tu conto Mozilla
 # Description for Signin Token Code Page
 fxa-description-87881780 = Insere le codice de confirmation pro tu conto Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Solo un rapide passo. Insere le codice ab tu email pro activar tu conto Mozilla.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Synchronisa tu contrasignos, methodos de pagamento, marcapaginas e altero ubique tu usa Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Inscribe te o accede
 # Description for Verify Short Code Email

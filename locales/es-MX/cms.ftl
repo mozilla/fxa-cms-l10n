@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -94,14 +94,21 @@ fxa-headline-8e3fb023 = Ayúdanos a verificar que eres tú quien inicia sesión.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirma tu cuenta de Mozilla para sincronizar
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincroniza tus contraseñas, pestañas y marcadores en cada uno de tus dispositivos con Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Ir a tu cuenta de Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrarse o iniciar sesión
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Sincroniza tus contraseñas, métodos de pago, marcadores y más en cualquier lugar donde uses Firefox.
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Ir a tu cuenta de Mozilla
 
 ## l10n-16 - Send Tab - Account Menu
 
@@ -166,16 +173,12 @@ fxa-headline-9627bd4a = Confirma tu cuenta para usar la VPN integrada de Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Ingresa tu contraseña para continuar a tu cuenta de Mozilla
 # Description for Signin Token Code Page
 fxa-description-87881780 = Ingresa el código de confirmación de tu cuenta de Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Solo un paso rápido. Ingresa el código de tu correo para activar tu cuenta de Mozilla.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Sincroniza tus contraseñas, métodos de pago, marcadores y más en cualquier lugar donde uses Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Regístrate o inicia sesión
 # Description for Verify Short Code Email

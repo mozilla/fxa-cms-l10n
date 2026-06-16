@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = დაგვეხმარეთ დავადას�
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = დაადასტურეთ თქვენი Mozilla-ანგარიში დასინქრონებისთვის
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = დაასინქრონეთ სანიშნები, ისტორია და პაროლები ყველგან, სადაც გიყენიათ Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = განაგრძეთ Mozilla-ანგარიშით
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = შედით ან შექმენით ანგარიში
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = დაასინქრონეთ თქვენი პაროლები, გადახდის საშუალებები, სანიშნები და სხვა დანარჩენი ყველგან, სადაც კი გიყენიათ Firefox.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = დაასრულეთ სინქრონიზაციის გამართვა
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = განაგრძეთ Mozilla-ანგარიშით
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = იცავს თქვენს პაროლებს, სანიშნებს და ასინქრონებს Firefox-მონაცემებს დაშიფვრით ყველგან, სადაც კი ანგარიშით ხართ შესული.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = შექმენით პაროლი უსაფრთხოდ სინქრონიზაციისთვის
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = დაასრულეთ სინქრონიზაციის გამართვა
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -247,16 +254,12 @@ fxa-headline-9627bd4a = დაადასტურეთ თქვენი ა
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = ახალი შემოსვლა Firefox-ზე
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = მიუთითეთ პაროლი თქვენს Mozilla-ანგარიშზე გადასასვლელად
 # Description for Signin Token Code Page
 fxa-description-87881780 = შეიყვანეთ თქვენი Mozilla-ანგარიშის დამადასტურებელი კოდი
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = მხოლოდ ერთი სწრაფი ნაბიჯი. შეიყვანეთ კოდი ელფოსტიდან თქვენი Mozilla-ანგარიშის ასამოქმედებლად.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = დაასინქრონეთ თქვენი პაროლები, გადახდის საშუალებები, სანიშნები და სხვა დანარჩენი ყველგან, სადაც კი გიყენიათ Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = შედით ან შექმენით ანგარიში
 # Description for Verify Short Code Email

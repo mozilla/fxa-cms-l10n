@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = Helpwch ni i wneud yn siŵr mai chi sy'n mewngofnodi.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Cadarnhewch eich cyfrif Mozilla i gydweddu
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Cydweddwch eich cyfrineiriau, tabiau, a nodau tudalen ym mhob man rydych chi'n defnyddio Firefox.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Ewch ymlaen i'ch cyfrif Mozilla
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Cofrestrwch neu mewngofnodi
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Cydweddwch eich cyfrineiriau, dulliau talu, nodau tudalen, a mwy ym mhob man rydych chi'n defnyddio Firefox.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Gorffen gosod cydweddu
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Ewch ymlaen i'ch cyfrif Mozilla
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Yn diogelu'ch cyfrineiriau, nodau tudalen, a data Firefox wedi'i gydweddu ag amgryptio ym mhob man rydych chi wedi mewngofnodi.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = Creu cyfrinair i gydweddu'n ddiogel
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Gorffen gosod cydweddu
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -247,16 +254,12 @@ fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Mewngofnodi newydd i Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Rhowch gyfrinair i barhau i'ch cyfrif Mozilla
 # Description for Signin Token Code Page
 fxa-description-87881780 = Rhowch god cadarnhau ar gyfer eich cyfrif Mozilla
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Dim ond un cam cyflym. Rhowch y cod o'ch e-bost i weithredu eich cyfrif Mozilla.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Cydweddwch eich cyfrineiriau, dulliau talu, nodau tudalen, a mwy ym mhob man rydych chi'n defnyddio Firefox.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Cofrestrwch neu fewngofnodi
 # Description for Verify Short Code Email

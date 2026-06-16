@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = 請幫助我們確認登入帳號的是您本人。
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = 確認您的 Mozilla 帳號後即可同步
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = 在使用 Firefox 的所有地方同步您的密碼、分頁、書籤。
-# Headline for Email First Page
-fxa-headline-33e9f42d = 繼續前往 Mozilla 帳號
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = 註冊或登入
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = 在使用 Firefox 的所有地方同步您的密碼、付款方式、書籤與更多資料。
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = 完成同步設定
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = 繼續前往 Mozilla 帳號
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = 在您所有登入的裝置，以加密方式同步密碼、書籤與 Firefox 資料。
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = 設定密碼即可安全地同步
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = 完成同步設定
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -247,16 +254,12 @@ fxa-headline-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = 新登入至 Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = 請輸入密碼，以繼續前往您的 Mozilla 帳號
 # Description for Signin Token Code Page
 fxa-description-87881780 = 請輸入您 Mozilla 帳號的確認碼
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = 只需一個快速步驟。請輸入郵件中的驗證碼來啟用您的 Mozilla 帳號。
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = 在使用 Firefox 的所有地方同步您的密碼、付款方式、書籤與更多資料。
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = 註冊或登入
 # Description for Verify Short Code Email
