@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Bevestig uw Mozilla-account voor synchronisatie
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchroniseer uw wachtwoorden, tabbladen en bladwijzers overal waar u Firefox gebruikt.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Voer e-mailadres in om te beginnen met synchroniseren
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registreren of aanmelden
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Voer wachtwoord in om te beginnen met synchroniseren
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchroniseer uw wachtwoorden, betalingsmethoden, bladwijzers en meer, overal waar u Firefox gebruikt.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Maak een wachtwoord aan om te beginnen met synchroniseren
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Instellen synchronisatie voltooien
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Bevestig uw account
 fxa-headline-f8578b7c = Gebruik de bijgevoegde code om uw Mozilla-account te bevestigen.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Bevestig uw account om Firefox Browser te gebruiken
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Gebruik uw Mozilla-account om veilig met een ander apparaat te synchroniseren.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Haal uw opgeslagen wachtwoorden overal op
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Maak een Mozilla-account aan om veilig met een ander apparaat te synchroniseren.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Bevestig uw account om te synchroniseren
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

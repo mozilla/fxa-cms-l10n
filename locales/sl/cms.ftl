@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Za sinhronizacijo potrdite svoj račun Mozilla
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sinhronizirajte gesla, zavihke in zaznamke na vseh mestih, kjer uporabljate Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Vnesite e-poštni naslov za začetek sinhronizacije
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registracija ali prijava
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Vnesite geslo za začetek sinhronizacije
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sinhronizirajte gesla, plačilna sredstva, zaznamke in ostale podatke povsod, kjer uporabljate Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Nastavite geslo za začetek sinhronizacije
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Dokončaj nastavitev sinhronizacije
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Potrdite račun
 fxa-headline-f8578b7c = S priloženo kodo potrdite svoj račun Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Potrdite račun za uporabo brskalnika Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Uporabite Mozillin račun za varno sinhronizacijo z drugo napravo.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Prejmite shranjena gesla povsod
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Ustvarite Mozillin račun za varno sinhronizacijo z drugo napravo.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Potrdite račun za sinhronizacijo
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

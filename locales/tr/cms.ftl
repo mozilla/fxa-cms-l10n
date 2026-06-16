@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Eşitleme için Mozilla hesabınızı onaylayın
 
 # Description for Email First Page
 fxa-description-4ac18cac = Firefox’u kullandığınız her yerde parolalarınızı, sekmelerinizi ve yer imlerinizi eşitleyin.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Eşitlemeyi başlatmak için e-postanızı yazın
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Kaydol veya giriş yap
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Eşitlemeyi başlatmak için parolanızı yazın
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Firefox’u kullandığınız her yerde parolalarınızı, ödeme yöntemlerinizi, yer imlerinizi ve daha fazlasını eşitleyin.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Eşitlemeyi başlatmak için parola oluşturun
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Eşitleme kurulumunu tamamlayın
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Hesabınızı onaylayın
 fxa-headline-f8578b7c = Mozilla hesabınızı onaylamak için bu kodu kullanın.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox tarayıcısını kullanmak için hesabınızı onaylayın
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Başka bir cihazla güvenli bir şekilde eşitleme yapmak için Mozilla hesabınızı kullanın.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Kayıtlı parolalarınızı yanınızda taşıyın
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Başka bir cihazla güvenli bir şekilde eşitleme yapmak için Mozilla hesabı açın.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Eşitleme için hesabınızı onaylayın
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Cadarnhewch eich cyfrif Mozilla i gydweddu
 
 # Description for Email First Page
 fxa-description-4ac18cac = Cydweddwch eich cyfrineiriau, tabiau, a nodau tudalen ym mhob man rydych chi'n defnyddio Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Rhoi e-bost i ddechrau cydweddu
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Cofrestrwch neu mewngofnodi
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Rhoi cyfrinair i ddechrau cydweddu
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Cydweddwch eich cyfrineiriau, dulliau talu, nodau tudalen, a mwy ym mhob man rydych chi'n defnyddio Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Creu cyfrinair i ddechrau cydweddu
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Gorffen gosod cydweddu
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Cadarnhau eich cyfrif
 fxa-headline-f8578b7c = Defnyddiwch y cod sydd wedi'i gynnwys i gadarnhau eich cyfrif Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Cadarnhewch eich cyfrif i ddefnyddio Porwr Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Defnyddiwch eich cyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Cael cyfrineiriau sydd wedi'u cadw ym mhobman
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Crëwch gyfrif Mozilla i gydweddu'n ddiogel â dyfais arall.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Cadarnhewch eich cyfrif i gydweddu
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

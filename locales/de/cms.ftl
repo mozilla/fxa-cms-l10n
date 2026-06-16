@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Bestätigen Sie Ihr Mozilla-Konto für die Synchronisatio
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronisieren Sie Ihre Passwörter, Tabs und Lesezeichen überall dort, wo Sie Firefox verwenden.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = E-Mail-Adresse eingeben, um mit Synchronisation zu beginnen
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Anmelden oder registrieren
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Geben Sie Passwort ein, um mit der Synchronisation zu beginnen
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronisieren Sie Ihre Passwörter, Zahlungsmethoden, Lesezeichen und mehr überall dort, wo Sie Firefox verwenden.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Erstellen Sie ein Passwort, um mit der Synchronisation zu beginnen
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Sync-Einrichtung abschließen
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Bestätigen Sie Ihr Konto
 fxa-headline-f8578b7c = Verwenden Sie den beiliegenden Code, um Ihr Mozilla-Konto zu bestätigen.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Bestätigen Sie Ihr Konto, um den Firefox-Browser zu verwenden
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Verwenden Sie Ihr Mozilla-Konto, um sicher mit einem anderen Gerät zu synchronisieren.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Nehmen Sie Ihre gespeicherten Passwörter überall mit
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Erstellen Sie ein Mozilla-Konto, um sicher mit einem anderen Gerät zu synchronisieren.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Bestätigen Sie Ihr Konto zum Synchronisieren
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

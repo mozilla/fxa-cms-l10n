@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirmez votre compte Mozilla pour synchroniser
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronisez vos onglets, mots de passe et marque-pages partout où vous utilisez Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Saisissez une adresse e-mail pour lancer la synchronisation
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Créer un compte ou se connecter
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Saisissez un mot de passe pour lancer la synchronisation
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronisez vos mots de passe, modes de paiement, marque-pages et bien d’autres choses partout où vous utilisez Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Créez un mot de passe pour lancer la synchronisation
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Terminez la configuration de la synchronisation
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Confirmez votre compte
 fxa-headline-f8578b7c = Utilisez le code inclus pour confirmer votre compte Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirmez votre compte pour utiliser le navigateur Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Utilisez votre compte Mozilla pour synchroniser vos données en toute sécurité avec un autre appareil.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Accédez partout aux mots de passe enregistrés
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Créez un compte Mozilla pour synchroniser vos données en toute sécurité avec un autre appareil.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirmez votre compte pour synchroniser
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

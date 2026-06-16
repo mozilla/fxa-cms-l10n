@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Erősítse meg a Mozilla-fiókját a szinkronizáláshoz
 
 # Description for Email First Page
 fxa-description-4ac18cac = Szinkronizálja jelszavait, lapjait és könyvjelzőit mindenütt, ahol csak Firefoxot használ.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = A szinkronizálás megkezdéséhez adja meg az e-mail-címét
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Regisztráljon vagy jelentkezzen be
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Adjon meg egy jelszót a szinkronizálás megkezdéséhez
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Szinkronizálja jelszavait, fizetési módjait, könyvjelzőit és egyebeket mindenhol, ahol a Firefoxot használja.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Hozzon létre egy jelszót a szinkronizálás megkezdéséhez
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Szinkronizálás beállításának befejezése
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Erősítse meg a fiókját
 fxa-headline-f8578b7c = Használja a mellékelt kódot a Mozilla-fiókja megerősítéséhez.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Erősítse meg fiókját a Firefox böngésző használatához
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Használja Mozilla-fiókját, hogy biztonságosan szinkronizáljon egy másik eszközre.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Mentett jelszavak mindenhol
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Hozzon létre egy Mozilla-fiókot, hogy biztonságosan szinkronizáljon egy másik eszközre.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Erősítse meg a fiókját a szinkronizáláshoz
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

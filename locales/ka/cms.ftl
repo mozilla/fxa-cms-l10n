@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = დაადასტურეთ თქვენი Mozi
 
 # Description for Email First Page
 fxa-description-4ac18cac = დაასინქრონეთ სანიშნები, ისტორია და პაროლები ყველგან, სადაც გიყენიათ Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = შეიყვანეთ ელფოსტა სინქრონიზაციის დასაწყებად
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = შედით ან შექმენით ანგარიში
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = მიუთითეთ პაროლი სინქრონიზაციის დასაწყებად
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = დაასინქრონეთ თქვენი პაროლები, გადახდის საშუალებები, სანიშნები და სხვა დანარჩენი ყველგან, სადაც კი გიყენიათ Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = შექმენით პაროლი სინქრონიზაციის დასაწყებად
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = დაასრულეთ სინქრონიზაციის გამართვა
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = დაადასტურეთ თქვენი 
 fxa-headline-f8578b7c = გამოიყენეთ თანდართული კოდი თქვენი Mozilla-ანგარიშის დასადასტურებლად.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = დაადასტურეთ თქვენი ანგარიში Firefox-ბრაუზერის გამოსაყენებლად
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = გამოიყენეთ თქვენი Mozilla-ანგარიში სხვა მოწყობილობასთან უსაფრთხოდ სინქრონიზაციისთვის.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = მიიღეთ შენახული პაროლები ყველგან
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = შექმენით Mozilla-ანგარიში სხვა მოწყობილობასთან უსაფრთხოდ სინქრონიზაციისთვის.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = დაადასტურეთ თქვენი ანგარიში სინქრონიზაციისთვის
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

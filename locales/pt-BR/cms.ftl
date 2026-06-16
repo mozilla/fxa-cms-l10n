@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirme sua conta Mozilla a sincronizar
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronize senhas, abas e favoritos onde quer que use o Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Digite seu email para iniciar a sincronização
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Entrar na sua conta ou criar uma
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Digite a senha para iniciar a sincronização
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincronize suas senhas, métodos de pagamento, favoritos e muito mais onde quer que use o Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crie uma senha para iniciar a sincronização
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Concluir a configuração de sincronização
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Confirme sua conta
 fxa-headline-f8578b7c = Use o código incluído para confirmar sua conta Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirme sua conta para usar o navegador Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Use sua conta Mozilla para sincronizar com segurança com outro dispositivo.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Tenha senhas salvas em qualquer lugar
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Crie uma conta Mozilla para sincronizar com segurança com outro dispositivo.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirme sua conta para sincronizar
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = मोजिला खातालाई सिङ्क 
 
 # Description for Email First Page
 fxa-description-4ac18cac = जहाँजहाँ फायरफक्स चलाउनुहुन्छ, त्यहाँ तपाईंका पासवर्ड, ट्याब र बुकमार्कहरू सिङ्क गर्नुहोस्
+# Headline for Email First Page
+fxa-headline-b36f2b05 = सिङ्क गर्न सुरु गर्न इमेल प्रविष्ट गर्नुहोस्
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = साइन अप वा साइन इन गर्नुहोस्
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = सिङ्क गर्न सुरु गर्न पासवर्ड प्रविष्ट गर्नुहोस्
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = तपाईंले Firefox प्रयोग गर्ने सबै ठाउँमा आफ्ना पासवर्डहरू, भुक्तानी विधिहरू, बुकमार्कहरू, र थप सिङ्क गर्नुहोस्।
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = सिङ्क गर्न सुरु गर्न पासवर्ड सिर्जना गर्नुहोस्
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = सिङ्क सेटअप समाप्त गर्नुहोस्
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = तपाईंको खाता पुष्टि
 fxa-headline-f8578b7c = आफ्नो मोजिला खाताको पुष्टि गर्न दिइएको कोड प्रयोग गर्नुहोस्।
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox ब्राउजर चलाउन आफ्नो खाता पुष्टि गर्नुहोस्
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = अर्को उपकरणमा सुरक्षित रूपमा सिङ्क गर्न आफ्नो मोजिला खाता प्रयोग गर्नुहोस्।
+# Headline for Email First Page
+fxa-headline-0ec7d798 = जताततै सुरक्षित पासवर्डहरू प्राप्त गर्नुहोस्
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = अर्को उपकरणमा सुरक्षित रूपमा सिङ्क गर्न मोजिला खाता सिर्जना गर्नुहोस्।
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = सिङ्क गर्नका लागि आफ्नो खाता पुष्टि गर्नुहोस्
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

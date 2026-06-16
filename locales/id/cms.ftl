@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Konfirmasikan akun Mozilla Anda untuk menyinkronkan
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sinkronkan kata sandi, tab, dan markah Anda di mana pun Anda menggunakan Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Masukkan surel untuk mulai menyinkronkan
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Daftar atau masuk
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Masukkan sandi untuk mulai menyinkronkan
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sinkronkan kata sandi, metode pembayaran, markah, dan lainnya di mana pun Anda menggunakan Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Buat sandi untuk mulai menyinkronkan
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Selesaikan penyiapan sinkronisasi
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Konfirmasikan akun Anda
 fxa-headline-f8578b7c = Gunakan kode yang disertakan untuk mengonfirmasi akun Mozilla Anda.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Konfirmasikan akun Anda untuk menggunakan Peramban Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Gunakan akun Mozilla Anda untuk menyinkronkan dengan aman ke perangkat lain.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Dapatkan sandi tersimpan di mana saja
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Buat akun Mozilla untuk menyinkronkan ke perangkat lain dengan aman.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Konfirmasi akun Anda untuk disinkronkan
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

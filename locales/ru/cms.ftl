@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Подтвердите свой аккаунт Mozilla д
 
 # Description for Email First Page
 fxa-description-4ac18cac = Синхронизируйте свои пароли, вкладки и закладки везде, где используете Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Введите адрес электронной почты, чтобы начать синхронизацию
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Зарегистрироваться или войти
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Введите пароль для начала синхронизации
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Синхронизируйте свои пароли, способы оплаты, закладки и многое другое везде, где используете Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Создайте пароль для начала синхронизации
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Завершите настройку синхронизации
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Подтвердите ваш аккаунт
 fxa-headline-f8578b7c = Используйте включённый код для подтверждения вашего аккаунта Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Подтвердите свой аккаунт для использования браузера Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Используйте свой аккаунт Mozilla для безопасной синхронизации с другим устройством.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Получайте доступ к сохранённым паролям всегда с собой
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Создайте аккаунт Mozilla для безопасной синхронизации с другим устройством.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Подтвердите свой аккаунт для синхронизации
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

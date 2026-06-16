@@ -94,12 +94,18 @@ fxa-subject-c9fd4b52 = 同期するには Mozilla アカウントを確認して
 
 # Description for Email First Page
 fxa-description-4ac18cac = Firefox を使用しているすべての端末で、パスワード、タブ、ブックマークを同期しましょう。
+# Headline for Email First Page
+fxa-headline-b36f2b05 = 同期を開始するためのメールアドレスを入力
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = ログインまたはアカウント登録
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = 同期を開始するためのパスワードを入力
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Firefox を使用しているすべての端末で、パスワード、支払い方法、ブックマークを同期しましょう。
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = 同期を開始するためのパスワードを作成
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = 同期のセットアップを完了しましょう
 
@@ -188,6 +194,19 @@ fxa-description-ef1fb997 = アカウントを確認してください
 fxa-headline-f8578b7c = 含まれているコードを使用して Mozilla アカウントを確認してください
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox ブラウザーを使用するにはアカウントを確認してください
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Mozilla アカウントを使用して、別の端末と安全に同期しましょう。
+# Headline for Email First Page
+fxa-headline-0ec7d798 = 保存したパスワードがどこでも使えます
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = 別の端末と安全に同期するために Mozilla アカウントを作成しましょう。
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = 同期するにはアカウントを確認してください
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 

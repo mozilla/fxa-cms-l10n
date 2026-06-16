@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = 確認您的 Mozilla 帳號後即可同步
 
 # Description for Email First Page
 fxa-description-4ac18cac = 在使用 Firefox 的所有地方同步您的密碼、分頁、書籤。
+# Headline for Email First Page
+fxa-headline-b36f2b05 = 輸入電子郵件地址即可開始同步
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = 註冊或登入
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = 請輸入密碼即可開始同步
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = 在使用 Firefox 的所有地方同步您的密碼、付款方式、書籤與更多資料。
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = 設定密碼即可開始同步
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = 完成同步設定
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = 確認您的帳號
 fxa-headline-f8578b7c = 使用當中的驗證碼來確認您的 Mozilla 帳號。
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = 確認您的帳號即可使用 Firefox 瀏覽器
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = 使用您的 Mozilla 帳號即可安全地同步到另一台裝置。
+# Headline for Email First Page
+fxa-headline-0ec7d798 = 隨時隨地使用儲存的密碼
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = 註冊 Mozilla 帳號即可安全地同步到另一台裝置。
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = 確認您的帳號後即可同步
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
