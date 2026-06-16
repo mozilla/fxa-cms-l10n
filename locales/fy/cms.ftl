@@ -1,4 +1,4 @@
-### Generated on 2026-06-04T01:18:27.790Z
+### Generated on 2026-06-16T19:57:20.850Z
 ### FTL file for CMS localization
 
 
@@ -94,20 +94,27 @@ fxa-headline-8e3fb023 = Help ús der wis fan te wêzen dat jo it binne dy’t ha
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Befêstigje jo Mozilla-account om te syngronisearjen
 
-## l10n-14 - Firefox Desktop Sync - Fx View
+## l10n-13 - Firefox Desktop Sync - newuser-onboarding-desktop
 
 # Description for Email First Page
 fxa-description-4ac18cac = Syngronisearje jo wachtwurden, ljepblêden en blêdwizers oeral wêr't jo it brûke.
-# Headline for Email First Page
-fxa-headline-33e9f42d = Trochgean nei jo Mozilla-account
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrearje of oanmelde
+# Email From Name for Shared
+fxa-emailFromName-502f1bd9 = Mozilla
+# Description for Signup Set Password Page
+fxa-description-201c6fe1 = Syngronisearje jo wachtwurden, betellingsmetoaden, blêdwizers en mear, oeral wêr't jo Firefox brûke.
+# Headline for Verify Short Code Email
+fxa-headline-929376b4 = Ynstellen syngronisaasje foltôgje
+
+## l10n-14 - Firefox Desktop Sync - Fx View
+
+# Headline for Email First Page
+fxa-headline-33e9f42d = Trochgean nei jo Mozilla-account
 # Description for Signup Set Password Page
 fxa-description-c05d9d00 = Beskermet jo wachtwurden, blêdwizers en syngronisearre Firefox-gegevens mei fersifering, oeral wêr’t jo oanmeld binne.
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = In wachtwurd oanmeitsje om feilich te syngronisearjen
-# Headline for Verify Short Code Email
-fxa-headline-929376b4 = Ynstellen syngronisaasje foltôgje
 
 ## l10n-15 - Firefox Desktop Sync - VPN Promo
 
@@ -247,16 +254,12 @@ fxa-headline-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te 
 
 # Description for New Device Login Email
 fxa-description-0a9e868b = Nije oanmelding by Firefox
-# Email From Name for Shared
-fxa-emailFromName-502f1bd9 = Mozilla
 # Description for Signin Page
 fxa-description-1d4ba9f5 = Fier jo wachtwurd yn om troch te gean nei jo Mozilla-account
 # Description for Signin Token Code Page
 fxa-description-87881780 = Fier befêstigingskoade foar jo Mozilla-account yn
 # Description for Signup Confirm Code Page
 fxa-description-daaed757 = Noch ien flugge stap. Fier de koade út jo e-mailberjocht yn om jo Mozilla-account te aktivearjen.
-# Description for Signup Set Password Page
-fxa-description-201c6fe1 = Syngronisearje jo wachtwurden, betellingsmetoaden, blêdwizers en mear, oeral wêr't jo Firefox brûke.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Registrearje of oanmelde
 # Description for Verify Short Code Email
