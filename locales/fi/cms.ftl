@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Vahvista Mozilla-tilisi synkronointia varten
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synkronoi salasanat, välilehdet ja kirjanmerkit kaikkialla, missä käytät Firefoxia.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Kirjoita sähköpostiosoite aloittaaksesi synkronoinnin
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Rekisteröidy tai kirjaudu sisään
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Kirjoita salasana aloittaaksesi synkronoinnin
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synkronoi salasanat, maksutavat, kirjanmerkit ja paljon muuta, kaikkialla, missä käytät Firefoxia.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Luo salasana aloittaaksesi synkronoinnin
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Viimeistele synkronoinnin määritys
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Vahvista tilisi
 fxa-headline-f8578b7c = Käytä mukana tulevaa koodia vahvistaaksesi Mozilla-tilisi.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Vahvista tilisi käyttääksesi Firefox-selainta
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Käytä Mozilla-tiliä synkronoidaksesi turvallisesti toiseen laitteeseen.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Käytä tallennettuja salasanoja kaikkialla
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Luo Mozilla-tili synkronoidaksesi turvallisesti toiseen laitteeseen.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Vahvista tilisi synkronointia varten
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
