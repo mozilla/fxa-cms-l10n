@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Potwierdź swoje konto Mozilli, aby zsynchronizować dane
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizuj hasła, karty i zakładki wszędzie tam, gdzie używasz Firefoksa.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Wprowadź adres e-mail, aby rozpocząć synchronizację
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Zarejestruj się lub zaloguj
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Wpisz hasło, aby rozpocząć synchronizację
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronizuj hasła, metody płatności, zakładki i inne dane wszędzie tam, gdzie używasz Firefoksa.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Utwórz hasło, aby rozpocząć synchronizację
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Dokończ konfigurację synchronizacji
 
@@ -238,6 +244,19 @@ fxa-description-ef1fb997 = Potwierdź konto
 fxa-headline-f8578b7c = Użyj dołączonego kodu, aby potwierdzić konto Mozilli.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Użyj konta Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Zabierz swoje hasła wszędzie
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Utwórz konto Mozilli, aby bezpiecznie synchronizować się z innym urządzeniem.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Potwierdź swoje konto, aby je zsynchronizować
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
