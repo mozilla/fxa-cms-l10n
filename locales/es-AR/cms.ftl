@@ -109,7 +109,7 @@ fxa-headline-c2b34227 = Ingresá la contraseña para empezar a sincronizar
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincronizá tus contraseñas, métodos de pago, marcadores y más en cualquier lugar donde usés Firefox.
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Creá una contraseña para comenzar a sincronizar
+fxa-headline-7a6bf86a = Creá una contraseña para empezar a sincronizar
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Finalizar configuración de Sync
 
