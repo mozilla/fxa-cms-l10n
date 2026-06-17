@@ -105,7 +105,7 @@ fxa-primaryButtonText-a20eb81e = 註冊或登入
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
-fxa-headline-c2b34227 = 請輸入密碼即可開始同步
+fxa-headline-c2b34227 = 輸入密碼即可開始同步
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = 在使用 Firefox 的所有地方同步您的密碼、付款方式、書籤與更多資料。
 # Headline for Signup Set Password Page
