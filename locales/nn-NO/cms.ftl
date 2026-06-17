@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Stadfest Mozilla-kontoen din for å synkronisere
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synkroniser passord, faner og bokmerke alle stadar du brukar Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Skriv inn e-postadresse for å starte synkronisering
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrer deg eller logg inn
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Skriv inn passord for å starte synkronisering
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synkroniser passorda, betalingsmåtar, bokmerka, og meir, overalt der du brukar Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Opprett eit passord for å begynne å synkronisere
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Fullfør synkroniseringsoppsettet
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Stadfest kontoen din
 fxa-headline-f8578b7c = Bruk den medfølgjande koden for å stadfeste Mozilla-kontoen din.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Stadfest kontoen din for å bruke Firefox-nettlesaren
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Bruk Mozilla-kontoen din for å synkronisere sikkert til ei anna eining.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Få tilgang til lagra passord overalt
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Opprett ein Mozilla-konto for å synkronisere sikkert til ei anna eining.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Stadfest kontoen din for å synkronisere
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
