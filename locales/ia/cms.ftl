@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirma tu conto Mozilla pro synchronisar
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronisa tu contrasignos, schedas e marcapaginas ubique tu usa Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Insere email pro initiar a synchronisar
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Inscribe te o accede
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Insere contrasigno pro initiar a synchronisar
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronisa tu contrasignos, methodos de pagamento, marcapaginas e altero ubique tu usa Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Crea un contrasigno pro initiar a synchronisar
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Completa le configuration de synchronisation
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Confirma tu conto
 fxa-headline-f8578b7c = Usa le codice includite pro confirmar tu conto Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirma tu conto pro usar le navigator Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Usa tu conto Mozilla pro con securitate synchronisar con un altere apparato.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Obtene tu contrasignos reservate ubique
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Crea un conto Mozilla pro con securitate synchronisar con un altere apparato.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirma tu conto pro synchronisar
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
