@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Wobkšuśćo swójo konto Mozilla za synchronizaciju
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synchronizěrujśo swóje gronidła, rejtariki a cytańske znamjenja wšuźi, źož Firefox wužywaśo.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Zapódajśo e-mailowu adresu, aby synchronizaciju zachopił
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Registrěrowaś abo pśizjawiś
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Zapódajśo gronidło, aby synchronizaciju zachopił
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronizěrujśo swóje gronidła, płaśeńske metody, cytańske znamjenja a wěcej wšuźi, źož Firefox wužywaśo.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Napórajśo gronidło, aby synchronizaciju zachopił
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Konfiguraciju synchronizacije dokóńcyś
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Wobkšuśćo swójo konto
 fxa-headline-f8578b7c = Wužywajśo pśipołožony kod, aby swójo konto Mozilla wobkšuśił.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Wobkšuśćo swójo konto, aby wobglědowak Firefox wužywał
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Wužywajśo swójo konto Mozilla, aby z drugim rědom wěsće synchronizěrował.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Wzejśo swóje skłaźone gronidła wšuźi sobu
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Napórajśo konto Mozilla, aby z drugim rědom wěsće synchronizěrował.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Wobkšuśćo swójo konto, aby synchronizěrował
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
