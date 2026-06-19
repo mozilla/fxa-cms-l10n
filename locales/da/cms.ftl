@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Bekræft din Mozilla-konto for at synkronisere
 
 # Description for Email First Page
 fxa-description-4ac18cac = Synkroniser dine adgangskoder, faneblade og bogmærker, overalt hvor du bruger Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Indtast mailadresse for at starte synkronisering
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Tilmeld dig eller log ind
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Indtast adgangskode for at starte synkronisering
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synkroniser dine adgangskoder, betalingsmetoder, bogmærker og mere overalt, hvor du bruger Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Opret en adgangskode for at starte synkronisering
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Afslut opsætning af synkronisering
 
@@ -145,10 +151,24 @@ fxa-subject-10e5b452 = Bekræft din konto for at logge ind på Firefox
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Description for Email First Page
+fxa-description-dde35cf5 = Log ind eller opret en konto for at dele sider med det samme mellem enheder.
+# Headline for Email First Page
+fxa-headline-911c1b69 = Indtast mailadresse for at sende en side
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Mozilla-konto
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = Del sider med det samme mellem enheder, uanset hvor du er logget ind.
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Fortsæt for at sende en side
+# Headline for Signin Page
+fxa-headline-135116fc = Indtast adgangskode for at sende en side
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Opret en adgangskode for at sende en side
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Bekræft din konto, og del sider med det samme mellem enheder, hvor du end er logget ind.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -201,14 +221,32 @@ fxa-description-6c54afca = Nu er din browser snart klar til at beskytte dit priv
 fxa-headline-8b338d52 = Din Mozilla-konto blev brugt til at logge ind på Firefox
 # Subject for New Device Login Email
 fxa-subject-9627bd4a = Bekræft din konto for at bruge Firefox' indbyggede VPN
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Denne mailadresse blev brugt til at logge ind fra:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Færdiggør dit login for at bruge den indbyggede VPN i Firefox
+# Subject for Passwordless Signin Otp Email
+fxa-subject-8e6d45cf = Brug denne kode til at afslutte indlogning
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = En konto blev oprettet med denne mailadresse fra:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-204eeb82 = Færdiggør din tilmelding for at bruge den indbyggede VPN i Firefox
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Brug denne kode til at afslutte tilmelding
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Fortsæt med din Mozilla-konto for at få adgang til VPN-funktioner som fx at skjule din placering.
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Et trin mere for at logge ind.
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = Aktivér din indbyggede VPN med en Mozilla-konto
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Opret en konto
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Endnu et trin for at oprette din konto og logge ind.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hold din konto sikker ved at bekræfte dit login på:
 # Headline for Verify Login Code Email
@@ -236,6 +274,19 @@ fxa-description-ef1fb997 = Bekræft din konto
 fxa-headline-f8578b7c = Brug den medfølgende kode til at bekræfte din Mozilla-konto.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Bekræft din konto for at bruge Firefox-browseren
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Brug din Mozilla-konto til sikkert at synkronisere med en anden enhed.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Tag dine gemte adgangskoder med overalt
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Opret en Mozilla-konto for at synkronisere sikkert med en anden enhed.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Bekræft din konto for at synkronisere
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
