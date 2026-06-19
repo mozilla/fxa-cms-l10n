@@ -231,6 +231,8 @@ fxa-description-1745f244 = Mozilla アカウントで続行して、位置情報
 fxa-pageTitle-a8211ca7 = Mozilla - アカウントを作成
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = アカウントを安全に保つために、次の端末からのログインを承認してください:
+# Headline for Verify Login Code Email
+fxa-headline-b9c2e03a = Mozilla アカウントで Firefox にログインしましたか？
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Mozilla へのログインを承認してください
 # Headline for Verify Short Code Email
