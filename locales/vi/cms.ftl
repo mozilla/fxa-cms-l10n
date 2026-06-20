@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Xác minh tài khoản Mozilla của bạn để đồng 
 
 # Description for Email First Page
 fxa-description-4ac18cac = Đồng bộ hóa mật khẩu, thẻ và dấu trang của bạn ở mọi nơi bạn sử dụng Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Nhập email để bắt đầu đồng bộ hóa
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Đăng ký hoặc đăng nhập
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Nhập mật khẩu để bắt đầu đồng bộ hóa
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Đồng bộ hóa mật khẩu, phương thức thanh toán, dấu trang và nhiều thông tin khác ở mọi nơi bạn sử dụng Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Tạo mật khẩu để bắt đầu đồng bộ hóa
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Hoàn tất thiết lập đồng bộ hoá
 
@@ -268,6 +274,19 @@ fxa-description-ef1fb997 = Xác minh tài khoản của bạn
 fxa-headline-f8578b7c = Sử dụng mã đi kèm để xác minh tài khoản Mozilla của bạn.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Xác minh tài khoản của bạn để sử dụng Trình duyệt Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Sử dụng tài khoản Mozilla của bạn để đồng bộ hóa an toàn với thiết bị khác.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Lấy mật khẩu đã lưu ở mọi nơi
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Tạo tài khoản Mozilla để đồng bộ hóa an toàn với thiết bị khác.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Xác minh tài khoản của bạn để đồng bộ hóa
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
