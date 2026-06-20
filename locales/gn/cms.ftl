@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Emoneĩ ne mba’ete Mozilla-pegua embojuehe hag̃ua
 
 # Description for Email First Page
 fxa-description-4ac18cac = Embojuehe ñe’ẽñemi, tendayke ha techaukaha oimeraẽva tenda eiporuhápe Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Ehai ñanduti veve eñepyrũ hag̃ua embojuehe
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Eike térã eñemboheraguapy
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Ehai ñe’ẽñemi eñepyrũ hag̃ua embojuehe
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Embojuehe ñe’ẽñemi, jepagarã, techaukaha ha hetave oimeraẽva tenda eiporuhápe Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Ejapo ñe’ẽñemi embojuehe ñepyrũ hag̃ua
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Emohu’ã ñembojuehe ñemboheko
 
@@ -268,6 +274,15 @@ fxa-description-ef1fb997 = Emoneĩ ne mba’ete
 fxa-headline-f8578b7c = Eiporu ayvu reheve emoneĩ hag̃ua ne mba’ete Mozilla-pegua.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Emoneĩ ne mba’ete eiporu hag̃ua Firefox kundahára
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Eiporu ne Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’oka ndive.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Eraha ne ñe’ẽñemi ñongatupyre opárupi
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
