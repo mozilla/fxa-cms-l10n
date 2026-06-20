@@ -99,17 +99,17 @@ fxa-subject-c9fd4b52 = 동기화를 위한 Mozilla 계정 확인
 # Description for Email First Page
 fxa-description-4ac18cac = Firefox를 사용하는 어디서든 탭, 비밀번호, 그리고 북마크를 동기화합니다.
 # Headline for Email First Page
-fxa-headline-b36f2b05 = 동기화를 시작하기 위해 이메일을 입력하세요
+fxa-headline-b36f2b05 = 동기화를 시작하기 위해 이메일 입력
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = 가입 또는 로그인
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
-fxa-headline-c2b34227 = 동기화 시작을 위한 비밀번호 입력
+fxa-headline-c2b34227 = 동기화 시작을 위해 비밀번호 입력
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = 비밀번호, 결제 방법, 북마크 등을 Firefox를 사용하는 모든 곳에서 동기화하세요.
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = 동기화 시작을 위한 비밀번호 생성
+fxa-headline-7a6bf86a = 동기화 시작을 위해 비밀번호 생성
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = 동기화 설정 완료
 
@@ -280,7 +280,7 @@ fxa-subject-f3d09e03 = Firefox 브라우저를 사용하기 위해 계정을 확
 # Description for Email First Page
 fxa-description-78fd76ac = Mozilla 계정을 사용하여 다른 기기와 안전하게 동기화하세요.
 # Headline for Email First Page
-fxa-headline-0ec7d798 = 어디에서나 저장된 비밀번호 받기
+fxa-headline-0ec7d798 = 어디에서나 저장된 비밀번호 사용
 # Logo Alt Text for Shared
 fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
