@@ -283,6 +283,10 @@ fxa-description-78fd76ac = Eiporu ne Mozilla mba’ete embojuehe hag̃ua tekoros
 fxa-headline-0ec7d798 = Eraha ne ñe’ẽñemi ñongatupyre opárupi
 # Logo Alt Text for Shared
 fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Ejapo Mozilla mba’ete embojuehe hag̃ua tekorosãme ambue mba’e’okáre.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Emoneĩ ne mba’ete embojuehe hag̃ua
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
