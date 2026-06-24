@@ -15,7 +15,7 @@ fxa-description-a0671d4a = Došlo k novému přihlášení do vašeho účtu Moz
 # Headline for New Device Login Email
 fxa-headline-7315250e = K přihlášení byl použit váš účet Mozilla
 # Subject for New Device Login Email
-fxa-subject-a0a749e1 = Nové přihlášení k Firefoxu
+fxa-subject-a0a749e1 = Nové přihlášení do Firefoxu
 # Headline Font Size for Shared
 fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
