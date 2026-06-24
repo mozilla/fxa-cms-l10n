@@ -152,9 +152,9 @@ fxa-subject-10e5b452 = Confirme sua conta para entrar no Firefox
 ## l10n-16 - Send Tab - Account Menu
 
 # Description for Email First Page
-fxa-description-dde35cf5 = Entre ou crie uma conta para compartilhar páginas instantaneamente entre dispositivos.
+fxa-description-dde35cf5 = Entre ou crie uma conta para compartilhar páginas imediatamente entre dispositivos.
 # Headline for Email First Page
-fxa-headline-911c1b69 = Digite um email para enviar uma página
+fxa-headline-911c1b69 = Digite seu email para enviar uma página
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = Conta Mozilla
 # Headline Font Size for Shared
