@@ -228,11 +228,11 @@ fxa-headline-08ad7263 = Conclua seu acesso para usar a VPN integrada no Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Use este código para concluir o acesso à conta
 # Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Foi criada uma conta usando este endereço de email de:
+fxa-description-ea6cd8f8 = Foi criada uma conta usando este endereço de email em:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Conclua seu cadastro para usar a VPN integrada no Firefox
 # Subject for Passwordless Signup Otp Email
-fxa-subject-de67b643 = Use este código para concluir a inscrição
+fxa-subject-de67b643 = Use este código para concluir o cadastro
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -240,13 +240,13 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continue com sua conta Mozilla para desbloquear recursos da VPN, como ocultar sua localização.
 # Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Mais um passo para entrar.
+fxa-description-ebf33c34 = Mais uma etapa para entrar.
 # Headline for Signin Passwordless Code Page
-fxa-headline-21296b0d = Ative sua VPN integrada com uma conta Mozilla
+fxa-headline-21296b0d = Ative a VPN integrada com uma conta Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Criar uma conta
 # Description for Signup Passwordless Code Page
-fxa-description-02723363 = Mais um passo para criar sua conta e entrar.
+fxa-description-02723363 = Mais uma etapa para criar sua conta e entrar.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ajude-nos a manter sua conta segura aprovando seu acesso em:
 # Headline for Verify Login Code Email
