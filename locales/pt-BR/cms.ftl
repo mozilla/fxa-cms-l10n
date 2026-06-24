@@ -160,7 +160,7 @@ fxa-pageTitle-001bb150 = Conta Mozilla
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 # Description for Signin Cached Page
-fxa-description-12219a63 = Compartilhe instantaneamente páginas entre dispositivos em todos os lugares em que estiver conectado.
+fxa-description-12219a63 = Compartilhe imediatamente páginas entre dispositivos em todos lugar que estiver conectado.
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Continuar para enviar uma página
 # Headline for Signin Page
@@ -168,7 +168,7 @@ fxa-headline-135116fc = Digite a senha para enviar uma página
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = Crie uma senha para enviar uma página
 # Description for Verify Short Code Email
-fxa-description-e8991369 = Confirme sua conta e compartilhe páginas imediatamente entre dispositivos em todos os lugares em que estiver conectado.
+fxa-description-e8991369 = Confirme sua conta e compartilhe páginas imediatamente entre dispositivos em todo lugar que estiver conectado.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -224,7 +224,7 @@ fxa-subject-9627bd4a = Confirme sua conta para usar a VPN integrada ao Firefox
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Este email foi usado para entrar na conta:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-08ad7263 = Conclua seu cadastro para usar a VPN integrada no Firefox
+fxa-headline-08ad7263 = Conclua seu acesso para usar a VPN integrada no Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Use este código para concluir o acesso à conta
 # Description for Passwordless Signup Otp Email
