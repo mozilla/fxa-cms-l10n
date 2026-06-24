@@ -1,4 +1,4 @@
-### Generated on 2026-06-24T16:19:10.919Z
+### Generated on 2026-06-24T16:23:25.692Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -221,55 +221,13 @@ fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
 
-## l10n-20 - VPN (Panel)
-# Description for Email First Page
-fxa-description-0b19b103 = Use your Mozilla account to unlock VPN features like hiding your location.
-# Headline for Email First Page
-fxa-headline-785c79ef = Activate Firefox’s built-in VPN for extra privacy and protection
-# Description for New Device Login Email
-fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Your Mozilla account was used to sign in to Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = This email was used to sign in from:
-# Headline for Passwordless Signin Otp Email
-fxa-headline-08ad7263 = Finish your sign in to use built-in VPN in Firefox
-# Subject for Passwordless Signin Otp Email
-fxa-subject-8e6d45cf = Use this code to finish signing in
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = An account was created using this email address from:
-# Headline for Passwordless Signup Otp Email
-fxa-headline-204eeb82 = Finish your sign up to use built-in VPN in Firefox
-# Subject for Passwordless Signup Otp Email
-fxa-subject-de67b643 = Use this code to finish signing up
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-502f1bd9 = Mozilla
-# Header Logo Alt Text for Shared
-fxa-headerLogoAltText-502f1bd9 = Mozilla
-# Description for Signin Cached Page
-fxa-description-1745f244 = Continue with your Mozilla account to unlock VPN features like hiding your location.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = One more step to sign in.
-# Headline for Signin Passwordless Code Page
-fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
-# Page Title for Signup Confirm Code Page
-fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = One more step to create your account and sign in.
-# Headline for Verify Login Code Email
-fxa-headline-b9c2e03a = Did you sign in to Firefox with your Mozilla account?
-# Subject for Verify Login Code Email
-fxa-subject-72eba5e0 = Approve sign-in to Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
-
 ## l10n-22 - Firefox Desktop - Password Manager
 # Description for Email First Page
 fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Get saved passwords everywhere
+# Header Logo Alt Text for Shared
+fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Logo Alt Text for Shared
 fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
