@@ -1,4 +1,4 @@
-### Generated on 2026-06-24T00:33:02.124Z
+### Generated on 2026-06-24T16:17:23.672Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -201,7 +201,27 @@ fxa-headline-2322b41f = Confirm your account to use email masks
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Confirm your account to use email masks
 
-## l10n-19 - VPN (Settings)
+## l10n-2 - (DONT EDIT - CI) Firefox Desktop
+# Description for New Device Login Email
+fxa-description-0a9e868b = New sign in to Firefox
+# Description for Signin Page
+fxa-description-1d4ba9f5 = Enter password to continue to your Mozilla account
+# Description for Signin Token Code Page
+fxa-description-87881780 = Enter confirmation code for your Mozilla account
+# Description for Signup Confirm Code Page
+fxa-description-daaed757 = Just one quick step. Enter the code from your email to activate your Mozilla account.
+# Headline for Signup Set Password Page
+fxa-headline-a20eb81e = Sign up or sign in
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Confirm your account
+# Headline for Verify Short Code Email
+fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
+# Subject for Verify Short Code Email
+fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
+
+## l10n-20 - VPN (Panel)
 # Description for Email First Page
 fxa-description-0b19b103 = Use your Mozilla account to unlock VPN features like hiding your location.
 # Headline for Email First Page
@@ -238,32 +258,12 @@ fxa-headline-21296b0d = Activate your built-in VPN with a Mozilla account
 fxa-pageTitle-a8211ca7 = Mozilla - Sign up for an account
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = One more step to create your account and sign in.
-# Description for Verify Login Code Email
-fxa-description-6bc52850 = Help us keep your account safe by approving your sign-in on:
 # Headline for Verify Login Code Email
 fxa-headline-b9c2e03a = Did you sign in to Firefox with your Mozilla account?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Approve sign-in to Mozilla
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
-
-## l10n-2 - (DONT EDIT - CI) Firefox Desktop
-# Description for New Device Login Email
-fxa-description-0a9e868b = New sign in to Firefox
-# Description for Signin Page
-fxa-description-1d4ba9f5 = Enter password to continue to your Mozilla account
-# Description for Signin Token Code Page
-fxa-description-87881780 = Enter confirmation code for your Mozilla account
-# Description for Signup Confirm Code Page
-fxa-description-daaed757 = Just one quick step. Enter the code from your email to activate your Mozilla account.
-# Headline for Signup Set Password Page
-fxa-headline-a20eb81e = Sign up or sign in
-# Description for Verify Short Code Email
-fxa-description-ef1fb997 = Confirm your account
-# Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
-# Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
 
 ## l10n-22 - Firefox Desktop - Password Manager
 # Description for Email First Page
