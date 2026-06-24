@@ -228,7 +228,7 @@ fxa-headline-08ad7263 = Conclua seu acesso para usar a VPN integrada no Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Use este código para concluir o acesso à conta
 # Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Uma conta foi criada usando este endereço de e-mail de:
+fxa-description-ea6cd8f8 = Foi criada uma conta usando este endereço de email de:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Conclua seu cadastro para usar a VPN integrada no Firefox
 # Subject for Passwordless Signup Otp Email
