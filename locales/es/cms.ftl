@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -187,10 +187,6 @@ fxa-subject-2322b41f = Confirma tu cuenta para usar máscaras de correo electró
 
 # Description for New Device Login Email
 fxa-description-6c54afca = Ya casi estás listo para mejorar la privacidad de tu navegador.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Se ha utilizado tu cuenta de Mozilla para iniciar sesión en Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Confirma tu cuenta para usar la VPN integrada en Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -203,8 +199,6 @@ fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu in
 fxa-headline-b9c2e03a = ¿Has iniciado sesión en Firefox con tu cuenta de Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Aprobar el inicio de sesión en Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Confirma tu cuenta para usar la VPN integrada en Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

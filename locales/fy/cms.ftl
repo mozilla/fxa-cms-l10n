@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Brûk jo Mozilla-account om VPN-funksjes te ûntskoat
 fxa-headline-785c79ef = Aktivearje de ynboude VPN fan Firefox foar ekstra privacy en beskerming
 # Description for New Device Login Email
 fxa-description-6c54afca = Jo binne hast klear om de privacy fan jo browser te ferbetterjen.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Jo Mozilla-account is brûkt om by Firefox oan te melden
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Dit e-mailadres is brûkt om oan te melden fanôf:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Help ús jo account feilich te hâlden troch jo oanme
 fxa-headline-b9c2e03a = Hawwe jo jo by Firefox oanmeld mei jo Mozilla-account?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Oanmelding by Mozilla goedkarre
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
