@@ -217,6 +217,8 @@ fxa-description-0b19b103 = Uporabite svoj Mozillin račun za odklepanje funkcij 
 fxa-headline-785c79ef = Aktivirajte Firefoxov vgrajen VPN za dodatno zasebnost in zaščito
 # Description for New Device Login Email
 fxa-description-6c54afca = Skoraj ste pripravljeni za izboljšanje zasebnosti vašega brskalnika.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nova prijava v vaš račun Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ta e-poštni naslov je bil uporabljen za prijavo iz:
 # Headline for Passwordless Signin Otp Email

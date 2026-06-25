@@ -217,6 +217,8 @@ fxa-description-0b19b103 = आफ्नो स्थान लुकाउने
 fxa-headline-785c79ef = थप गोपनीयता र सुरक्षाको लागि Firefox को निर्मित VPN सक्रिय गर्नुहोस्
 # Description for New Device Login Email
 fxa-description-6c54afca = तपाईं आफ्नो ब्राउजरको गोपनीयता बढाउन लगभग तयार हुनुहुन्छ।
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = तपाईँको मोजिला खातामा नयाँ साइन-इन
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = यो इमेल साइन इन गर्न प्रयोग गरिएको थियो बाट:
 # Headline for Passwordless Signin Otp Email

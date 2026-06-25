@@ -217,6 +217,8 @@ fxa-description-0b19b103 = Konumunuzu gizleme gibi VPN özelliklerini açmak iç
 fxa-headline-785c79ef = Ekstra gizlilik ve koruma için Firefox’ta yerleşik VPN’i etkinleştirin
 # Description for New Device Login Email
 fxa-description-6c54afca = Tarayıcınızın gizliliğini artırmaya neredeyse hazırsınız.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Mozilla hesabınıza yeni giriş
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Bu e-posta adresiyle giriş yapan cihaz:
 # Headline for Passwordless Signin Otp Email

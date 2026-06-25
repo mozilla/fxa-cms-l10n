@@ -217,6 +217,8 @@ fxa-description-0b19b103 = Gunakan akun Mozilla Anda untuk membuka fitur VPN sep
 fxa-headline-785c79ef = Aktifkan VPN bawaan Firefox untuk privasi dan perlindungan ekstra
 # Description for New Device Login Email
 fxa-description-6c54afca = Anda hampir siap untuk meningkatkan privasi peramban Anda.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Baru masuk ke akun Mozilla Anda
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Surel ini digunakan untuk masuk dari:
 # Headline for Passwordless Signin Otp Email

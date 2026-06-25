@@ -217,6 +217,8 @@ fxa-description-0b19b103 = Defnyddiwch eich cyfrif Mozilla i ddatgloi nodweddion
 fxa-headline-785c79ef = Cychwynnwch y VPN mewnol yn Firefox i gael preifatrwydd a diogelwch ychwanegol
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Mewngofnodi newydd i'ch cyfrif Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Defnyddiwyd yr e-bost hwn i fewngofnodi oddi wrth:
 # Headline for Passwordless Signin Otp Email

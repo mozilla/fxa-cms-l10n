@@ -217,6 +217,8 @@ fxa-description-0b19b103 = Utilize a sua conta Mozilla para desbloquear funciona
 fxa-headline-785c79ef = Ative a VPN integrada do Firefox para privacidade e proteção adicionais
 # Description for New Device Login Email
 fxa-description-6c54afca = Está quase pronto para melhorar a privacidade do seu navegador.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Novo início de sessão na sua conta Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Este email foi utilizado para iniciar sessão de:
 # Headline for Passwordless Signin Otp Email

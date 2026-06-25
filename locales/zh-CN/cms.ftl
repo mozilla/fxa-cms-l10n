@@ -217,6 +217,8 @@ fxa-description-0b19b103 = 使用 Mozilla 账户，解锁 VPN 功能（例如隐
 fxa-headline-785c79ef = 启用 Firefox 的内置 VPN，获得额外的隐私及更多保护
 # Description for New Device Login Email
 fxa-description-6c54afca = 还差一点，就能增强浏览器隐私保护。
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = 新的登录到您的 Mozilla 账户
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = 此邮箱地址从以下位置被用于登录：
 # Headline for Passwordless Signin Otp Email
