@@ -217,6 +217,8 @@ fxa-description-0b19b103 = Wužywajśo swójo konto Mozilla, aby funkcije VPN ka
 fxa-headline-785c79ef = Aktiwěrujśo zatwarjony VPN Firefox za pśidatnu priwatnosć a pśidatny šćit
 # Description for New Device Login Email
 fxa-description-6c54afca = Sćo pśisamem gótowy, aby priwatnosć swójogo wobglědowaka pówušył.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nowe pśizjawjenje pla wašogo konta Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Toś ta e-mailowa adresa jo se wužywała za pśizjawjenje wót:
 # Headline for Passwordless Signin Otp Email
