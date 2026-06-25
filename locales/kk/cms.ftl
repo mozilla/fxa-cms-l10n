@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Орналасқан жеріңізді жасыру 
 fxa-headline-785c79ef = Қосымша жекелік пен қорғаныс үшін Firefox-тың кіріктірілген VPN қызметін іске қосыңыз
 # Description for New Device Login Email
 fxa-description-6c54afca = Браузеріңіздің жекелігін жақсартуға дайын болуға жақынсыз.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Mozilla тіркелгіңіз Firefox ішіне кіру үшін пайдаланылды
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Бұл электрондық пошта келесі адрестен кіру үшін пайдаланылды:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді р
 fxa-headline-b9c2e03a = Firefox ішіне Mozilla тіркелгіңізбен кірдіңіз бе?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Mozilla жүйесіне кіруді растау
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

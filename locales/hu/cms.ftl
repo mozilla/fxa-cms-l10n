@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Használja Mozilla-fiókját, hogy feloldja a VPN-fun
 fxa-headline-785c79ef = Aktiválja a Firefox beépített VPN-jét a fokozott adatvédelem és biztonság érdekében
 # Description for New Device Login Email
 fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = A Firefoxba való bejelentkezéshez használták a Mozilla-fiókját
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ezzel az e-mail-címmel bejelentkeztek innen:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát az
 fxa-headline-b9c2e03a = Bejelentkezett a Firefoxba a Mozilla-fiókjával?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Bejelentkezés jóváhagyása a Mozillába
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Erősítse meg a fiókját, hogy a Firefox beépített VPN-jét használja
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Eiporu ne mba’ete Mozilla-pegua ejokua’o hag̃ua 
 fxa-headline-785c79ef = Emyandy VPN Firefox rehe jehe’apyréva tekoñemi ha ñemo’ãverã
 # Description for New Device Login Email
 fxa-description-6c54afca = Eime porãma emoporãve hag̃ua ne kundahára rekoñemi.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Mba’ete Mozilla-gua ojeporu ojeike hag̃ua Firefox-pe
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩ
 fxa-headline-b9c2e03a = ¿Eike Firefox-pe Mozilla mba’ete rupive?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Emboaje Mozilla-pe jeike
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

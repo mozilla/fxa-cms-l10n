@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Usa tu conto Mozilla pro disblocar functionalitates d
 fxa-headline-785c79ef = Activa le VPN integrate de Firefox pro ulterior confidentialitate e protection
 # Description for New Device Login Email
 fxa-description-6c54afca = Tu es quasi preste a augmentar le confidentialitate de tu navigator.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Tu conto Mozilla era usate pro acceder a Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Iste email era usate pro acceder de:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu ac
 fxa-headline-b9c2e03a = Accedeva tu a Firefox con tu conto Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Approbar accesso a Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

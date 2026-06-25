@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Wužiwajće swoje konto Mozilla, zo byšće funkcije 
 fxa-headline-785c79ef = Aktiwizujće zatwarjeny VPN Firefox za přidatnu priwatnosć a přidatny škit
 # Description for New Device Login Email
 fxa-description-6c54afca = Sće nimale hotowy, zo byšće priwatnosć swojeho wobhladowaka powyšił.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Waše konto Mozilla je so za přizjewjenje pola Firefox wužiło
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Tuta e-mejlowa adresa je so wužiwała za přizjewjenje wot:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Schwalće swoje přizjewjenje, zo byšće nam pomhał
 fxa-headline-b9c2e03a = Sće so pola Firefox ze swojim kontom Mozilla přizjewił?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Přizjewjenje pola Mozilla schwalić
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

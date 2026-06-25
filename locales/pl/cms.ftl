@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -203,10 +203,6 @@ fxa-description-0b19b103 = Użyj konta Mozilli, aby odblokować funkcje VPN, tak
 fxa-headline-785c79ef = Aktywuj wbudowany w Firefoksie VPN, aby zapewnić sobie dodatkową prywatność i ochronę
 # Description for New Device Login Email
 fxa-description-6c54afca = Twoja przeglądarka jest już prawie gotowa do zwiększenia poziomu prywatności.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Twoje konto Mozilli zostało użyte do zalogowania się w Firefoksie
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -223,8 +219,6 @@ fxa-description-6bc52850 = Pomóż nam zapewnić bezpieczeństwo Twojego konta, 
 fxa-headline-b9c2e03a = Ktoś zalogował się do Firefoksa za pomocą Twojego konta Mozilli. To Ty?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Zatwierdź logowanie do Mozilli
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

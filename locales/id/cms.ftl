@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Gunakan akun Mozilla Anda untuk membuka fitur VPN sep
 fxa-headline-785c79ef = Aktifkan VPN bawaan Firefox untuk privasi dan perlindungan ekstra
 # Description for New Device Login Email
 fxa-description-6c54afca = Anda hampir siap untuk meningkatkan privasi peramban Anda.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Akun Mozilla Anda digunakan untuk masuk ke Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Surel ini digunakan untuk masuk dari:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetuj
 fxa-headline-b9c2e03a = Apakah Anda masuk ke Firefox dengan akun Mozilla Anda?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Setujui masuk ke Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

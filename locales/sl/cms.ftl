@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Uporabite svoj Mozillin račun za odklepanje funkcij 
 fxa-headline-785c79ef = Aktivirajte Firefoxov vgrajen VPN za dodatno zasebnost in zaščito
 # Description for New Device Login Email
 fxa-description-6c54afca = Skoraj ste pripravljeni za izboljšanje zasebnosti vašega brskalnika.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Vaš račun Mozilla je bil uporabljen za prijavo v Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ta e-poštni naslov je bil uporabljen za prijavo iz:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Pomagajte nam zaščititi vaš račun, tako da odobri
 fxa-headline-b9c2e03a = Ste se v Firefox prijavili s svojim računom Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Odobri prijavo v Mozillo
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Za uporabo Firefoxovega vgrajenega VPN-ja potrdite račun
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

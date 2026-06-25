@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Используйте свой аккаунт Mozill
 fxa-headline-785c79ef = Активируйте встроенный в Firefox VPN для дополнительной приватности и защиты
 # Description for New Device Login Email
 fxa-description-6c54afca = Вы почти готовы повысить приватность вашего браузера.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Ваш аккаунт Mozilla был использован для входа в Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Подтвердите свой аккаунт для использования встроенного в Firefox VPN
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Этот адрес электронной почты был использован для входа с:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Помогите нам обеспечить безо
 fxa-headline-b9c2e03a = Вы вошли в Firefox с помощью своего аккаунта Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Подтвердить вход в Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Подтвердите свой аккаунт для использования встроенного в Firefox VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

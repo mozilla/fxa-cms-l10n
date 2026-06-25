@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = ניתן להשתמש בחשבון ה־Mozilla שלך
 fxa-headline-785c79ef = ניתן להפעיל את ה־VPN המובנה של Firefox לפרטיות והגנה נוספות
 # Description for New Device Login Email
 fxa-description-6c54afca = כמעט הכל מוכן לשדרוג הפרטיות בדפדפן שלך.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = נעשה שימוש בחשבון ה־Mozilla שלך להתחברות ל־Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = כתובת דוא״ל זו שימשה להתחברות מ:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = נא לעזור לנו לשמור על בטיחות �
 fxa-headline-b9c2e03a = האם התחברת ל־Firefox עם חשבון ה־Mozilla שלך?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = אישור הכניסה ל־Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = आफ्नो स्थान लुकाउने
 fxa-headline-785c79ef = थप गोपनीयता र सुरक्षाको लागि Firefox को निर्मित VPN सक्रिय गर्नुहोस्
 # Description for New Device Login Email
 fxa-description-6c54afca = तपाईं आफ्नो ब्राउजरको गोपनीयता बढाउन लगभग तयार हुनुहुन्छ।
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = तपाईंको मोजिला खाता Firefox मा साइन इन गर्न प्रयोग गरिएको थियो
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = यो इमेल साइन इन गर्न प्रयोग गरिएको थियो बाट:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = हामीलाई तपाईँको साइ
 fxa-headline-b9c2e03a = के तपाईँले Firefox मा आफ्नो मोजिला खाताबाट साइन इन गर्नुभयो?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = मोजिलामा साइन-इन स्वीकृत गर्नुहोस्
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -217,10 +217,6 @@ fxa-description-0b19b103 = Defnyddiwch eich cyfrif Mozilla i ddatgloi nodweddion
 fxa-headline-785c79ef = Cychwynnwch y VPN mewnol yn Firefox i gael preifatrwydd a diogelwch ychwanegol
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Defnyddiwyd eich cyfrif Mozilla i fewngofnodi i Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Defnyddiwyd yr e-bost hwn i fewngofnodi oddi wrth:
 # Headline for Passwordless Signin Otp Email
@@ -253,8 +249,6 @@ fxa-description-6bc52850 = Helpwch ni i gadw'ch cyfrif yn ddiogel trwy gymeradwy
 fxa-headline-b9c2e03a = A wnaethoch chi fewngofnodi i Firefox gyda'ch cyfrif Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Cymeradwyo mewngofnodi i Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

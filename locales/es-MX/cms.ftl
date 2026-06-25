@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -144,8 +144,6 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox intentará redirigirte para u
 
 ## l10n-19 - VPN (Settings)
 
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Se usó tu cuenta de Mozilla para iniciar sesión en Firefox
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Se usó este correo para iniciar sesión desde:
 # Headline for Passwordless Signin Otp Email
@@ -168,8 +166,6 @@ fxa-description-6bc52850 = Ayúdanos a proteger tu cuenta aprobando tu inicio de
 fxa-headline-b9c2e03a = ¿Iniciaste sesión en Firefox con tu cuenta de Mozilla?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Aprueba el inicio de sesión en Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Confirma tu cuenta para usar la VPN integrada de Firefox
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

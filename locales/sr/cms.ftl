@@ -1,4 +1,4 @@
-### Generated on 2026-06-16T19:57:20.850Z
+### Generated on 2026-06-24T20:53:20.427Z
 ### FTL file for CMS localization
 
 
@@ -197,10 +197,6 @@ fxa-description-0b19b103 = Користите свој Mozilla налог да �
 fxa-headline-785c79ef = Покрените уграђени Firefox VPN за додатну приватност и заштиту
 # Description for New Device Login Email
 fxa-description-6c54afca = Скоро сте спремни да побољшате приватност свог прегледача.
-# Headline for New Device Login Email
-fxa-headline-8b338d52 = Ваш Mozilla налог је коришћен за пријаву на Firefox
-# Subject for New Device Login Email
-fxa-subject-9627bd4a = Потврдите свој налог да бисте користили Firefox-ов уграђени VPN
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -215,8 +211,6 @@ fxa-description-6bc52850 = Помозите нам да очувамо безб�
 fxa-headline-b9c2e03a = Да ли сте се пријавили на Firefox са својим Mozilla налогом?
 # Subject for Verify Login Code Email
 fxa-subject-72eba5e0 = Одобрите пријаву на Mozilla
-# Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Потврдите свој налог да бисте користили Firefox-ов уграђени VPN
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
