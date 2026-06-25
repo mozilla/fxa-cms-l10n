@@ -217,6 +217,8 @@ fxa-description-0b19b103 = Använd ditt Mozilla-konto för att låsa upp VPN-fun
 fxa-headline-785c79ef = Aktivera Firefox inbyggda VPN för extra integritet och skydd
 # Description for New Device Login Email
 fxa-description-6c54afca = Du är nästan redo att förbättra din webbläsares integritet.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Ny inloggning till ditt Mozilla-konto
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Den här e-postadressen användes för att logga in från:
 # Headline for Passwordless Signin Otp Email
