@@ -217,6 +217,8 @@ fxa-description-0b19b103 = ניתן להשתמש בחשבון ה־Mozilla שלך
 fxa-headline-785c79ef = ניתן להפעיל את ה־VPN המובנה של Firefox לפרטיות והגנה נוספות
 # Description for New Device Login Email
 fxa-description-6c54afca = כמעט הכל מוכן לשדרוג הפרטיות בדפדפן שלך.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = כניסה חדשה לחשבון ה־Mozilla שלך
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = כתובת דוא״ל זו שימשה להתחברות מ:
 # Headline for Passwordless Signin Otp Email
