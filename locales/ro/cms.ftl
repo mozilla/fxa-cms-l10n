@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirmă-ți contul Mozilla ca să sincronizezi
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sincronizează-ți parolele, filele și marcajele oriunde folosești Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Introdu adresa de e-mail pentru a începe sincronizarea
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Fă-ți un cont sau intră în cont
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Introdu parola pentru a începe sincronizarea
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sincronizează-ți parolele, metodele de plată, marcajele și multe altele oriunde folosești Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Creează o parolă pentru a începe sincronizarea
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Finalizează configurarea sincronizării
 
@@ -161,6 +167,8 @@ fxa-headline-2242b561 = Continuă ca să trimiți o pagină
 fxa-headline-135116fc = Introdu parola pentru a trimite pagina
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = Creează o parolă pentru a trimite pagina
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Confirmă-ți contul și trimite instant pagini între dispozitive, oriunde ești autentificat(ă).
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -209,6 +217,12 @@ fxa-description-0b19b103 = Folosește-ți contul Mozilla ca să deblochezi func�
 fxa-headline-785c79ef = Activează VPN-ul încorporat în Firefox pentru confidențialitate și protecție suplimentară
 # Description for New Device Login Email
 fxa-description-6c54afca = Ești aproape gata să îmbunătățești confidențialitatea browserului.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Autentificare nouă în contul tău Mozilla
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Această adresă de e-mail a fost folosită pentru a conectare din:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-08ad7263 = Finalizează autentificarea pentru a utiliza VPN-ul încorporat din Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Folosește acest cod pentru a finaliza autentificarea în cont
 # Description for Passwordless Signup Otp Email
@@ -229,6 +243,8 @@ fxa-description-ebf33c34 = Încă un pas pentru a te conecta.
 fxa-headline-21296b0d = Activează VPN-ul încorporat cu un cont Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Fă-ți un cont
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Încă un pas pentru a-ți crea contul și a te conecta.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ajută-ne să îți protejăm contul aprobând autentificarea în:
 # Headline for Verify Login Code Email
@@ -254,6 +270,19 @@ fxa-description-ef1fb997 = Confirmă-ți contul
 fxa-headline-f8578b7c = Folosește codul inclus pentru a-ți confirma contul Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirmă-ți contul pentru a utiliza browserul Firefox
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Folosește-ți contul Mozilla pentru sincronizare în siguranță cu un alt dispozitiv.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Iei cu tine parolele salvate peste tot
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Fă-ți un cont Mozilla pentru sincronizare în siguranță cu un alt dispozitiv.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirmă-ți contul ca să poți sincroniza
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
