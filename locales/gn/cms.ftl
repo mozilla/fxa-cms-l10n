@@ -217,6 +217,8 @@ fxa-description-0b19b103 = Eiporu ne mba’ete Mozilla-pegua ejokua’o hag̃ua 
 fxa-headline-785c79ef = Emyandy VPN Firefox rehe jehe’apyréva tekoñemi ha ñemo’ãverã
 # Description for New Device Login Email
 fxa-description-6c54afca = Eime porãma emoporãve hag̃ua ne kundahára rekoñemi.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Eñepyrũ tembiapo Mozilla mba’etépe
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
 # Headline for Passwordless Signin Otp Email
