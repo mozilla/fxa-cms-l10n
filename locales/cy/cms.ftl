@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Defnyddiwch y cod sydd wedi'i gynnwys i gadarnhau eich c
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Cadarnhewch eich cyfrif i ddefnyddio Porwr Firefox
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Cadarnhewch eich cyfrif i ddefnyddio VPN mewnol Firefox
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page

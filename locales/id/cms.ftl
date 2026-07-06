@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Gunakan kode yang disertakan untuk mengonfirmasi akun Mo
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Konfirmasikan akun Anda untuk menggunakan Peramban Firefox
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page

@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = आफ्नो मोजिला खाताको �
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox ब्राउजर चलाउन आफ्नो खाता पुष्टि गर्नुहोस्
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page

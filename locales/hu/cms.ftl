@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Használja a mellékelt kódot a Mozilla-fiókja megerő
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Erősítse meg fiókját a Firefox böngésző használatához
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page

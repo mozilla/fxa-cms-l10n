@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = 通过随附的验证码来确认 Mozilla 账户。
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = 确认您的账户以使用 Firefox 浏览器
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = 确认您的账户，以使用 Firefox 的内置 VPN
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = 确认您的账户，以使用 Firefox 的内置 VPN
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page

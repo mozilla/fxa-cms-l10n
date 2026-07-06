@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Използвайте приложения код, за
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Потвърдете профила си, за да използвате Firefox Browser
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
