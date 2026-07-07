@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Mozilla тіркелгіңізді растау үшін
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox браузерін пайдалану үшін тіркелгіңізді растаңыз
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Firefox құрамындағы VPN пайдалану үшін тіркелгіңізді растаңыз
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
