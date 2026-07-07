@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Wužiwajće připołoženy kod, zo byšće swoje konto M
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Wobkrućće swoje konto, zo byšće wobhladowak Firefox wužiwał
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
