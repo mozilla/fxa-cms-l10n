@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Bruk den medfølgjande koden for å stadfeste Mozilla-ko
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Stadfest kontoen din for å bruke Firefox-nettlesaren
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde VPN
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde VPN
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
