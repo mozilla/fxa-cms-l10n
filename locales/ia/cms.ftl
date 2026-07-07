@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Usa le codice includite pro confirmar tu conto Mozilla.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirma tu conto pro usar le navigator Firefox
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Confirma tu conto pro usar le VPN integrate de Firefox
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
