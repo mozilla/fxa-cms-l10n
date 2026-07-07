@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Folosește codul inclus pentru a-ți confirma contul Moz
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirmă-ți contul pentru a utiliza browserul Firefox
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat în Firefox
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat în Firefox
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
