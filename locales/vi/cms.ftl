@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Sử dụng mã đi kèm để xác minh tài khoản Mo
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Xác minh tài khoản của bạn để sử dụng Trình duyệt Firefox
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Xác minh tài khoản của bạn để sử dụng VPN tích hợp sẵn của Firefox
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
