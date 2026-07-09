@@ -271,6 +271,13 @@ fxa-headline-f8578b7c = Eiporu ayvu reheve emoneĩ hag̃ua ne mba’ete Mozilla-
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Emoneĩ ne mba’ete eiporu hag̃ua Firefox kundahára
 
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
+
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
