@@ -274,9 +274,9 @@ fxa-subject-f3d09e03 = Confirme sua conta para usar o navegador Firefox
 ## l10n-20 - VPN (Panel)
 
 # Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Confirme sua conta para usar a VPN integrada ao Firefox
+fxa-headline-9627bd4a = Confirme sua conta para usar a VPN integrada no Firefox
 # Subject for Verify Short Code Email
-fxa-subject-9627bd4a = Confirme sua conta para usar a VPN integrada ao Firefox
+fxa-subject-9627bd4a = Confirme sua conta para usar a VPN integrada no Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 
