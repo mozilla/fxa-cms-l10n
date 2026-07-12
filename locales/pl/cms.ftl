@@ -203,6 +203,8 @@ fxa-description-0b19b103 = Użyj konta Mozilli, aby odblokować funkcje VPN, tak
 fxa-headline-785c79ef = Aktywuj wbudowany w Firefoksie VPN, aby zapewnić sobie dodatkową prywatność i ochronę
 # Description for New Device Login Email
 fxa-description-6c54afca = Twoja przeglądarka jest już prawie gotowa do zwiększenia poziomu prywatności.
+# Subject for Passwordless Signup Otp Email
+fxa-subject-de67b643 = Użyj tego kodu, aby dokończyć rejestrację
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
