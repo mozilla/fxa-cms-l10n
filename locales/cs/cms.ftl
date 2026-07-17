@@ -105,11 +105,11 @@ fxa-primaryButtonText-a20eb81e = Přihlásit nebo registrovat
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
-fxa-headline-c2b34227 = Pro zahájení synchronizace zadejte heslo
+fxa-headline-c2b34227 = Zadejte heslo a spusťte synchronizaci
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Synchronizujte svá hesla, platební metody, záložky a další data všude, kde používáte Firefox.
 # Headline for Signup Set Password Page
-fxa-headline-7a6bf86a = Před zahájením synchronizace si vytvořte heslo
+fxa-headline-7a6bf86a = Vytvořte heslo a spusťte synchronizaci
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Dokončit nastavení synchronizace
 
@@ -281,15 +281,15 @@ fxa-subject-9627bd4a = Ověřte svůj účet, abyste mohli využívat integrovan
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
-fxa-description-78fd76ac = Použijte svůj účet Mozilla pro bezpečnou synchronizaci s jiným zařízením.
+fxa-description-78fd76ac = Pomocí svého účtu Mozilla můžete bezpečně synchronizovat data s jiným zařízením.
 # Headline for Email First Page
-fxa-headline-0ec7d798 = Uložená hesla budete mít všude s sebou
+fxa-headline-0ec7d798 = Mějte uložená hesla k dispozici kdekoli
 # Logo Alt Text for Shared
 fxa-logoAltText-763f7f1a = Firefox
 # Description for Signup Set Password Page
-fxa-description-32c1f240 = Vytvořte si účet Mozilla pro bezpečnou synchronizaci s jiným zařízením.
+fxa-description-32c1f240 = Vytvořte si účet Mozilla, abyste mohli bezpečně synchronizovat data s jiným zařízením.
 # Subject for Verify Short Code Email
-fxa-subject-9235d479 = Pro synchronizaci potvrďte svůj účet
+fxa-subject-9235d479 = Potvrďte svůj účet, aby se provedla synchronizace
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
