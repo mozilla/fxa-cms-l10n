@@ -101,7 +101,7 @@ fxa-description-4ac18cac = Sincronizá tus contraseñas, pestañas y marcadores 
 # Headline for Email First Page
 fxa-headline-b36f2b05 = Ingresá el correo electrónico para comenzar la sincronización
 # Primary Button Text for Email First Page
-fxa-primaryButtonText-a20eb81e = Ingresar o registrarse
+fxa-primaryButtonText-a20eb81e = Registrarse o iniciar sesión
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
 # Headline for Signin Page
