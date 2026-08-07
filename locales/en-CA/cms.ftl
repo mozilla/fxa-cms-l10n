@@ -98,12 +98,18 @@ fxa-subject-c9fd4b52 = Confirm your Mozilla account to sync
 
 # Description for Email First Page
 fxa-description-4ac18cac = Sync your passwords, tabs, and bookmarks everywhere you use Firefox.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Enter email to start syncing
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Sign up or sign in
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Enter password to start syncing
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Sync your passwords, payment methods, bookmarks, and more everywhere you use Firefox.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Create a password to start syncing
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Finish sync setup
 
@@ -211,6 +217,8 @@ fxa-description-0b19b103 = Use your Mozilla account to unlock VPN features like 
 fxa-headline-785c79ef = Activate Firefox’s built-in VPN for extra privacy and protection
 # Description for New Device Login Email
 fxa-description-6c54afca = You’re almost ready to boost your browser’s privacy.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = New sign-in to your Mozilla account
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = This email was used to sign in from:
 # Headline for Passwordless Signin Otp Email
@@ -262,6 +270,26 @@ fxa-description-ef1fb997 = Confirm your account
 fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
+
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Confirm your account to use Firefox’s built-in VPN
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Use your Mozilla account to securely sync to another device.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Get saved passwords everywhere
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Create a Mozilla account to securely sync to another device.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Confirm your account to sync
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
