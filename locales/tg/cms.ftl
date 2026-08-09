@@ -92,12 +92,18 @@ fxa-subject-c9fd4b52 = Барои оғози ҳамоҳангсозӣ, ҳисо�
 
 # Description for Email First Page
 fxa-description-4ac18cac = Ниҳонвожаҳо, варақаҳо ва хатбаракҳоро дар ҳамаи ҷойҳое, ки шумо аз «Firefox» истифода мебаред, ҳамоҳанг созед.
+# Headline for Email First Page
+fxa-headline-b36f2b05 = Барои оғоз кардани ҳамоҳангсозӣ почтаи электрониро ворид кунед
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = Сабти ном кунед ё ворид шавед
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = Барои оғоз кардани ҳамоҳангсозӣ ниҳонвожаро ворид кунед
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = Ниҳонвожаҳо, тарзҳои пардохт, хатбаракҳо ва маълумоти дигари худро дар ҳамаи ҷойҳое, ки шумо аз «Firefox» истифода мебаред, ҳамоҳанг созед.
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = Барои оғоз кардани ҳамоҳангсозӣ ниҳонвожаро эҷод кунед
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = Ба анҷом расонидани ҳамоҳангсозӣ
 
@@ -163,6 +169,8 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Headline for Signin Passwordless Code Page
+fxa-headline-21296b0d = «VPN»-и дарунсохти худро ба воситаи ҳисоби «Mozilla» ройгон фаъол созед
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Бо тасдиқи воридшавии шумо ба мо кумак кунед, то тавонем ҳисоби шуморо дар нишонии зерин ба таври бехатар нигоҳ дорем:
 # Subject for Verify Login Code Email
@@ -186,6 +194,26 @@ fxa-description-ef1fb997 = Ҳисоби худро тасдиқ кунед
 fxa-headline-f8578b7c = Барои тасдиқ кардани ҳисоби «Mozilla»-и худ, аз рамзи дохилшуда истифода баред.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Барои истифодаи браузери «Firefox», ҳисоби худро тасдиқ кунед
+
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Барои истифода кардани «VPN»-и дарунсохт дар браузери «Firefox», ҳисоби худро тасдиқ намоед
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Барои истифода кардани «VPN»-и дарунсохт дар браузери «Firefox», ҳисоби худро тасдиқ намоед
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = Барои ҳамоҳангсозии бехатар бо дастгоҳи дигар, аз ҳисоби «Mozilla»-и худ истифода баред.
+# Headline for Email First Page
+fxa-headline-0ec7d798 = Ниҳонвожаҳои нигоҳдошташударо аз ҷойи дилхоҳ ба даст оред
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = Барои ҳамоҳангсозии бехатар бо дастгоҳи дигар, ҳисоби «Mozilla»-ро эҷод кунед.
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = Барои оғози ҳамоҳангсозӣ, ҳисоби худро тасдиқ кунед
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
