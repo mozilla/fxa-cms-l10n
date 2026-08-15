@@ -164,9 +164,9 @@ fxa-description-12219a63 = Takoj delite strani med napravami na vseh napravah, k
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = Nadaljuj s pošiljanjem strani
 # Headline for Signin Page
-fxa-headline-135116fc = Vnesite geslo za pošiljanje strani
+fxa-headline-135116fc = Za pošiljanje strani vnesite geslo
 # Headline for Signup Set Password Page
-fxa-headline-370f47b3 = Ustvarite geslo za pošiljanje strani
+fxa-headline-370f47b3 = Za pošiljanje strani ustvarite geslo
 # Description for Verify Short Code Email
 fxa-description-e8991369 = Potrdite račun in takoj delite strani med napravami na vseh napravah, kjer ste prijavljeni.
 
@@ -175,7 +175,7 @@ fxa-description-e8991369 = Potrdite račun in takoj delite strani med napravami 
 # Description for Email First Page
 fxa-description-607e9f0f = Sporočila, poslana na vaše maske, bodo posredovana na ta naslov.
 # Headline for Email First Page
-fxa-headline-30fd7c55 = Registrirajte ali se prijavite in zaščitite svoj nabiralnik pred vsiljeno pošto
+fxa-headline-30fd7c55 = Registrirajte ali se prijavite in zaščitite svoj nabiralnik pred neželeno pošto
 # Logo Alt Text for Email First Page
 fxa-logoAltText-8d308a03 = maska e-pošte
 # Page Title for Email First Page
