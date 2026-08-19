@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Confirmar a sua conta
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Inicie sessão na sua conta Mozilla ou crie uma.
+# Headline for Email First Page
+fxa-headline-d54122be = Iniciar sessão para utilizar o Smart Window
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Janela inteligente | Conta Mozilla
+# Description for New Device Login Email
+fxa-description-763ec700 = Agora pode utilizar a Smart Window no Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Novo início de sessão na sua conta Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Este email foi utilizado para iniciar sessão de:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Conclua o seu início de sessão para utilizar o Smart Window
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Utilizar este código para concluir o registo
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Foi criada uma conta com este endereço de email de:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Conclua o seu registo para utilizar o Smart Window no Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Continue com a sua conta Mozilla a utilizar o Smart Window.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Pronto para a Janela Inteligente?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Janela inteligente | Contas Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Mais um passo para iniciar sessão.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Abrir Janela Inteligente
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Mais um passo para criar a sua conta e iniciar sessão.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = O seu código de confirmação
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Confirme a sua conta para utilizar o Smart Window no Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
