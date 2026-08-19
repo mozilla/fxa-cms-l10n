@@ -96,19 +96,19 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
 fxa-description-d9154126 = Продолжите использовать свой аккаунт Mozilla, чтобы использовать Умное окно.
 # Headline for Signin Cached Page
-fxa-headline-52e7ed4b = Готовы для умного окна?
+fxa-headline-52e7ed4b = Готовы к Умному окну?
 # Page Title for Signin Cached Page
 fxa-pageTitle-2351bc23 = Умное окно | Аккаунты Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Ещё один шаг до входа.
 # Primary Button Text for Signin Passwordless Code Page
-fxa-primaryButtonText-a35fe0c1 = Открыть умное окно
+fxa-primaryButtonText-a35fe0c1 = Открыть Умное окно
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Ещё один шаг до создания аккаунта и входа.
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = Ваш код подтверждения
 # Headline for Verify Short Code Email
-fxa-headline-72079cba = Подтвердите свой аккаунт для использования умного окна в Firefox
+fxa-headline-72079cba = Подтвердите свой аккаунт для использования Умного окна в Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
