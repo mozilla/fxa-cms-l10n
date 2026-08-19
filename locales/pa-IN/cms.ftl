@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,23 @@ fxa-description-d28733a3 = ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ �
 fxa-headline-f827216f = ਇੰਟਰਨੈੱਟ ਨੂੰ Mozilla ਨਾਲ ਖੋਲ੍ਹੋ
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = ਆਪਣੇ ਖਾਤੇ ਦੀ ਤਸਦੀਕ
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = ਇਸ ਈਮੇਲ ਨੂੰ ਇਸ ਉੱਤੇ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = ਇਸ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਇਸ ਥਾਂ ਉੱਤੇ ਵਰਤ ਕੇ ਖਾਤਾ ਬਣਾਇਆ ਗਿਆ ਸੀ:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = ਸਾਈਨ ਇਨ ਕਰਨ ਇੱਕ ਹੋਰ ਪੜਾਅ।
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = ਤੁਹਾਡਾ ਖਾਤਾ ਬਣਾਉਣ ਅਤੇ ਸਾਈਨ ਇਨ ਲਈ ਇੱਕ ਹੋਰ ਪੜਾਅ ਹੈ।
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -170,12 +187,6 @@ fxa-logoAltText-8d308a03 = ਈਮੇਲ ਮਾਸਕ
 fxa-pageTitle-8e453cea = ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਕੋ | Mozilla ਖਾਤੇ
 # Headline for New Device Login Email
 fxa-headline-db70c503 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -203,14 +214,10 @@ fxa-description-0b19b103 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕ�
 fxa-headline-785c79ef = ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਲਈ Firefox ਵਿੱਚ ਮੌਜੂਦ  VPN ਨੂੰ ਸਰਗਰਮ ਕਰੋ
 # Description for New Device Login Email
 fxa-description-6c54afca = ਆਪਣੀ ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ ਨੂੰ ਵਧਾਉਣ ਲਈ ਤੁਸੀਂ ਲਗਭਗ ਤਿਆਰ ਹੋ।
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = ਇਸ ਈਮੇਲ ਨੂੰ ਇਸ ਉੱਤੇ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Firefox ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਸਾਈਨ ਇਨ ਨੂੰ ਪੂਰਾ ਕਰੋ
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = ਸਾਈਨ ਇਨ ਨੂੰ ਪੂਰਾ ਕਰਨ ਦੀ ਖ਼ਾਤਰ ਇਹ ਕੋਡ ਵਰਤੋਂ
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = ਇਸ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਇਸ ਥਾਂ ਉੱਤੇ ਵਰਤ ਕੇ ਖਾਤਾ ਬਣਾਇਆ ਗਿਆ ਸੀ:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Firefox ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਸਾਈਨ ਅੱਪ ਕਰਨ ਨੂੰ ਪੂਰਾ ਕਰੋ
 # Subject for Passwordless Signup Otp Email
@@ -221,14 +228,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ VPN ਫ਼ੀਚਰਾਂ ਨੂੰ ਵਰਤਣ ਵਾਸਤੇ ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ।
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = ਸਾਈਨ ਇਨ ਕਰਨ ਇੱਕ ਹੋਰ ਪੜਾਅ।
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Mozilla ਖਾਤੇ ਨਾਲ ਆਪਣੇ ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਸਰਗਰਮ ਕਰੋ
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - ਖਾਤੇ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = ਤੁਹਾਡਾ ਖਾਤਾ ਬਣਾਉਣ ਅਤੇ ਸਾਈਨ ਇਨ ਲਈ ਇੱਕ ਹੋਰ ਪੜਾਅ ਹੈ।
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਵਾਸਤੇ ਆਪਣੇ ਸਾਈਨ-ਇਨ ਨੂੰ ਇਸ ਤੋਂ ਮਨਜ਼ੂਰ ਕਰੋ:
 # Headline for Verify Login Code Email

@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = დაადასტურეთ თქვენი 
 fxa-headline-f827216f = ღია ინტერნეტში შესაბიჯებლად დაიხმარეთ Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = დაადასტურეთ თქვენი ანგარიში
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = ახალი შემოსვლა თქვენს Mozilla-ს ანგარიშზე
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = ელფოსტა გამოყენებულია შესასვლელად:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = ანგარიში შექმნილია ელფოსტის ამ მისამართით:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = ერთი ნაბიჯია ანგარიშზე შესასვლელად.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = ერთი ნაბიჯია ანგარიშის შესაქმნელად და ანგარიშზე შესასვლელად.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = დაიცავით თქვენი საფ�
 fxa-headline-db70c503 = თქვენი ანგარიში გამოყენებულია შესვლისთვის
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox ეცდება შესვლის შემდგომ უკან დაგაბრუნოთ ელფოსტის ნიღბის გამოსაყენებლად.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = გამოიყენეთ Mozilla-ანგა�
 fxa-headline-785c79ef = აამოქმედეთ Firefox-ის ჩაშენებული VPN დამატებითი პირადულობისა და დაცულობისთვის
 # Description for New Device Login Email
 fxa-description-6c54afca = თითქმის მზად ხართ ბრაუზერის პირადულობის ასამაღლებლად.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = ახალი შემოსვლა თქვენს Mozilla-ს ანგარიშზე
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = ელფოსტა გამოყენებულია შესასვლელად:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = დაასრულეთ შესვლა Firefox-ში ჩაშენებული VPN-ის გამოსაყენებლად
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = ეს კოდი გამოიყენეთ შესვლის დასასრულებლად
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = ანგარიში შექმნილია ელფოსტის ამ მისამართით:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = დაასრულეთ ანგარიშის შექმნა Firefox-ში ჩაშენებული VPN-ის გამოსაყენებლად
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = განაგრძეთ თქვენი Mozilla-ანგარიშით VPN-შესაძლებლობებისთვის, მათ შორის მდებარეობის დასამალად.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = ერთი ნაბიჯია ანგარიშზე შესასვლელად.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = აამოქმედეთ თანმომყოლი VPN თქვენი Mozilla-ანგარიშით
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - შექმენით ანგარიში
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = ერთი ნაბიჯია ანგარიშის შესაქმნელად და ანგარიშზე შესასვლელად.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = დაგვეხმარეთ თქვენი ანგარიშის დაცვაში შესვლის დამოწმებით:
 # Headline for Verify Login Code Email

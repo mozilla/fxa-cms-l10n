@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,15 @@ fxa-description-d28733a3 = アカウントを確認すると、ログインし�
 fxa-headline-f827216f = Mozilla でインターネットをオープンに
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = アカウントを確認してください
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +193,6 @@ fxa-pageTitle-8e453cea = 受信トレイを迷惑メールから保護 | Mozilla
 fxa-headline-db70c503 = あなたのアカウントがログインに使用されました
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = ログイン後、メールマスクが使用できるように、 Firefox は元のページに戻ろうとします。
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page

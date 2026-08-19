@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -47,6 +47,13 @@ fxa-headline-f827216f = Адкрыйце інтэрнэт з дапамогай 
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Пацвердзіце свой уліковы запіс
 
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Primary Button Text for Email First Page
@@ -76,13 +83,6 @@ fxa-headline-33e9f42d = Перайсці да ўліковага запісу Mo
 
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
-
-## l10n-18 - Firefox Desktop - Relay Integration
-
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 

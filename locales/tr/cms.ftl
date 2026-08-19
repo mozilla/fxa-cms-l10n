@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Hesabınızı doğrulayın, giriş yaptığınız her
 fxa-headline-f827216f = İnterneti Mozilla ile açın
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Hesabınızı onaylayın
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Mozilla hesabınıza yeni giriş
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Bu e-posta adresiyle giriş yapan cihaz:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Bu e-posta adresiyle hesap oluşturan cihaz:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Giriş yapmanıza bir adım kaldı.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Hesabınızı oluşturup giriş yapmanıza bir adım kaldı.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Gelen kutunuzu spam’den koruyun | Mozilla hesapları
 fxa-headline-db70c503 = Hesabınızla giriş yapıldı
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Giriş yaptıktan sonra Firefox sizi e-posta maskesi kullanmaya yönlendirecektir.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Konumunuzu gizleme gibi VPN özelliklerini açmak iç
 fxa-headline-785c79ef = Ekstra gizlilik ve koruma için Firefox’ta yerleşik VPN’i etkinleştirin
 # Description for New Device Login Email
 fxa-description-6c54afca = Tarayıcınızın gizliliğini artırmaya neredeyse hazırsınız.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Mozilla hesabınıza yeni giriş
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Bu e-posta adresiyle giriş yapan cihaz:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Firefox’ta yerleşik VPN’i kullanmak için girişinizi tamamlayın
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Girişi tamamlamak için bu kodu kullanın
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Bu e-posta adresiyle hesap oluşturan cihaz:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Firefox’ta yerleşik VPN’i kullanmak için kaydınızı tamamlayın
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Konumunuzu gizleme gibi VPN özelliklerinin kilidini açmak için Mozilla hesabınızla devam edin.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Giriş yapmanıza bir adım kaldı.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Yerleşik VPN’inizi Mozilla hesabıyla etkinleştirin
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Hesap açın
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Hesabınızı oluşturup giriş yapmanıza bir adım kaldı.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Girişinizi onaylayarak hesabınızı güvende tutmamıza yardımcı olun:
 # Headline for Verify Login Code Email

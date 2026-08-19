@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Επιβεβαιώστε τον λογαριασμό 
 fxa-headline-f827216f = Απολαύστε ένα ανοικτό διαδίκτυο με τα προϊόντα της Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Επιβεβαίωση του λογαριασμού σας
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Νέα σύνδεση στον λογαριασμό Mozilla σας
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Αυτό το email χρησιμοποιήθηκε για σύνδεση από:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Δημιουργήθηκε ένας λογαριασμός με αυτήν τη διεύθυνση email από:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Απομένει ένα ακόμα βήμα για σύνδεση.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Απομένει ένα ακόμα βήμα για τη δημιουργία του λογαριασμού σας και τη σύνδεση.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Προστατέψτε τα εισερχόμενά σα
 fxa-headline-db70c503 = Ο λογαριασμός σας χρησιμοποιήθηκε για σύνδεση
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Το Firefox θα δοκιμάσει να σας γυρίσει πίσω για να χρησιμοποιήσετε μια μάσκα email αφού συνδεθείτε.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Χρησιμοποιήστε τον λογαριασ�
 fxa-headline-785c79ef = Ενεργοποιήστε το ενσωματωμένο VPN του Firefox για επιπλέον απόρρητο και προστασία
 # Description for New Device Login Email
 fxa-description-6c54afca = Όλα είναι σχεδόν έτοιμα για να ενισχύσετε το απόρρητο του προγράμματος περιήγησής σας.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Νέα σύνδεση στον λογαριασμό Mozilla σας
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Αυτό το email χρησιμοποιήθηκε για σύνδεση από:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Ολοκληρώστε τη σύνδεσή σας για να χρησιμοποιήσετε το ενσωματωμένο VPN στο Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Χρησιμοποιήστε αυτόν τον κωδικό για να ολοκληρώσετε τη σύνδεση
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Δημιουργήθηκε ένας λογαριασμός με αυτήν τη διεύθυνση email από:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Ολοκληρώστε την εγγραφή σας για να χρησιμοποιήσετε το ενσωματωμένο VPN στο Firefox
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Συνεχίστε με τον λογαριασμό Mozilla σας για να ξεκλειδώσετε λειτουργίες του VPN, όπως την απόκρυψη της τοποθεσίας σας.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Απομένει ένα ακόμα βήμα για σύνδεση.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Ενεργοποιήστε το ενσωματωμένο VPN σας με έναν λογαριασμό Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Δημιουργία λογαριασμού
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Απομένει ένα ακόμα βήμα για τη δημιουργία του λογαριασμού σας και τη σύνδεση.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Βοηθήστε μας να προστατέψουμε τον λογαριασμό σας εγκρίνοντας τη σύνδεσή σας στο:
 # Headline for Verify Login Code Email

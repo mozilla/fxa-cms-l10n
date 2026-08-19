@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -57,6 +57,11 @@ fxa-headline-f827216f = Otvorite internet pomoću Mozille
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Potvrdite račun
 
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Description for Email First Page
@@ -96,8 +101,3 @@ fxa-headline-33e9f42d = Nastavite na svoj Mozilla račun
 
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
-
-## l10n-18 - Firefox Desktop - Relay Integration
-
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px

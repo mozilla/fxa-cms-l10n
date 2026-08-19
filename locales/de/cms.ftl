@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Bestätigen Sie Ihr Konto und nutzen Sie Mozilla übe
 fxa-headline-f827216f = Öffnen Sie das Internet mit Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Bestätigen Sie Ihr Konto
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Neue Anmeldung bei Ihrem Mozilla-Konto
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Diese E-Mail-Adresse wurde für die Anmeldung verwendet von:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Mit dieser E-Mail-Adresse wurde ein Konto erstellt von:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Noch ein Schritt zur Anmeldung.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Noch ein Schritt, um Ihr Konto zu erstellen und sich anzumelden.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Schützen Sie Ihren Posteingang vor Spam | Mozilla-Kont
 fxa-headline-db70c503 = Ihr Konto wurde zur Anmeldung verwendet
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox wird versuchen, Sie nach der Anmeldung zurück zu senden, um eine E-Mail-Maske zu verwenden.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Verwenden Sie Ihr Mozilla-Konto, um VPN-Funktionen wi
 fxa-headline-785c79ef = Aktivieren Sie das integrierte VPN von Firefox für mehr Privatsphäre und Schutz
 # Description for New Device Login Email
 fxa-description-6c54afca = Sie sind fast soweit, die Privatsphäre Ihres Browsers zu erhöhen.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Neue Anmeldung bei Ihrem Mozilla-Konto
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Diese E-Mail-Adresse wurde für die Anmeldung verwendet von:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Schließen Sie Ihre Anmeldung ab, um das integrierte VPN in Firefox zu verwenden
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Verwenden Sie diesen Code, um die Anmeldung abzuschließen
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Mit dieser E-Mail-Adresse wurde ein Konto erstellt von:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Schließen Sie Ihre Registrierung ab, um das integrierte VPN in Firefox zu verwenden
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Fahren Sie mit Ihrem Mozilla-Konto fort, um VPN-Funktionen wie das Verbergen Ihres Standorts freizuschalten.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Noch ein Schritt zur Anmeldung.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktivieren Sie Ihr integriertes VPN mit einem Mozilla-Konto
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Erstellen Sie ein Konto
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Noch ein Schritt, um Ihr Konto zu erstellen und sich anzumelden.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Helfen Sie uns, Ihr Konto zu schützen, indem Sie Ihre Anmeldung genehmigen:
 # Headline for Verify Login Code Email

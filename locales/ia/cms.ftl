@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Confirma tu conto e tira le maximo de Mozilla ubique 
 fxa-headline-f827216f = Accede a internet con Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirma tu conto
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nove accesso a tu conto Mozilla.
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Iste email era usate pro acceder de:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Un conto era create con iste adresse e-mail de:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Un altere passo pro acceder.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Un altere passo pro crear tu conto e acceder.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Protege tu cassa de ingresso contra spam: contos Mozill
 fxa-headline-db70c503 = Tu conto era usate pro acceder
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox tentara inviar te retro pro usar un masca de e-mail post que tu accede.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Usa tu conto Mozilla pro disblocar functionalitates d
 fxa-headline-785c79ef = Activa le VPN integrate de Firefox pro ulterior confidentialitate e protection
 # Description for New Device Login Email
 fxa-description-6c54afca = Tu es quasi preste a augmentar le confidentialitate de tu navigator.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Nove accesso a tu conto Mozilla.
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Iste email era usate pro acceder de:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Completa tu accesso pro usar le VPN integrate in Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Usa iste codice pro completar le accesso
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Un conto era create con iste adresse e-mail de:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Completa le registration pro usar le VPN integrate in Firefox
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continua con tu conto Mozilla pro disblocar functionalitates de VPN como celar tu position.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Un altere passo pro acceder.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Activa tu VPN integrate gratuite con un conto Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla: registrar un conto
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Un altere passo pro crear tu conto e acceder.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Adjuta nos a mantener tu conto secur approbante tu accesso a illo:
 # Headline for Verify Login Code Email

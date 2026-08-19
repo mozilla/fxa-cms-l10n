@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -60,6 +60,15 @@ fxa-description-d28733a3 = Confirma tu cuenta y aprovecha al máximo de Mozilla 
 fxa-headline-f827216f = Entra en internet con Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirma tu cuenta
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -160,12 +169,6 @@ fxa-pageTitle-8e453cea = Protege tu bandeja de entrada del spam | Cuentas de Moz
 fxa-headline-db70c503 = Tu cuenta ha sido utilizada para iniciar sesión
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox intentará reenviarte a la página para que hagas uso de una máscara de correo electrónico después de iniciar sesión.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page

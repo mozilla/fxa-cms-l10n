@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = 계정을 확인하고, 로그인하는 모든 곳에
 fxa-headline-f827216f = Mozilla와 함께 인터넷을 여세요.
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = 계정 확인
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Mozilla 계정에 대한 새로운 로그인
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = 이 이메일이 로그인에 사용된 곳:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = 계정이 이 이메일 주소를 이용해서 만들어 졌습니다:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = 로그인 하는데 한 단계 남았습니다.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = 계정을 만들고 로그인 하는데 한 단계 남았습니다.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = 스팸으로부터 받은 편지함 보호 | Mozilla �
 fxa-headline-db70c503 = 귀하의 계정은 로그인에 사용되었습니다.
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = 로그인 후 이메일 마스크를 사용하도록 Firefox가 다시 보내려고 합니다.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Mozilla 계정을 사용하여 위치 숨기기와 �
 fxa-headline-785c79ef = 추가적인 개인 정보 및 보호를 위해 Firefox에 내장된 VPN을 활성화하세요.
 # Description for New Device Login Email
 fxa-description-6c54afca = 브라우저의 개인 정보 보호를 강화할 준비가 거의 다 되었습니다.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Mozilla 계정에 대한 새로운 로그인
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = 이 이메일이 로그인에 사용된 곳:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Firefox에 내장된 VPN을 사용하려면 로그인을 완료하세요.
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = 이 코드를 사용하여 로그인 완료
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = 계정이 이 이메일 주소를 이용해서 만들어 졌습니다:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Firefox에 내장된 VPN을 사용하려면 가입을 완료하세요.
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = 위치 숨기기와 같은 VPN 기능을 사용하려면 Mozilla 계정으로 계속하세요.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = 로그인 하는데 한 단계 남았습니다.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Mozilla 계정으로 내장 VPN을 활성화하세요
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 계정 생성
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = 계정을 만들고 로그인 하는데 한 단계 남았습니다.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 기기에서 일어난 로그인을 확인하여 계정을 안전하게 보호하세요:
 # Headline for Verify Login Code Email

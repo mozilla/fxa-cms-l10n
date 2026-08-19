@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Confirmez votre compte et tirez le meilleur parti de 
 fxa-headline-f827216f = Accédez à Internet avec Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirmez votre compte
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nouvelle connexion à votre compte Mozilla
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Cette adresse e-mail a été utilisée pour se connecter depuis :
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Un compte a été créé avec cette adresse e-mail depuis :
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Dernière étape pour vous connecter.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Plus qu’une étape pour créer votre compte et vous connecter.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Protégez votre boîte de réception du spam | Comptes 
 fxa-headline-db70c503 = Votre compte a été utilisé pour se connecter
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Une fois connecté·e, Firefox tentera de vous renvoyer vers l’onglet d’origine pour utiliser un alias de messagerie.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Utilisez votre compte Mozilla pour débloquer des fon
 fxa-headline-785c79ef = Activez le VPN intégré à Firefox pour plus de confidentialité et de protection
 # Description for New Device Login Email
 fxa-description-6c54afca = Vous êtes presque prêt·e à renforcer la vie privée de votre navigateur.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Nouvelle connexion à votre compte Mozilla
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Cette adresse e-mail a été utilisée pour se connecter depuis :
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Terminez la connexion pour utiliser le VPN intégré à Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Utilisez ce code pour finir de vous connecter
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Un compte a été créé avec cette adresse e-mail depuis :
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Terminez votre inscription pour utiliser le VPN intégré à Firefox
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continuez avec votre compte Mozilla pour débloquer des fonctionnalités VPN, comme masquer votre localisation.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Dernière étape pour vous connecter.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Activez votre VPN intégré avec un compte Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Créer un compte
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Plus qu’une étape pour créer votre compte et vous connecter.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Aidez-nous à protéger votre compte en confirmant votre connexion sur :
 # Headline for Verify Login Code Email

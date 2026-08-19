@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Bekræft din konto og få mest muligt ud af Mozilla, 
 fxa-headline-f827216f = Åbn internettet med Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Bekræft din konto
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nyt login på din Mozilla-konto.
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Denne mailadresse blev brugt til at logge ind fra:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = En konto blev oprettet med denne mailadresse fra:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Et trin mere for at logge ind.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Endnu et trin for at oprette din konto og logge ind.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Beskyt din indbakke mod spam | Mozilla-konti
 fxa-headline-db70c503 = Din konto blev brugt til at logge ind
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox vil forsøge at sende dig tilbage, så du kan bruge en mail-maske, når du har logget ind.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Brug din Mozilla-konto for at få adgang til VPN-funk
 fxa-headline-785c79ef = Aktivér Firefox' indbyggede VPN for ekstra privatliv og beskyttelse
 # Description for New Device Login Email
 fxa-description-6c54afca = Nu er din browser snart klar til at beskytte dit privatliv endnu bedre.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Nyt login på din Mozilla-konto.
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Denne mailadresse blev brugt til at logge ind fra:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Færdiggør dit login for at bruge den indbyggede VPN i Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Brug denne kode til at afslutte indlogning
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = En konto blev oprettet med denne mailadresse fra:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Færdiggør din tilmelding for at bruge den indbyggede VPN i Firefox
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Fortsæt med din Mozilla-konto for at få adgang til VPN-funktioner som fx at skjule din placering.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Et trin mere for at logge ind.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktivér din indbyggede VPN med en Mozilla-konto
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Opret en konto
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Endnu et trin for at oprette din konto og logge ind.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hold din konto sikker ved at bekræfte dit login på:
 # Headline for Verify Login Code Email

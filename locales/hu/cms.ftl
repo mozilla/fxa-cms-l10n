@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Erősítse meg fiókját, és hozza ki a lehető legt
 fxa-headline-f827216f = Nyissa ki az internetet a Mozillával
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Fiók jóváhagyása
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Új bejelentkezés a Mozilla-fiókjába
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Ezzel az e-mail-címmel bejelentkeztek innen:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Létrejött egy fiók ezzel az e-mail-címmel innen:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Még egy lépés a bejelentkezéshez.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Még egy lépés a fiók létrehozásához és a bejelentkezéshez.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Védje meg a postafiókját a levélszeméttől | Mozil
 fxa-headline-db70c503 = Bejelentkezéshez használták a Mozilla-fiókját
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Bejelentkezés után a Firefox megpróbálja visszaküldeni Önt az e-mail-maszk használatához.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Használja Mozilla-fiókját, hogy feloldja a VPN-fun
 fxa-headline-785c79ef = Aktiválja a Firefox beépített VPN-jét a fokozott adatvédelem és biztonság érdekében
 # Description for New Device Login Email
 fxa-description-6c54afca = Mindjárt készen áll a böngészője adatvédelmének fokozására.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Új bejelentkezés a Mozilla-fiókjába
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Ezzel az e-mail-címmel bejelentkeztek innen:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Fejezze be a bejelentkezését, hogy használja a Firefoxba épített VPN-t
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Használja ezt a kódot a bejelentkezés befejezéséhez
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Létrejött egy fiók ezzel az e-mail-címmel innen:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Fejezze be a regisztrációt, hogy használja a Firefoxba épített VPN-t
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Folytassa a Mozilla-fiókjával, hogy feloldja a VPN-funkciókat, például a tartózkodási helyének elrejtését.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Még egy lépés a bejelentkezéshez.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktiválja a beépített VPN-jét Mozilla-fiókjával
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Regisztráljon egy fiókot
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Még egy lépés a fiók létrehozásához és a bejelentkezéshez.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Segítsen nekünk megőrizni fiókja biztonságát azzal, hogy jóváhagyja a bejelentkezését:
 # Headline for Verify Login Code Email

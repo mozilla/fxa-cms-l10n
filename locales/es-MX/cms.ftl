@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,13 @@ fxa-description-d28733a3 = Confirma tu cuenta y aprovecha Mozilla al máximo en 
 fxa-headline-f827216f = Abre el internet con Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirma cuenta
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Se usó este correo para iniciar sesión desde:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Se creó una cuenta con esta dirección de correo desde:
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -144,14 +151,10 @@ fxa-additionalAccessibilityInfo-5deba5d1 = Firefox intentará redirigirte para u
 
 ## l10n-19 - VPN (Settings)
 
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Se usó este correo para iniciar sesión desde:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Termina de iniciar sesión para usar la VPN integrada en Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Usa este código para terminar de iniciar sesión
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Se creó una cuenta con esta dirección de correo desde:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Termina de registrarte para usar la VPN integrada en Firefox
 # Email Logo Alt Text for Shared

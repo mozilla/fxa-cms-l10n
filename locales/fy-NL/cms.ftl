@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Befêstigje jo account en helje oeral wêr’t jo jo 
 fxa-headline-f827216f = Iepenje it ynternet mei Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Befêstigje jo account
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nije oanmelding by jo Mozilla-account
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Dit e-mailadres is brûkt om oan te melden fanôf:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Der is mei dit e-mailadres in account oanmakke fanôf:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Noch ien stap om jo oan te melden.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Noch ien stap om jo account oan te meitsjen en oan te melden.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Beskermje jo Postfek YN tsjin spam | Mozilla-accounts
 fxa-headline-db70c503 = Jo account is brûkt om jo oan te melden
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox probearret jo werom te stjoeren om in e-mailmasker te brûken neidat jo jo oanmeld hawwe.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Brûk jo Mozilla-account om VPN-funksjes te ûntskoat
 fxa-headline-785c79ef = Aktivearje de ynboude VPN fan Firefox foar ekstra privacy en beskerming
 # Description for New Device Login Email
 fxa-description-6c54afca = Jo binne hast klear om de privacy fan jo browser te ferbetterjen.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Nije oanmelding by jo Mozilla-account
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Dit e-mailadres is brûkt om oan te melden fanôf:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Foltôgje jo oanmelding om de ynboude VPN yn Firefox te brûken
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Brûk dizze koade om jo oanmelding te foltôgjen
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Der is mei dit e-mailadres in account oanmakke fanôf:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Foltôgje jo registraasje om de ynboude VPN yn Firefox te brûken
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Gean troch mei jo Mozilla-account om VPN-funksjes te ûntskoatteljen, lykas it ferbergjen fan jo lokaasje.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Noch ien stap om jo oan te melden.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktivearje jo ynboude VPN mei in Mozilla-account
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – Registrearje foar in account
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Noch ien stap om jo account oan te meitsjen en oan te melden.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Help ús jo account feilich te hâlden troch jo oanmelding goed te karren op:
 # Headline for Verify Login Code Email

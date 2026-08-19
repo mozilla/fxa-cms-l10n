@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -60,6 +60,15 @@ fxa-description-d28733a3 = បញ្ជាក់គណនីរបស់អ្�
 fxa-headline-f827216f = បើកអ៊ីនធឺណិតជាមួយ Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = បញ្ជាក់គណនីរបស់អ្នក
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -160,12 +169,6 @@ fxa-pageTitle-8e453cea = ការពារប្រអប់សំបុត្�
 fxa-headline-db70c503 = គណនីរបស់អ្នកត្រូវបានប្រើដើម្បីចូល
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox នឹងព្យាយាមបញ្ជូនអ្នកមកវិញដើម្បីប្រើរបាំងអ៊ីមែលបន្ទាប់ពីអ្នកចូល។
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page

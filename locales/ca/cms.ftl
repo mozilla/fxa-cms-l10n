@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -55,6 +55,13 @@ fxa-headline-f827216f = Accediu a Internet amb Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirmeu el vostre compte
 
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
 # Headline for Email First Page
@@ -93,13 +100,6 @@ fxa-subject-10e5b452 = Confirmeu el vostre compte per iniciar la sessió al Fire
 
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
-
-## l10n-18 - Firefox Desktop - Relay Integration
-
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-19 - VPN (Settings)
 

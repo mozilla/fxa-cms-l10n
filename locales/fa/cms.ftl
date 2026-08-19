@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -56,6 +56,15 @@ fxa-description-d28733a3 = حساب کاربریت را تأیید کن و از 
 fxa-headline-f827216f = اینترنت را با Mozilla باز کنید
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = حساب کاربری خود را تأیید کنید
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -144,12 +153,6 @@ fxa-headlineFontSize-c21f969b = default
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 

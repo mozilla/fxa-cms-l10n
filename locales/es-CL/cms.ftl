@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Confirma tu cuenta y sácale el máximo provecho a Mo
 fxa-headline-f827216f = Abre Internet con Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirma tu cuenta
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nueva conexión a tu cuenta de Mozilla
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Este correo electrónico se utilizó para conectarse desde:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Una cuenta fue creada usando esta dirección de correo electrónico desde:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Un paso más para conectarte.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Un paso más para crear tu cuenta y conectarte.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Protege tu bandeja de entrada del spam | Cuentas de Moz
 fxa-headline-db70c503 = Tu cuenta fue utilizada para conectarse
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox intentará regresarte a la pestaña de origen para que hagas uso de una máscara de correo electrónico después de conectarte.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Utiliza tu cuenta de Mozilla para desbloquear funcion
 fxa-headline-785c79ef = Activa la VPN integrada de Firefox para mayor privacidad y protección.
 # Description for New Device Login Email
 fxa-description-6c54afca = Estamos casi listos para mejorar la privacidad de tu navegador.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Nueva conexión a tu cuenta de Mozilla
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Este correo electrónico se utilizó para conectarse desde:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Termina de conectarte para usar la VPN integrada en Firefox.
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Utiliza este código para terminar de conectarte
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Una cuenta fue creada usando esta dirección de correo electrónico desde:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Termina de registrarte para usar la VPN integrada en Firefox.
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continúa con tu cuenta de Mozilla para desbloquear funciones de VPN como ocultar tu ubicación.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Un paso más para conectarte.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Activa tu VPN integrada con una cuenta de Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Regístrate para obtener una cuenta
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Un paso más para crear tu cuenta y conectarte.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ayúdanos a mantener tu cuenta segura aprobando tu conexión en:
 # Headline for Verify Login Code Email

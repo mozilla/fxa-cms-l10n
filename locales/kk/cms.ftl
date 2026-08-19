@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Тіркелгіңізді растаңыз және 
 fxa-headline-f827216f = Интернетті Mozilla көмегімен ашыңыз
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Тіркелгіңізді растаңыз
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Mozilla тіркелгіңізге жаңа кіру
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Бұл электрондық пошта келесі адрестен кіру үшін пайдаланылды:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Тіркелгі келесі адрестен электрондық пошта адресін пайдаланып жасалды:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Жүйеге кіру үшін тағы бір қадам қалды.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Тіркелгіңізді жасау және кіру үшін тағы бір қадам қалды.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Кіріс жәшігіңізді спамнан қор
 fxa-headline-db70c503 = Сіздің тіркелгіңіз кіру үшін пайдаланылды
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox сіз кіргеннен кейін электрондық пошта маскасын пайдалануға қайта жіберуге тырысады.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Орналасқан жеріңізді жасыру 
 fxa-headline-785c79ef = Қосымша жекелік пен қорғаныс үшін Firefox-тың кіріктірілген VPN қызметін іске қосыңыз
 # Description for New Device Login Email
 fxa-description-6c54afca = Браузеріңіздің жекелігін жақсартуға дайын болуға жақынсыз.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Mozilla тіркелгіңізге жаңа кіру
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Бұл электрондық пошта келесі адрестен кіру үшін пайдаланылды:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Firefox-та кіріктірілген VPN пайдалану үшін жүйеге кіруді аяқтаңыз
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Кіруді аяқтау үшін осы кодты пайдаланыңыз
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Тіркелгі келесі адрестен электрондық пошта адресін пайдаланып жасалды:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Firefox-та кіріктірілген VPN пайдалану үшін жүйеге тіркелуді аяқтаңыз
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Орналасқан жеріңізді жасыру сияқты VPN мүмкіндіктерін ашу үшін Mozilla тіркелгіңізбен жалғастырыңыз.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Жүйеге кіру үшін тағы бір қадам қалды.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Mozilla тіркелгісімен құрамындағы VPN қызметін белсендіріңіз
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Тіркелгі жасау
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Тіркелгіңізді жасау және кіру үшін тағы бір қадам қалды.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Жүйеге келесі кіргеніңізді растау арқылы тіркелгіңізді қорғауға көмектесіңіз:
 # Headline for Verify Login Code Email

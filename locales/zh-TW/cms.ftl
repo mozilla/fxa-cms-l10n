@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = 確認您的帳號後，就可以從下列裝置開�
 fxa-headline-f827216f = 使用 Mozilla 打開網際網路
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = 確認您的帳號
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = 您 Mozilla 帳號的新登入紀錄
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = 此電子郵件地址已從下列位置用來登入：
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = 有人使用此電子郵件地址，從下列位置建立帳號：
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = 還差一步即可登入。
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = 還差一步即可完成帳號註冊並登入。
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = 保護您的收件匣，不受垃圾信騷擾 | Mozilla
 fxa-headline-db70c503 = 您的帳號已用於登入
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = 登入後，Firefox 將帶您回到原網站使用轉寄信箱。
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = 使用您的 Mozilla 帳號來解鎖隱藏您的所�
 fxa-headline-785c79ef = 啟用 Firefox 內建的 VPN，讓您獲得更多隱私保護
 # Description for New Device Login Email
 fxa-description-6c54afca = 您快要可以加強瀏覽器的隱私保護了。
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = 您 Mozilla 帳號的新登入紀錄
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = 此電子郵件地址已從下列位置用來登入：
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = 完成登入即可使用 Firefox 內建的 VPN
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = 使用此驗證碼完成登入
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = 有人使用此電子郵件地址，從下列位置建立帳號：
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = 完成註冊即可使用 Firefox 內建的 VPN
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = 使用您的 Mozilla 帳號繼續，即可解鎖隱藏您的所在位置等 VPN 功能。
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = 還差一步即可登入。
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = 使用 Mozilla 帳號啟用內建的 VPN
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - 註冊帳號
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = 還差一步即可完成帳號註冊並登入。
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = 為了確保您的帳號安全，請確認您於下列裝置的登入紀錄：
 # Headline for Verify Login Code Email

@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Cadarnhewch eich cyfrif a chael y gorau o Mozilla ym 
 fxa-headline-f827216f = Agorwch y rhyngrwyd gyda Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Cadarnhau eich cyfrif
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Mewngofnod newydd i'ch cyfrif Mozilla
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Defnyddiwyd yr e-bost hwn i fewngofnodi oddi wrth:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Crëwyd cyfrif gan ddefnyddio'r cyfeiriad e-bost hwn oddi wrth:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Un cam arall i fewngofnodi.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Un cam arall i greu eich cyfrif a mewngofnodi.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Diogelu'ch blwch derbyn rhag sbam | Cyfrifon Mozilla
 fxa-headline-db70c503 = Defnyddiwyd eich cyfrif i fewngofnodi
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Bydd Firefox yn ceisio eich anfon yn ôl i ddefnyddio arallenw e-bost ar ôl i chi fewngofnodi.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Defnyddiwch eich cyfrif Mozilla i ddatgloi nodweddion
 fxa-headline-785c79ef = Cychwynnwch y VPN mewnol yn Firefox i gael preifatrwydd a diogelwch ychwanegol
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Mewngofnod newydd i'ch cyfrif Mozilla
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Defnyddiwyd yr e-bost hwn i fewngofnodi oddi wrth:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Gorffennwch eich mewngofnodi i ddefnyddio VPN mewnol Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Defnyddiwch y cod hwn i orffen mewngofnodi
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Crëwyd cyfrif gan ddefnyddio'r cyfeiriad e-bost hwn oddi wrth:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Gorffennwch eich cofrestriad i ddefnyddio VPN mewnol Firefox
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Ymlaen i'ch cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Un cam arall i fewngofnodi.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Agorwch eich VPN mewnol gyda chyfrif Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Cofrestrwch ar gyfer cyfrif
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Un cam arall i greu eich cyfrif a mewngofnodi.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Helpwch ni i gadw'ch cyfrif yn ddiogel trwy gymeradwyo eich mewngofnodi:
 # Headline for Verify Login Code Email

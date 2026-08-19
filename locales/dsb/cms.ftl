@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Wobkšuśćo swójo konto a wuwónoźćo nejlěpše z
 fxa-headline-f827216f = Wócyńśo internet z Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Wobkšuśćo swójo konto
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nowe pśizjawjenje pla wašogo konta Mozilla
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Toś ta e-mailowa adresa jo se wužywała za pśizjawjenje wót:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Z toś teju e-mailoweju adresu jo se konto załožyło wót:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Hyšći jaden kšac k pśizjawjenjeju.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Hyšći jaden kšac k załoženjeju wašogo konta a k pśizjawjenjeju.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Šćitajśo swój dochad posta pśed spamom | konta Moz
 fxa-headline-db70c503 = Wašo konto jo se wužyło za pśizjawjenje
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox buźo was slědk słaś, aby pó pśizjawjenju e-mailowu masku wužywał.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Wužywajśo swójo konto Mozilla, aby funkcije VPN ka
 fxa-headline-785c79ef = Aktiwěrujśo zatwarjony VPN Firefox za pśidatnu priwatnosć a pśidatny šćit
 # Description for New Device Login Email
 fxa-description-6c54afca = Sćo pśisamem gótowy, aby priwatnosć swójogo wobglědowaka pówušył.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Nowe pśizjawjenje pla wašogo konta Mozilla
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Toś ta e-mailowa adresa jo se wužywała za pśizjawjenje wót:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Dokóńcćo swójo pśizjawjenje, aby zatwarjony VPN w Firefox wužywał
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Wužywajśo toś ten kod, aby pśizjawjenje dokóńcył
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Z toś teju e-mailoweju adresu jo se konto załožyło wót:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Dokóńcćo swóju registraciju, aby zatwarjony VPN w Firefox wužywał
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Pókšacujśo ze swójim kontom Mozilla, aby funkcije VPN kaž chowanje swójogo stojnišća zmóžnił.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Hyšći jaden kšac k pśizjawjenjeju.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktiwěrujśo swój zatwarjony VPN z kontom Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla – registrěrujśo se za konto
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Hyšći jaden kšac k załoženjeju wašogo konta a k pśizjawjenjeju.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pśizwólśo swójo pśizjawjenje, aby nam pomagał, wašo konto šćitaś.
 # Headline for Verify Login Code Email

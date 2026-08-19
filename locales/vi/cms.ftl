@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Xác minh tài khoản của bạn và tận dụng t
 fxa-headline-f827216f = Thế giới Internet với Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Xác minh tài khoản của bạn
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Đăng nhập mới vào tài khoản Mozilla của bạn
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Địa chỉ email này đã được sử dụng để đăng nhập:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Một tài khoản đã được tạo bằng địa chỉ email này từ:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Chỉ còn một bước nữa để đăng nhập.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Chỉ còn một bước nữa để tạo tài khoản và đăng nhập.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Bảo vệ hộp thư đến của bạn khỏi thư r�
 fxa-headline-db70c503 = Tài khoản của bạn đã được sử dụng để đăng nhập
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox sẽ điều hướng bạn quay trở lại để sử dụng email ẩn danh sau khi bạn đăng nhập.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Sử dụng tài khoản Mozilla của bạn để m�
 fxa-headline-785c79ef = Kích hoạt VPN tích hợp sẵn của Firefox để tăng cường quyền riêng tư và bảo mật.
 # Description for New Device Login Email
 fxa-description-6c54afca = Bạn gần như đã sẵn sàng để tăng cường quyền riêng tư cho trình duyệt của mình.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Đăng nhập mới vào tài khoản Mozilla của bạn
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Địa chỉ email này đã được sử dụng để đăng nhập:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Hoàn tất đăng nhập để sử dụng VPN tích hợp sẵn trong Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Sử dụng mã này để hoàn tất đăng nhập
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Một tài khoản đã được tạo bằng địa chỉ email này từ:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Hoàn tất đăng ký để sử dụng VPN tích hợp sẵn trong Firefox
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Tiếp tục với tài khoản Mozilla của bạn để mở khoá các tính năng VPN như ẩn vị trí.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Chỉ còn một bước nữa để đăng nhập.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Kích hoạt VPN tích hợp sẵn bằng tài khoản Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Đăng ký tài khoản
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Chỉ còn một bước nữa để tạo tài khoản và đăng nhập.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Giúp chúng tôi giữ an toàn cho tài khoản của bạn bằng cách chấp thuận đăng nhập của bạn trên:
 # Headline for Verify Login Code Email

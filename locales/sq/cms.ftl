@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -60,6 +60,15 @@ fxa-description-d28733a3 = Ripohoni llogarinë tuaj dhe përfitoni maksimumin ng
 fxa-headline-f827216f = Hapni internetin me Mozilla-n
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Ripohoni llogarinë tuaj
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -160,12 +169,6 @@ fxa-pageTitle-8e453cea = Mbroni email-in tuaj nga mesazhe të padëshiruar | Llo
 fxa-headline-db70c503 = Llogaria juaj u përdor për të bërë hyrjen
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox-i do të provojë t’ju dërgojë te përdorimi i një maske email pasi të keni bërë hyrjen në llogari.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Page Title for Signup Confirm Code Page

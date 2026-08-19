@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Emoneĩ ne mba’ete ha eipuruporã Mozilla ikatuhái
 fxa-headline-f827216f = Eike ñandutípe Mozilla ndive
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Emoneĩjey ne mba’ete
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Eñepyrũ tembiapo Mozilla mba’etépe
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Ojejapo mba’ete ojeporúvo ko ñanduti veve ko’a guive:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Jeku’eve eikekuaa hag̃ua.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Jeku’eve emoheñói hag̃ua ne mba’ete ha eike.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Emo’ã ne ñe’ẽmondo g̃uahẽha spam-gui | Mozil
 fxa-headline-db70c503 = Ne mba’ete ojeporu ojeike hag̃ua
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox oujeýta oĩgaguépe oiporu hag̃ua ñanduti veve rovamo’ãhápe eike rire ñandutípe.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Eiporu ne mba’ete Mozilla-pegua ejokua’o hag̃ua 
 fxa-headline-785c79ef = Emyandy VPN Firefox rehe jehe’apyréva tekoñemi ha ñemo’ãverã
 # Description for New Device Login Email
 fxa-description-6c54afca = Eime porãma emoporãve hag̃ua ne kundahára rekoñemi.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Eñepyrũ tembiapo Mozilla mba’etépe
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Emohu’ã jeikekue eiporu hag̃ua VPN ojuajúva Firefox ndive
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Eiporu ko ayvu eikekuaa hag̃ua
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Ojejapo mba’ete ojeporúvo ko ñanduti veve ko’a guive:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Emohu’ã mboheraguapy eiporu hag̃ua VPN ojuajúva Firefox ndive
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Eiporu Mozilla ejokua’o hag̃ua upe VPN rembiapoite ikatúva ne rendaite ñemokañy.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Jeku’eve eikekuaa hag̃ua.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Emyandy nde VPN jehe’apyre ne mba’ete Mozilla-guándi
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Eñemboheraguapy ereko hag̃ua mba’ete
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Jeku’eve emoheñói hag̃ua ne mba’ete ha eike.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Orepytyvõ rorekóvo ne mba’ete tekorosãme emoneĩvo jeike pyahu amo:
 # Headline for Verify Login Code Email

@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Confirmá tu cuenta y aprovechá Mozilla al máximo c
 fxa-headline-f827216f = Abrí internet con Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Confirmá tu cuenta
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nuevo inicio de sesión en tu cuenta de Mozilla
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Este correo electrónico fue usado para iniciar sesión desde:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Se creó una cuenta usando esta dirección de correo electrónico desde:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Un paso más para iniciar sesión.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Un paso más para crear tu cuenta e iniciar sesión.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Protegé tu bandeja de entrada del spam | Cuentas de Mo
 fxa-headline-db70c503 = Tu cuenta fue usada para iniciar sesión
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox tratará de volver donde estabas para usar una máscara de correo electrónico después de que iniciés sesión.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Usá tu cuenta de Mozilla para desbloquear funciones 
 fxa-headline-785c79ef = Activá la VPN incorporada de Firefox para mayor privacidad y protección
 # Description for New Device Login Email
 fxa-description-6c54afca = Ya casi estás listo para mejorar la privacidad de tu navegador.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Nuevo inicio de sesión en tu cuenta de Mozilla
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Este correo electrónico fue usado para iniciar sesión desde:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Finalizá el inicio de sesión para usar la VPN integrada en Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Usá este código para terminar de iniciar sesión
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Se creó una cuenta usando esta dirección de correo electrónico desde:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Finalizá el registro para usar la VPN integrada en Firefox
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Continuá con tu cuenta de Mozilla para desbloquear funciones de la VPN como ocultar tu ubicación.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Un paso más para iniciar sesión.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Activá tu VPN integrada con una cuenta de Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Registrate para obtener una cuenta
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Un paso más para crear tu cuenta e iniciar sesión.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Ayudanos a mantener tu cuenta segura aprobando el inicio de sesión en:
 # Headline for Verify Login Code Email

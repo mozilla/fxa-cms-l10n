@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -58,6 +58,15 @@ fxa-description-d28733a3 = Staðfestu reikninginn þinn og fáðu sem mest út �
 fxa-headline-f827216f = Opnaðu internetið með Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Staðfestu reikninginn þinn
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -156,12 +165,6 @@ fxa-pageTitle-8e453cea = Verndaðu pósthólfið þitt gegn ruslpósti | Mozilla
 fxa-headline-db70c503 = Reikningurinn þinn var notaður til innskráningar
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox mun reyna að senda þig til baka til að nota tölvupósthulu eftir að þú skráir þig inn.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page

@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Potvrďte svůj účet a využívejte výhody Mozilly
 fxa-headline-f827216f = Otevřete internet s Mozillou
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Potvrzení účtu
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nové přihlášení k vašemu účtu Mozilla
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Tento e-mail byl použit k přihlášení z:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Pomocí této e-mailové adresy byl vytvořen účet od:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Ještě jeden krok k přihlášení.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Ještě jeden krok k vytvoření účtu a přihlášení.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Chraňte svou e-mailovou schránku před nevyžádanou 
 fxa-headline-db70c503 = Na přihlášení byl použit váš účet
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Po přihlášení se Firefox pokusí přesměrovat vás zpět na stránku s maskováním e-mailové adresy.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Pomocí svého účtu Mozilla si odemkněte funkce VP
 fxa-headline-785c79ef = Aktivujte vestavěnou VPN ve Firefoxu a zajistěte si tak větší soukromí a lepší ochranu
 # Description for New Device Login Email
 fxa-description-6c54afca = Už vám zbývá jen kousek k tomu, abyste zvýšili úroveň ochrany soukromí ve svém prohlížeči.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Nové přihlášení k vašemu účtu Mozilla
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Tento e-mail byl použit k přihlášení z:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Dokončete přihlášení, abyste mohli využívat integrovanou VPN ve Firefoxu
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Pomocí tohoto kódu dokončete přihlášení
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Pomocí této e-mailové adresy byl vytvořen účet od:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Dokončete registraci a začněte využívat integrovanou VPN ve Firefoxu
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Pokračujte pomocí svého účtu Mozilla a odemkněte funkce VPN, jako je skrytí vaší polohy.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Ještě jeden krok k přihlášení.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktivujte svou integrovanou VPN pomocí účtu Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Zaregistrujte si účet
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Ještě jeden krok k vytvoření účtu a přihlášení.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Pomozte nám udržet váš účet v bezpečí tím, že schválíte své přihlášení na zařízení:
 # Headline for Verify Login Code Email

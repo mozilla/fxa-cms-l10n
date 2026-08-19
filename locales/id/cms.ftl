@@ -1,4 +1,4 @@
-### Generated on 2026-07-06T19:55:05.237Z
+### Generated on 2026-08-19T18:54:23.311Z
 ### FTL file for CMS localization
 
 
@@ -64,6 +64,25 @@ fxa-description-d28733a3 = Konfirmasikan akun Anda dan dapatkan manfaat maksimal
 fxa-headline-f827216f = Buka internet dengan Mozilla
 # Subject for Verify Short Code Email
 fxa-subject-ef1fb997 = Konfirmasikan akun Anda
+
+## l10n-11 - Firefox Desktop - Smart Window
+
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Baru masuk ke akun Mozilla Anda
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Surel ini digunakan untuk masuk dari:
+# Description for Passwordless Signup Otp Email
+fxa-description-ea6cd8f8 = Sebuah akun dibuat menggunakan alamat surel ini dari:
+# Email From Name for Shared
+fxa-emailFromName-763f7f1a = Firefox
+# Email Logo Alt Text for Shared
+fxa-emailLogoAltText-763f7f1a = Firefox
+# Email Logo Width for Shared
+fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Passwordless Code Page
+fxa-description-ebf33c34 = Satu langkah lagi untuk masuk.
+# Description for Signup Passwordless Code Page
+fxa-description-02723363 = Satu langkah lagi untuk membuat akun Anda dan masuk.
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -184,12 +203,6 @@ fxa-pageTitle-8e453cea = Lindungi kotak masuk Anda dari spam | Akun Mozilla
 fxa-headline-db70c503 = Akun Anda digunakan untuk masuk
 # Additional Accessibility Info for Shared
 fxa-additionalAccessibilityInfo-5deba5d1 = Firefox akan mencoba mengirim Anda kembali untuk menggunakan topeng surel setelah Anda masuk.
-# Email From Name for Shared
-fxa-emailFromName-763f7f1a = Firefox
-# Email Logo Alt Text for Shared
-fxa-emailLogoAltText-763f7f1a = Firefox
-# Email Logo Width for Shared
-fxa-emailLogoWidth-ca27b150 = 120px
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -217,16 +230,10 @@ fxa-description-0b19b103 = Gunakan akun Mozilla Anda untuk membuka fitur VPN sep
 fxa-headline-785c79ef = Aktifkan VPN bawaan Firefox untuk privasi dan perlindungan ekstra
 # Description for New Device Login Email
 fxa-description-6c54afca = Anda hampir siap untuk meningkatkan privasi peramban Anda.
-# Subject for New Device Login Email
-fxa-subject-b04c0a2c = Baru masuk ke akun Mozilla Anda
-# Description for Passwordless Signin Otp Email
-fxa-description-8c69b083 = Surel ini digunakan untuk masuk dari:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Selesaikan proses masuk Anda untuk menggunakan VPN bawaan di Firefox
 # Subject for Passwordless Signin Otp Email
 fxa-subject-8e6d45cf = Gunakan kode ini untuk menyelesaikan proses masuk
-# Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Sebuah akun dibuat menggunakan alamat surel ini dari:
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Selesaikan pendaftaran Anda untuk menggunakan VPN bawaan di Firefox
 # Subject for Passwordless Signup Otp Email
@@ -237,14 +244,10 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
 fxa-description-1745f244 = Lanjutkan dengan akun Mozilla Anda untuk membuka fitur VPN seperti menyembunyikan lokasi Anda.
-# Description for Signin Passwordless Code Page
-fxa-description-ebf33c34 = Satu langkah lagi untuk masuk.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Aktifkan VPN bawaan Anda dengan akun Mozilla
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-a8211ca7 = Mozilla - Daftar untuk sebuah akun
-# Description for Signup Passwordless Code Page
-fxa-description-02723363 = Satu langkah lagi untuk membuat akun Anda dan masuk.
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Bantu kami menjaga keamanan akun Anda dengan menyetujui proses masuk Anda pada:
 # Headline for Verify Login Code Email
