@@ -70,23 +70,23 @@ fxa-subject-ef1fb997 = Подтвердите ваш аккаунт
 # Description for Email First Page
 fxa-description-e7d92b5e = Войдите в свой аккаунт Mozilla или создайте его.
 # Headline for Email First Page
-fxa-headline-d54122be = Войдите, чтобы использовать Smart Window
+fxa-headline-d54122be = Войдите, чтобы использовать Умное окно
 # Page Title for Email First Page
 fxa-pageTitle-9ef4f0dd = Умное окно | Аккаунт Mozilla
 # Description for New Device Login Email
-fxa-description-763ec700 = Теперь вы можете использовать Умное Окно в Firefox.
+fxa-description-763ec700 = Теперь вы можете использовать Умное окно в Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Новый вход в ваш аккаунт Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Этот адрес электронной почты был использован для входа с:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-943c9f95 = Завершите вход для использования Smart Window
+fxa-headline-943c9f95 = Завершите вход для использования Умного окна
 # Subject for Passwordless Signin Otp Email
 fxa-subject-ee265427 = Используйте этот код, чтобы завершить регистрацию
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = С использованием этого адреса электронной почты был создан аккаунт с:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-574e7a6e = Завершите регистрацию, чтобы использовать Умное Окно в Firefox
+fxa-headline-574e7a6e = Завершите регистрацию, чтобы использовать Умное окно в Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -94,7 +94,7 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
-fxa-description-d9154126 = Продолжите использовать свой аккаунт Mozilla, чтобы использовать Smart Window.
+fxa-description-d9154126 = Продолжите использовать свой аккаунт Mozilla, чтобы использовать Умное окно.
 # Headline for Signin Cached Page
 fxa-headline-52e7ed4b = Готовы для умного окна?
 # Page Title for Signin Cached Page
