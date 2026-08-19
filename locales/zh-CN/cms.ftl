@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = 确认您的账户
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = 登录您的 Mozilla 账户或创建一个。
+# Headline for Email First Page
+fxa-headline-d54122be = 登录以使用智能窗口
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = 智能窗口 | Mozilla 账户
+# Description for New Device Login Email
+fxa-description-763ec700 = 您现在可以在 Firefox 中使用智能窗口了。
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = 您的 Mozilla 账户有新的登录活动
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = 此邮箱地址从以下位置被用于登录：
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = 请完成登录以使用智能窗口
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = 使用此码完成注册
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = 此邮箱地址从以下位置被用于创建账户：
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = 请完成您在 Firefox 中使用智能窗口的注册
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = 请使用您的 Mozilla 账户登录以使用智能窗口。
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = 准备好使用智能窗口了吗
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = 智能窗口 | Mozilla 账户
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = 还差一步即可完成登录。
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = 打开智能窗口
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = 还差一步即可创建账户并登录。
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = 您的确认码
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = 确认您的账户以在 Firefox 中使用智能窗口
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

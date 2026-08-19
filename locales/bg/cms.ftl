@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Потвърдете своя профил
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Влезте в профила си в Mozilla или създайте такъв.
+# Headline for Email First Page
+fxa-headline-d54122be = Впишете се, за да използвате интелигентен прозорец
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Умен прозорец | сметка в Mozilla
+# Description for New Device Login Email
+fxa-description-763ec700 = Вече можете да използвате интелигентен прозорец във Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Ново вписване във вашия Mozilla акаунт
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Този имейл е използван за вход от:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Завършете вписването, за да използвате интелигентен прозорец
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Използвайте този код, за да завършите регистрацията
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Създаден е профил с този имейл адрес от:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Завършете регистрацията си, за да използвате интелигентен прозорец във Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Продължете с профила си в Mozilla, за да използвате Smart Window.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Готови ли сте за интелигентен прозорец?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Умен прозорец | Mozilla акаунти
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Още една стъпка до вписване.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Отворете интелигентен прозорец
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Още една стъпка до създаване на профил и влизане.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Вашият код за потвърждение
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Потвърдете профила си, за да използвате интелигентен прозорец във Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

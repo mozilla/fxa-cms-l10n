@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Bevestig uw account
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Meld u aan bij uw Mozilla-account of maak er een aan.
+# Headline for Email First Page
+fxa-headline-d54122be = Meld u aan om Smart Window te gebruiken
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Slim venster | Mozilla-account
+# Description for New Device Login Email
+fxa-description-763ec700 = U kunt Smart Window nu in Firefox gebruiken.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nieuwe aanmelding bij uw Mozilla-account
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Dit e-mailadres is gebruikt om aan te melden vanaf:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Voltooi uw aanmelding om Smart Window te gebruiken
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Gebruik deze code om uw inschrijving te voltooien
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Er is met dit e-mailadres een account aangemaakt vanaf:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Uw registratie voor het gebruik van Smart Window in Firefox voltooien
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Ga verder met uw Mozilla-account om Smart Window te gebruiken.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Klaar voor Smart Window?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Slim venster | Mozilla-accounts
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Nog één stap om u aan te melden.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Slim venster openen
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Nog één stap om uw account aan te maken en aan te melden.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Uw bevestigingscode
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Bevestig uw account voor gebruik van Smart Window in Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

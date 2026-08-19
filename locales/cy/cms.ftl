@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Cadarnhau eich cyfrif
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Mewngofnodwch i'ch cyfrif Mozilla neu crëwch un.
+# Headline for Email First Page
+fxa-headline-d54122be = Mewngofnodwch i ddefnyddio Smart Window
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Ffenest Smart | cyfrif Mozilla
+# Description for New Device Login Email
+fxa-description-763ec700 = Gallwch nawr ddefnyddio Smart Window yn Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Mewngofnod newydd i'ch cyfrif Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Defnyddiwyd yr e-bost hwn i fewngofnodi oddi wrth:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Gorffennwch eich mewngofnodi i ddefnyddio Smart Window
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Defnyddiwch y cod hwn i orffen cofrestru
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Crëwyd cyfrif gan ddefnyddio'r cyfeiriad e-bost hwn oddi wrth:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Gorffennwch eich cofrestriad i ddefnyddio Smart Window yn Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Parhewch â'ch cyfrif Mozilla i ddefnyddio Smart Window.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Yn barod ar gyfer Ffenestr Glyfar?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Ffenest Smart | Cyfrifon Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Un cam arall i fewngofnodi.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Agor Ffenest Smart
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Un cam arall i greu eich cyfrif a mewngofnodi.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Eich cod cadarnhau
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Cadarnhewch eich cyfrif i ddefnyddio Smart Window yn Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

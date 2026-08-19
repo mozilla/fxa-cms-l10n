@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = 계정 확인
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Mozilla 계정에 로그인하거나 계정을 만드세요.
+# Headline for Email First Page
+fxa-headline-d54122be = Smart Window를 사용하려면 로그인하세요.
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = 스마트 윈도우 | Mozilla 계정
+# Description for New Device Login Email
+fxa-description-763ec700 = 이제 Firefox에서 Smart Window를 사용할 수 있습니다.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Mozilla 계정에 대한 새로운 로그인
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = 이 이메일이 로그인에 사용된 곳:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Smart Window를 사용하려면 로그인을 완료하세요.
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = 이 코드를 사용하여 가입 완료
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = 계정이 이 이메일 주소를 이용해서 만들어 졌습니다:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Firefox에서 Smart Window 사용을 위한 가입 완료
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Smart Window를 사용하려면 Mozilla 계정으로 계속하세요.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Smart Window를 사용할 준비가 되셨습니까?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = 스마트 윈도우 | Mozilla 계정
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = 로그인 하는데 한 단계 남았습니다.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Smart Window 열기
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = 계정을 만들고 로그인 하는데 한 단계 남았습니다.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = 인증 코드
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Firefox에서 Smart Window를 사용하려면 계정을 확인하세요
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

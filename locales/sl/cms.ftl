@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Potrdite račun
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Prijavite se v svoj račun Mozilla ali ga ustvarite.
+# Headline for Email First Page
+fxa-headline-d54122be = Prijavite se za uporabo pametnega okna
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Pametno okno | Mozillin račun
+# Description for New Device Login Email
+fxa-description-763ec700 = Zdaj lahko uporabljate Pametno okno v Firefoxu.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nova prijava v vaš račun Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ta e-poštni naslov je bil uporabljen za prijavo iz:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Dokončajte prijavo za uporabo Pametnega okna
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Uporabite to kodo za dokončanje registracije
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Z uporabo tega e-poštnega naslova je bil ustvarjen račun z:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Dokončajte prijavo za uporabo pametnega okna v Firefoxu
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Nadaljujte z računom Mozilla za uporabo pametnega okna.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Pripravljeni na pametno okno?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Pametno okno | Mozilline račune
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Še en korak do prijave.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Odprite Pametno okno
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Še korak do ustvarjanja računa in prijave.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Vaša potrditvena koda
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Potrdite račun za uporabo Pametnega okna v Firefoxu
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Hesabınızı onaylayın
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Mozilla hesabınıza giriş yapın veya hesap oluşturun.
+# Headline for Email First Page
+fxa-headline-d54122be = Akıllı Pencereyi kullanmak için giriş yapın
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Akıllı pencere | Mozilla hesabı
+# Description for New Device Login Email
+fxa-description-763ec700 = Akıllı Pencereyi artık Firefox’ta da kullanabilirsiniz.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Mozilla hesabınıza yeni giriş
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Bu e-posta adresiyle giriş yapan cihaz:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Akıllı Pencere'yi kullanmak için girişinizi tamamlayın
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Kaydolmayı tamamlamak için bu kodu kullanın
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Bu e-posta adresiyle hesap oluşturan cihaz:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Firefox'ta Akıllı Pencere'yi kullanmak için kaydınızı tamamlayın
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Akıllı Pencere’yi kullanmak için Mozilla hesabınızla devam edin.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Akıllı Pencere’ye hazır mısınız?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Akıllı pencere | Mozilla hesapları
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Giriş yapmanıza bir adım kaldı.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Akıllı pencere aç
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Hesabınızı oluşturup giriş yapmanıza bir adım kaldı.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Onay kodunuz
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Firefox'ta Akıllı Pencere'yi kullanmak için hesabınızı onaylayın
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

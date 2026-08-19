@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = तपाईंको खाता पुष्टि ग
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = आफ्नो मोजिला खातामा साइन इन गर्नुहोस् वा एउटा सिर्जना गर्नुहोस्।
+# Headline for Email First Page
+fxa-headline-d54122be = स्मार्ट सञ्झ्याल प्रयोग गर्न साइन इन गर्नुहोस्
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = स्मार्ट सञ्झ्याल | मोजिला खाता
+# Description for New Device Login Email
+fxa-description-763ec700 = तपाईँ अब Firefox मा स्मार्ट विन्डो प्रयोग गर्न सक्नुहुन्छ।
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = तपाईँको मोजिला खातामा नयाँ साइन-इन
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = यो इमेल साइन इन गर्न प्रयोग गरिएको थियो बाट:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = स्मार्ट सञ्झ्याल प्रयोग गर्न आफ्नो साइन इन समाप्त गर्नुहोस्
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = साइन अप पुरा गर्न यो कोड प्रयोग गर्नुहोस्
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = यो इमेल ठेगाना प्रयोग गरेर खाता सिर्जना गरियो:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Firefox मा स्मार्ट विन्डो प्रयोग गर्न आफ्नो साइन अप पूरा गर्नुहोस्
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = स्मार्ट सञ्झ्याल प्रयोग गर्न आफ्नो मोजिला खातामा जारी राख्नुहोस्।
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = स्मार्ट विन्डोको लागि तयार हुनुहुन्छ?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = स्मार्ट सञ्झ्याल | मोजिला खाताहरू
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = साइन इन गर्नका लागि थप एक चरण।
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = स्मार्ट सञ्झ्याल खोल्नुहोस्
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = आफ्नो खाता सिर्जना गर्न र साइन इन गर्न एक थप चरण।
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = तपाईंको पुष्टि कोड
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Firefox मा स्मार्ट विन्डो प्रयोग गर्न आफ्नो खाता यकिन गर्नुहोस्
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 

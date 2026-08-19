@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = დაადასტურეთ თქვენი ა�
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = შედით თქვენს Mozilla ანგარიშზე ან შექმენით.
+# Headline for Email First Page
+fxa-headline-d54122be = შედით გონიერი სარკმლის გამოსაყენებლად
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = გონიერი ფანჯარა | Mozilla ანგარიში
+# Description for New Device Login Email
+fxa-description-763ec700 = ახლა უკვე შეგიძლიათ გონიერი სარკმლის გამოყენება Firefox-ში.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = ახალი შემოსვლა თქვენს Mozilla-ს ანგარიშზე
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = ელფოსტა გამოყენებულია შესასვლელად:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = დაასრულეთ შესვლა გონიერი სარკმლის გამოსაყენებლად
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = გამოიყენეთ ეს კოდი ანგარიშის დასასრულებლად
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = ანგარიში შექმნილია ელფოსტის ამ მისამართით:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = დაასრულეთ რეგისტრაცია Firefox-ში Smart Window-ის გამოსაყენებლად
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = გამოიყენეთ სმარტ ფანჯარა, Mozilla-ს ანგარიშით.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = მზად ხართ გონიერი ფანჯრისთვის?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = გონიერი ფანჯარა | Mozilla-ს ანგარიშები
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = ერთი ნაბიჯია ანგარიშზე შესასვლელად.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = გონიერი სარკმლის გახსნა
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = ერთი ნაბიჯია ანგარიშის შესაქმნელად და ანგარიშზე შესასვლელად.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = თქვენი დადასტურების კოდი
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = დაადასტურეთ თქვენს ანგარიშზე გონიერი ფანჯრის გამოყენება Firefox-ში
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
