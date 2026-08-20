@@ -96,9 +96,9 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
 fxa-description-d9154126 = Continuez avec votre compte Mozilla pour utiliser les fenêtres intelligentes.
 # Headline for Signin Cached Page
-fxa-headline-52e7ed4b = Prêt pour fenêtre intelligente ?
+fxa-headline-52e7ed4b = Prêt·e pour les fenêtres intelligentes ?
 # Page Title for Signin Cached Page
-fxa-pageTitle-2351bc23 = Fenêtre intelligente | comptes Mozilla
+fxa-pageTitle-2351bc23 = Fenêtre intelligente | Comptes Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Dernière étape pour vous connecter.
 # Primary Button Text for Signin Passwordless Code Page
@@ -108,7 +108,7 @@ fxa-description-02723363 = Plus qu’une étape pour créer votre compte et vous
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = Votre code de confirmation
 # Headline for Verify Short Code Email
-fxa-headline-72079cba = Confirmez votre compte pour utiliser fenêtre intelligente dans Firefox
+fxa-headline-72079cba = Confirmez votre compte pour utiliser les fenêtres intelligentes dans Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
