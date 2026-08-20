@@ -67,20 +67,46 @@ fxa-subject-ef1fb997 = ਆਪਣੇ ਖਾਤੇ ਦੀ ਤਸਦੀਕ
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = ਆਪਣੇ Mozilla ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਨਵਾਂ ਬਣਾਓ।
+# Headline for Email First Page
+fxa-headline-d54122be = ਸਮਾਰਟ ਵਿੰਡੋ ਵਰਤਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = ਸਮਾਰਟ ਵਿੰਡੋ| Mozilla ਖਾਤਾ
+# Description for New Device Login Email
+fxa-description-763ec700 = ਤੁਸੀਂ ਹੁਣ Firefox ਵਿੱਚ ਸਮਾਰਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤ ਸਕਦੇ ਹੋ।
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = ਇਸ ਈਮੇਲ ਨੂੰ ਇਸ ਉੱਤੇ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = ਸਮਾਰਟ ਵਿੰਡੋ ਵਰਤਣ ਲਈ ਆਪਣੇ ਸਾਈਨ ਇਨ ਨੂੰ ਪੂਰਾ ਕਰੋ
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = ਸਾਈਨ ਅੱਪ ਪੂਰਾ ਕਰਨ ਵਾਸਤੇ ਇਸ ਕੋਡ ਨੂੰ ਵਰਤੋਂ
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = ਇਸ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਇਸ ਥਾਂ ਉੱਤੇ ਵਰਤ ਕੇ ਖਾਤਾ ਬਣਾਇਆ ਗਿਆ ਸੀ:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Firefox ਵਿੱਚ ਸਮਾਰਟ ਵਿੰਡੋ ਵਰਤਣ ਲਈ ਆਪਣੇ ਸਾਈਨ ਇਨ ਨੂੰ ਪੂਰਾ ਕਰੋ
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = ਸਮਾਰਟ ਵਿੰਡੋ ਵਰਤਣ ਲਈ ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ।
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = ਸਮਾਰਟ ਵਿੰਡੋ ਲਈ ਤਿਆਰ ਹੋ?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = ਸਮਾਰਟ ਵਿੰਡੋ| Mozilla ਖਾਤੇ
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = ਸਾਈਨ ਇਨ ਕਰਨ ਇੱਕ ਹੋਰ ਪੜਾਅ।
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = ਸਮਾਰਟ ਵਿੰਡੋ ਨੂੰ ਖੋਲ੍ਹੋ
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = ਤੁਹਾਡਾ ਖਾਤਾ ਬਣਾਉਣ ਅਤੇ ਸਾਈਨ ਇਨ ਲਈ ਇੱਕ ਹੋਰ ਪੜਾਅ ਹੈ।
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = ਤੁਹਾਡਾ ਤਸਦੀਕੀਕਰਨ ਕੋਡ
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Firefox ਵਿੱਚ ਸਮਾਰਟ ਵਿੰਡੋ ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
