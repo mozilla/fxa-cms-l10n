@@ -96,7 +96,7 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
 fxa-description-d9154126 = Emba’apo ne mba’ete Mozilla-guándi eiporu hag̃ua Smart Window.
 # Headline for Signin Cached Page
-fxa-headline-52e7ed4b = ¿Oĩma Smart Window-pn g̃uarã?
+fxa-headline-52e7ed4b = ¿Oĩma Smart Window-pe g̃uarã?
 # Page Title for Signin Cached Page
 fxa-pageTitle-2351bc23 = Ovetã ha’evéva | Mozilla mba’ete
 # Description for Signin Passwordless Code Page
