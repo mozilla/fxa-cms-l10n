@@ -108,7 +108,7 @@ fxa-description-02723363 = Noch ein Schritt, um Ihr Konto zu erstellen und sich 
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = Ihr Bestätigungscode
 # Headline for Verify Short Code Email
-fxa-headline-72079cba = Bestätigen Sie Ihr Konto, um Smart Window in Firefox zu verwenden
+fxa-headline-72079cba = Bestätigen Sie Ihr Konto, um Intelligentes Fenster in Firefox zu verwenden
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
