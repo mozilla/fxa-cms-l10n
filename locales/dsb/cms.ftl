@@ -101,8 +101,14 @@ fxa-headline-52e7ed4b = Gótowy za inteligentne wokno?
 fxa-pageTitle-2351bc23 = Inteligentne wokno | Konta Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Hyšći jaden kšac k pśizjawjenjeju.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Inteligentne wokno wócyniś
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Hyšći jaden kšac k załoženjeju wašogo konta a k pśizjawjenjeju.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Waš wobkšuśeński kod
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Wobkšuśćo swójo konto, aby inteligentne wokno w Firefox wužywał
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
