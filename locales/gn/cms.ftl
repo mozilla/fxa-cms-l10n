@@ -85,16 +85,30 @@ fxa-headline-943c9f95 = Esẽ ne eikehaguégui eiporu hag̃ua ovetã ha’evéva
 fxa-subject-ee265427 = Eiporu ko ayvu emoju’ã hag̃ua ñemboheraguapy
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Ojejapo mba’ete ojeporúvo ko ñanduti veve ko’a guive:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Eñemboheraguapy Firefox-pe eiporu hag̃ua Smart Window
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Emba’apo ne mba’ete Mozilla-guándi eiporu hag̃ua Smart Window.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = ¿Oĩma Smart Window-pn g̃uarã?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Ovetã ha’evéva | Mozilla mba’ete
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Jeku’eve eikekuaa hag̃ua.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Eipe’a ovetã ha’evéva
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Jeku’eve emoheñói hag̃ua ne mba’ete ha eike.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Nde ayvu ñemoneĩrã
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Emoneĩ ne mba’ete eiporu hag̃ua Smart Window Firefox-pe
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
