@@ -67,22 +67,46 @@ fxa-subject-ef1fb997 = Confirmă-ți contul
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Intră în contul tău Mozilla sau fă-ți unul.
+# Headline for Email First Page
+fxa-headline-d54122be = Intră în cont pentru a utiliza ferestre inteligente
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Fereastră inteligentă | Cont Mozilla
+# Description for New Device Login Email
+fxa-description-763ec700 = Acum poți utiliza ferestre inteligente în Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Autentificare nouă în contul tău Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Această adresă de e-mail a fost folosită pentru a conectare din:
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Folosește acest cod pentru a finaliza înregistrarea
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = A fost creat un cont folosind această adresă de e-mail din:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Finalizează înregistrarea pentru a utiliza ferestre inteligente în Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Continuă cu contul tău Mozilla pentru a folosi ferestre inteligente.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Ești gata pentru ferestre inteligente?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Fereastră inteligentă | Conturi Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Încă un pas pentru a te conecta.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Deschide o fereastră inteligentă
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Încă un pas pentru a-ți crea contul și a te conecta.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Codul tău de confirmare
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Confirmă-ți contul pentru a utiliza ferestre inteligente în Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
