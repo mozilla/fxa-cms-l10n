@@ -79,6 +79,10 @@ fxa-description-763ec700 = Ko’ág̃a eiporukuaa ovetã ha’evéva Firefox-pe.
 fxa-subject-b04c0a2c = Eñepyrũ tembiapo Mozilla mba’etépe
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Ko ñanduti veve ojeporu ojeike hag̃ua ko’águi:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Esẽ ne eikehaguégui eiporu hag̃ua ovetã ha’evéva
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Eiporu ko ayvu emoju’ã hag̃ua ñemboheraguapy
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Ojejapo mba’ete ojeporúvo ko ñanduti veve ko’a guive:
 # Email From Name for Shared
