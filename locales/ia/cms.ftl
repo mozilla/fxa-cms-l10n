@@ -107,6 +107,8 @@ fxa-primaryButtonText-a35fe0c1 = Aperir Fenestra intelligente
 fxa-description-02723363 = Un altere passo pro crear tu conto e acceder.
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = Tu codice de confirmation
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Confirma tu conto pro usar Fenestra intelligente in Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
