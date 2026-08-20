@@ -67,10 +67,20 @@ fxa-subject-ef1fb997 = Potvrďte svoj účet
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Prihláste sa do svojho účtu Mozilla alebo si ho vytvorte.
+# Headline for Email First Page
+fxa-headline-d54122be = Prihláste sa a používajte inteligentné okno
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Inteligentné okno | Účet Mozilla
+# Description for New Device Login Email
+fxa-description-763ec700 = Teraz môžete používať funkciu Inteligentné okno vo Firefoxe.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nové prihlásenie do vášho účtu Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Tento e‑mail bol použitý na prihlásenie z:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Dokončite prihlásenie a používajte funkciu Inteligentné okná
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Účet bol vytvorený s použitím tejto e‑mailovej adresy z:
 # Email From Name for Shared
