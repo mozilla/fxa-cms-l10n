@@ -79,6 +79,8 @@ fxa-description-763ec700 = Acum poți utiliza ferestre inteligente în Firefox.
 fxa-subject-b04c0a2c = Autentificare nouă în contul tău Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Această adresă de e-mail a fost folosită pentru a conectare din:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Finalizează autentificarea ca să folosești ferestre inteligente
 # Subject for Passwordless Signin Otp Email
 fxa-subject-ee265427 = Folosește acest cod pentru a finaliza înregistrarea
 # Description for Passwordless Signup Otp Email
