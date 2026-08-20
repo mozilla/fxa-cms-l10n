@@ -67,18 +67,38 @@ fxa-subject-ef1fb997 = Wobkšuśćo swójo konto
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Pśizjawśo se pla swójogo konta Mozilla abo załožćo jadno.
+# Headline for Email First Page
+fxa-headline-d54122be = Pśizjawśo se, aby inteligentne wokno wužywał
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Inteligentne wokno | Konto Mozilla
+# Description for New Device Login Email
+fxa-description-763ec700 = Móžośo něnto inteligentne wokno w Firefox wužywaś.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nowe pśizjawjenje pla wašogo konta Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Toś ta e-mailowa adresa jo se wužywała za pśizjawjenje wót:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Dokóńcćo swójo pśizjawjenje, aby inteligentne wokno wužywał
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Wužywajśo toś ten kod, aby registraciju dokóńcył
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Z toś teju e-mailoweju adresu jo se konto załožyło wót:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Dokóńcćo swóju registraciju, aby inteligentne wokno w Firefox wužywał
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Pókšacujśo ze swójim kontom Mozilla, aby inteligentne wokno wužywał.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Gótowy za inteligentne wokno?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Inteligentne wokno | Konta Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Hyšći jaden kšac k pśizjawjenjeju.
 # Description for Signup Passwordless Code Page
