@@ -68,9 +68,9 @@ fxa-subject-ef1fb997 = 確認您的帳號
 ## l10n-11 - Firefox Desktop - Smart Window
 
 # Description for Email First Page
-fxa-description-e7d92b5e = 登入或註冊您的 Mozilla 帳號。
+fxa-description-e7d92b5e = 登入您的 Mozilla 帳號，或註冊一組。
 # Headline for Email First Page
-fxa-headline-d54122be = 登入使用智慧視窗
+fxa-headline-d54122be = 登入後即可使用智慧視窗
 # Page Title for Email First Page
 fxa-pageTitle-9ef4f0dd = 智慧視窗 | Mozilla 帳號
 # Description for New Device Login Email
@@ -82,11 +82,11 @@ fxa-description-8c69b083 = 此電子郵件地址已從下列位置用來登入�
 # Headline for Passwordless Signin Otp Email
 fxa-headline-943c9f95 = 完成登入即可使用智慧視窗
 # Subject for Passwordless Signin Otp Email
-fxa-subject-ee265427 = 使用此驗證碼完成註冊
+fxa-subject-ee265427 = 使用此代碼完成註冊
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = 有人使用此電子郵件地址，從下列位置建立帳號：
 # Headline for Passwordless Signup Otp Email
-fxa-headline-574e7a6e = 完成註冊即可在 Firefox 使用智慧視窗
+fxa-headline-574e7a6e = 完成註冊後，即可在 Firefox 使用智慧視窗
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -94,9 +94,9 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
-fxa-description-d9154126 = 繼續使用您的 Mozilla 帳號即可使用智慧視窗。
+fxa-description-d9154126 = 使用您的 Mozilla 帳號完成登入，即可使用智慧視窗。
 # Headline for Signin Cached Page
-fxa-headline-52e7ed4b = 準備好使用智慧視窗了嗎
+fxa-headline-52e7ed4b = 準備好使用智慧視窗了嗎？
 # Page Title for Signin Cached Page
 fxa-pageTitle-2351bc23 = 智慧視窗 | Mozilla 帳號
 # Description for Signin Passwordless Code Page
@@ -108,7 +108,7 @@ fxa-description-02723363 = 還差一步即可完成帳號註冊並登入。
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = 您的確認碼
 # Headline for Verify Short Code Email
-fxa-headline-72079cba = 確認您的帳號才能使用 Firefox 的智慧視窗功能
+fxa-headline-72079cba = 確認您的帳號後，即可使用 Firefox 的智慧視窗功能
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
