@@ -70,23 +70,23 @@ fxa-subject-ef1fb997 = Bestätigen Sie Ihr Konto
 # Description for Email First Page
 fxa-description-e7d92b5e = Melden Sie sich mit Ihrem Mozilla-Konto an oder erstellen Sie eines.
 # Headline for Email First Page
-fxa-headline-d54122be = Melden Sie sich an, um Smart Window zu verwenden
+fxa-headline-d54122be = Melden Sie sich an, um Intelligentes Fenster zu verwenden
 # Page Title for Email First Page
 fxa-pageTitle-9ef4f0dd = Intelligentes Fenster | Mozilla-Konto
 # Description for New Device Login Email
-fxa-description-763ec700 = Sie können jetzt Smart Window in Firefox verwenden.
+fxa-description-763ec700 = Sie können Intelligentes Fenster jetzt in Firefox verwenden.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Neue Anmeldung bei Ihrem Mozilla-Konto
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Diese E-Mail-Adresse wurde für die Anmeldung verwendet von:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-943c9f95 = Schließen Sie Ihre Anmeldung ab, um Smart Window zu verwenden
+fxa-headline-943c9f95 = Schließen Sie Ihre Anmeldung ab, um Intelligentes Fenster zu verwenden
 # Subject for Passwordless Signin Otp Email
 fxa-subject-ee265427 = Verwenden Sie diesen Code, um die Registrierung abzuschließen
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Mit dieser E-Mail-Adresse wurde ein Konto erstellt von:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-574e7a6e = Schließen Sie Ihre Anmeldung ab, um Smart Window in Firefox zu verwenden
+fxa-headline-574e7a6e = Schließen Sie Ihre Anmeldung ab, um Intelligentes Fenster in Firefox zu verwenden
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -94,9 +94,9 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
-fxa-description-d9154126 = Fahren Sie mit Ihrem Mozilla-Konto fort, um Smart Window zu verwenden.
+fxa-description-d9154126 = Fahren Sie mit Ihrem Mozilla-Konto fort, um Intelligentes Fenster zu verwenden.
 # Headline for Signin Cached Page
-fxa-headline-52e7ed4b = Bereit für Smart Window?
+fxa-headline-52e7ed4b = Bereit für Intelligentes Fenster?
 # Page Title for Signin Cached Page
 fxa-pageTitle-2351bc23 = Intelligentes Fenster | Mozilla-Konten
 # Description for Signin Passwordless Code Page
