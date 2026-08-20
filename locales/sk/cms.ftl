@@ -70,7 +70,7 @@ fxa-subject-ef1fb997 = Potvrďte svoj účet
 # Description for Email First Page
 fxa-description-e7d92b5e = Prihláste sa do svojho účtu Mozilla alebo si ho vytvorte.
 # Headline for Email First Page
-fxa-headline-d54122be = Prihláste sa a používajte inteligentné okno
+fxa-headline-d54122be = Prihláste sa a používajte Inteligentné okná
 # Page Title for Email First Page
 fxa-pageTitle-9ef4f0dd = Inteligentné okno | Účet Mozilla
 # Description for New Device Login Email
@@ -81,18 +81,34 @@ fxa-subject-b04c0a2c = Nové prihlásenie do vášho účtu Mozilla
 fxa-description-8c69b083 = Tento e‑mail bol použitý na prihlásenie z:
 # Headline for Passwordless Signin Otp Email
 fxa-headline-943c9f95 = Dokončite prihlásenie a používajte funkciu Inteligentné okná
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Použite tento kód na dokončenie registrácie
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Účet bol vytvorený s použitím tejto e‑mailovej adresy z:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Dokončite registráciu a používajte funkciu Inteligentné okná vo Firefoxe
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Pokračujte so svojím účtom Mozilla a používajte funkciu Inteligentné okná.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Pripravení na Inteligentné okná?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Inteligentné okná | Účty Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Ešte jeden krok na prihlásenie.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Otvoriť Inteligentné okno
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Ešte jeden krok na vytvorenie účtu a prihlásenie.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Váš potvrdzovací kód
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Potvrďte svoj účet, aby ste mohli používať funkciu Inteligentné okná vo Firefoxe
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
