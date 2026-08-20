@@ -81,8 +81,12 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Un altere passo pro acceder.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Aperir ligamine in nove { -smart-window-brand-name }
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Un altere passo pro crear tu conto e acceder.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Tu codice de confirmation
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
