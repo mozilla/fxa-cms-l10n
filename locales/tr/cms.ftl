@@ -108,7 +108,7 @@ fxa-description-02723363 = Hesabınızı oluşturup giriş yapmanıza bir adım 
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = Onay kodunuz
 # Headline for Verify Short Code Email
-fxa-headline-72079cba = Firefox'ta Akıllı Pencere'yi kullanmak için hesabınızı onaylayın
+fxa-headline-72079cba = Firefox’ta akıllı pencereyi kullanmak için hesabınızı onaylayın
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
