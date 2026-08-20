@@ -80,7 +80,7 @@ fxa-subject-b04c0a2c = Ny inloggning till ditt Mozilla-konto
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Den här e-postadressen användes för att logga in från:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-943c9f95 = Avsluta din inloggning för att använda smart fönster
+fxa-headline-943c9f95 = Slutför din inloggning för att använda smart fönster
 # Subject for Passwordless Signin Otp Email
 fxa-subject-ee265427 = Använd den här koden för att avsluta registreringen
 # Description for Passwordless Signup Otp Email
@@ -108,7 +108,7 @@ fxa-description-02723363 = Ytterligare ett steg för att skapa ditt konto och lo
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = Din bekräftelsekod
 # Headline for Verify Short Code Email
-fxa-headline-72079cba = Bekräfta ditt konto för att använda Smart Window i Firefox
+fxa-headline-72079cba = Bekräfta ditt konto för att använda smart fönster i Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
