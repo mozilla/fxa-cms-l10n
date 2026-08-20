@@ -67,6 +67,14 @@ fxa-subject-ef1fb997 = Emoneĩjey ne mba’ete
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Ehai mba’ete Mozilla-pegua térã emoheñói peteĩ.
+# Headline for Email First Page
+fxa-headline-d54122be = Eike eiporu hag̃ua ovetã ha’evéva
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Ovetã ha’evéva | Mozilla mba’ete
+# Description for New Device Login Email
+fxa-description-763ec700 = Ko’ág̃a eiporukuaa ovetã ha’evéva Firefox-pe.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Eñepyrũ tembiapo Mozilla mba’etépe
 # Description for Passwordless Signin Otp Email

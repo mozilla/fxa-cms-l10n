@@ -67,6 +67,14 @@ fxa-subject-ef1fb997 = Stadfest kontoen din
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Logg på Mozilla-kontoen din eller opprett ein.
+# Headline for Email First Page
+fxa-headline-d54122be = Logg inn for å bruke smarte vindauge
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Smarte vindauge | Mozilla-konto
+# Description for New Device Login Email
+fxa-description-763ec700 = No kan du bruke smarte vindauge i Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Ny innlogging på Mozilla-kontoen din.
 # Description for Passwordless Signin Otp Email
@@ -81,8 +89,12 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Eitt steg til for å logge inn.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Opne smarte vindauge
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Eitt steg til for å opprette kontoen din og logge inn.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Stadfestingskoden din
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
