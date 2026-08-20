@@ -85,16 +85,28 @@ fxa-headline-943c9f95 = Fullfør innloggingen for å bruke «Smart vindu»
 fxa-subject-ee265427 = Bruk denne koden for å fullføre registreringen
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = En konto ble opprettet med denne e-postadressen fra:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Fullfør registreringen for å bruke «Smart vindu» i Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Fortsett med Mozilla-kontoen din for å bruke «Smart vindu».
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Klar for «Smart vindu»?
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Ett steg til for å logge inn.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Åpne «Smart vindu»
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Ett steg til for å opprette kontoen din og logge inn.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Bekreftelseskoden din
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Bekreft kontoen din for å bruke «Smart vindu» i Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
