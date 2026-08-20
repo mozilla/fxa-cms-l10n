@@ -67,22 +67,42 @@ fxa-subject-ef1fb997 = Confirma tu conto
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Accede a tu conto Mozilla o crea un.
+# Headline for Email First Page
+fxa-headline-d54122be = Accede pro usar Fenestras intelligente
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Fenestra intelligente | conto Mozilla
+# Description for New Device Login Email
+fxa-description-763ec700 = Ora tu pote usar Fenestra intelligente in Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nove accesso a tu conto Mozilla.
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Iste email era usate pro acceder de:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Fini tu accesso pro usar Fenestra intelligente
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Usar iste codice pro finir de inscriber te
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Un conto era create con iste adresse e-mail de:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Fini tu accesso pro usar Fenestra intelligente in Firefox.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Continua con tu conto Mozilla pro usar Fenestra intelligente.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Preste pro Fenestra intelligente?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Fenestra intelligente | Contos Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Un altere passo pro acceder.
 # Primary Button Text for Signin Passwordless Code Page
-fxa-primaryButtonText-a35fe0c1 = Aperir ligamine in nove { -smart-window-brand-name }
+fxa-primaryButtonText-a35fe0c1 = Aperir Fenestra intelligente
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Un altere passo pro crear tu conto e acceder.
 # Subject for Verify Login Code Email
