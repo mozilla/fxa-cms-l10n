@@ -67,10 +67,22 @@ fxa-subject-ef1fb997 = Bekreft kontoen
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Logg inn på Mozilla-kontoen din, eller opprett en.
+# Headline for Email First Page
+fxa-headline-d54122be = Logg inn for å bruke «Smart vindu»
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Smartvindu | Mozilla-konto
+# Description for New Device Login Email
+fxa-description-763ec700 = Du kan nå bruke «Smart vindu» i Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Ny innlogging på Mozilla-kontoen din
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Denne e-postadressen ble brukt til å logge inn fra:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Fullfør innloggingen for å bruke «Smart vindu»
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Bruk denne koden for å fullføre registreringen
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = En konto ble opprettet med denne e-postadressen fra:
 # Email From Name for Shared
