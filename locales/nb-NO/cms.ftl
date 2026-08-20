@@ -72,7 +72,7 @@ fxa-description-e7d92b5e = Logg inn på Mozilla-kontoen din, eller opprett en.
 # Headline for Email First Page
 fxa-headline-d54122be = Logg inn for å bruke «Smart vindu»
 # Page Title for Email First Page
-fxa-pageTitle-9ef4f0dd = Smartvindu | Mozilla-konto
+fxa-pageTitle-9ef4f0dd = Smart vindu | Mozilla-konto
 # Description for New Device Login Email
 fxa-description-763ec700 = Du kan nå bruke «Smart vindu» i Firefox.
 # Subject for New Device Login Email
@@ -97,6 +97,8 @@ fxa-emailLogoWidth-ca27b150 = 120px
 fxa-description-d9154126 = Fortsett med Mozilla-kontoen din for å bruke «Smart vindu».
 # Headline for Signin Cached Page
 fxa-headline-52e7ed4b = Klar for «Smart vindu»?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Smartvindu | Mozilla-kontoer
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Ett steg til for å logge inn.
 # Primary Button Text for Signin Passwordless Code Page
