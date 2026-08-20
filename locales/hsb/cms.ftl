@@ -97,10 +97,18 @@ fxa-emailLogoWidth-ca27b150 = 120px
 fxa-description-d9154126 = Pokročujće ze swojim kontom Mozilla, zo byšće inteligentne wokno wužiwał.
 # Headline for Signin Cached Page
 fxa-headline-52e7ed4b = Hotowy za inteligentne wokno?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Inteligentne wokno | Konta Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Hišće jedyn krok k přizjewjenju.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Inteligentne wokno wočinić
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Hišće jedyn krok k załoženju wašeho konta a k přizjewjenju.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Waš wobkrućenski kod
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Wobkrućće swoje konto, zo byšće inteligentne wokno w Firefox wužiwał
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
