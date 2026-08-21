@@ -106,7 +106,7 @@ fxa-primaryButtonText-a35fe0c1 = Άνοιγμα έξυπνου παραθύρο�
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Απομένει ένα ακόμα βήμα για τη δημιουργία του λογαριασμού σας και τη σύνδεση.
 # Subject for Verify Login Code Email
-fxa-subject-058e122d = Ο κωδικός επιβεβαίωσης
+fxa-subject-058e122d = Ο κωδικός επιβεβαίωσής σας
 # Headline for Verify Short Code Email
 fxa-headline-72079cba = Επιβεβαιώστε τον λογαριασμό σας για χρήση του Smart Window στο Firefox
 
