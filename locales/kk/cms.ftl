@@ -67,6 +67,12 @@ fxa-subject-ef1fb997 = Тіркелгіңізді растаңыз
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Mozilla тіркелгіңізге кіріңіз немесе жаңасын жасаңыз.
+# Headline for Email First Page
+fxa-headline-d54122be = Ақылды терезені пайдалану үшін кіріңіз
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Ақылды терезе | Mozilla тіркелгісі
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Mozilla тіркелгіңізге жаңа кіру
 # Description for Passwordless Signin Otp Email
