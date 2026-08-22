@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Befêstigje jo account
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Meld jo oan by jo Mozilla-account of meitsje ien oan.
+# Headline for Email First Page
+fxa-headline-d54122be = Meld jo oan om Tûk Finster te brûken
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Tûk Finster | Mozilla-account
+# Description for New Device Login Email
+fxa-description-763ec700 = Jo kinne no Tûk Finster yn Firefox brûke.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nije oanmelding by jo Mozilla-account
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Dit e-mailadres is brûkt om oan te melden fanôf:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Foltôgje jo oanmelding om Tûk Finster te brûken
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Brûk dizze koade om jo oanmelding te foltôgjen
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Der is mei dit e-mailadres in account oanmakke fanôf:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Foltôgje jo oanmelding om Tûk Finster te brûken yn Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Gean troch mei jo Mozilla-account om Tûk Finster te brûken.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Klear foar Tûk Finster?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Tûk Finster | Mozilla accounts
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Noch ien stap om jo oan te melden.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Tûk Finster iepenje
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Noch ien stap om jo account oan te meitsjen en oan te melden.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Jo befêstigingskoade
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Befêstigje jo account om Tûk Finster te brûken yn Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
