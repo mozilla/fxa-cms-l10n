@@ -73,22 +73,42 @@ fxa-description-e7d92b5e = Mozilla тіркелгіңізге кіріңіз н�
 fxa-headline-d54122be = Ақылды терезені пайдалану үшін кіріңіз
 # Page Title for Email First Page
 fxa-pageTitle-9ef4f0dd = Ақылды терезе | Mozilla тіркелгісі
+# Description for New Device Login Email
+fxa-description-763ec700 = Сіз енді Firefox-та Ақылды терезені пайдалана аласыз.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Mozilla тіркелгіңізге жаңа кіру
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Бұл электрондық пошта келесі адрестен кіру үшін пайдаланылды:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Ақылды терезені пайдалану үшін жүйеге кіруді аяқтаңыз
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Тіркелуді аяқтау үшін осы кодты пайдаланыңыз
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Тіркелгі келесі адрестен электрондық пошта адресін пайдаланып жасалды:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Ақылды терезені пайдалану үшін жүйеге тіркелуді аяқтаңыз
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Ақылды терезені пайдалану үшін Mozilla тіркелгіңізбен жалғастырыңыз.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Ақылды терезеге дайынсыз ба?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Ақылды терезе | Mozilla тіркелгілері
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Жүйеге кіру үшін тағы бір қадам қалды.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Ақылды терезені ашу
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Тіркелгіңізді жасау және кіру үшін тағы бір қадам қалды.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Сіздің растау кодыңыз
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Firefox-та Ақылды терезені пайдалану үшін тіркелгіңізді растаңыз
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
