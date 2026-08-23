@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Vahvista tilisi
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Kirjaudu Mozilla-tilillesi tai luo tili.
+# Headline for Email First Page
+fxa-headline-d54122be = Kirjaudu sisään käyttääksesi Firefoxin älykkäitä ikkunoita
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Älykäs ikkuna | Mozilla-tili
+# Description for New Device Login Email
+fxa-description-763ec700 = Voit nyt käyttää älykkäitä ikkunoita Firefoxissa.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Uusi kirjautuminen Mozilla-tilillesi
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Tätä sähköpostiosoitetta käytettiin kirjautumiseen:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Viimeistele kirjautuminen käyttääksesi älykkäitä ikkunoita
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Käytä tätä koodia rekisteröitymisen viimeistelyyn
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Tili luotiin tällä sähköpostiosoitteella:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Viimeistele rekisteröitymisesi käyttääksesi Firefoxin älykkäitä ikkunoita
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Jatka Mozilla-tililläsi käyttääksesi Firefoxin älykkäitä ikkunoita
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Oletko valmis käyttämään älykkäitä ikkunoita?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Älykäs ikkuna | Mozilla-tilit
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Vielä yksi vaihe sisäänkirjautumiseen.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Avaa älykäs ikkuna
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Vielä yksi vaihe tilin luomiseksi ja sisäänkirjautumiseksi.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Vahvistuskoodi
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Vahvista tilisi käyttääksesi Firefoxin älykkäitä ikkunoita
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
