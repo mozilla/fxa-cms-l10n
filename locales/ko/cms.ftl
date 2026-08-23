@@ -86,7 +86,7 @@ fxa-subject-ee265427 = 이 코드를 사용하여 가입 완료
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = 계정이 이 이메일 주소를 이용해서 만들어 졌습니다:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-574e7a6e = Firefox에서 Smart Window 사용을 위한 가입 완료
+fxa-headline-574e7a6e = Smart Window를 사용하려면 Firefox에서 가입을 완료하세요.
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
