@@ -68,7 +68,7 @@ fxa-subject-ef1fb997 = Potvrzení účtu
 ## l10n-11 - Firefox Desktop - Smart Window
 
 # Description for Email First Page
-fxa-description-e7d92b5e = Přihlaste se do svého účtu Mozilla nebo si nový vytvořte.
+fxa-description-e7d92b5e = Přihlaste se do svého účtu Mozilla nebo si vytvořte nový.
 # Headline for Email First Page
 fxa-headline-d54122be = Pro používání funkce Chytré okno se přihlaste
 # Page Title for Email First Page
@@ -96,13 +96,13 @@ fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
 fxa-description-d9154126 = Chcete-li používat Chytré okno, pokračujte se svým účtem Mozilla.
 # Headline for Signin Cached Page
-fxa-headline-52e7ed4b = Jste připraveni na Chytrá okna?
+fxa-headline-52e7ed4b = Jste připraveni na funkci Chytré okno?
 # Page Title for Signin Cached Page
 fxa-pageTitle-2351bc23 = Chytré okno | Účty Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Ještě jeden krok k přihlášení.
 # Primary Button Text for Signin Passwordless Code Page
-fxa-primaryButtonText-a35fe0c1 = Otevřít chytré okno
+fxa-primaryButtonText-a35fe0c1 = Otevřít Chytré okno
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Ještě jeden krok k vytvoření účtu a přihlášení.
 # Subject for Verify Login Code Email
