@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Xác minh tài khoản của bạn
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Đăng nhập vào tài khoản Mozilla của bạn hoặc tạo một tài khoản mới.
+# Headline for Email First Page
+fxa-headline-d54122be = Đăng nhập để sử dụng Cửa sổ thông minh
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Cửa sổ thông minh | Tài khoản Mozilla
+# Description for New Device Login Email
+fxa-description-763ec700 = Giờ đây bạn đã có thể sử dụng Cửa sổ thông minh trong Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Đăng nhập mới vào tài khoản Mozilla của bạn
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Địa chỉ email này đã được sử dụng để đăng nhập:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Hoàn tất đăng nhập để sử dụng Cửa sổ thông minh
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Sử dụng mã này để hoàn tất đăng ký
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Một tài khoản đã được tạo bằng địa chỉ email này từ:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Hoàn tất đăng ký để sử dụng Cửa sổ thông minh trong Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Tiếp tục với tài khoản Mozilla của bạn để sử dụng Cửa sổ thông minh.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Sẵn sàng cho Cửa sổ thông minh?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Cửa sổ thông minh | Tài khoản Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Chỉ còn một bước nữa để đăng nhập.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Mở Cửa số thông minh
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Chỉ còn một bước nữa để tạo tài khoản và đăng nhập.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Mã xác minh của bạn
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Xác nhận tài khoản của bạn để sử dụng Cửa sổ thông minh trong Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
