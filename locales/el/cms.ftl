@@ -68,13 +68,13 @@ fxa-subject-ef1fb997 = Επιβεβαίωση του λογαριασμού σα
 ## l10n-11 - Firefox Desktop - Smart Window
 
 # Description for Email First Page
-fxa-description-e7d92b5e = Συνδεθείτε στον λογαριασμό Mozilla σας ή δημιουργήστε έναν.
+fxa-description-e7d92b5e = Συνδεθείτε στον λογαριασμό Mozilla σας ή δημιουργήστε έναν νέο.
 # Headline for Email First Page
 fxa-headline-d54122be = Συνδεθείτε για να χρησιμοποιήσετε το έξυπνο παράθυρο
 # Page Title for Email First Page
 fxa-pageTitle-9ef4f0dd = Έξυπνο παράθυρο | Λογαριασμός Mozilla
 # Description for New Device Login Email
-fxa-description-763ec700 = Μπορείτε πλέον να χρησιμοποιήσετε το Smart Window στο Firefox.
+fxa-description-763ec700 = Μπορείτε πλέον να χρησιμοποιήσετε το έξυπνο παράθυρο στο Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Νέα σύνδεση στον λογαριασμό Mozilla σας
 # Description for Passwordless Signin Otp Email
@@ -86,7 +86,7 @@ fxa-subject-ee265427 = Χρησιμοποιήστε αυτόν τον κωδικ
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Δημιουργήθηκε ένας λογαριασμός με αυτήν τη διεύθυνση email από:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-574e7a6e = Ολοκληρώστε την εγγραφή σας για χρήση του Smart Window στο Firefox
+fxa-headline-574e7a6e = Ολοκληρώστε την εγγραφή σας για χρήση του έξυπνου παραθύρου στο Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -94,9 +94,9 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
-fxa-description-d9154126 = Συνεχίστε με τον λογαριασμό Mozilla σας για να χρησιμοποιήσετε τα Smart Window.
+fxa-description-d9154126 = Συνεχίστε με τον λογαριασμό Mozilla σας για χρήση του έξυπνου παραθύρου.
 # Headline for Signin Cached Page
-fxa-headline-52e7ed4b = Έτοιμοι για το Smart Window;
+fxa-headline-52e7ed4b = Έτοιμοι για το έξυπνο παράθυρο;
 # Page Title for Signin Cached Page
 fxa-pageTitle-2351bc23 = Έξυπνο παράθυρο | Λογαριασμοί Mozilla
 # Description for Signin Passwordless Code Page
@@ -108,7 +108,7 @@ fxa-description-02723363 = Απομένει ένα ακόμα βήμα για τ
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = Ο κωδικός επιβεβαίωσής σας
 # Headline for Verify Short Code Email
-fxa-headline-72079cba = Επιβεβαιώστε τον λογαριασμό σας για χρήση του Smart Window στο Firefox
+fxa-headline-72079cba = Επιβεβαιώστε τον λογαριασμό σας για χρήση του έξυπνου παραθύρου στο Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
