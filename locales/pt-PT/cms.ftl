@@ -269,7 +269,7 @@ fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
 # Description for Signin Cached Page
-fxa-description-1745f244 = Continue com a sua conta Mozilla para desbloquear funcionalidades da VPN, tal como ocultar a sua localização.
+fxa-description-1745f244 = Continue com a sua conta Mozilla para desbloquear funcionalidades da VPN, tais como esconder a sua localização.
 # Headline for Signin Passwordless Code Page
 fxa-headline-21296b0d = Ative a sua VPN integrada com uma conta Mozilla
 # Page Title for Signup Confirm Code Page
@@ -290,27 +290,27 @@ fxa-description-1d4ba9f5 = Introduza a palavra-passe para continuar com a sua co
 # Description for Signin Token Code Page
 fxa-description-87881780 = Insira o código de confirmação para a sua conta Mozilla
 # Description for Signup Confirm Code Page
-fxa-description-daaed757 = Apenas um passo rápido. Insira o código do seu email para ativar a sua conta Mozilla.
+fxa-description-daaed757 = Apenas um passo rápido. Insira o código que recebeu no seu email para ativar a sua conta Mozilla.
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Criar conta ou iniciar sessão
 # Description for Verify Short Code Email
 fxa-description-ef1fb997 = Confirmar a sua conta
 # Headline for Verify Short Code Email
-fxa-headline-f8578b7c = Utilize o código incluído para confirmar a sua conta Mozilla.
+fxa-headline-f8578b7c = Use o código incluído para confirmar a sua conta Mozilla.
 # Subject for Verify Short Code Email
-fxa-subject-f3d09e03 = Confirmar a sua conta para utilizar o navegador Firefox
+fxa-subject-f3d09e03 = Confirmar a sua conta para usar o navegador Firefox
 
 ## l10n-20 - VPN (Panel)
 
 # Headline for Verify Short Code Email
-fxa-headline-9627bd4a = Confirme a sua conta para utilizar a VPN integrada do Firefox
+fxa-headline-9627bd4a = Confirmar a sua conta para utilizar a VPN integrada do Firefox
 # Subject for Verify Short Code Email
-fxa-subject-9627bd4a = Confirme a sua conta para utilizar a VPN integrada do Firefox
+fxa-subject-9627bd4a = Confirmar a sua conta para utilizar a VPN integrada do Firefox
 
 ## l10n-22 - Firefox Desktop - Password Manager
 
 # Description for Email First Page
-fxa-description-78fd76ac = Utilize a sua conta Mozilla para sincronizar em segurança com outro dispositivo.
+fxa-description-78fd76ac = Use a sua conta Mozilla para sincronizar em segurança com outro dispositivo.
 # Headline for Email First Page
 fxa-headline-0ec7d798 = Obtenha palavras-passe guardadas em qualquer lugar
 # Logo Alt Text for Shared
@@ -327,7 +327,7 @@ fxa-description-4766f222 = É necessário uma Conta Mozilla para utilizar o Mozi
 # Headline for Email First Page
 fxa-headline-de41db80 = Registar ou iniciar sessão na sua Conta Mozilla
 # Description for New Device Login Email
-fxa-description-4e3d5811 = Houve um novo início de sessão no Mozilla Monitor. Se não é o autor, por favor, altere a sua palavra-passe.
+fxa-description-4e3d5811 = Houve um novo início de sessão no Mozilla Monitor. Se não foi você por favor altere a sua palavra-passe.
 # Headline for New Device Login Email
 fxa-headline-207efcd9 = Novo início de sessão no Mozilla Monitor
 # Subject for New Device Login Email
@@ -347,11 +347,11 @@ fxa-headline-74db8403 = Sincronização confirmada
 # Headline for Signup Set Password Page
 fxa-headline-47e5e3c7 = Crie uma palavra-passe para iniciar uma verificação
 # Headline for Verify Login Code Email
-fxa-headline-461a0bbf = Confirmar a sua conta para utilizar o Mozilla Monitor
+fxa-headline-461a0bbf = Confirmar a sua conta para usar o Mozilla Monitor
 # Subject for Verify Login Code Email
-fxa-subject-461a0bbf = Confirmar a sua conta para utilizar o Mozilla Monitor
+fxa-subject-461a0bbf = Confirmar a sua conta para usar o Mozilla Monitor
 # Headline for Verify Short Code Email
-fxa-headline-74461a97 = Confirmar a sua conta para utilizar o Mozilla Monitor.
+fxa-headline-74461a97 = Confirmar a sua conta para usar o Mozilla Monitor.
 
 ## l10n-7 - Firefox Desktop Sync - VPN Promo
 
