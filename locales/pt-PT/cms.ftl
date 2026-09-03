@@ -174,7 +174,7 @@ fxa-description-637f76bf = Crie a sua conta ou inicie sessão se tiver uma.
 # Headline for Email First Page
 fxa-headline-6d656fc9 = Experimente a Firefox VPN com uma conta da Mozilla
 # Description for New Device Login Email
-fxa-description-e59dc09c = Houve um novo início de sessão na sua conta Mozilla. Se não é o autor, por favor, altere a sua palavra-passe.
+fxa-description-e59dc09c = Houve um novo início de sessão na sua conta Mozilla. Se não foi você por favor altere a sua palavra-passe.
 # Headline for New Device Login Email
 fxa-headline-a0a749e1 = Novo início de sessão no Firefox
 # Page Title for Shared
@@ -184,11 +184,11 @@ fxa-description-427b83de = Inicie sessão na sua conta Mozilla.
 # Description for Signup Confirmed Sync Page
 fxa-description-68ca3526 = A sincronização está ativada e está pronto para a Firefox VPN. Vá à barra de ferramentas para a ativar.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-9628f0ec = Próximo: Ligar o Firefox VPN
+fxa-headline-9628f0ec = Seguinte: Ligar o Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Definir a sua palavra-passe
 # Description for Verify Short Code Email
-fxa-description-f8578b7c = Utilize o código incluído para confirmar a sua conta Mozilla.
+fxa-description-f8578b7c = Use o código incluído para confirmar a sua conta Mozilla.
 # Headline for Verify Short Code Email
 fxa-headline-ef1fb997 = Confirmar a sua conta
 # Subject for Verify Short Code Email
@@ -218,17 +218,17 @@ fxa-description-e8991369 = Confirme a sua conta e partilhe de forma instantânea
 ## l10n-18 - Firefox Desktop - Relay Integration
 
 # Description for Email First Page
-fxa-description-607e9f0f = Os e-mails enviados para as suas máscaras serão encaminhados para este endereço.
+fxa-description-607e9f0f = Os emails enviados para as suas máscaras serão encaminhados para este endereço.
 # Headline for Email First Page
 fxa-headline-30fd7c55 = Registe-se ou inicie sessão para proteger a sua caixa de entrada do spam
 # Logo Alt Text for Email First Page
-fxa-logoAltText-8d308a03 = máscara de e-mail
+fxa-logoAltText-8d308a03 = máscara de email
 # Page Title for Email First Page
 fxa-pageTitle-8e453cea = Proteja a sua caixa de entrada do spam | Contas Mozilla
 # Headline for New Device Login Email
 fxa-headline-db70c503 = A sua conta foi utilizada para iniciar sessão
 # Additional Accessibility Info for Shared
-fxa-additionalAccessibilityInfo-5deba5d1 = O Firefox irá tentar enviar-lhe de volta para utilizar uma máscara de e-mail após iniciar sessão.
+fxa-additionalAccessibilityInfo-5deba5d1 = O Firefox irá tentar enviá-lo de volta para utilizar uma máscara de email após iniciar sessão.
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
@@ -236,7 +236,7 @@ fxa-headline-7631d75e = Iniciar sessão para proteger a sua caixa de entrada de 
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Subscrever para proteger a sua caixa de entrada do spam
 # Description for Signup Set Password Page
-fxa-description-e45e7923 = Isto cria a sua conta Mozilla para que possa utilizar e gerir máscaras de correio eletrónico.
+fxa-description-e45e7923 = Isto cria a sua conta Mozilla para que possa utilizar e gerir máscaras de email.
 # Page Title for Signup Set Password Page
 fxa-pageTitle-64718864 = Crie uma palavra-passe para proteger a sua caixa de entrada de spam
 # Description for Verify Login Code Email
@@ -244,14 +244,14 @@ fxa-description-1048eab0 = Mantenha a sua conta segura aprovando o seu início d
 # Description for Verify Short Code Email
 fxa-description-e5134d5c = Utilize o código de confirmação abaixo para concluir a configuração da sua conta.
 # Headline for Verify Short Code Email
-fxa-headline-2322b41f = Confirmar a sua conta para utilizar máscaras de e-mail
+fxa-headline-2322b41f = Confirmar a sua conta para usar máscaras de email
 # Subject for Verify Short Code Email
-fxa-subject-2322b41f = Confirmar a sua conta para utilizar máscaras de e-mail
+fxa-subject-2322b41f = Confirmar a sua conta para usar máscaras de email
 
 ## l10n-19 - VPN (Settings)
 
 # Description for Email First Page
-fxa-description-0b19b103 = Utilize a sua conta Mozilla para desbloquear funcionalidades da VPN, como ocultar a sua localização.
+fxa-description-0b19b103 = Use a sua conta Mozilla para desbloquear funcionalidades da VPN, tais como esconder a sua localização.
 # Headline for Email First Page
 fxa-headline-785c79ef = Ative a VPN integrada do Firefox para privacidade e proteção adicionais
 # Description for New Device Login Email
@@ -259,11 +259,11 @@ fxa-description-6c54afca = Está quase pronto para melhorar a privacidade do seu
 # Headline for Passwordless Signin Otp Email
 fxa-headline-08ad7263 = Conclua o seu início de sessão para utilizar a VPN integrada no Firefox
 # Subject for Passwordless Signin Otp Email
-fxa-subject-8e6d45cf = Utilize este código para concluir a sessão
+fxa-subject-8e6d45cf = Use este código para concluir o início de sessão
 # Headline for Passwordless Signup Otp Email
 fxa-headline-204eeb82 = Conclua o seu registo para utilizar a VPN integrada no Firefox
 # Subject for Passwordless Signup Otp Email
-fxa-subject-de67b643 = Utilize este código para concluir a subscrição
+fxa-subject-de67b643 = Use este código para concluir o registo
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
@@ -372,4 +372,4 @@ fxa-logoAltText-164ffc49 = sincronização fox
 ## legal-notice-label-subs-services - CMS Entry
 
 # Label for Terms
-fxa-label-14c5faa0 = Serviços de subscrição da Mozilla
+fxa-label-14c5faa0 = Serviços de Subscrição da Mozilla
