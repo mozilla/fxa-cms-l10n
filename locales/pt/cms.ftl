@@ -129,13 +129,13 @@ fxa-emailLogoAltText-96e4284e = Logótipo do Firefox
 # Description for Signin Page
 fxa-description-5649263e = Iniciar sessão para criar uma cópia de segurança deste dispositivo.
 # Description for Signup Set Password Page
-fxa-description-3db4ef62 = Faça uma cópia de segurança dos seus dados do Firefox com uma palavra-passe.
+fxa-description-3db4ef62 = Faça uma cópia de segurança dos seus dados do Firefox de forma segura, com uma palavra-passe.
 # Headline for Signup Set Password Page
 fxa-headline-0dffe504 = Crie uma palavra-passe para proteger os seus dados
 # Description for Verify Short Code Email
-fxa-description-bb7998da = Confirme a sua conta e sincronize as suas palavras-passe em todos os lugares em que estiver autenticado no Firefox, a começar com:
+fxa-description-bb7998da = Confirme a sua conta e sincronize as suas palavras-passe em todos os lugares onde tenha sessão iniciada no Firefox, a começar com:
 # Headline for Verify Short Code Email
-fxa-headline-8e3fb023 = Ajude-nos a confirmar que é você que está a iniciar sessão.
+fxa-headline-8e3fb023 = Ajude-nos a ter a certeza que é você que está a iniciar sessão.
 # Subject for Verify Short Code Email
 fxa-subject-c9fd4b52 = Confirme a sua conta Mozilla a sincronizar
 
