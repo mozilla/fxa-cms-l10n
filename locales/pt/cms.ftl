@@ -23,7 +23,7 @@ fxa-logoAltText-96e4284e = Logótipo do Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configurar a sincronização do Firefox
 # Description for Signin Cached Page
-fxa-description-406f5ceb = Mantenha as suas palavras-passe, marcadores e muito mais sincronizados.
+fxa-description-406f5ceb = Mantenha as suas palavras-passe, marcadores e mais em sincronia.
 # Headline for Signin Cached Page
 fxa-headline-3e321300 = Continuar para sincronizar
 # Description for Signin Page
@@ -70,23 +70,23 @@ fxa-subject-ef1fb997 = Confirmar a sua conta
 # Description for Email First Page
 fxa-description-e7d92b5e = Inicie sessão na sua conta Mozilla ou crie uma.
 # Headline for Email First Page
-fxa-headline-d54122be = Iniciar sessão para utilizar o Smart Window
+fxa-headline-d54122be = Iniciar sessão para utilizar a Janela Smart
 # Page Title for Email First Page
-fxa-pageTitle-9ef4f0dd = Janela inteligente | Conta Mozilla
+fxa-pageTitle-9ef4f0dd = Janela Smart | Conta Mozilla
 # Description for New Device Login Email
-fxa-description-763ec700 = Agora pode utilizar a Smart Window no Firefox.
+fxa-description-763ec700 = Agora pode utilizar a Janela Smart no Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Novo início de sessão na sua conta Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Este email foi utilizado para iniciar sessão de:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-943c9f95 = Conclua o seu início de sessão para utilizar o Smart Window
+fxa-headline-943c9f95 = Conclua o seu início de sessão para utilizar a Janela Smart
 # Subject for Passwordless Signin Otp Email
 fxa-subject-ee265427 = Utilizar este código para concluir o registo
 # Description for Passwordless Signup Otp Email
-fxa-description-ea6cd8f8 = Foi criada uma conta com este endereço de email de:
+fxa-description-ea6cd8f8 = Foi criada uma conta usando este endereço de email a partir de:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-574e7a6e = Conclua o seu registo para utilizar o Smart Window no Firefox
+fxa-headline-574e7a6e = Conclua o seu registo para utilizar a Janela Smart no Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -94,21 +94,21 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
-fxa-description-d9154126 = Continue com a sua conta Mozilla a utilizar o Smart Window.
+fxa-description-d9154126 = Continue com a sua conta Mozilla para usar a Janela Smart.
 # Headline for Signin Cached Page
-fxa-headline-52e7ed4b = Pronto para a Janela Inteligente?
+fxa-headline-52e7ed4b = Pronto para a Janela Smart?
 # Page Title for Signin Cached Page
-fxa-pageTitle-2351bc23 = Janela inteligente | Contas Mozilla
+fxa-pageTitle-2351bc23 = Janela Smart | Contas Mozilla
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Mais um passo para iniciar sessão.
 # Primary Button Text for Signin Passwordless Code Page
-fxa-primaryButtonText-a35fe0c1 = Abrir Janela Inteligente
+fxa-primaryButtonText-a35fe0c1 = Abrir Janela Smart
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Mais um passo para criar a sua conta e iniciar sessão.
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = O seu código de confirmação
 # Headline for Verify Short Code Email
-fxa-headline-72079cba = Confirme a sua conta para utilizar o Smart Window no Firefox
+fxa-headline-72079cba = Confirme a sua conta para usar a Janela Smart no Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
@@ -117,11 +117,11 @@ fxa-description-0d2e3341 = Faça uma cópia das suas palavras-passe, marcadores 
 # Headline for Email First Page
 fxa-headline-cdd2faf6 = Fazer cópia de segurança com uma conta Mozilla
 # Logo Alt Text for Email First Page
-fxa-logoAltText-b9228cb5 = cópia de segurança do fox
+fxa-logoAltText-b9228cb5 = cópia de segurança fox
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-be11c74c = Começar
 # Headline for New Device Login Email
-fxa-headline-d0511570 = A sua conta Mozilla foi utilizada para iniciar sessão.
+fxa-headline-d0511570 = A sua conta Mozilla foi usada para iniciar sessão.
 # Email From Name for Shared
 fxa-emailFromName-c70af508 = Mozilla Firefox
 # Email Logo Alt Text for Shared
