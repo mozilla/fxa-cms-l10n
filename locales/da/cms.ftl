@@ -67,22 +67,48 @@ fxa-subject-ef1fb997 = Bekræft din konto
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Log ind på din Mozilla-konto, eller opret en.
+# Headline for Email First Page
+fxa-headline-d54122be = Log ind for at bruge Smart Window
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Smart Window | Mozilla-konto
+# Description for New Device Login Email
+fxa-description-763ec700 = Du kan nu bruge Smart Window i Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nyt login på din Mozilla-konto.
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Denne mailadresse blev brugt til at logge ind fra:
+# Headline for Passwordless Signin Otp Email
+fxa-headline-943c9f95 = Færdiggør dit login for at bruge Smart Window
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Brug denne kode til at afslutte tilmelding
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = En konto blev oprettet med denne mailadresse fra:
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Færdiggør din tilmelding for at bruge Smart Window i Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Description for Signin Cached Page
+fxa-description-d9154126 = Fortsæt med din Mozilla-konto for at bruge Smart Window.
+# Headline for Signin Cached Page
+fxa-headline-52e7ed4b = Klar til Smart Window?
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Smart Window | Mozilla-konti
 # Description for Signin Passwordless Code Page
 fxa-description-ebf33c34 = Et trin mere for at logge ind.
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Åbn Smart Window
 # Description for Signup Passwordless Code Page
 fxa-description-02723363 = Endnu et trin for at oprette din konto og logge ind.
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Din bekræftelseskode
+# Headline for Verify Short Code Email
+fxa-headline-72079cba = Bekræft din konto for at bruge Smart Window i Firefox
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
