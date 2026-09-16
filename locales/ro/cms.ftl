@@ -17,7 +17,7 @@ fxa-headline-7315250e = Contul tău Mozilla a fost folosit pentru autentificare
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = Autentificare nouă în Firefox
 # Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
+fxa-headlineFontSize-075a3e36 = mediu
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Logo Firefox
 # Page Title for Shared
