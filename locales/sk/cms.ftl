@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Potvrďte svoj účet, aby ste mohli používať prehliad
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Prihláste sa alebo si vytvorte účet a získajte prístup k funkciám VPN, napríklad k skrytiu svojej polohy.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Potvrďte svoj účet, aby ste mohli používať VPN vstavanú vo Firefoxe
 # Subject for Verify Short Code Email
