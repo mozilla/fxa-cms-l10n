@@ -1,4 +1,3 @@
-### Generated on 2026-08-19T21:00:00.435Z
 ### FTL file for CMS localization
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
@@ -290,6 +289,8 @@ fxa-headline-f8578b7c = Use the included code to confirm your Mozilla account.
 fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
 
 ## l10n-20 - VPN (Panel)
+# Description for Email First Page
+fxa-description-61213e9e = Sign in or create an account to unlock VPN features like hiding your location.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
 # Subject for Verify Short Code Email
