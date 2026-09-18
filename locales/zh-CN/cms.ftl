@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = 确认您的账户以使用 Firefox 浏览器
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = 登录或创建账户以解锁 VPN 功能如隐藏您的位置。
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = 确认您的账户，以使用 Firefox 的内置 VPN
 # Subject for Verify Short Code Email

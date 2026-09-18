@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Επιβεβαιώστε τον λογαριασμό σα
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Συνδεθείτε ή δημιουργήστε έναν λογαριασμό για να ξεκλειδώσετε λειτουργίες του VPN, όπως η απόκρυψη της τοποθεσίας σας.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Επιβεβαιώστε τον λογαριασμό σας για χρήση του ενσωματωμένου VPN του Firefox
 # Subject for Verify Short Code Email

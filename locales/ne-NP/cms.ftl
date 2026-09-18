@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Firefox ब्राउजर चलाउन आफ्�
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = आफ्नो स्थान लुकाउने जस्ता VPN सुविधाहरू अनलक गर्न साइन इन गर्नुहोस् वा खाता सिर्जना गर्नुहोस्।
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox को बिल्ट-इन VPN प्रयोग गर्न आफ्नो खाता पुष्टि गर्नुहोस्
 # Subject for Verify Short Code Email

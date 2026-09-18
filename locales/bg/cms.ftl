@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Потвърдете профила си, за да из�
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Влезте или създайте профил, за да отключите VPN функции, като скриване на местоположение.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Потвърдете профила си, за да използвате вградения във Firefox VPN
 # Subject for Verify Short Code Email

@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = 確認您的帳號即可使用 Firefox 瀏覽器
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = 登入或註冊帳號即可解鎖隱藏您的所在位置等 VPN 功能。
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = 請確認您的帳號以使用 Firefox 內建的 VPN
 # Subject for Verify Short Code Email

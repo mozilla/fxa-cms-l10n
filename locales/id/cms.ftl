@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Konfirmasikan akun Anda untuk menggunakan Peramban Firefo
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Masuk atau buat akun untuk membuka fitur VPN seperti menyembunyikan lokasi Anda.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Konfirmasikan akun Anda untuk menggunakan VPN bawaan Firefox
 # Subject for Verify Short Code Email

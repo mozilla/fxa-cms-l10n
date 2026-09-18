@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Firefox 브라우저를 사용하기 위해 계정을 확
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = 위치 숨기기와 같은 VPN 기능을 사용하려면 로그인하거나 계정을 만드세요.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox에 내장된 VPN을 사용하려면 계정을 확인하세요
 # Subject for Verify Short Code Email

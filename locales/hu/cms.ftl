@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Erősítse meg fiókját a Firefox böngésző használat
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Jelentkezzen be vagy hozzon létre egy fiókot a VPN-funkciók feloldásához, mint a tartózkodási helyének elrejtéséhez.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Erősítse meg, hogy a fiókja a Firefox beépített VPN-jét használja
 # Subject for Verify Short Code Email

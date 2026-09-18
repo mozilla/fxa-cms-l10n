@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Confirme sua conta para usar o navegador Firefox
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Entre ou crie uma conta para desbloquear recursos da VPN, como ocultar sua localização.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirme sua conta para usar a VPN integrada no Firefox
 # Subject for Verify Short Code Email
