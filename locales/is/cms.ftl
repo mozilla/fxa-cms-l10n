@@ -4,6 +4,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Skráðu þig inn eða stofnaðu aðgang til að halda öllu samstilltu.
 # Headline for Email First Page
 fxa-headline-a4b1427f = Notaðu tölvupóstfangið þitt til að halda áfram
 # Primary Button Text for Email First Page
@@ -20,6 +22,10 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Firefox-táknmerki
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Setja upp Firefox-samstillingu
+# Description for Signin Cached Page
+fxa-description-406f5ceb = Haltu lykilorðum, bókamerkjum og fleiru samstilltu.
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Halda áfram að samstilla
 # Description for Signin Page
 fxa-description-aedac88d = Samstilltu lykilorð og fleira alls staðar þar sem þú ert skráir þig inn.
 # Headline for Signin Page
@@ -61,6 +67,12 @@ fxa-subject-ef1fb997 = Staðfestu reikninginn þinn
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Skráðu þig inn á Mozilla reikninginn þinn eða stofnaðu einn slíkann.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Ný innskráning á Mozilla-reikninginn þinn
+# Description for Passwordless Signin Otp Email
+fxa-description-8c69b083 = Þetta netfang var notað til innskráningar frá:
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
@@ -152,6 +164,14 @@ fxa-subject-10e5b452 = Staðfestu reikninginn þinn til að skrá þig inn í Fi
 fxa-pageTitle-001bb150 = Mozilla-reikningur
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Headline for Signin Cached Page
+fxa-headline-2242b561 = Haldtu áfram til að senda síðu
+# Headline for Signin Page
+fxa-headline-135116fc = Settu inn lykilorð til að senda síðu
+# Headline for Signup Set Password Page
+fxa-headline-370f47b3 = Búðu til lykilorð til að senda síðu
+# Description for Verify Short Code Email
+fxa-description-e8991369 = Staðfestu aðganginn þinn og deildu síðum samstundis milli tækja hvar sem þú skráir þig inn.
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -171,6 +191,10 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 fxa-headline-7631d75e = Skráðu þig inn til að vernda pósthólfið þitt gegn ruslpósti
 # Page Title for Signup Confirm Code Page
 fxa-pageTitle-d38aa094 = Nýskráðu þig til að vernda pósthólfið þitt gegn ruslpósti
+# Page Title for Signup Set Password Page
+fxa-pageTitle-64718864 = Búðu til lykilorð til að vernda pósthólfið þitt gegn ruslpósti
+# Headline for Verify Short Code Email
+fxa-headline-2322b41f = Staðfestu aðganginn þinn til að nota tölvupósthulur
 # Subject for Verify Short Code Email
 fxa-subject-2322b41f = Staðfestu aðganginn þinn til að nota tölvupósthulur
 
@@ -184,6 +208,8 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-pageTitle-a8211ca7 = Mozilla - Skráðu þig fyrir reikningi
 # Description for Verify Login Code Email
 fxa-description-6bc52850 = Hjálpaðu okkur að halda reikningnum þínum öruggum með því að staðfesta innskráninguna þína á:
+# Subject for Verify Login Code Email
+fxa-subject-72eba5e0 = Samþykkja innskráningu í Mozilla
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -203,6 +229,13 @@ fxa-description-ef1fb997 = Staðfestu reikninginn þinn
 fxa-headline-f8578b7c = Notaðu meðfylgjandi kóða til að staðfesta Mozilla-reikninginn þinn.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Staðfestu aðganginn þinn til að nota Firefox-vafrann
+
+## l10n-20 - VPN (Panel)
+
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Staðfestu aðganginn þinn til að nota innbyggða VPN-tengingu Firefox
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Staðfestu aðganginn þinn til að nota innbyggða VPN-tengingu Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
