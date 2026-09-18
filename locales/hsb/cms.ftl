@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Wobkrućće swoje konto, zo byšće wobhladowak Firefox w
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Přizjewće so abo załožće konto, zo byšće funkcije VPN kaž chowanje swojeho stejnišća zmóžnił.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Wobkrućće swoje konto, zo byšće zatwarjeny VPN Firefox wužiwał
 # Subject for Verify Short Code Email
