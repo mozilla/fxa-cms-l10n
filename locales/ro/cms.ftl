@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Confirmă-ți contul pentru a utiliza browserul Firefox
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Intră în cont sau fă-ți un cont ca să deblochezi funcționalități VPN, cum ar fi ascunderea locației.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirmă-ți contul pentru a utiliza VPN-ul încorporat în Firefox
 # Subject for Verify Short Code Email
