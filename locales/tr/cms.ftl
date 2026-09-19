@@ -302,7 +302,7 @@ fxa-subject-f3d09e03 = Firefox tarayıcısını kullanmak için hesabınızı on
 ## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
-fxa-description-61213e9e = Konumunuzu gizleme gibi VPN özelliklerinin kilidini açmak için giriş yapın veya hesap açın.
+fxa-description-61213e9e = Konumunuzu gizleme gibi VPN özelliklerini kullanmak için giriş yapın veya hesap açın.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Firefox’un yerleşik VPN’ini kullanmak için hesabınızı onaylayın
 # Subject for Verify Short Code Email
