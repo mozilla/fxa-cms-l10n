@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Stadfest kontoen din for å bruke Firefox-nettlesaren
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Logg inn eller lag ein konto for å låse opp VPN-funksjonar som å skjule plasseringa di.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Stadfest kontoen din for å bruke Firefox sitt innebygde VPN
 # Subject for Verify Short Code Email
