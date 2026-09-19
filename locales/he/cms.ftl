@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = אימות החשבון שלך לשימוש בדפדפן 
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = יש להתחבר או ליצור חשבון כדי לאפשר שימוש ביכולות של VPN כגון הסתרת המיקום שלך.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = אימות החשבון שלך לשימוש ב־VPN המובנה של Firefox
 # Subject for Verify Short Code Email
