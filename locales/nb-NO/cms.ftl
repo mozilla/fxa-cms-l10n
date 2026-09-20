@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Bekreft kontoen din for å bruke Firefox-nettleser
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Logg inn eller opprett en konto for å låse opp VPN-funksjoner som å skjule posisjonen din.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Bekreft kontoen din for å bruke Firefox sin innebygde VPN
 # Subject for Verify Short Code Email
