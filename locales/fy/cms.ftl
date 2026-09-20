@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Befêstigje jo account om Firefox-browser te brûken
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Meld jo oan of meitsje in account oan om VPN-funksjes te ûntskoatteljen, lykas it ferbergjen fan jo lokaasje.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Befêstigje jo account om de ynboude VPN fan Firefox te brûken
 # Subject for Verify Short Code Email
