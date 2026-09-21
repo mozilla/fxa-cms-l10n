@@ -302,7 +302,7 @@ fxa-subject-f3d09e03 = Confirmez votre compte pour utiliser le navigateur Firefo
 ## l10n-20 - VPN (Panel)
 
 # Description for Email First Page
-fxa-description-61213e9e = Connectez-vous ou créez un compte pour débloquer des fonctionnalités VPN comme masquer votre localisation.
+fxa-description-61213e9e = Connectez-vous ou créez un compte pour débloquer des fonctionnalités VPN, comme masquer votre localisation.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirmez votre compte pour utiliser le VPN intégré à Firefox
 # Subject for Verify Short Code Email
