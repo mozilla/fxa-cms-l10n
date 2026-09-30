@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Emoneĩ ne mba’ete eiporu hag̃ua Firefox kundahára
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Eike térã emoheñói mba’ete ejora hag̃ua VPN rembiporu ikatúva ne rendaite oñomi.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Emoneĩ ne mba’ete eiporu hag̃ua Firefox VPN jehe’apyre
 # Subject for Verify Short Code Email
