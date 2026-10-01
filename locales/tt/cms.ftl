@@ -11,12 +11,20 @@ fxa-subject-a0a749e1 = Firefox браузерына яңа керү
 fxa-headlineFontSize-075a3e36 = medium
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = Firefox логотибы
+# Headline for Signin Page
+fxa-headline-e8d28194 = Серсүзегезне кертегез
 # Primary Button Text for Signin Page
 fxa-primaryButtonText-b6d4223e = Керү
+# Headline for Signin Token Code Page
+fxa-headline-d076f12b = Раслау кодын кертү
 # Primary Button Text for Signin Token Code Page
 fxa-primaryButtonText-70d9be9b = Раслау
 # Headline for Signup Set Password Page
 fxa-headline-72786b8a = Серсүз булдыру
+# Primary Button Text for Signup Set Password Page
+fxa-primaryButtonText-42369faa = Хисап язмасы булдыру
+# Subject for Verify Short Code Email
+fxa-subject-ef1fb997 = Хисабыгызны раслагыз
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
@@ -49,9 +57,13 @@ fxa-emailFromName-502f1bd9 = Mozilla
 fxa-headline-a0a749e1 = Firefox-ка яңа керү
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Серсүз урнаштыру
+# Headline for Verify Short Code Email
+fxa-headline-ef1fb997 = Хисабыгызны раслагыз
 
 ## l10n-16 - Send Tab - Account Menu
 
+# Page Title for Email First Page
+fxa-pageTitle-001bb150 = Mozilla хисап язмасы
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
 
@@ -68,6 +80,8 @@ fxa-headerLogoAltText-763f7f1a = Firefox
 fxa-emailLogoAltText-502f1bd9 = Mozilla
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-502f1bd9 = Mozilla
+# Description for Verify Login Code Email
+fxa-description-6bc52850 = Керүегезне раслап, хисабыгызның куркынычсызлыгын сакларга ярдәм итегез:
 
 ## l10n-2 - (DONT EDIT - CI) Firefox Desktop
 
@@ -75,6 +89,13 @@ fxa-headerLogoAltText-502f1bd9 = Mozilla
 fxa-description-0a9e868b = Firefox-ка яңа керү
 # Headline for Signup Set Password Page
 fxa-headline-a20eb81e = Теркәлү яки керү
+# Description for Verify Short Code Email
+fxa-description-ef1fb997 = Хисабыгызны раслагыз
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
