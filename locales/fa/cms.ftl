@@ -158,6 +158,8 @@ fxa-headlineFontSize-c21f969b = پیش‌گزیده
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
+# Logo Alt Text for Email First Page
+fxa-logoAltText-8d308a03 = پنهان‌کننده رایانامه
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 
@@ -188,6 +190,11 @@ fxa-description-ef1fb997 = تأیید حساب کاربری خود
 fxa-headline-f8578b7c = برای تأیید حساب کاربری Mozilla خود، از این کد استفاده کنید.
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = برای استفاده از مرورگر Firefox حساب کاربری خود را تأیید کنید
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
