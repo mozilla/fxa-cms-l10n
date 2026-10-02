@@ -3,6 +3,10 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = برای همگام‌سازی همه چیز، وارد شوید یا یک حساب کاربری ایجاد کنید.
+# Headline for Email First Page
+fxa-headline-a4b1427f = برای ادامه از رایانامه خود استفاده کنید
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = ادامه
 # Description for New Device Login Email
@@ -12,11 +16,13 @@ fxa-headline-7315250e = از حساب کاربری Mozilla شما برای ور�
 # Subject for New Device Login Email
 fxa-subject-a0a749e1 = ورود جدید به Firefox
 # Headline Font Size for Shared
-fxa-headlineFontSize-075a3e36 = medium
+fxa-headlineFontSize-075a3e36 = متوسط‌
 # Logo Alt Text for Shared
 fxa-logoAltText-96e4284e = نشان‌واره Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = راه‌اندازی همگام‌سازی Firefox
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = ادامه همگام‌سازی
 # Description for Signin Page
 fxa-description-aedac88d = همگام‌سازی گذرواژه‌ها و موارد بیشتر در همه‌جا که وارد شده‌اید.
 # Headline for Signin Page
@@ -148,7 +154,7 @@ fxa-subject-10e5b452 = برای ورود به Firefox حساب کاربری خو
 # Page Title for Email First Page
 fxa-pageTitle-001bb150 = حساب کاربری Mozilla
 # Headline Font Size for Shared
-fxa-headlineFontSize-c21f969b = default
+fxa-headlineFontSize-c21f969b = پیش‌گزیده
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
