@@ -183,7 +183,7 @@ fxa-description-427b83de = Prijavite se v svoj račun Mozilla.
 # Description for Signup Confirmed Sync Page
 fxa-description-68ca3526 = Sinhronizacija je omogočena in vse je pripravljeno na uporabo Firefox VPN. Vključite ga v orodni vrstici.
 # Headline for Signup Confirmed Sync Page
-fxa-headline-9628f0ec = Naprej: Vklopite Firefox VPN
+fxa-headline-9628f0ec = Naslednji korak: Vklopite Firefox VPN
 # Headline for Signup Set Password Page
 fxa-headline-7e0aff4a = Nastavite geslo
 # Description for Verify Short Code Email
@@ -196,7 +196,7 @@ fxa-subject-10e5b452 = Potrdite račun za prijavo v Firefox
 ## l10n-16 - Send Tab - Account Menu
 
 # Description for Email First Page
-fxa-description-dde35cf5 = Prijavite se ali ustvarite račun za takojšnjo deljenje strani med napravami.
+fxa-description-dde35cf5 = Prijavite se ali ustvarite račun za takojšnje pošiljanje strani z naprave na napravo.
 # Headline for Email First Page
 fxa-headline-911c1b69 = Vnesite e-poštni naslov za pošiljanje strani
 # Page Title for Email First Page
