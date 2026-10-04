@@ -5,6 +5,8 @@
 
 # Description for Email First Page
 fxa-description-34db8966 = Inicieu la sessió o creeu un compte per a mantenir-ho tot sincronitzat.
+# Headline for Email First Page
+fxa-headline-a4b1427f = Useu la vostra adreça electrònica per a continuar
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Continua
 # Description for New Device Login Email
@@ -19,6 +21,8 @@ fxa-headlineFontSize-075a3e36 = medium
 fxa-logoAltText-96e4284e = Logotip del Firefox
 # Page Title for Shared
 fxa-pageTitle-ffd8275e = Configura la sincronització del Firefox
+# Headline for Signin Cached Page
+fxa-headline-3e321300 = Continua amb la sincronització
 # Description for Signin Page
 fxa-description-aedac88d = Sincronitzeu les contrasenyes i molt més arreu on estigueu connectat.
 # Headline for Signin Page
@@ -62,6 +66,8 @@ fxa-subject-ef1fb997 = Confirmeu el vostre compte
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = El vostre codi de confirmació
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
