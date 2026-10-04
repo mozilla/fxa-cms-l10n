@@ -3,6 +3,8 @@
 
 ## l10n-10 - Firefox Desktop Sync - App Menu (Hamburger)
 
+# Description for Email First Page
+fxa-description-34db8966 = Inicieu la sessió o creeu un compte per a mantenir-ho tot sincronitzat.
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a0bfb8e5 = Continua
 # Description for New Device Login Email
