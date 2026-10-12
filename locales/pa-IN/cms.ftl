@@ -74,6 +74,8 @@ fxa-headline-d54122be = ਸਮਾਰਟ ਵਿੰਡੋ ਵਰਤਣ ਲਈ ਸ�
 fxa-pageTitle-9ef4f0dd = ਸਮਾਰਟ ਵਿੰਡੋ| Mozilla ਖਾਤਾ
 # Description for New Device Login Email
 fxa-description-763ec700 = ਤੁਸੀਂ ਹੁਣ Firefox ਵਿੱਚ ਸਮਾਰਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤ ਸਕਦੇ ਹੋ।
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = ਤੁਹਾਡੇ Mozilla ਖਾਤੇ ਵਿੱਚ ਨਵਾਂ ਸਾਈਨ ਇਨ
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = ਇਸ ਈਮੇਲ ਨੂੰ ਇਸ ਉੱਤੇ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ:
 # Headline for Passwordless Signin Otp Email
@@ -140,12 +142,18 @@ fxa-subject-c9fd4b52 = ਸਿੰਕ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ Mozil
 
 # Description for Email First Page
 fxa-description-4ac18cac = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਆਪਣੇ ਪਾਸਵਰਡ, ਟੈਬਾਂ ਤੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
+# Headline for Email First Page
+fxa-headline-b36f2b05 = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਈਮੇਲ ਦਿਓ
 # Primary Button Text for Email First Page
 fxa-primaryButtonText-a20eb81e = ਸਾਈਨ ਅੱਪ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 # Email From Name for Shared
 fxa-emailFromName-502f1bd9 = Mozilla
+# Headline for Signin Page
+fxa-headline-c2b34227 = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਦਿਓ
 # Description for Signup Set Password Page
 fxa-description-201c6fe1 = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ Firefox ਵਰਤੋਂ, ਉੱਥੇ ਆਪਣੇ ਪਾਸਵਰਡ, ਭੁਗਤਾਨ ਢੰਗਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਸਿੰਕ ਕਰੋ।
+# Headline for Signup Set Password Page
+fxa-headline-7a6bf86a = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
 # Headline for Verify Short Code Email
 fxa-headline-929376b4 = ਸਿੰਕ ਸੈਟਅੱਪ ਪੂਰਾ
 
@@ -282,6 +290,28 @@ fxa-description-ef1fb997 = ਤੁਹਾਡੇ ਖਾਤੇ ਦੀ ਤਸਦੀ�
 fxa-headline-f8578b7c = ਆਪਣੇ Mozilla ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਲਈ ਦਿੱਤੇ ਕੋਡ ਨੂੰ ਵਰਤੋਂ।
 # Subject for Verify Short Code Email
 fxa-subject-f3d09e03 = Firefox ਬਰਾਊਜ਼ਰ ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
+
+## l10n-20 - VPN (Panel)
+
+# Description for Email First Page
+fxa-description-61213e9e = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ VPN ਫ਼ੀਚਰਾਂ ਨੂੰ ਵਰਤਣ ਵਾਸਤੇ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਖਾਤਾ ਬਣਾਓ।
+# Headline for Verify Short Code Email
+fxa-headline-9627bd4a = Firefox ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
+# Subject for Verify Short Code Email
+fxa-subject-9627bd4a = Firefox ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
+
+## l10n-22 - Firefox Desktop - Password Manager
+
+# Description for Email First Page
+fxa-description-78fd76ac = ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ ਆਪਣੇ Mozilla ਖਾਤੇ ਨੂੰ ਵਰਤੋਂ।
+# Headline for Email First Page
+fxa-headline-0ec7d798 = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਹਰ ਥਾਂ ਲਵੋ
+# Logo Alt Text for Shared
+fxa-logoAltText-763f7f1a = Firefox
+# Description for Signup Set Password Page
+fxa-description-32c1f240 = ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ ਇੱਕ Mozilla ਖਾਤਾ ਬਣਾਓ।
+# Subject for Verify Short Code Email
+fxa-subject-9235d479 = ਸਿੰਕ ਕਰਨ ਲਈ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
 
 ## l10n-3 - Monitor-landingpage-experiment-v1
 
