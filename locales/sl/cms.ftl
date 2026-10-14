@@ -103,7 +103,7 @@ fxa-description-ebf33c34 = Še en korak do prijave.
 # Primary Button Text for Signin Passwordless Code Page
 fxa-primaryButtonText-a35fe0c1 = Odprite Pametno okno
 # Description for Signup Passwordless Code Page
-fxa-description-02723363 = Še korak do ustvarjanja računa in prijave.
+fxa-description-02723363 = Še korak vas loči od ustvarjenega računa in prijave.
 # Subject for Verify Login Code Email
 fxa-subject-058e122d = Vaša potrditvena koda
 # Headline for Verify Short Code Email
@@ -179,7 +179,7 @@ fxa-headline-a0a749e1 = Nova prijava v Firefox
 # Page Title for Shared
 fxa-pageTitle-6a3bf665 = Nastavitev Firefox VPN
 # Description for Signin Page
-fxa-description-427b83de = Prijavite se v svoj račun Mozilla.
+fxa-description-427b83de = Prijavite se v račun Mozilla.
 # Description for Signup Confirmed Sync Page
 fxa-description-68ca3526 = Sinhronizacija je omogočena in vse je pripravljeno na uporabo Firefox VPN. Vključite ga v orodni vrstici.
 # Headline for Signup Confirmed Sync Page
