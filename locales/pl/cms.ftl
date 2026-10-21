@@ -66,12 +66,26 @@ fxa-subject-ef1fb997 = Potwierdź konto
 
 ## l10n-11 - Firefox Desktop - Smart Window
 
+# Description for Email First Page
+fxa-description-e7d92b5e = Zaloguj się na konto Mozilli lub utwórz nowe.
+# Headline for Email First Page
+fxa-headline-d54122be = Zaloguj się, aby korzystać z inteligentnego okna
+# Page Title for Email First Page
+fxa-pageTitle-9ef4f0dd = Inteligentne okno | Konto Mozilli
+# Description for New Device Login Email
+fxa-description-763ec700 = Możesz teraz korzystać z inteligentnego okna w Firefoksie.
+# Subject for New Device Login Email
+fxa-subject-b04c0a2c = Nowe logowanie do Twojego konta Mozilli
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Primary Button Text for Signin Passwordless Code Page
+fxa-primaryButtonText-a35fe0c1 = Otwórz inteligentne okno
+# Subject for Verify Login Code Email
+fxa-subject-058e122d = Twój kod potwierdzenia
 
 ## l10n-12 - Firefox Desktop Sync - Spotlight Create Backup
 
