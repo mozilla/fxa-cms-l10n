@@ -69,23 +69,23 @@ fxa-subject-ef1fb997 = Confirme sua conta
 # Description for Email First Page
 fxa-description-e7d92b5e = Entre na sua conta Mozilla ou crie uma.
 # Headline for Email First Page
-fxa-headline-d54122be = Entre para usar o Smart Window
+fxa-headline-d54122be = Entre na sua conta para usar janelas inteligentes
 # Page Title for Email First Page
 fxa-pageTitle-9ef4f0dd = Janela inteligente | Conta Mozilla
 # Description for New Device Login Email
-fxa-description-763ec700 = Agora você pode usar a janela inteligente do Firefox.
+fxa-description-763ec700 = Agora você pode usar Janelas inteligentes no Firefox.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nova entrada na sua conta Mozilla
 # Description for Passwordless Signin Otp Email
 fxa-description-8c69b083 = Este email foi usado para entrar na conta:
 # Headline for Passwordless Signin Otp Email
-fxa-headline-943c9f95 = Conclua seu acesso para usar o Smart Window
+fxa-headline-943c9f95 = Conclua a entrada na conta para usar janelas inteligentes
 # Subject for Passwordless Signin Otp Email
-fxa-subject-ee265427 = Use este código para concluir a inscrição
+fxa-subject-ee265427 = Use este código para concluir o cadastro
 # Description for Passwordless Signup Otp Email
 fxa-description-ea6cd8f8 = Foi criada uma conta usando este endereço de email em:
 # Headline for Passwordless Signup Otp Email
-fxa-headline-574e7a6e = Conclua seu cadastro para usar o Smart Window no Firefox
+fxa-headline-574e7a6e = Conclua seu cadastro para usar janelas inteligentes no Firefox
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
