@@ -93,7 +93,7 @@ fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
 # Description for Signin Cached Page
-fxa-description-d9154126 = Continue com sua conta Mozilla para usar o Smart Window.
+fxa-description-d9154126 = Continue com sua conta Mozilla para usar janelas inteligentes.
 # Headline for Signin Cached Page
 fxa-headline-52e7ed4b = Pronto para a Janela Inteligente?
 # Page Title for Signin Cached Page
