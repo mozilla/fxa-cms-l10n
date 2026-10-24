@@ -301,6 +301,8 @@ fxa-subject-f3d09e03 = Confirm your account to use Firefox Browser
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Sign in or create an account to unlock VPN features like hiding your location.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Confirm your account to use Firefox’s built-in VPN
 # Subject for Verify Short Code Email
