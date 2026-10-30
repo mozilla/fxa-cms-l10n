@@ -161,6 +161,8 @@ fxa-headline-929376b4 = ਸਿੰਕ ਸੈਟਅੱਪ ਪੂਰਾ
 
 # Headline for Email First Page
 fxa-headline-33e9f42d = ਆਪਣੇ Mozilla ਖਾਤੇ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
+# Description for Signup Set Password Page
+fxa-description-c05d9d00 = ਆਪਣੇ ਪਾਸਵਰਡਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ ਅਤੇ ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਲਾਗਇਨ ਕਰਦੇ ਹੋ ਤਾਂ ਸਿੰਕ ਕੀਤੇ Firefox ਡਾਟੇ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਰੱਖਦਾ ਹੈ।
 # Headline for Signup Set Password Page
 fxa-headline-48cc8c34 = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਿੰਕ ਕਰਨ ਵਾਸਤੇ ਪਾਸਵਰਡ ਬਣਾਓ
 
@@ -201,12 +203,16 @@ fxa-headline-911c1b69 = ਸਫ਼ਾ ਭੇਜਣ ਲਈ ਈਮੇਲ ਦਿਓ
 fxa-pageTitle-001bb150 = Mozilla ਖਾਤਾ
 # Headline Font Size for Shared
 fxa-headlineFontSize-c21f969b = default
+# Description for Signin Cached Page
+fxa-description-12219a63 = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰੋ ਤਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਫ਼ਿਆਂ ਨੂੰ ਫ਼ੌਰਨ ਸਾਂਝਾ ਕਰੋ।
 # Headline for Signin Cached Page
 fxa-headline-2242b561 = ਸਫ਼ੇ ਨੂੰ ਭੇਜਣਾ ਜਾਰੀ ਰੱਖੋ
 # Headline for Signin Page
 fxa-headline-135116fc = ਸਫ਼ੇ ਨੂੰ ਭੇਜਣ ਲਈ ਪਾਸਵਰਡ ਦਿਓ
 # Headline for Signup Set Password Page
 fxa-headline-370f47b3 = ਸਫ਼ੇ ਨੂੰ ਭੇਜਣ ਲਈ ਪਾਸਵਰਡ ਬਣਾਓ
+# Description for Verify Short Code Email
+fxa-description-e8991369 = ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ ਅਤੇ ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਕਰੋ ਤਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਫ਼ਿਆਂ ਨੂੰ ਫ਼ੌਰਨ ਸਾਂਝਾ ਕਰੋ।
 
 ## l10n-18 - Firefox Desktop - Relay Integration
 
@@ -220,6 +226,8 @@ fxa-logoAltText-8d308a03 = ਈਮੇਲ ਮਾਸਕ
 fxa-pageTitle-8e453cea = ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਕੋ | Mozilla ਖਾਤੇ
 # Headline for New Device Login Email
 fxa-headline-db70c503 = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਵਰਤਿਆ ਗਿਆ ਸੀ
+# Additional Accessibility Info for Shared
+fxa-additionalAccessibilityInfo-5deba5d1 = Firefox ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਈਨ ਇਨ ਕਰਨ ਦੇ ਬਾਅਦ ਵਰਤਣ ਲਈ ਇੱਕ ਈਮੇਲ ਮਾਸਕ ਭੇਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ।
 # Header Logo Alt Text for Shared
 fxa-headerLogoAltText-763f7f1a = Firefox
 # Headline for Signin Cached Page
