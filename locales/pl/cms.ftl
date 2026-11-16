@@ -76,12 +76,18 @@ fxa-pageTitle-9ef4f0dd = Inteligentne okno | Konto Mozilli
 fxa-description-763ec700 = Możesz teraz korzystać z inteligentnego okna w Firefoksie.
 # Subject for New Device Login Email
 fxa-subject-b04c0a2c = Nowe logowanie do Twojego konta Mozilli
+# Subject for Passwordless Signin Otp Email
+fxa-subject-ee265427 = Użyj tego kodu, aby dokończyć rejestrację
+# Headline for Passwordless Signup Otp Email
+fxa-headline-574e7a6e = Dokończ rejestrację, aby korzystać z inteligentnego okna w Firefoksie
 # Email From Name for Shared
 fxa-emailFromName-763f7f1a = Firefox
 # Email Logo Alt Text for Shared
 fxa-emailLogoAltText-763f7f1a = Firefox
 # Email Logo Width for Shared
 fxa-emailLogoWidth-ca27b150 = 120px
+# Page Title for Signin Cached Page
+fxa-pageTitle-2351bc23 = Inteligentne okno | Konta Mozilli
 # Primary Button Text for Signin Passwordless Code Page
 fxa-primaryButtonText-a35fe0c1 = Otwórz inteligentne okno
 # Subject for Verify Login Code Email
@@ -259,6 +265,8 @@ fxa-subject-f3d09e03 = Potwierdź swoje konto, aby korzystać z przeglądarki F
 
 ## l10n-20 - VPN (Panel)
 
+# Description for Email First Page
+fxa-description-61213e9e = Zaloguj się lub utwórz konto, aby odblokować funkcje VPN, takie jak ukrywanie swojej lokalizacji.
 # Headline for Verify Short Code Email
 fxa-headline-9627bd4a = Potwierdź swoje konto, aby korzystać z wbudowanego VPN-a w Firefoksie
 # Subject for Verify Short Code Email
