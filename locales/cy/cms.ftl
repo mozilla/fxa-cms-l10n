@@ -252,7 +252,7 @@ fxa-subject-2322b41f = Cadarnhewch eich cyfrif i ddefnyddio arallenwau e-byst
 # Description for Email First Page
 fxa-description-0b19b103 = Defnyddiwch eich cyfrif Mozilla i ddatgloi nodweddion VPN fel cuddio'ch lleoliad.
 # Headline for Email First Page
-fxa-headline-785c79ef = Cychwynnwch y VPN mewnol yn Firefox i gael preifatrwydd a diogelwch ychwanegol
+fxa-headline-785c79ef = Cychwynnwch y VPN cynhenid yn Firefox i gael preifatrwydd a diogelwch ychwanegol
 # Description for New Device Login Email
 fxa-description-6c54afca = Rydych chi bron yn barod i roi hwb i breifatrwydd eich porwr.
 # Headline for Passwordless Signin Otp Email
